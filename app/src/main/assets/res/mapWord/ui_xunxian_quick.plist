@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>消耗此金币后，自动停止寻仙</string>
+        <key>3</key>
+        <string>#寻仙\\w{c=ff0000,s=18}@折\\优惠</string>
+    </dict>
+</plist>

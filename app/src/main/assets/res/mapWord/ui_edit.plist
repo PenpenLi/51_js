@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>位置:</string>
+        <key>2</key>
+        <string>旋转:</string>
+        <key>3</key>
+        <string>缩放:</string>
+        <key>4</key>
+        <string>选择</string>
+        <key>5</key>
+        <string>旋转x</string>
+        <key>6</key>
+        <string>保存</string>
+        <key>7</key>
+        <string>旋转y</string>
+        <key>8</key>
+        <string>旋转z</string>
+        <key>9</key>
+        <string>取消</string>
+        <key>10</key>
+        <string>位置:</string>
+        <key>11</key>
+        <string>摄像头</string>
+        <key>12</key>
+        <string>场景缩放</string>
+        <key>13</key>
+        <string>场景旋转</string>
+    </dict>
+</plist>

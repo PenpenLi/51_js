@@ -1,0 +1,385 @@
+<skeleton name="s004" frameRate="30" version="2.2">
+  <armatures>
+    <armature name="s004_b">
+      <b name="图层 3">
+        <d name="s004_t3" isArmature="1"/>
+      </b>
+      <b name="图层 4">
+        <d name="s004_t1" isArmature="1"/>
+      </b>
+      <b name="图层 6">
+        <d name="s004_t4" isArmature="1"/>
+      </b>
+      <b name="图层 7">
+        <d name="s004_t8" isArmature="1"/>
+      </b>
+      <b name="图层 2">
+        <d name="s004_t9" isArmature="1"/>
+      </b>
+      <b name="图层 8">
+        <d name="s004_t9" isArmature="1"/>
+      </b>
+      <b name="图层 9">
+        <d name="s004_t2" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="s004_t3">
+      <b name="images">
+        <d name="images/skill/004/004_t3_01"/>
+        <d name="images/skill/004/004_t3_02"/>
+        <d name="images/skill/004/004_t3_03"/>
+        <d name="images/skill/004/004_t3_04"/>
+        <d name="images/skill/004/004_t3_05"/>
+        <d name="images/skill/004/004_t3_06"/>
+        <d name="images/skill/004/004_t3_07"/>
+      </b>
+    </armature>
+    <armature name="s004_t1">
+      <b name="images">
+        <d name="images/skill/004/004_t1_01"/>
+        <d name="images/skill/004/004_t1_02"/>
+        <d name="images/skill/004/004_t1_03"/>
+        <d name="images/skill/004/004_t1_04"/>
+        <d name="images/skill/004/004_t1_05"/>
+        <d name="images/skill/004/004_t1_06"/>
+        <d name="images/skill/004/004_t1_07"/>
+        <d name="images/skill/004/004_t1_08"/>
+      </b>
+    </armature>
+    <armature name="s004_t4">
+      <b name="images">
+        <d name="images/skill/004/004_t4_01"/>
+        <d name="images/skill/004/004_t4_02"/>
+        <d name="images/skill/004/004_t4_03"/>
+        <d name="images/skill/004/004_t4_04"/>
+        <d name="images/skill/004/004_t4_05"/>
+        <d name="images/skill/004/004_t4_06"/>
+      </b>
+    </armature>
+    <armature name="s004_t8">
+      <b name="images">
+        <d name="images/skill/004/004_t8_01"/>
+        <d name="images/skill/004/004_t8_02"/>
+        <d name="images/skill/004/004_t8_03"/>
+        <d name="images/skill/004/004_t8_04"/>
+        <d name="images/skill/004/004_t8_05"/>
+        <d name="images/skill/004/004_t8_06"/>
+        <d name="images/skill/004/004_t8_07"/>
+      </b>
+    </armature>
+    <armature name="s004_t9">
+      <b name="images">
+        <d name="images/skill/004/004_t9_01"/>
+        <d name="images/skill/004/004_t9_02"/>
+        <d name="images/skill/004/004_t9_03"/>
+        <d name="images/skill/004/004_t9_04"/>
+        <d name="images/skill/004/004_t9_05"/>
+        <d name="images/skill/004/004_t9_06"/>
+        <d name="images/skill/004/004_t9_07"/>
+        <d name="images/skill/004/004_t9_08"/>
+        <d name="images/skill/004/004_t9_09"/>
+        <d name="images/skill/004/004_t9_10"/>
+      </b>
+    </armature>
+    <armature name="s004_a">
+      <b name="图层 3">
+        <d name="s004_t5" isArmature="1"/>
+        <d name="s004_t10" isArmature="1"/>
+        <d name="s004_t2" isArmature="1"/>
+      </b>
+      <b name="图层 1">
+        <d name="s004_t2" isArmature="1"/>
+        <d name="s004_t6" isArmature="1"/>
+        <d name="s004_t7" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="s004_t5">
+      <b name="images">
+        <d name="images/skill/004/004_t5_01"/>
+        <d name="images/skill/004/004_t5_02"/>
+        <d name="images/skill/004/004_t5_03"/>
+        <d name="images/skill/004/004_t5_04"/>
+        <d name="images/skill/004/004_t5_05"/>
+      </b>
+    </armature>
+    <armature name="s004_t10">
+      <b name="图层 1">
+        <d name="images/skill/004/004_t5_06"/>
+      </b>
+    </armature>
+    <armature name="s004_t2">
+      <b name="images">
+        <d name="images/skill/004/004_t2_01"/>
+        <d name="images/skill/004/004_t2_02"/>
+        <d name="images/skill/004/004_t2_03"/>
+        <d name="images/skill/004/004_t2_04"/>
+      </b>
+    </armature>
+    <armature name="s004_t6">
+      <b name="images">
+        <d name="images/skill/004/004_t6_01"/>
+        <d name="images/skill/004/004_t6_02"/>
+        <d name="images/skill/004/004_t6_03"/>
+        <d name="images/skill/004/004_t6_04"/>
+        <d name="images/skill/004/004_t6_05"/>
+      </b>
+    </armature>
+    <armature name="s004_t7">
+      <b name="images">
+        <d name="images/skill/004/004_t7_01"/>
+        <d name="images/skill/004/004_t7_02"/>
+        <d name="images/skill/004/004_t7_03"/>
+        <d name="images/skill/004/004_t7_04"/>
+        <d name="images/skill/004/004_t7_05"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="s004_t3">
+      <mov name="stand" dr="14" to="0" drTW="14" lp="1" twE="NaN">
+        <b name="images" sc="1" dl="0">
+          <f x="-4.5" y="-92.6" kX="0" kY="0" cX="1.41" cY="1.41" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="-4.5" y="-92.6" kX="0" kY="0" cX="1.41" cY="1.41" pX="0" pY="0" z="0" dI="1" dr="2"/>
+          <f x="-4.5" y="-92.6" kX="0" kY="0" cX="1.41" cY="1.41" pX="0" pY="0" z="0" dI="2" dr="2"/>
+          <f x="-4.5" y="-92.6" kX="0" kY="0" cX="1.41" cY="1.41" pX="0" pY="0" z="0" dI="3" dr="2"/>
+          <f x="-4.5" y="-92.6" kX="0" kY="0" cX="1.41" cY="1.41" pX="0" pY="0" z="0" dI="4" dr="2"/>
+          <f x="-4.5" y="-92.6" kX="0" kY="0" cX="1.41" cY="1.41" pX="0" pY="0" z="0" dI="5" dr="2"/>
+          <f x="-4.5" y="-92.6" kX="0" kY="0" cX="1.41" cY="1.41" pX="0" pY="0" z="0" dI="6" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="s004_t1">
+      <mov name="stand" dr="16" to="0" drTW="16" lp="1" twE="NaN">
+        <b name="images" sc="1" dl="0">
+          <f x="0" y="-71" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="0" y="-71" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+          <f x="0" y="-71" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+          <f x="0" y="-71" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" dr="2"/>
+          <f x="0" y="-71" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" dr="2"/>
+          <f x="0" y="-71" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" dr="2"/>
+          <f x="0" y="-71" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="6" dr="2"/>
+          <f x="0" y="-71" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="7" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="s004_t4">
+      <mov name="stand" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+        <b name="images" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="s004_t8">
+      <mov name="stand" dr="36" to="0" drTW="36" lp="1" twE="NaN">
+        <b name="images" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="6" dr="2"/>
+          <f dr="22" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="s004_t9">
+      <mov name="stand" dr="168" to="0" drTW="168" lp="1" twE="NaN">
+        <b name="images" sc="1" dl="0">
+          <f x="-115.5" y="0" kX="0" kY="0" cX="1" cY="1" bd="5" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="-83.5" y="0" kX="0" kY="0" cX="1" cY="1" bd="5" pX="0" pY="0" z="0" dI="1" dr="2"/>
+          <f x="-43.05" y="0" kX="0" kY="0" cX="1" cY="1" bd="5" pX="0" pY="0" z="0" dI="2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="5" pX="0" pY="0" z="0" dI="3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="5" pX="0" pY="0" z="0" dI="4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="5" pX="0" pY="0" z="0" dI="5" dr="2"/>
+          <f x="39" y="0" kX="0" kY="0" cX="1" cY="1" bd="5" pX="0" pY="0" z="0" dI="6" dr="2"/>
+          <f x="47.55" y="0" kX="0" kY="0" cX="1" cY="1" bd="5" pX="0" pY="0" z="0" dI="7" dr="2"/>
+          <f x="85.05" y="0" kX="0" kY="0" cX="1" cY="1" bd="5" pX="0" pY="0" z="0" dI="8" dr="2"/>
+          <f x="88.05" y="0" kX="0" kY="0" cX="1" cY="1" bd="5" pX="0" pY="0" z="0" dI="9" dr="2"/>
+          <f dr="148" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="s004_b">
+      <mov name="stand" dr="70" to="0" drTW="70" lp="1" twE="NaN">
+        <b name="图层 3" sc="1" dl="0">
+          <f x="226.05" y="67.6" kX="0" kY="0" cX="2.57" cY="2.57" pX="25" pY="21.5" z="0" dI="0" dr="14"/>
+          <f dr="56" dI="-1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="278.6" y="106.5" kX="0" kY="0" cX="2.4" cY="2.4" pX="45.85" pY="51.05" z="0" dI="0" dr="32"/>
+          <f dr="38" dI="-1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="-19.35" y="-251" kX="0" kY="0" cX="0.6" cY="0.6" pX="0" pY="0" z="2" dI="0" twE="0" sd="s004_2.mp3" dr="5"/>
+          <f x="-18.85" y="-251.9" kX="0" kY="0" cX="4.05" cY="4.05" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+          <f x="-18.85" y="-251.9" kX="0" kY="0" cX="3.11" cY="3.11" pX="0" pY="0" z="1" dI="0" twE="0" dr="6"/>
+          <f x="-18.85" y="-251.9" kX="0" kY="0" cX="3.11" cY="3.11" pX="0" pY="0" z="1" dI="0" twE="0" sd="s004_1.mp3" dr="6"/>
+          <f x="-93.35" y="-316.9" kX="0" kY="0" cX="4.9" cY="4.9" pX="0" pY="0" z="1" dI="0" dr="4"/>
+          <f dr="38" dI="-1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="64.95" y="-171.1" kX="0" kY="0" cX="2.28" cY="2.28" pX="36" pY="29.5" z="2" dI="0" dr="24"/>
+          <f dr="38" dI="-1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="33" dI="-1"/>
+          <f x="946.15" y="98.2" kX="12.05" kY="8.32" cX="3.58" cY="3" bd="5" pX="62.9" pY="57" z="0" dI="0" dr="37"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f dr="33" dI="-1"/>
+          <f x="1039.55" y="-114.25" kX="-12.05" kY="-8.32" cX="3.58" cY="3" pX="62.9" pY="57" z="1" dI="0" dr="37"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f dr="33" dI="-1"/>
+          <f x="103.85" y="-113.95" kX="89.94" kY="89.94" cX="4.15" cY="4.15" pX="19.6" pY="22" z="2" dI="0" dr="12"/>
+          <f dr="25" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="s004_t5">
+      <mov name="stand" dr="5" to="0" drTW="5" lp="1" twE="NaN">
+        <b name="images" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="s004_t10">
+      <mov name="stand" dr="4" to="0" drTW="4" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.1" y="0.1" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="0.1" y="0.1" kX="90" kY="90" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="0.1" y="0.1" kX="180" kY="180" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="0.1" y="0.1" kX="-90" kY="-90" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="s004_t2">
+      <mov name="stand" dr="164" to="0" drTW="164" lp="1" twE="NaN">
+        <b name="images" sc="1" dl="0">
+          <f x="5" y="-24" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="5" y="-24" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+          <f x="5" y="-24" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+          <f x="5" y="-24" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" dr="2"/>
+          <f dr="156" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="s004_t6">
+      <mov name="stand" dr="11" to="0" drTW="11" lp="1" twE="NaN">
+        <b name="images" sc="1" dl="0">
+          <f x="0" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="0" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+          <f x="0" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+          <f x="0" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" dr="2"/>
+          <f x="0" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" dr="2"/>
+          <f dr="1" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="s004_t7">
+      <mov name="stand" dr="11" to="0" drTW="11" lp="1" twE="NaN">
+        <b name="images" sc="1" dl="0">
+          <f x="0" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="0" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+          <f x="0" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+          <f x="0" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" dr="2"/>
+          <f x="0" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" dr="2"/>
+          <f dr="1" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="s004_a">
+      <mov name="stand" dr="57" to="0" drTW="57" lp="1" twE="NaN">
+        <b name="图层 3" sc="1" dl="0">
+          <f x="121.6" y="-72.35" kX="-5.98" kY="-1.86" cX="4.17" cY="3.75" pX="21" pY="18.95" z="0" dI="0" dr="5"/>
+          <f dr="16" dI="-1"/>
+          <f x="89.4" y="-180.35" kX="0" kY="0" cX="5.87" cY="2.97" pX="16" pY="18.5" z="0" dI="1" dr="8"/>
+          <f dr="10" dI="-1"/>
+          <f x="331.95" y="88.85" kX="0.27" kY="0.27" cX="3.32" cY="3.32" pX="19.55" pY="22.1" z="0" dI="2" dr="8"/>
+          <f dr="10" dI="-1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f dr="1" dI="-1"/>
+          <f x="260.1" y="-31.55" kX="108.32" kY="108.32" cX="2.19" cY="2.19" pX="19.6" pY="22.1" z="0" dI="0" dr="8"/>
+          <f dr="1" dI="-1"/>
+          <f x="180.45" y="39" kX="0" kY="0" cX="3.94" cY="3.94" bd="5" pX="20" pY="26" z="0" dI="1" dr="11"/>
+          <f dr="16" dI="-1"/>
+          <f x="212.7" y="-125.45" kX="0" kY="0" cX="3.31" cY="2.6" bd="5" pX="13.4" pY="16.5" z="1" dI="2" dr="10"/>
+          <f dr="10" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="s004">
+    <SubTexture name="images/skill/004/004_t7_05" width="152" height="166" cocos2d_pX="76" cocos2d_pY="83"/>
+    <SubTexture name="images/skill/004/004_t7_04" width="152" height="166" cocos2d_pX="76" cocos2d_pY="83"/>
+    <SubTexture name="images/skill/004/004_t7_03" width="152" height="166" cocos2d_pX="76" cocos2d_pY="83"/>
+    <SubTexture name="images/skill/004/004_t7_02" width="152" height="166" cocos2d_pX="76" cocos2d_pY="83"/>
+    <SubTexture name="images/skill/004/004_t7_01" width="152" height="166" cocos2d_pX="76" cocos2d_pY="83"/>
+    <SubTexture name="images/skill/004/004_t6_05" width="151" height="63" cocos2d_pX="75.5" cocos2d_pY="31.5"/>
+    <SubTexture name="images/skill/004/004_t6_04" width="151" height="63" cocos2d_pX="75.5" cocos2d_pY="31.5"/>
+    <SubTexture name="images/skill/004/004_t6_03" width="151" height="63" cocos2d_pX="75.5" cocos2d_pY="31.5"/>
+    <SubTexture name="images/skill/004/004_t6_02" width="151" height="63" cocos2d_pX="75.5" cocos2d_pY="31.5"/>
+    <SubTexture name="images/skill/004/004_t6_01" width="151" height="63" cocos2d_pX="75.5" cocos2d_pY="31.5"/>
+    <SubTexture name="images/skill/004/004_t2_04" width="121" height="108" cocos2d_pX="60.5" cocos2d_pY="54"/>
+    <SubTexture name="images/skill/004/004_t2_03" width="121" height="108" cocos2d_pX="60.5" cocos2d_pY="54"/>
+    <SubTexture name="images/skill/004/004_t2_02" width="121" height="108" cocos2d_pX="60.5" cocos2d_pY="54"/>
+    <SubTexture name="images/skill/004/004_t2_01" width="121" height="108" cocos2d_pX="60.5" cocos2d_pY="54"/>
+    <SubTexture name="images/skill/004/004_t5_06" width="74" height="74" cocos2d_pX="37" cocos2d_pY="37"/>
+    <SubTexture name="images/skill/004/004_t5_05" width="163" height="117" cocos2d_pX="81.5" cocos2d_pY="58.5"/>
+    <SubTexture name="images/skill/004/004_t5_04" width="163" height="117" cocos2d_pX="81.5" cocos2d_pY="58.5"/>
+    <SubTexture name="images/skill/004/004_t5_03" width="163" height="117" cocos2d_pX="81.5" cocos2d_pY="58.5"/>
+    <SubTexture name="images/skill/004/004_t5_02" width="163" height="117" cocos2d_pX="81.5" cocos2d_pY="58.5"/>
+    <SubTexture name="images/skill/004/004_t5_01" width="163" height="117" cocos2d_pX="81.5" cocos2d_pY="58.5"/>
+    <SubTexture name="images/skill/004/004_t9_10" width="154" height="141" cocos2d_pX="77" cocos2d_pY="70.5"/>
+    <SubTexture name="images/skill/004/004_t9_09" width="161" height="141" cocos2d_pX="80.5" cocos2d_pY="70.5"/>
+    <SubTexture name="images/skill/004/004_t9_08" width="235" height="141" cocos2d_pX="117.5" cocos2d_pY="70.5"/>
+    <SubTexture name="images/skill/004/004_t9_07" width="252" height="141" cocos2d_pX="126" cocos2d_pY="70.5"/>
+    <SubTexture name="images/skill/004/004_t9_06" width="331" height="141" cocos2d_pX="165.5" cocos2d_pY="70.5"/>
+    <SubTexture name="images/skill/004/004_t9_05" width="331" height="141" cocos2d_pX="165.5" cocos2d_pY="70.5"/>
+    <SubTexture name="images/skill/004/004_t9_04" width="331" height="141" cocos2d_pX="165.5" cocos2d_pY="70.5"/>
+    <SubTexture name="images/skill/004/004_t9_03" width="245" height="141" cocos2d_pX="122.5" cocos2d_pY="70.5"/>
+    <SubTexture name="images/skill/004/004_t9_02" width="164" height="141" cocos2d_pX="82" cocos2d_pY="70.5"/>
+    <SubTexture name="images/skill/004/004_t9_01" width="100" height="141" cocos2d_pX="50" cocos2d_pY="70.5"/>
+    <SubTexture name="images/skill/004/004_t8_07" width="228" height="215" cocos2d_pX="114" cocos2d_pY="107.5"/>
+    <SubTexture name="images/skill/004/004_t8_06" width="228" height="215" cocos2d_pX="114" cocos2d_pY="107.5"/>
+    <SubTexture name="images/skill/004/004_t8_05" width="228" height="215" cocos2d_pX="114" cocos2d_pY="107.5"/>
+    <SubTexture name="images/skill/004/004_t8_04" width="228" height="215" cocos2d_pX="114" cocos2d_pY="107.5"/>
+    <SubTexture name="images/skill/004/004_t8_03" width="228" height="215" cocos2d_pX="114" cocos2d_pY="107.5"/>
+    <SubTexture name="images/skill/004/004_t8_02" width="228" height="215" cocos2d_pX="114" cocos2d_pY="107.5"/>
+    <SubTexture name="images/skill/004/004_t8_01" width="228" height="215" cocos2d_pX="114" cocos2d_pY="107.5"/>
+    <SubTexture name="images/skill/004/004_t4_06" width="30" height="30" cocos2d_pX="15" cocos2d_pY="15"/>
+    <SubTexture name="images/skill/004/004_t4_05" width="30" height="30" cocos2d_pX="15" cocos2d_pY="15"/>
+    <SubTexture name="images/skill/004/004_t4_04" width="30" height="30" cocos2d_pX="15" cocos2d_pY="15"/>
+    <SubTexture name="images/skill/004/004_t4_03" width="30" height="30" cocos2d_pX="15" cocos2d_pY="15"/>
+    <SubTexture name="images/skill/004/004_t4_02" width="30" height="30" cocos2d_pX="15" cocos2d_pY="15"/>
+    <SubTexture name="images/skill/004/004_t4_01" width="30" height="30" cocos2d_pX="15" cocos2d_pY="15"/>
+    <SubTexture name="images/skill/004/004_t1_08" width="62" height="183" cocos2d_pX="31" cocos2d_pY="91.5"/>
+    <SubTexture name="images/skill/004/004_t1_07" width="62" height="183" cocos2d_pX="31" cocos2d_pY="91.5"/>
+    <SubTexture name="images/skill/004/004_t1_06" width="62" height="183" cocos2d_pX="31" cocos2d_pY="91.5"/>
+    <SubTexture name="images/skill/004/004_t1_05" width="62" height="183" cocos2d_pX="31" cocos2d_pY="91.5"/>
+    <SubTexture name="images/skill/004/004_t1_04" width="62" height="183" cocos2d_pX="31" cocos2d_pY="91.5"/>
+    <SubTexture name="images/skill/004/004_t1_03" width="62" height="183" cocos2d_pX="31" cocos2d_pY="91.5"/>
+    <SubTexture name="images/skill/004/004_t1_02" width="62" height="183" cocos2d_pX="31" cocos2d_pY="91.5"/>
+    <SubTexture name="images/skill/004/004_t1_01" width="62" height="183" cocos2d_pX="31" cocos2d_pY="91.5"/>
+    <SubTexture name="images/skill/004/004_t3_07" width="134" height="178" cocos2d_pX="67" cocos2d_pY="89"/>
+    <SubTexture name="images/skill/004/004_t3_06" width="134" height="178" cocos2d_pX="67" cocos2d_pY="89"/>
+    <SubTexture name="images/skill/004/004_t3_05" width="134" height="178" cocos2d_pX="67" cocos2d_pY="89"/>
+    <SubTexture name="images/skill/004/004_t3_04" width="134" height="178" cocos2d_pX="67" cocos2d_pY="89"/>
+    <SubTexture name="images/skill/004/004_t3_03" width="134" height="178" cocos2d_pX="67" cocos2d_pY="89"/>
+    <SubTexture name="images/skill/004/004_t3_02" width="134" height="178" cocos2d_pX="67" cocos2d_pY="89"/>
+    <SubTexture name="images/skill/004/004_t3_01" width="134" height="178" cocos2d_pX="67" cocos2d_pY="89"/>
+  </TextureAtlas>
+</skeleton>

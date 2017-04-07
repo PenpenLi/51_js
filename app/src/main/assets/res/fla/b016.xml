@@ -1,0 +1,515 @@
+<skeleton name="b016" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="b016">
+      <b name="bg16_bg">
+        <d name="images/bg/016/bg16_bg"/>
+      </b>
+      <b name="bg16_07">
+        <d name="b016元件 1" isArmature="1"/>
+      </b>
+      <b name="bg16_06">
+        <d name="images/bg/016/bg16_06"/>
+      </b>
+      <b name="bg16_03">
+        <d name="images/bg/016/bg16_03"/>
+      </b>
+      <b name="图层 28">
+        <d name="images/bg/016/bg16_03"/>
+      </b>
+      <b name="bg16_bg_02">
+        <d name="images/bg/016/bg16_bg_02"/>
+      </b>
+      <b name="bg16_09">
+        <d name="images/bg/016/bg16_09"/>
+      </b>
+      <b name="bg16_090">
+        <d name="images/bg/016/bg16_09"/>
+      </b>
+      <b name="bg16_bg_01">
+        <d name="images/bg/016/bg16_bg_01"/>
+      </b>
+      <b name="bg16_091">
+        <d name="images/bg/016/bg16_09"/>
+      </b>
+      <b name="bg16_092">
+        <d name="images/bg/016/bg16_09"/>
+      </b>
+      <b name="bg16_bg_010">
+        <d name="images/bg/016/bg16_bg_01"/>
+      </b>
+      <b name="bg16_05">
+        <d name="images/bg/016/bg16_05"/>
+      </b>
+      <b name="bg16_04">
+        <d name="images/bg/016/bg16_04"/>
+      </b>
+      <b name="bg16_01">
+        <d name="images/bg/016/bg16_01"/>
+      </b>
+      <b name="bg16_02">
+        <d name="images/bg/016/bg16_02"/>
+      </b>
+      <b name="bg16_08">
+        <d name="images/bg/016/bg16_08"/>
+      </b>
+      <b name="bg16_080">
+        <d name="images/bg/016/bg16_08"/>
+      </b>
+      <b name="bg16_081">
+        <d name="images/bg/016/bg16_08"/>
+      </b>
+      <b name="bg16_082">
+        <d name="images/bg/016/bg16_08"/>
+      </b>
+      <b name="bg16_083">
+        <d name="images/bg/016/bg16_08"/>
+      </b>
+      <b name="bg16_084">
+        <d name="images/bg/016/bg16_08"/>
+      </b>
+      <b name="bg16_085">
+        <d name="images/bg/016/bg16_08"/>
+      </b>
+      <b name="bg16_086">
+        <d name="images/bg/016/bg16_08"/>
+      </b>
+      <b name="bg16_087">
+        <d name="images/bg/016/bg16_08"/>
+      </b>
+      <b name="bg16_093">
+        <d name="images/bg/016/bg16_09"/>
+      </b>
+      <b name="bg16_094">
+        <d name="images/bg/016/bg16_09"/>
+      </b>
+    </armature>
+    <armature name="b016元件 1">
+      <b name="图层 1">
+        <d name="images/bg/016/bg16_07"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="b016元件 1">
+      <mov name="stand" dr="70" to="0" drTW="70" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="561" y="136.75" kX="0" kY="0" cX="2.05" cY="2.05" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="27"/>
+          <f x="561" y="136.75" kX="0" kY="0" cX="2.05" cY="2.05" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="42">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="561" y="136.75" kX="0" kY="0" cX="2.05" cY="2.05" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="b016">
+      <mov name="stand" dr="210" to="0" drTW="210" lp="1" twE="NaN">
+        <b name="bg16_bg" sc="1" dl="0">
+          <f x="-0.25" y="-400" kX="0" kY="0" cX="11.66" cY="0.99" pX="0.05" pY="-166.45" z="0" dI="0" dr="210"/>
+        </b>
+        <b name="bg16_07" sc="1" dl="0">
+          <f x="-6.2" y="-282.5" kX="0" kY="0" cX="1" cY="1" pX="561" pY="114.75" z="1" dI="0" dr="210"/>
+        </b>
+        <b name="bg16_06" sc="1" dl="0">
+          <f x="-37.6" y="-217.6" kX="0" kY="0" cX="2.11" cY="2.13" pX="0" pY="0" z="2" dI="0" twE="0" dr="49"/>
+          <f x="-28.6" y="-217.6" kX="0" kY="0" cX="2.11" cY="2.13" pX="0" pY="0" z="2" dI="0" twE="0" dr="50"/>
+          <f x="-37.6" y="-217.6" kX="0" kY="0" cX="2.11" cY="2.13" pX="0" pY="0" z="2" dI="0" twE="0" dr="51"/>
+          <f x="-28.6" y="-217.6" kX="0" kY="0" cX="2.11" cY="2.13" pX="0" pY="0" z="2" dI="0" twE="0" dr="59"/>
+          <f x="-37.6" y="-217.6" kX="0" kY="0" cX="2.11" cY="2.13" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="bg16_03" sc="1" dl="0">
+          <f x="-17" y="-160.95" kX="0" kY="0" cX="1" cY="1" pX="54" pY="74" z="3" dI="0" twE="0.58" dr="73"/>
+          <f x="-17" y="-160.95" kX="95.02" kY="95.02" cX="1" cY="1" pX="54" pY="73.95" z="3" dI="0" twE="0.3" dr="102"/>
+          <f x="-17" y="-160.95" kX="-30" kY="-30" cX="1" cY="1" pX="54.05" pY="73.95" z="3" dI="0" twE="0.58" dr="34"/>
+          <f x="-17" y="-160.95" kX="0" kY="0" cX="1" cY="1" pX="54" pY="74" z="3" dI="0" twE="0.58" dr="1"/>
+        </b>
+        <b name="图层 28" sc="1" dl="0">
+          <f x="-199.9" y="-189.9" kX="111.28" kY="111.28" cX="1" cY="1" pX="53.95" pY="74.05" z="4" dI="0" twE="0.33" dr="105">
+            <colorTransform a="0" r="255" g="255" b="0" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+          <f x="-199.8" y="-189.8" kX="-33.71" kY="-33.71" cX="1" cY="1" pX="53.95" pY="74" z="4" dI="0" twE="0.29" dr="104">
+            <colorTransform a="0" r="255" g="255" b="0" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+          <f x="-199.9" y="-189.9" kX="111.28" kY="111.28" cX="1" cY="1" pX="53.95" pY="74.05" z="4" dI="0" twE="0.33" dr="1">
+            <colorTransform a="0" r="255" g="255" b="0" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+        </b>
+        <b name="bg16_bg_02" sc="1" dl="0">
+          <f x="-0.75" y="-182.7" kX="0" kY="0" cX="2.05" cY="2.05" pX="0" pY="0" z="5" dI="0" dr="210"/>
+        </b>
+        <b name="bg16_09" sc="1" dl="0">
+          <f x="-542.65" y="-125.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0" dr="54"/>
+          <f x="-542.65" y="-125.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0" dr="51">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-542.65" y="-125.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0" dr="54"/>
+          <f x="-542.65" y="-125.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0" dr="50">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-542.65" y="-125.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="bg16_090" sc="1" dl="0">
+          <f x="-71.55" y="-125.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" twE="0" dr="40">
+            <colorTransform a="0" r="0" g="0" b="0" aM="61" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-71.55" y="-125.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" twE="0" dr="53"/>
+          <f x="-71.55" y="-124.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" twE="0" dr="53">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-71.55" y="-125.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" twE="0" dr="51"/>
+          <f x="-71.55" y="-124.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" twE="0" dr="12">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-71.55" y="-125.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="61" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="bg16_bg_01" sc="1" dl="0">
+          <f x="-292.8" y="139.4" kX="0" kY="0" cX="1.02" cY="1.07" pX="0" pY="0" z="8" dI="0" dr="210"/>
+        </b>
+        <b name="bg16_091" sc="1" dl="0">
+          <f x="213.35" y="-118" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" twE="0" dr="57"/>
+          <f x="213.35" y="-118" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" twE="0" dr="48">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="213.35" y="-118" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" twE="0" dr="56"/>
+          <f x="213.35" y="-118" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" twE="0" dr="48">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="213.35" y="-118" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="bg16_092" sc="1" dl="0">
+          <f x="559.35" y="-125" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" twE="0" dr="29">
+            <colorTransform a="0" r="0" g="0" b="0" aM="71" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="559.35" y="-125" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" twE="0" dr="53"/>
+          <f x="559.35" y="-125" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" twE="0" dr="51">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="559.35" y="-125" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" twE="0" dr="54"/>
+          <f x="559.35" y="-128" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" twE="0" dr="22">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="559.35" y="-125" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="71" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="bg16_bg_010" sc="1" dl="0">
+          <f x="289.3" y="139.4" kX="0" kY="180" cX="1.03" cY="1.07" pX="0" pY="0" z="11" dI="0" dr="210"/>
+        </b>
+        <b name="bg16_05" sc="1" dl="0">
+          <f x="-442" y="-250" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="12" dI="0" twE="0" dr="47"/>
+          <f x="-462" y="-250" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="12" dI="0" twE="0" dr="53"/>
+          <f x="-442" y="-250" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="12" dI="0" twE="0" dr="56"/>
+          <f x="-457" y="-250" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="12" dI="0" twE="0" dr="53"/>
+          <f x="-442" y="-250" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="12" dI="0" dr="1"/>
+        </b>
+        <b name="bg16_04" sc="1" dl="0">
+          <f x="480.1" y="-233.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="13" dI="0" twE="0" dr="48"/>
+          <f x="468.1" y="-233.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="13" dI="0" twE="0" dr="52"/>
+          <f x="480.1" y="-233.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="13" dI="0" twE="0" dr="57"/>
+          <f x="468.1" y="-233.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="13" dI="0" twE="0" dr="52"/>
+          <f x="480.1" y="-233.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="13" dI="0" dr="1"/>
+        </b>
+        <b name="bg16_01" sc="1" dl="0">
+          <f x="-476" y="-51" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="14" dI="0" dr="210"/>
+        </b>
+        <b name="bg16_02" sc="1" dl="0">
+          <f x="539" y="-54" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="15" dI="0" dr="210"/>
+        </b>
+        <b name="bg16_08" sc="1" dl="0">
+          <f x="-40" y="-260" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="16" dI="0" twE="0" dr="20">
+            <colorTransform a="0" r="212" g="212" b="0" aM="100" rM="17" gM="17" bM="17"/>
+          </f>
+          <f x="-40" y="-260" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="16" dI="0" twE="0" dr="29">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-40" y="-260" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="16" dI="0" twE="0" dr="20">
+            <colorTransform a="0" r="212" g="212" b="0" aM="100" rM="17" gM="17" bM="17"/>
+          </f>
+          <f x="-40" y="-260" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="16" dI="0" twE="0" dr="31">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-40" y="-260" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="16" dI="0" twE="0" dr="20">
+            <colorTransform a="0" r="212" g="212" b="0" aM="100" rM="17" gM="17" bM="17"/>
+          </f>
+          <f x="-40" y="-260" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="16" dI="0" twE="0" dr="32">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-40" y="-260" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="16" dI="0" twE="0" dr="20">
+            <colorTransform a="0" r="212" g="212" b="0" aM="100" rM="17" gM="17" bM="17"/>
+          </f>
+          <f x="-40" y="-260" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="16" dI="0" twE="0" dr="37">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-40" y="-260" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="16" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="212" g="212" b="0" aM="100" rM="17" gM="17" bM="17"/>
+          </f>
+        </b>
+        <b name="bg16_080" sc="1" dl="0">
+          <f x="-130" y="-320" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="17" dI="0" twE="0" dr="11">
+            <colorTransform a="0" r="0" g="0" b="0" aM="84" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-130" y="-320" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="17" dI="0" twE="0" dr="24"/>
+          <f x="-130" y="-320" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="17" dI="0" twE="0" dr="29">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-130" y="-320" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="17" dI="0" twE="0" dr="22"/>
+          <f x="-130" y="-320" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="17" dI="0" twE="0" dr="29">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-130" y="-320" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="17" dI="0" twE="0" dr="22"/>
+          <f x="-130" y="-320" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="17" dI="0" twE="0" dr="29">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-130" y="-320" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="17" dI="0" twE="0" dr="22"/>
+          <f x="-130" y="-320" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="17" dI="0" twE="0" dr="21">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-130" y="-320" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="17" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="84" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="bg16_081" sc="1" dl="0">
+          <f x="60" y="-310" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="18" dI="0" twE="0" dr="23">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="60" y="-310" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="18" dI="0" twE="0" dr="28">
+            <colorTransform a="0" r="247" g="148" b="0" aM="100" rM="3" gM="3" bM="3"/>
+          </f>
+          <f x="60" y="-310" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="18" dI="0" twE="0" dr="23">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="60" y="-310" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="18" dI="0" twE="0" dr="28">
+            <colorTransform a="0" r="247" g="148" b="0" aM="100" rM="3" gM="3" bM="3"/>
+          </f>
+          <f x="60" y="-310" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="18" dI="0" twE="0" dr="23">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="60" y="-310" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="18" dI="0" twE="0" dr="28">
+            <colorTransform a="0" r="247" g="148" b="0" aM="100" rM="3" gM="3" bM="3"/>
+          </f>
+          <f x="60" y="-310" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="18" dI="0" twE="0" dr="23">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="60" y="-310" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="18" dI="0" twE="0" dr="33">
+            <colorTransform a="0" r="247" g="148" b="0" aM="100" rM="3" gM="3" bM="3"/>
+          </f>
+          <f x="60" y="-310" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="18" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="bg16_082" sc="1" dl="0">
+          <f x="160" y="-230" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="19" dI="0" twE="0" dr="28"/>
+          <f x="160" y="-230" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="19" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="160" y="-230" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="19" dI="0" twE="0" dr="28"/>
+          <f x="160" y="-230" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="19" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="160" y="-230" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="19" dI="0" twE="0" dr="28"/>
+          <f x="160" y="-230" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="19" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="160" y="-230" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="19" dI="0" twE="0" dr="28"/>
+          <f x="160" y="-230" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="19" dI="0" twE="0" dr="25">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="160" y="-230" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="19" dI="0" dr="1"/>
+        </b>
+        <b name="bg16_083" sc="1" dl="0">
+          <f x="320" y="-310" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="20" dI="0" twE="0" dr="30">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="320" y="-310" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="20" dI="0" twE="0" dr="22"/>
+          <f x="320" y="-310" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="20" dI="0" twE="0" dr="30">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="320" y="-310" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="20" dI="0" twE="0" dr="22"/>
+          <f x="320" y="-310" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="20" dI="0" twE="0" dr="30">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="320" y="-310" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="20" dI="0" twE="0" dr="22"/>
+          <f x="320" y="-310" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="20" dI="0" twE="0" dr="30">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="320" y="-310" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="20" dI="0" twE="0" dr="23"/>
+          <f x="320" y="-310" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="20" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="bg16_084" sc="1" dl="0">
+          <f x="-360" y="-280" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="21" dI="0" twE="0" dr="20">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-360" y="-280" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="21" dI="0" twE="0" dr="32"/>
+          <f x="-360" y="-280" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="21" dI="0" twE="0" dr="20">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-360" y="-280" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="21" dI="0" twE="0" dr="32"/>
+          <f x="-360" y="-280" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="21" dI="0" twE="0" dr="20">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-360" y="-280" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="21" dI="0" twE="0" dr="32"/>
+          <f x="-360" y="-280" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="21" dI="0" twE="0" dr="20">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-360" y="-280" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="21" dI="0" twE="0" dr="33"/>
+          <f x="-360" y="-280" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="21" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="bg16_085" sc="1" dl="0">
+          <f x="-390" y="-300" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="22" dI="0" twE="0" dr="22">
+            <colorTransform a="0" r="212" g="85" b="85" aM="100" rM="17" gM="17" bM="17"/>
+          </f>
+          <f x="-390" y="-300" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="22" dI="0" twE="0" dr="30">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-390" y="-300" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="22" dI="0" twE="0" dr="22">
+            <colorTransform a="0" r="212" g="85" b="85" aM="100" rM="17" gM="17" bM="17"/>
+          </f>
+          <f x="-390" y="-300" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="22" dI="0" twE="0" dr="30">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-390" y="-300" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="22" dI="0" twE="0" dr="22">
+            <colorTransform a="0" r="212" g="85" b="85" aM="100" rM="17" gM="17" bM="17"/>
+          </f>
+          <f x="-390" y="-300" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="22" dI="0" twE="0" dr="30">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-390" y="-300" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="22" dI="0" twE="0" dr="22">
+            <colorTransform a="0" r="212" g="85" b="85" aM="100" rM="17" gM="17" bM="17"/>
+          </f>
+          <f x="-390" y="-300" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="22" dI="0" twE="0" dr="31">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-390" y="-300" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="22" dI="0" dr="1">
+            <colorTransform a="0" r="212" g="85" b="85" aM="100" rM="17" gM="17" bM="17"/>
+          </f>
+        </b>
+        <b name="bg16_086" sc="1" dl="0">
+          <f x="-210" y="-260" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="23" dI="0" twE="0" dr="18">
+            <colorTransform a="0" r="99" g="166" b="33" aM="100" rM="35" gM="35" bM="35"/>
+          </f>
+          <f x="-210" y="-260" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="23" dI="0" twE="0" dr="34">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-210" y="-260" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="23" dI="0" twE="0" dr="18">
+            <colorTransform a="0" r="99" g="166" b="33" aM="100" rM="35" gM="35" bM="35"/>
+          </f>
+          <f x="-210" y="-260" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="23" dI="0" twE="0" dr="34">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-210" y="-260" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="23" dI="0" twE="0" dr="18">
+            <colorTransform a="0" r="99" g="166" b="33" aM="100" rM="35" gM="35" bM="35"/>
+          </f>
+          <f x="-210" y="-260" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="23" dI="0" twE="0" dr="34">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-210" y="-260" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="23" dI="0" twE="0" dr="19">
+            <colorTransform a="0" r="99" g="166" b="33" aM="100" rM="35" gM="35" bM="35"/>
+          </f>
+          <f x="-210" y="-260" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="23" dI="0" twE="0" dr="34">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-210" y="-260" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="23" dI="0" dr="1">
+            <colorTransform a="0" r="99" g="166" b="33" aM="100" rM="35" gM="35" bM="35"/>
+          </f>
+        </b>
+        <b name="bg16_087" sc="1" dl="0">
+          <f x="480" y="-280" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="24" dI="0" twE="0" dr="13">
+            <colorTransform a="0" r="102" g="82" b="0" aM="78" rM="60" gM="60" bM="60"/>
+          </f>
+          <f x="480" y="-280" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="24" dI="0" twE="0" dr="21">
+            <colorTransform a="0" r="166" g="133" b="0" aM="100" rM="35" gM="35" bM="35"/>
+          </f>
+          <f x="480" y="-280" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="24" dI="0" twE="0" dr="31">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="480" y="-280" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="24" dI="0" twE="0" dr="21">
+            <colorTransform a="0" r="166" g="133" b="0" aM="100" rM="35" gM="35" bM="35"/>
+          </f>
+          <f x="480" y="-280" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="24" dI="0" twE="0" dr="31">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="480" y="-280" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="24" dI="0" twE="0" dr="21">
+            <colorTransform a="0" r="166" g="133" b="0" aM="100" rM="35" gM="35" bM="35"/>
+          </f>
+          <f x="480" y="-280" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="24" dI="0" twE="0" dr="31">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="480" y="-280" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="24" dI="0" twE="0" dr="21">
+            <colorTransform a="0" r="166" g="133" b="0" aM="100" rM="35" gM="35" bM="35"/>
+          </f>
+          <f x="480" y="-280" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="24" dI="0" twE="0" dr="19">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="480" y="-280" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="24" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="102" g="82" b="0" aM="78" rM="60" gM="60" bM="60"/>
+          </f>
+        </b>
+        <b name="bg16_093" sc="1" dl="0">
+          <f x="519.3" y="457.9" kX="0" kY="0" cX="4.18" cY="2.97" pX="0" pY="0" z="25" dI="0" twE="0" dr="31">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="519.3" y="457.9" kX="0" kY="0" cX="4.18" cY="2.97" pX="0" pY="0" z="25" dI="0" twE="0" dr="39">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="519.3" y="457.9" kX="0" kY="0" cX="4.18" cY="2.97" pX="0" pY="0" z="25" dI="0" twE="0" dr="31">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="519.3" y="457.9" kX="0" kY="0" cX="4.18" cY="2.97" pX="0" pY="0" z="25" dI="0" twE="0" dr="39">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="519.3" y="457.9" kX="0" kY="0" cX="4.18" cY="2.97" pX="0" pY="0" z="25" dI="0" twE="0" dr="31">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="519.3" y="457.9" kX="0" kY="0" cX="4.18" cY="2.97" pX="0" pY="0" z="25" dI="0" twE="0" dr="38">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="519.3" y="457.9" kX="0" kY="0" cX="4.18" cY="2.97" pX="0" pY="0" z="25" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="bg16_094" sc="1" dl="0">
+          <f x="-535" y="423" kX="0" kY="0" cX="4.18" cY="2.97" pX="0" pY="0" z="26" dI="0" twE="0" dr="39">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-535" y="423" kX="0" kY="0" cX="4.18" cY="2.97" pX="0" pY="0" z="26" dI="0" twE="0" dr="34">
+            <colorTransform a="0" r="0" g="0" b="0" aM="9" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-535" y="423" kX="0" kY="0" cX="4.18" cY="2.97" pX="0" pY="0" z="26" dI="0" twE="0" dr="39">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-535" y="423" kX="0" kY="0" cX="4.18" cY="2.97" pX="0" pY="0" z="26" dI="0" twE="0" dr="29">
+            <colorTransform a="0" r="0" g="0" b="0" aM="9" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-535" y="423" kX="0" kY="0" cX="4.18" cY="2.97" pX="0" pY="0" z="26" dI="0" twE="0" dr="39">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-535" y="423" kX="0" kY="0" cX="4.18" cY="2.97" pX="0" pY="0" z="26" dI="0" twE="0" dr="29">
+            <colorTransform a="0" r="0" g="0" b="0" aM="9" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-535" y="423" kX="0" kY="0" cX="4.18" cY="2.97" pX="0" pY="0" z="26" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="b016">
+    <SubTexture name="images/bg/016/bg16_07" width="546" height="112" cocos2d_pX="273" cocos2d_pY="56"/>
+    <SubTexture name="images/bg/016/bg16_08" width="15" height="15" cocos2d_pX="7.5" cocos2d_pY="7.5"/>
+    <SubTexture name="images/bg/016/bg16_02" width="84" height="89" cocos2d_pX="42" cocos2d_pY="44.5"/>
+    <SubTexture name="images/bg/016/bg16_01" width="67" height="64" cocos2d_pX="33.5" cocos2d_pY="32"/>
+    <SubTexture name="images/bg/016/bg16_04" width="225" height="67" cocos2d_pX="112.5" cocos2d_pY="33.5"/>
+    <SubTexture name="images/bg/016/bg16_05" width="210" height="60" cocos2d_pX="105" cocos2d_pY="30"/>
+    <SubTexture name="images/bg/016/bg16_bg_01" width="568" height="487" cocos2d_pX="284" cocos2d_pY="243.5"/>
+    <SubTexture name="images/bg/016/bg16_09" width="133" height="133" cocos2d_pX="66.5" cocos2d_pY="66.5"/>
+    <SubTexture name="images/bg/016/bg16_bg_02" width="568" height="212" cocos2d_pX="284" cocos2d_pY="106"/>
+    <SubTexture name="images/bg/016/bg16_03" width="108" height="148" cocos2d_pX="54" cocos2d_pY="74"/>
+    <SubTexture name="images/bg/016/bg16_06" width="526" height="68" cocos2d_pX="263" cocos2d_pY="34"/>
+    <SubTexture name="images/bg/016/bg16_bg" width="100" height="333" cocos2d_pX="50" cocos2d_pY="166.5"/>
+  </TextureAtlas>
+</skeleton>

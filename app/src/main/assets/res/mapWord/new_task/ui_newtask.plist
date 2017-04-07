@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>任务名称</string>
+        <key>2</key>
+        <string>新手任务</string>
+        <key>3</key>
+        <string>任务目标：\\w{c=72ff00}@\\</string>
+        <key>4</key>
+        <string>任务内容</string>
+    </dict>
+</plist>

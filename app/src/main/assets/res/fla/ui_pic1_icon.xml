@@ -1,0 +1,311 @@
+<skeleton name="ui_pic1_icon" frameRate="30" version="2.2">
+  <armatures>
+    <armature name="ui_pic1_icon_huizhang">
+      <b name="图层 1">
+        <d name="images/ui_pic1/buy_huizhang"/>
+      </b>
+      <b name="图层 2">
+        <d name="ui_pic_icon_huizhang_xingdian" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_pic_icon_huizhang_xingdian">
+      <b name="图层 1">
+        <d name="images/skill/ui/ui-longchouka-2"/>
+      </b>
+      <b name="图层 1 复制">
+        <d name="images/skill/ui/ui-longchouka-2"/>
+      </b>
+      <b name="图层 1  复制 2">
+        <d name="images/skill/ui/ui-longchouka-2"/>
+      </b>
+      <b name="图层 1   复制 3">
+        <d name="images/skill/ui/ui-longchouka-2"/>
+      </b>
+      <b name="图层 1    复制 4">
+        <d name="images/skill/ui/ui-longchouka-2"/>
+      </b>
+      <b name="图层 1     复制 5">
+        <d name="images/skill/ui/ui-longchouka-2"/>
+      </b>
+      <b name="xx">
+        <d name="images/skill/ui/ui-xiaoxingxing-yanghong"/>
+      </b>
+      <b name="xx 复制">
+        <d name="images/skill/ui/ui-xiaoxingxing-yanghong"/>
+      </b>
+    </armature>
+    <armature name="ui_pic1_icon_zhu">
+      <b name="图层 1">
+        <d name="images/ui_pic1/buy_jingyan"/>
+      </b>
+      <b name="图层 2">
+        <d name="images/skill/015/s015_xuanzhuan-2"/>
+      </b>
+    </armature>
+    <armature name="ui_pic1_icon_xingxing">
+      <b name="图层 1">
+        <d name="ui_pic1_icon_xingdian" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_pic1_icon_xingdian">
+      <b name="1">
+        <d name="ui_pic1_icon_xingdian-2" isArmature="1"/>
+      </b>
+      <b name="2">
+        <d name="ui_pic1_icon_xingdian-2" isArmature="1"/>
+      </b>
+      <b name="3">
+        <d name="ui_pic1_icon_xingdian-2" isArmature="1"/>
+      </b>
+      <b name="3 复制">
+        <d name="ui_pic1_icon_xingdian-2" isArmature="1"/>
+      </b>
+      <b name="3  复制 2">
+        <d name="ui_pic1_icon_xingdian-2" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_pic1_icon_xingdian-2">
+      <b name="图层 1">
+        <d name="images/skill/ui/ui-xiaoxingxing"/>
+      </b>
+    </armature>
+    <armature name="ui_pic_icon_xiaolongbao">
+      <b name="1">
+        <d name="images/ui_pic1/energy"/>
+      </b>
+      <b name="图层 2">
+        <d name="ui_pic1_icon_smok" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_pic1_icon_smok">
+      <b name="图层 1 复制">
+        <d name="images/skill/other/baiguang"/>
+      </b>
+    </armature>
+    <armature name="ui_pic_icon_shu">
+      <b name="图层 3">
+        <d name="images/ui_pic1/buy_jineng"/>
+      </b>
+      <b name="图层 4">
+        <d name="ui_pic_icon_shu_guang" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_pic_icon_luzi">
+      <b name="炉子">
+        <d name="images/ui_pic1/dianshichengjin"/>
+      </b>
+      <b name="图层 1">
+        <d name="ui_pic_icon_shu_guang" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_pic_icon_shu_guang">
+      <b name="图层 1">
+        <d name="images/skill/other/huangguang1"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_pic_icon_huizhang_xingdian">
+      <mov name="stand" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-115" y="15.55" kX="0" kY="0" cX="3.2" cY="3.2" bd="8" pX="0" pY="0.35" z="0" dI="0" twE="0" dr="4"/>
+          <f x="-115" y="15.55" kX="0" kY="0" cX="1.06" cY="1.06" bd="8" pX="0" pY="0.3" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-115" y="15.55" kX="0" kY="0" cX="3.2" cY="3.2" bd="8" pX="0" pY="0.35" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 1 复制" sc="1" dl="0">
+          <f x="-267" y="94.75" kX="0" kY="0" cX="3.2" cY="3.2" bd="8" pX="0" pY="0.35" z="1" dI="0" twE="0" dr="4"/>
+          <f x="-267" y="94.75" kX="0" kY="0" cX="1.06" cY="1.06" bd="8" pX="0" pY="0.3" z="1" dI="0" twE="0" dr="3"/>
+          <f x="-267" y="94.75" kX="0" kY="0" cX="3.2" cY="3.2" bd="8" pX="0" pY="0.35" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 1  复制 2" sc="1" dl="0">
+          <f x="-107.8" y="95.55" kX="0" kY="0" cX="2.16" cY="2.16" bd="8" pX="0" pY="0.35" z="2" dI="0" twE="0" dr="4"/>
+          <f x="-107.8" y="95.55" kX="0" kY="0" cX="0.71" cY="0.71" bd="8" pX="0" pY="0.3" z="2" dI="0" twE="0" dr="3"/>
+          <f x="-107.8" y="95.55" kX="0" kY="0" cX="2.16" cY="2.16" bd="8" pX="0" pY="0.35" z="2" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 1   复制 3" sc="1" dl="0">
+          <f x="-158.6" y="41.5" kX="0" kY="0" cX="1.2" cY="1.2" bd="8" pX="0" pY="0.35" z="3" dI="0" twE="0" dr="4"/>
+          <f x="-158.6" y="41.55" kX="0" kY="0" cX="0.4" cY="0.4" bd="8" pX="0" pY="0.4" z="3" dI="0" twE="0" dr="3"/>
+          <f x="-158.6" y="41.5" kX="0" kY="0" cX="1.2" cY="1.2" bd="8" pX="0" pY="0.35" z="3" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 1    复制 4" sc="1" dl="0">
+          <f x="-282.6" y="12.65" kX="0" kY="0" cX="2" cY="2" bd="8" pX="0" pY="0.3" z="4" dI="0" twE="0" dr="4"/>
+          <f x="-282.6" y="12.8" kX="0" kY="0" cX="0.66" cY="0.66" bd="8" pX="0" pY="0.4" z="4" dI="0" twE="0" dr="3"/>
+          <f x="-282.6" y="12.65" kX="0" kY="0" cX="2" cY="2" bd="8" pX="0" pY="0.3" z="4" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 1     复制 5" sc="1" dl="0">
+          <f x="-212.6" y="-13.25" kX="0" kY="0" cX="0.96" cY="0.96" bd="8" pX="0" pY="0.3" z="5" dI="0" twE="0" dr="4"/>
+          <f x="-212.6" y="-13.2" kX="0" kY="0" cX="0.32" cY="0.32" bd="8" pX="0" pY="0.35" z="5" dI="0" twE="0" dr="3"/>
+          <f x="-212.6" y="-13.25" kX="0" kY="0" cX="0.96" cY="0.96" bd="8" pX="0" pY="0.3" z="5" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="xx" sc="1" dl="0">
+          <f x="-170.4" y="109.15" kX="0" kY="0" cX="0.93" cY="0.93" bd="8" pX="0" pY="0.3" z="6" dI="0" twE="0" dr="4"/>
+          <f x="-170.4" y="109.15" kX="0" kY="0" cX="0.41" cY="0.41" bd="8" pX="0" pY="0.25" z="6" dI="0" twE="0" dr="3"/>
+          <f x="-170.4" y="109.15" kX="0" kY="0" cX="0.93" cY="0.93" bd="8" pX="0" pY="0.3" z="6" dI="0" dr="1"/>
+        </b>
+        <b name="xx 复制" sc="1" dl="0">
+          <f x="-100.8" y="21.15" kX="0" kY="0" cX="0.4" cY="0.4" bd="8" pX="0" pY="0.25" z="7" dI="0" twE="0" dr="4"/>
+          <f x="-100.8" y="21.15" kX="0" kY="0" cX="0.18" cY="0.18" bd="8" pX="0" pY="0.25" z="7" dI="0" twE="0" dr="3"/>
+          <f x="-100.8" y="21.15" kX="0" kY="0" cX="0.4" cY="0.4" bd="8" pX="0" pY="0.25" z="7" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_pic1_icon_huizhang">
+      <mov name="stand" dr="70" to="0" drTW="70" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="70"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="197.6" y="-48.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="1" dI="0" dr="70"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_pic1_icon_zhu">
+      <mov name="stand" dr="80" to="0" drTW="80" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="80"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="-2.65" y="6.4" kX="0" kY="0" cX="2.75" cY="2.75" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="19">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="64" bM="100"/>
+          </f>
+          <f x="-2.65" y="6.4" kX="90" kY="90" cX="2.75" cY="2.75" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="20">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="64" bM="100"/>
+          </f>
+          <f x="-2.65" y="6.4" kX="180" kY="180" cX="2.75" cY="2.75" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="20">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="64" bM="100"/>
+          </f>
+          <f x="-2.65" y="6.4" kX="-90" kY="-90" cX="2.75" cY="2.75" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="20">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="64" bM="100"/>
+          </f>
+          <f x="-2.65" y="6.4" kX="0" kY="0" cX="2.75" cY="2.75" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="64" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_pic1_icon_xingxing">
+      <mov name="stand" dr="43" to="0" drTW="43" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-26.7" y="-41.2" kX="0" kY="0" cX="2.2" cY="2.51" pX="0" pY="0" z="0" dI="0" dr="43"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_pic1_icon_xingdian-2">
+      <mov name="stand" dr="25" to="0" drTW="25" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="1" kX="0" kY="0" cX="0.52" cY="0.52" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="0" y="1" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="0" twE="0" dr="11"/>
+          <f x="0" y="1" kX="-0.24" kY="-0.24" cX="0.31" cY="0.31" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+          <f x="0" y="1" kX="-0.24" kY="-0.24" cX="0.08" cY="0.08" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_pic1_icon_xingdian">
+      <mov name="stand" dr="47" to="0" drTW="47" lp="1" twE="NaN">
+        <b name="1" sc="1" dl="0">
+          <f x="31" y="-10.05" kX="-90" kY="-90" cX="0.26" cY="0.24" pX="0" pY="0" z="0" dI="0" dr="14"/>
+          <f dr="33" dI="-1"/>
+        </b>
+        <b name="2" sc="1" dl="0">
+          <f dr="17" dI="-1"/>
+          <f x="-53.85" y="3.1" kX="0" kY="0" cX="0.24" cY="0.26" pX="0" pY="0" z="0" dI="0" dr="14"/>
+          <f dr="16" dI="-1"/>
+        </b>
+        <b name="3" sc="1" dl="0">
+          <f dr="33" dI="-1"/>
+          <f x="51.8" y="21.25" kX="0" kY="0" cX="0.39" cY="0.46" pX="0" pY="0" z="0" dI="0" dr="14"/>
+        </b>
+        <b name="3 复制" sc="1" dl="0">
+          <f dr="12" dI="-1"/>
+          <f x="-5.25" y="-40.85" kX="0" kY="0" cX="0.25" cY="0.2" pX="0" pY="0" z="1" dI="0" dr="14"/>
+          <f dr="21" dI="-1"/>
+        </b>
+        <b name="3  复制 2" sc="1" dl="0">
+          <f dr="24" dI="-1"/>
+          <f x="-9.9" y="6.25" kX="0" kY="0" cX="0.68" cY="0.59" pX="0" pY="0" z="1" dI="0" dr="14"/>
+          <f dr="9" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_pic1_icon_smok">
+      <mov name="stand" dr="128" to="0" drTW="128" lp="1" twE="NaN">
+        <b name="图层 1 复制" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="11.2" y="0.65" kX="0" kY="0" cX="0.28" cY="0.19" pX="0.35" pY="0.55" z="0" dI="0" twE="0" dr="11">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="99" bM="100"/>
+          </f>
+          <f x="10.5" y="-2.6" kX="-7.04" kY="0.36" cX="0.66" cY="0.31" pX="1.05" pY="0.65" z="0" dI="0" twE="0" dr="14"/>
+          <f x="15.35" y="-5.75" kX="-18.33" kY="-2.25" cX="0.82" cY="0.49" pX="0.4" pY="0.7" z="0" dI="0" twE="0" dr="16">
+            <colorTransform a="0" r="0" g="0" b="0" aM="79" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="9.9" y="-9.6" kX="-10.8" kY="-2.66" cX="1.26" cY="0.56" pX="0.4" pY="0.5" z="0" dI="0" twE="0" dr="21">
+            <colorTransform a="0" r="0" g="0" b="0" aM="64" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="7.35" y="-17.15" kX="30.41" kY="9.43" cX="1.51" cY="0.7" pX="0.55" pY="0.5" z="0" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="22" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="7.65" y="-26.8" kX="-29" kY="-12.85" cX="1.85" cY="1.19" pX="0.5" pY="0.5" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="33" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_pic_icon_xiaolongbao">
+      <mov name="stand" dr="95" to="0" drTW="95" lp="1" twE="NaN">
+        <b name="1" sc="1" dl="0">
+          <f x="0" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="95"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="-9.4" y="-19" kX="0" kY="0" cX="1.56" cY="2.68" pX="0" pY="0" z="1" dI="0" dr="95"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_pic_icon_shu">
+      <mov name="stand" dr="80" to="0" drTW="80" lp="1" twE="NaN">
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="80"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="-2" y="-16.1" kX="0" kY="0" cX="0.91" cY="0.58" pX="0" pY="0" z="1" dI="0" dr="80"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_pic_icon_shu_guang">
+      <mov name="stand" dr="80" to="0" drTW="80" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-2.05" y="-4.05" kX="0" kY="0" cX="3.04" cY="3.04" bd="8" pX="0" pY="0.35" z="0" dI="0" twE="0" dr="19"/>
+          <f x="-2" y="-4" kX="90" kY="90" cX="3.04" cY="3.04" bd="8" pX="0" pY="0.35" z="0" dI="0" twE="0" dr="20"/>
+          <f x="-2.05" y="-4" kX="180" kY="180" cX="3.04" cY="3.04" bd="8" pX="0" pY="0.35" z="0" dI="0" twE="0" dr="20"/>
+          <f x="-2.1" y="-4" kX="-90" kY="-90" cX="3.04" cY="3.04" bd="8" pX="0" pY="0.35" z="0" dI="0" twE="0" dr="20"/>
+          <f x="-2.05" y="-4.05" kX="0" kY="0" cX="3.04" cY="3.04" bd="8" pX="0" pY="0.35" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_pic_icon_luzi">
+      <mov name="stand" dr="90" to="0" drTW="90" lp="1" twE="NaN">
+        <b name="炉子" sc="1" dl="0">
+          <f x="-8" y="113.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="90"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-6.8" y="120.55" kX="52.92" kY="48.46" cX="0.71" cY="1.15" pX="0" pY="0" z="1" dI="0" dr="90"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_pic1_icon">
+    <SubTexture name="images/skill/other/huangguang1" width="81" height="75" cocos2d_pX="40.5" cocos2d_pY="37.15"/>
+    <SubTexture name="images/ui_pic1/dianshichengjin" width="481" height="264" cocos2d_pX="240.5" cocos2d_pY="132"/>
+    <SubTexture name="images/ui_pic1/buy_jineng" width="300" height="245" cocos2d_pX="150" cocos2d_pY="122.5"/>
+    <SubTexture name="images/skill/other/baiguang" width="117" height="117" cocos2d_pX="58.5" cocos2d_pY="58.15"/>
+    <SubTexture name="images/ui_pic1/energy" width="144" height="130" cocos2d_pX="72" cocos2d_pY="65"/>
+    <SubTexture name="images/skill/ui/ui-xiaoxingxing" width="60" height="60" cocos2d_pX="30" cocos2d_pY="30"/>
+    <SubTexture name="images/skill/015/s015_xuanzhuan-2" width="80" height="80" cocos2d_pX="40" cocos2d_pY="40"/>
+    <SubTexture name="images/ui_pic1/buy_jingyan" width="300" height="245" cocos2d_pX="150" cocos2d_pY="122.5"/>
+    <SubTexture name="images/skill/ui/ui-xiaoxingxing-yanghong" width="60" height="60" cocos2d_pX="30" cocos2d_pY="29.65"/>
+    <SubTexture name="images/skill/ui/ui-longchouka-2" width="10" height="10" cocos2d_pX="5" cocos2d_pY="4.65"/>
+    <SubTexture name="images/ui_pic1/buy_huizhang" width="300" height="245" cocos2d_pX="150" cocos2d_pY="122.5"/>
+  </TextureAtlas>
+</skeleton>

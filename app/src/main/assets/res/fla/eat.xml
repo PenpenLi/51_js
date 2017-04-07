@@ -1,0 +1,700 @@
+<skeleton name="eat" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="baozi_4">
+      <b name="baozi_14">
+        <d name="images/ui_huodong/baozi_14"/>
+      </b>
+    </armature>
+    <armature name="rest">
+      <b name="baozi_3">
+        <d name="images/ui_huodong/baozi_3"/>
+      </b>
+      <b name="baozi_4">
+        <d name="images/ui_huodong/baozi_4"/>
+      </b>
+      <b name="baozi_40">
+        <d name="images/ui_huodong/baozi_4"/>
+      </b>
+      <b name="baozi_6">
+        <d name="images/ui_huodong/baozi_6"/>
+      </b>
+      <b name="baozi_11">
+        <d name="images/ui_huodong/baozi_11"/>
+      </b>
+      <b name="baozi_12">
+        <d name="images/ui_huodong/baozi_12"/>
+      </b>
+      <b name="baozi_1">
+        <d name="images/ui_huodong/baozi_1"/>
+      </b>
+      <b name="baozi_5">
+        <d name="images/ui_huodong/baozi_5"/>
+      </b>
+      <b name="baozi_50">
+        <d name="images/ui_huodong/baozi_5"/>
+      </b>
+    </armature>
+    <armature name="eat_2">
+      <b name="baozi_3">
+        <d name="images/ui_huodong/baozi_3"/>
+      </b>
+      <b name="baozi_4">
+        <d name="images/ui_huodong/baozi_4"/>
+      </b>
+      <b name="baozi_40">
+        <d name="images/ui_huodong/baozi_4"/>
+      </b>
+      <b name="baozi_6">
+        <d name="images/ui_huodong/baozi_6"/>
+      </b>
+      <b name="baozi_11">
+        <d name="images/ui_huodong/baozi_11"/>
+        <d name="images/ui_huodong/baozi_10"/>
+        <d name="images/ui_huodong/baozi_9"/>
+      </b>
+      <b name="baozi_1">
+        <d name="images/ui_huodong/baozi_1"/>
+      </b>
+      <b name="图层 2">
+        <d name="images/ui_huodong/baozi_2"/>
+        <d name="images/ui_huodong/baozi_8"/>
+      </b>
+      <b name="baozi_5">
+        <d name="images/ui_huodong/baozi_7"/>
+      </b>
+      <b name="图层 3">
+        <d name="images/ui_huodong/baozi_2"/>
+      </b>
+      <b name="baozi_50">
+        <d name="images/ui_huodong/baozi_7"/>
+      </b>
+      <b name="图层 4">
+        <d name="images/ui_huodong/baozi_13"/>
+      </b>
+      <b name="图层 5">
+        <d name="images/ui_huodong/baozi_13"/>
+      </b>
+      <b name="图层 6">
+        <d name="images/ui_huodong/baozi_13"/>
+      </b>
+    </armature>
+    <armature name="eat_1">
+      <b name="baozi_3">
+        <d name="images/ui_huodong/baozi_3"/>
+      </b>
+      <b name="baozi_4">
+        <d name="images/ui_huodong/baozi_4"/>
+      </b>
+      <b name="baozi_40">
+        <d name="images/ui_huodong/baozi_4"/>
+      </b>
+      <b name="baozi_6">
+        <d name="images/ui_huodong/baozi_6"/>
+      </b>
+      <b name="baozi_11">
+        <d name="images/ui_huodong/baozi_11"/>
+        <d name="images/ui_huodong/baozi_10"/>
+        <d name="images/ui_huodong/baozi_9"/>
+      </b>
+      <b name="baozi_1">
+        <d name="images/ui_huodong/baozi_1"/>
+      </b>
+      <b name="图层 2">
+        <d name="images/ui_huodong/baozi_2"/>
+      </b>
+      <b name="baozi_5">
+        <d name="images/ui_huodong/baozi_7"/>
+      </b>
+      <b name="图层 3">
+        <d name="images/ui_huodong/baozi_2"/>
+        <d name="images/ui_huodong/baozi_8"/>
+      </b>
+      <b name="baozi_50">
+        <d name="images/ui_huodong/baozi_7"/>
+      </b>
+      <b name="图层 4">
+        <d name="images/ui_huodong/baozi_13"/>
+      </b>
+      <b name="图层 5">
+        <d name="images/ui_huodong/baozi_13"/>
+      </b>
+      <b name="图层 6">
+        <d name="images/ui_huodong/baozi_13"/>
+      </b>
+    </armature>
+    <armature name="baozi_3">
+      <b name="baozi_14">
+        <d name="images/ui_huodong/baozi_14"/>
+      </b>
+      <b name="baozi_2">
+        <d name="images/ui_huodong/baozi_2"/>
+      </b>
+      <b name="baozi_20">
+        <d name="images/ui_huodong/baozi_2"/>
+      </b>
+      <b name="baozi_21">
+        <d name="images/ui_huodong/baozi_2"/>
+      </b>
+    </armature>
+    <armature name="baozi_2">
+      <b name="baozi_14">
+        <d name="images/ui_huodong/baozi_14"/>
+      </b>
+      <b name="baozi_2">
+        <d name="images/ui_huodong/baozi_2"/>
+      </b>
+      <b name="baozi_20">
+        <d name="images/ui_huodong/baozi_2"/>
+      </b>
+      <b name="baozi_21">
+        <d name="images/ui_huodong/baozi_2"/>
+      </b>
+      <b name="baozi_22">
+        <d name="images/ui_huodong/baozi_2"/>
+      </b>
+      <b name="baozi_23">
+        <d name="images/ui_huodong/baozi_2"/>
+      </b>
+      <b name="baozi_24">
+        <d name="images/ui_huodong/baozi_2"/>
+      </b>
+    </armature>
+    <armature name="baozi_1">
+      <b name="baozi_14">
+        <d name="images/ui_huodong/baozi_14"/>
+      </b>
+      <b name="baozi_2">
+        <d name="images/ui_huodong/baozi_2"/>
+      </b>
+      <b name="baozi_20">
+        <d name="images/ui_huodong/baozi_2"/>
+      </b>
+      <b name="baozi_21">
+        <d name="images/ui_huodong/baozi_2"/>
+      </b>
+      <b name="baozi_22">
+        <d name="images/ui_huodong/baozi_2"/>
+      </b>
+      <b name="baozi_23">
+        <d name="images/ui_huodong/baozi_2"/>
+      </b>
+      <b name="baozi_24">
+        <d name="images/ui_huodong/baozi_2"/>
+      </b>
+      <b name="baozi_25">
+        <d name="images/ui_huodong/baozi_2"/>
+      </b>
+      <b name="baozi_26">
+        <d name="images/ui_huodong/baozi_2"/>
+      </b>
+      <b name="baozi_27">
+        <d name="images/ui_huodong/baozi_2"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="baozi_4">
+      <mov name="stand" dr="1" to="0">
+        <b name="baozi_14" sc="1" dl="0">
+          <f x="0" y="2.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="rest">
+      <mov name="stand" dr="30" to="0" drTW="30" lp="1" twE="NaN">
+        <b name="baozi_3" sc="1" dl="0">
+          <f x="3.35" y="-86.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="13"/>
+          <f x="3.35" y="-94.75" kX="0" kY="0" cX="1" cY="1.12" pX="0" pY="0" z="0" dI="0" twE="0" dr="16"/>
+          <f x="3.35" y="-86.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="baozi_4" sc="1" dl="0">
+          <f x="-60" y="-140" kX="0" kY="0" cX="1" cY="1" pX="26" pY="-29.3" z="1" dI="0" twE="0" dr="14"/>
+          <f x="-60" y="-141" kX="3.45" kY="3.45" cX="1" cY="1" pX="26.05" pY="-29.3" z="1" dI="0" twE="0" dr="15"/>
+          <f x="-60" y="-140" kX="0" kY="0" cX="1" cY="1" pX="26" pY="-29.3" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="baozi_40" sc="1" dl="0">
+          <f x="60" y="-140" kX="0" kY="180" cX="1" cY="1" pX="26.95" pY="-31.3" z="2" dI="0" twE="0" dr="14"/>
+          <f x="60" y="-140" kX="-4.72" kY="175.28" cX="1" cY="1" pX="26.95" pY="-31.35" z="2" dI="0" twE="0" dr="15"/>
+          <f x="60" y="-140" kX="0" kY="180" cX="1" cY="1" pX="26.95" pY="-31.3" z="2" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="baozi_6" sc="1" dl="0">
+          <f x="47.95" y="-152.7" kX="0" kY="0" cX="1" cY="1" pX="-30" pY="-22" z="3" dI="0" twE="0" dr="14"/>
+          <f x="47.95" y="-154.2" kX="-5.7" kY="-5.7" cX="1" cY="1" pX="-30" pY="-22" z="3" dI="0" twE="0" dr="15"/>
+          <f x="47.95" y="-152.7" kX="0" kY="0" cX="1" cY="1" pX="-30" pY="-22" z="3" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="baozi_11" sc="1" dl="0">
+          <f x="-3.65" y="-156.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="14"/>
+          <f x="-3.65" y="-148.9" kX="0" kY="0" cX="1.02" cY="1.02" pX="0" pY="0" z="4" dI="0" twE="0" dr="15"/>
+          <f x="-3.65" y="-156.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="1"/>
+        </b>
+        <b name="baozi_12" sc="1" dl="0">
+          <f x="28.85" y="-122" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-9.5" z="5" dI="0" twE="0" dr="12"/>
+          <f x="28.85" y="-116.5" kX="0" kY="0" cX="1" cY="1.83" pX="0" pY="-9.5" z="5" dI="0" twE="0" dr="6"/>
+          <f x="28.85" y="-117" kX="0" kY="0" cX="1" cY="0.45" pX="0" pY="-9.4" z="5" dI="0" twE="-0.17" dr="11"/>
+          <f x="28.85" y="-122" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-9.5" z="5" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="baozi_1" sc="1" dl="0">
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0" dr="14"/>
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0" dr="15"/>
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="1"/>
+        </b>
+        <b name="baozi_5" sc="1" dl="0">
+          <f x="-160" y="-50" kX="0" kY="0" cX="1" cY="1" pX="-27" pY="24" z="7" dI="0" twE="0" dr="14"/>
+          <f x="-160" y="-50" kX="-3.95" kY="-3.95" cX="1" cY="1" pX="-26.95" pY="23.95" z="7" dI="0" twE="0" dr="15"/>
+          <f x="-160" y="-50" kX="0" kY="0" cX="1" cY="1" pX="-27" pY="24" z="7" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="baozi_50" sc="1" dl="0">
+          <f x="160" y="-45" kX="0" kY="180" cX="1" cY="1" pX="-26" pY="27" z="8" dI="0" twE="0" dr="14"/>
+          <f x="160" y="-45" kX="4.24" kY="-175.76" cX="1" cY="1" pX="-25.95" pY="26.95" z="8" dI="0" twE="0" dr="15"/>
+          <f x="160" y="-45" kX="0" kY="180" cX="1" cY="1" pX="-26" pY="27" z="8" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="eat_2">
+      <mov name="stand" dr="21" to="0" drTW="21" lp="1" twE="NaN">
+        <b name="baozi_3" sc="1" dl="0">
+          <f x="3.35" y="-86.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="6"/>
+          <f x="3.35" y="-86.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-4.65" y="-86.75" kX="-4.82" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="6"/>
+          <f x="8.95" y="-86.75" kX="7.95" kY="0" cX="1" cY="1.01" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+          <f x="3.35" y="-86.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="baozi_4" sc="1" dl="0">
+          <f x="-61.3" y="-134.05" kX="15" kY="15" cX="1" cY="1" pX="26" pY="-29.35" z="1" dI="0" twE="0" dr="6"/>
+          <f x="-58.8" y="-133.85" kX="9.3" kY="9.3" cX="1" cY="1" pX="26" pY="-29.35" z="1" dI="0" twE="0" dr="3"/>
+          <f x="-50.4" y="-135.3" kX="7.01" kY="7.01" cX="1" cY="1" pX="26.1" pY="-29.4" z="1" dI="0" twE="0" dr="1"/>
+          <f x="-47.25" y="-135.55" kX="7.55" kY="7.55" cX="1" cY="1" pX="26.05" pY="-29.45" z="1" dI="0" twE="0" dr="5"/>
+          <f x="-43.85" y="-136.85" kX="11.01" kY="11.01" cX="1" cY="1" pX="26.05" pY="-29.4" z="1" dI="0" twE="0" dr="1"/>
+          <f x="-56.4" y="-129.85" kX="11.77" kY="11.77" cX="1" cY="1" pX="26" pY="-29.45" z="1" dI="0" twE="0" dr="4"/>
+          <f x="-61.3" y="-134.05" kX="15" kY="15" cX="1" cY="1" pX="26" pY="-29.35" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="baozi_40" sc="1" dl="0">
+          <f x="78.35" y="-132.8" kX="-8.29" kY="171.71" cX="1" cY="1" pX="26.9" pY="-31.35" z="2" dI="0" twE="0" dr="6"/>
+          <f x="75.75" y="-132.45" kX="-9.05" kY="170.95" cX="1" cY="1" pX="26.9" pY="-31.3" z="2" dI="0" twE="0" dr="3"/>
+          <f x="70.4" y="-131.75" kX="-10.77" kY="169.23" cX="1" cY="1" pX="26.9" pY="-31.35" z="2" dI="0" twE="0" dr="6"/>
+          <f x="77.1" y="-120.85" kX="-18.74" kY="161.26" cX="1" cY="1" pX="26.8" pY="-31.45" z="2" dI="0" twE="0" dr="5"/>
+          <f x="78.35" y="-132.8" kX="-8.29" kY="171.71" cX="1" cY="1" pX="26.9" pY="-31.35" z="2" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="baozi_6" sc="1" dl="0">
+          <f x="55.85" y="-151" kX="-15" kY="-15" cX="1" cY="1" pX="-29.95" pY="-22" z="3" dI="0" twE="0" dr="6"/>
+          <f x="49.7" y="-150.95" kX="-14.82" kY="-14.82" cX="1" cY="1" pX="-29.95" pY="-22.05" z="3" dI="0" twE="0" dr="3"/>
+          <f x="44.45" y="-153.4" kX="-14.79" kY="-14.79" cX="1" cY="1" pX="-29.95" pY="-22.1" z="3" dI="0" twE="0" dr="6"/>
+          <f x="57.15" y="-138.55" kX="-26.23" kY="-26.23" cX="1" cY="1" pX="-29.9" pY="-22.1" z="3" dI="0" twE="0" dr="5"/>
+          <f x="55.85" y="-151" kX="-15" kY="-15" cX="1" cY="1" pX="-29.95" pY="-22" z="3" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="baozi_11" sc="1" dl="0">
+          <f x="-2" y="-158.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="3"/>
+          <f x="-8.15" y="-158.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="1"/>
+          <f x="-2.65" y="-164" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="4" dI="1" dr="1"/>
+          <f x="-2.65" y="-164" kX="0" kY="180" cX="1.02" cY="1.02" pX="0" pY="0" z="4" dI="1" twE="0" dr="4"/>
+          <f x="-7.65" y="-168" kX="0" kY="180" cX="1.13" cY="1.13" pX="0" pY="0" z="4" dI="1" dr="1"/>
+          <f x="2" y="-163" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="4" dI="2" dr="1"/>
+          <f x="5" y="-163" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="4" dI="2" twE="0" dr="4"/>
+          <f x="14.5" y="-162" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="4" dI="2" dr="1"/>
+          <f x="15.85" y="-159.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="1"/>
+          <f x="11.85" y="-158.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="3"/>
+          <f x="-2" y="-158.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="baozi_1" sc="1" dl="0">
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="6"/>
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="1"/>
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="2"/>
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="1"/>
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="5"/>
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="1"/>
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="4"/>
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="-70" y="-76.5" kX="15" kY="15" cX="1" cY="1.18" pX="0" pY="0" z="6" dI="0" twE="0" dr="6"/>
+          <f x="-56.2" y="-105.85" kX="-9.91" kY="-9.73" cX="1" cY="1.18" pX="0" pY="0" z="6" dI="0" twE="0" dr="3"/>
+          <f x="-48.8" y="-105.7" kX="-5.03" kY="-5.02" cX="1" cY="1.18" pX="0" pY="0" z="6" dI="0" dr="1"/>
+          <f x="-16.15" y="-112.5" kX="0" kY="180" cX="0.79" cY="1" pX="0" pY="0" z="6" dI="1" dr="1"/>
+          <f x="-16.15" y="-112.5" kX="0" kY="180" cX="0.83" cY="1" pX="0" pY="0" z="6" dI="1" twE="0" dr="4"/>
+          <f x="-20.15" y="-111" kX="-3.47" kY="176.53" cX="1.07" cY="0.93" pX="0" pY="0" z="6" dI="1" dr="1"/>
+          <f x="-80" y="-90" kX="6.05" kY="6.05" cX="0.63" cY="1" pX="0" pY="0" z="6" dI="0" dr="1"/>
+          <f x="-75" y="-89" kX="6.05" kY="6.05" cX="0.63" cY="1" pX="0" pY="0" z="6" dI="0" twE="0" dr="3"/>
+          <f x="-70" y="-76.5" kX="15" kY="15" cX="1" cY="1.18" pX="0" pY="0" z="6" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="baozi_5" sc="1" dl="0">
+          <f x="-146.35" y="-82.5" kX="28.89" kY="-151.11" cX="0.85" cY="1" pX="40" pY="19.85" z="7" dI="0" twE="0" dr="6"/>
+          <f x="-128" y="-78.9" kX="4.09" kY="-175.91" cX="0.85" cY="1" pX="39.95" pY="19.95" z="7" dI="0" twE="0" dr="3"/>
+          <f x="-119.45" y="-83.05" kX="10.27" kY="-169.73" cX="0.78" cY="1" pX="40.05" pY="19.8" z="7" dI="0" twE="0" dr="1"/>
+          <f x="-110.9" y="-84.5" kX="10.27" kY="-169.74" cX="0.85" cY="1" pX="39.95" pY="19.9" z="7" dI="0" twE="0" dr="5"/>
+          <f x="-119.9" y="-87.45" kX="14.06" kY="-165.94" cX="0.85" cY="1" pX="40.1" pY="19.85" z="7" dI="0" twE="0" dr="1"/>
+          <f x="-141.05" y="-78.95" kX="22.5" kY="-157.5" cX="0.71" cY="1" pX="39.85" pY="19.95" z="7" dI="0" twE="0" dr="4"/>
+          <f x="-146.35" y="-82.5" kX="28.89" kY="-151.11" cX="0.85" cY="1" pX="40" pY="19.85" z="7" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="83.15" y="-82.5" kX="-15" kY="-15" cX="1" cY="1.18" pX="0" pY="0" z="8" dI="0" twE="0" dr="6"/>
+          <f x="82.05" y="-76.65" kX="-23.32" kY="-23.32" cX="1" cY="1.18" pX="0" pY="0" z="8" dI="0" twE="0" dr="3"/>
+          <f x="77.6" y="-73.3" kX="-27.02" kY="-27.02" cX="1" cY="1.18" pX="0" pY="0" z="8" dI="0" twE="0" dr="6"/>
+          <f x="88.8" y="-67.8" kX="-27.84" kY="-27.84" cX="1" cY="1.18" pX="0" pY="0" z="8" dI="0" twE="0" dr="1"/>
+          <f x="84.1" y="-70.8" kX="-25.29" kY="-25.29" cX="1" cY="1.17" pX="0" pY="0" z="8" dI="0" twE="0" dr="4"/>
+          <f x="83.15" y="-82.5" kX="-15" kY="-15" cX="1" cY="1.18" pX="0" pY="0" z="8" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="baozi_50" sc="1" dl="0">
+          <f x="154.15" y="-80" kX="-27.19" kY="-27.19" cX="0.96" cY="1" pX="39.8" pY="21.95" z="9" dI="0" twE="0" dr="6"/>
+          <f x="148.35" y="-83.8" kX="-34.83" kY="-34.83" cX="0.96" cY="1" pX="39.9" pY="22" z="9" dI="0" twE="0" dr="3"/>
+          <f x="143.45" y="-83.6" kX="-37.06" kY="-37.07" cX="0.95" cY="1" pX="39.85" pY="21.95" z="9" dI="0" twE="0" sd="Eat.mp3" dr="6"/>
+          <f x="153.9" y="-74.65" kX="-35.94" kY="-35.94" cX="0.87" cY="1" pX="39.95" pY="22" z="9" dI="0" twE="0" dr="1"/>
+          <f x="150.5" y="-75.7" kX="-34.11" kY="-34.11" cX="0.89" cY="1" pX="40.05" pY="21.95" z="9" dI="0" twE="0" dr="4"/>
+          <f x="154.15" y="-80" kX="-27.19" kY="-27.19" cX="0.96" cY="1" pX="39.8" pY="21.95" z="9" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="-140" y="-190" kX="-30" kY="-30" cX="0.26" cY="0.26" pX="0" pY="0" z="10" dI="0" dr="15">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="110" y="-175" kX="0" kY="180" cX="0.86" cY="1" pX="0" pY="0" z="10" dI="0" twE="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="120" y="-180" kX="0" kY="180" cX="0.87" cY="1" pX="0" pY="0" z="10" dI="0" twE="0" dr="3"/>
+          <f x="150" y="-190" kX="26.35" kY="-146.06" cX="0.23" cY="0.25" pX="0" pY="0" z="10" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="-130" y="-150" kX="-75" kY="-75" cX="0.26" cY="0.26" pX="0" pY="0" z="11" dI="0" dr="15">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="101.35" y="-160" kX="26.53" kY="-146.27" cX="0.9" cY="0.97" pX="0" pY="0" z="11" dI="0" twE="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="120" y="-160" kX="26.76" kY="-146.53" cX="0.91" cY="0.97" pX="0" pY="0" z="11" dI="0" twE="0" dr="3"/>
+          <f x="141.45" y="-150" kX="72.66" kY="-102.95" cX="0.26" cY="0.23" pX="0" pY="0" z="11" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f x="-110" y="-200" kX="0" kY="0" cX="0.26" cY="0.26" pX="0" pY="0" z="12" dI="0" dr="15">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="92.7" y="-177.35" kX="-26.53" kY="146.27" cX="0.9" cY="0.97" pX="0" pY="0" z="12" dI="0" twE="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="102.55" y="-180" kX="-26.76" kY="146.53" cX="0.91" cY="0.97" pX="0" pY="0" z="12" dI="0" twE="0" dr="3"/>
+          <f x="124.25" y="-200" kX="0" kY="180" cX="0.22" cY="0.26" pX="0" pY="0" z="12" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="eat_1">
+      <mov name="stand" dr="21" to="0" drTW="21" lp="1" twE="NaN">
+        <b name="baozi_3" sc="1" dl="0">
+          <f x="3.35" y="-86.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="6"/>
+          <f x="3.35" y="-86.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="10.35" y="-87" kX="4.92" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="6"/>
+          <f x="1.35" y="-86.75" kX="-3.62" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+          <f x="3.35" y="-86.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="baozi_4" sc="1" dl="0">
+          <f x="-61.3" y="-134.05" kX="15" kY="15" cX="1" cY="1" pX="26" pY="-29.35" z="1" dI="0" twE="0" dr="6"/>
+          <f x="-50.6" y="-138.5" kX="14.82" kY="14.82" cX="1" cY="1" pX="26" pY="-29.3" z="1" dI="0" twE="0" dr="3"/>
+          <f x="-54.45" y="-136.9" kX="14.78" kY="14.78" cX="1" cY="1" pX="26" pY="-29.25" z="1" dI="0" twE="0" dr="6"/>
+          <f x="-63" y="-133.35" kX="19.26" kY="19.26" cX="1" cY="1" pX="25.95" pY="-29.25" z="1" dI="0" twE="0" dr="5"/>
+          <f x="-61.3" y="-134.05" kX="15" kY="15" cX="1" cY="1" pX="26" pY="-29.35" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="baozi_40" sc="1" dl="0">
+          <f x="78.35" y="-132.8" kX="-8.29" kY="171.71" cX="1" cY="1" pX="26.9" pY="-31.35" z="2" dI="0" twE="0" dr="6"/>
+          <f x="52" y="-128.8" kX="-9.02" kY="170.98" cX="1" cY="1" pX="26.9" pY="-31.25" z="2" dI="0" twE="0" dr="3"/>
+          <f x="58.6" y="-127.1" kX="-7.8" kY="172.2" cX="1" cY="1" pX="26.9" pY="-31.25" z="2" dI="0" twE="0" dr="1"/>
+          <f x="56.4" y="-127.95" kX="-7.31" kY="172.69" cX="1" cY="1" pX="26.9" pY="-31.25" z="2" dI="0" twE="0" dr="5"/>
+          <f x="69.25" y="-125.8" kX="-5.81" kY="174.19" cX="1" cY="1" pX="27.05" pY="-31.3" z="2" dI="0" twE="0" dr="1"/>
+          <f x="73.75" y="-133.45" kX="-6.06" kY="173.94" cX="1" cY="1" pX="27.05" pY="-31.2" z="2" dI="0" twE="0" dr="4"/>
+          <f x="78.35" y="-132.8" kX="-8.29" kY="171.71" cX="1" cY="1" pX="26.9" pY="-31.35" z="2" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="baozi_6" sc="1" dl="0">
+          <f x="55.85" y="-151" kX="-15" kY="-15" cX="1" cY="1" pX="-29.95" pY="-22" z="3" dI="0" twE="0" dr="6"/>
+          <f x="33.3" y="-146.1" kX="-14.82" kY="-14.82" cX="1" cY="1" pX="-30.05" pY="-22" z="3" dI="0" twE="0" dr="3"/>
+          <f x="40.15" y="-147.3" kX="-14.78" kY="-14.78" cX="1" cY="1" pX="-29.95" pY="-22" z="3" dI="0" twE="0" dr="6"/>
+          <f x="43.3" y="-147.1" kX="-20.27" kY="-20.27" cX="1" cY="1" pX="-29.85" pY="-22.1" z="3" dI="0" twE="0" dr="1"/>
+          <f x="46.45" y="-155.1" kX="-20.26" kY="-20.26" cX="1" cY="1" pX="-29.9" pY="-22.1" z="3" dI="0" twE="0" dr="4"/>
+          <f x="55.85" y="-151" kX="-15" kY="-15" cX="1" cY="1" pX="-29.95" pY="-22" z="3" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="baozi_11" sc="1" dl="0">
+          <f x="-2" y="-158.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="3"/>
+          <f x="2.35" y="-161.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="1"/>
+          <f x="0.35" y="-164" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="1" twE="0" dr="5"/>
+          <f x="6.6" y="-164" kX="0" kY="0" cX="1.1" cY="1.1" pX="0" pY="0" z="4" dI="1" twE="0" dr="1"/>
+          <f x="9" y="-173" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="2" twE="0" dr="5"/>
+          <f x="-3" y="-174.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="2" twE="0" dr="1"/>
+          <f x="-14.15" y="-159.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="4"/>
+          <f x="-2" y="-158.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="baozi_1" sc="1" dl="0">
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="6"/>
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="4"/>
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="5"/>
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="1"/>
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="4"/>
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="-70" y="-76.5" kX="15" kY="15" cX="1" cY="1.18" pX="0" pY="0" z="6" dI="0" twE="0" dr="6"/>
+          <f x="-53.5" y="-68.5" kX="30" kY="30" cX="1" cY="1.18" pX="0" pY="0" z="6" dI="0" twE="0" dr="3"/>
+          <f x="-58.75" y="-68.5" kX="30" kY="30" cX="1" cY="1.18" pX="0" pY="0" z="6" dI="0" twE="0" dr="6"/>
+          <f x="-68.15" y="-70.7" kX="27.55" kY="27.55" cX="1" cY="1.17" pX="0" pY="0" z="6" dI="0" twE="0" dr="1"/>
+          <f x="-62.4" y="-70.7" kX="27.55" kY="27.55" cX="1" cY="1.17" pX="0" pY="0" z="6" dI="0" twE="0" dr="4"/>
+          <f x="-70" y="-76.5" kX="15" kY="15" cX="1" cY="1.18" pX="0" pY="0" z="6" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="baozi_5" sc="1" dl="0">
+          <f x="-146.35" y="-82.5" kX="28.89" kY="-151.11" cX="0.85" cY="1" pX="40" pY="19.85" z="7" dI="0" twE="0" dr="6"/>
+          <f x="-124.8" y="-99.05" kX="51.81" kY="-128.19" cX="0.85" cY="1" pX="40.05" pY="19.9" z="7" dI="0" twE="0" dr="9"/>
+          <f x="-142.9" y="-94.95" kX="45.62" kY="-134.38" cX="0.85" cY="1" pX="40.05" pY="19.9" z="7" dI="0" twE="0" dr="1"/>
+          <f x="-137.15" y="-94.95" kX="45.62" kY="-134.38" cX="0.85" cY="1" pX="40.05" pY="19.95" z="7" dI="0" twE="0" dr="4"/>
+          <f x="-146.35" y="-82.5" kX="28.89" kY="-151.11" cX="0.85" cY="1" pX="40" pY="19.85" z="7" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="83.15" y="-82.5" kX="-15" kY="-15" cX="1" cY="1.18" pX="0" pY="0" z="8" dI="0" twE="0" dr="6"/>
+          <f x="67.8" y="-107.5" kX="4.62" kY="6" cX="1.05" cY="1.18" pX="0" pY="0" z="8" dI="0" twE="0" dr="3"/>
+          <f x="67.25" y="-105.4" kX="10.55" kY="10.55" cX="1" cY="1.18" pX="0" pY="0" z="8" dI="0" twE="0" dr="1"/>
+          <f x="33.85" y="-120" kX="3.21" kY="3.21" cX="0.86" cY="1" pX="0" pY="0" z="8" dI="1" twE="0" dr="5"/>
+          <f x="32.85" y="-119.5" kX="7.41" kY="7.41" cX="1.22" cY="0.83" pX="0" pY="0" z="8" dI="1" twE="0" dr="1"/>
+          <f x="90.1" y="-94.95" kX="-3.42" kY="-3.42" cX="0.5" cY="0.98" pX="0" pY="0" z="8" dI="0" twE="0" dr="4"/>
+          <f x="83.15" y="-82.5" kX="-15" kY="-15" cX="1" cY="1.18" pX="0" pY="0" z="8" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="baozi_50" sc="1" dl="0">
+          <f x="154.15" y="-80" kX="-27.19" kY="-27.19" cX="0.96" cY="1" pX="39.8" pY="21.95" z="9" dI="0" twE="0" dr="6"/>
+          <f x="121.9" y="-73.2" kX="-1.29" kY="-1.67" cX="0.84" cY="1" pX="39.8" pY="21.9" z="9" dI="0" twE="0" dr="3"/>
+          <f x="125.55" y="-65.6" kX="3.81" kY="3.81" cX="0.96" cY="1" pX="39.75" pY="21.9" z="9" dI="0" twE="0" dr="1"/>
+          <f x="123" y="-68.8" kX="8.26" kY="8.27" cX="0.96" cY="1" pX="39.8" pY="21.9" z="9" dI="0" twE="0" sd="Eat.mp3" dr="5"/>
+          <f x="134.5" y="-62.8" kX="8.26" kY="8.27" cX="0.96" cY="1" pX="39.75" pY="21.95" z="9" dI="0" twE="0" dr="1"/>
+          <f x="153.05" y="-74.55" kX="-9.43" kY="-9.43" cX="0.83" cY="1" pX="39.7" pY="21.95" z="9" dI="0" twE="0" dr="4"/>
+          <f x="154.15" y="-80" kX="-27.19" kY="-27.19" cX="0.96" cY="1" pX="39.8" pY="21.95" z="9" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="15" dI="-1"/>
+          <f x="-100" y="-180" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" twE="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-110" y="-190" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" twE="0" dr="3"/>
+          <f x="-140" y="-190" kX="-30" kY="-30" cX="0.26" cY="0.26" pX="0" pY="0" z="10" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="15" dI="-1"/>
+          <f x="-90" y="-165" kX="-30" kY="-30" cX="1" cY="1" pX="0" pY="0" z="11" dI="0" twE="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-110" y="-170" kX="-30" kY="-30" cX="1" cY="1" pX="0" pY="0" z="11" dI="0" twE="0" dr="3"/>
+          <f x="-130" y="-150" kX="-75" kY="-75" cX="0.26" cY="0.26" pX="0" pY="0" z="11" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="15" dI="-1"/>
+          <f x="-80" y="-182.35" kX="30" kY="30" cX="1" cY="1" pX="0" pY="0" z="12" dI="0" twE="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-90" y="-190" kX="30" kY="30" cX="1" cY="1" pX="0" pY="0" z="12" dI="0" twE="0" dr="3"/>
+          <f x="-110" y="-200" kX="0" kY="0" cX="0.26" cY="0.26" pX="0" pY="0" z="12" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="baozi_3">
+      <mov name="stand" dr="100" to="0" drTW="100" lp="1" twE="NaN">
+        <b name="baozi_14" sc="1" dl="0">
+          <f x="0" y="2.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="100"/>
+        </b>
+        <b name="baozi_2" sc="1" dl="0">
+          <f x="-64" y="-9.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="11">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="95" gM="95" bM="95"/>
+          </f>
+          <f x="-64" y="-9.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="95" gM="95" bM="95"/>
+          </f>
+          <f x="-64" y="-3.55" kX="0" kY="0" cX="1" cY="0.82" pX="0" pY="0" z="1" dI="0" twE="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="95" gM="95" bM="95"/>
+          </f>
+          <f x="-64" y="-31.55" kX="0" kY="0" cX="0.72" cY="1.21" pX="0" pY="0" z="1" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="40" rM="98" gM="98" bM="98"/>
+          </f>
+          <f x="-64" y="-50.05" kX="0" kY="0" cX="1" cY="0.75" pX="0" pY="0" z="1" dI="0" dr="74">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="baozi_20" sc="1" dl="0">
+          <f x="-42" y="8.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="45"/>
+          <f x="-42" y="8.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+          <f x="-42" y="14.5" kX="0" kY="0" cX="1" cY="0.73" pX="0" pY="0" z="2" dI="0" twE="0" dr="8"/>
+          <f x="-42" y="-11" kX="0" kY="0" cX="0.65" cY="1.23" pX="0" pY="0" z="2" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="38" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-42" y="-31" kX="0" kY="0" cX="1" cY="0.65" pX="0" pY="0" z="2" dI="0" dr="39">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="baozi_21" sc="1" dl="0">
+          <f x="5.5" y="17.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="83"/>
+          <f x="5.5" y="17.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="3"/>
+          <f x="5.5" y="24.5" kX="0" kY="0" cX="1" cY="0.69" pX="0" pY="0" z="3" dI="0" twE="0" dr="8"/>
+          <f x="5.5" y="1" kX="0" kY="0" cX="0.74" cY="1.27" pX="0" pY="0" z="3" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="38" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="5.5" y="-16" kX="0" kY="0" cX="1" cY="0.78" pX="0" pY="0" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="baozi_2">
+      <mov name="stand" dr="100" to="0" drTW="100" lp="1" twE="NaN">
+        <b name="baozi_14" sc="1" dl="0">
+          <f x="0" y="2.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="100"/>
+        </b>
+        <b name="baozi_2" sc="1" dl="0">
+          <f x="-32" y="-24" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="11">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="92" gM="92" bM="92"/>
+          </f>
+          <f x="-32" y="-24" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="92" gM="92" bM="92"/>
+          </f>
+          <f x="-32" y="-19.5" kX="0" kY="0" cX="1" cY="0.82" pX="0" pY="0" z="1" dI="0" twE="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="92" gM="92" bM="92"/>
+          </f>
+          <f x="-32" y="-44.8" kX="0" kY="0" cX="0.79" cY="1.48" pX="0" pY="0" z="1" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="36" rM="97" gM="97" bM="97"/>
+          </f>
+          <f x="-32" y="-68.5" kX="0" kY="0" cX="1" cY="0.75" pX="0" pY="0" z="1" dI="0" dr="74">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="baozi_20" sc="1" dl="0">
+          <f x="76" y="-9.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="46">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="95" gM="95" bM="95"/>
+          </f>
+          <f x="76" y="-9.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="95" gM="95" bM="95"/>
+          </f>
+          <f x="76" y="-5.05" kX="0" kY="0" cX="1" cY="0.82" pX="0" pY="0" z="2" dI="0" twE="0" dr="8">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="95" gM="95" bM="95"/>
+          </f>
+          <f x="76" y="-36.45" kX="0" kY="0" cX="0.74" cY="1.37" pX="0" pY="0" z="2" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="38" rM="98" gM="98" bM="98"/>
+          </f>
+          <f x="76" y="-50.05" kX="0" kY="0" cX="1" cY="0.75" pX="0" pY="0" z="2" dI="0" dr="38">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="baozi_21" sc="1" dl="0">
+          <f x="52" y="8.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="83"/>
+          <f x="52" y="8.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="3"/>
+          <f x="52" y="13" kX="0" kY="0" cX="1" cY="0.78" pX="0" pY="0" z="3" dI="0" twE="0" dr="8"/>
+          <f x="52" y="-22.5" kX="0" kY="0" cX="0.69" cY="1.31" pX="0" pY="0" z="3" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="33" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="52" y="-40" kX="0" kY="0" cX="1" cY="0.78" pX="0" pY="0" z="3" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="baozi_22" sc="1" dl="0">
+          <f x="-64" y="-9.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="100">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="95" gM="95" bM="95"/>
+          </f>
+        </b>
+        <b name="baozi_23" sc="1" dl="0">
+          <f x="-42" y="8.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="100"/>
+        </b>
+        <b name="baozi_24" sc="1" dl="0">
+          <f x="5.5" y="17.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="100"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="baozi_1">
+      <mov name="stand" dr="100" to="0" drTW="100" lp="1" twE="NaN">
+        <b name="baozi_14" sc="1" dl="0">
+          <f x="0" y="2.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="100"/>
+        </b>
+        <b name="baozi_2" sc="1" dl="0">
+          <f x="6.5" y="-36" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="16">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="90" gM="90" bM="90"/>
+          </f>
+          <f x="6.5" y="-36" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0.76" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="90" gM="90" bM="90"/>
+          </f>
+          <f x="6.5" y="-32.5" kX="0" kY="0" cX="1" cY="0.94" pX="0" pY="0" z="1" dI="0" twE="0.76" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="90" gM="90" bM="90"/>
+          </f>
+          <f x="2.5" y="-67.5" kX="0" kY="0" cX="0.68" cY="1.15" pX="0" pY="0" z="1" dI="0" twE="0" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="43" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="2.5" y="-86.35" kX="0" kY="0" cX="0.93" cY="1.05" pX="0" pY="0" z="1" dI="0" dr="71">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="baozi_20" sc="1" dl="0">
+          <f x="43" y="-23" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="50">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="92" gM="92" bM="92"/>
+          </f>
+          <f x="43" y="-23" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="92" gM="92" bM="92"/>
+          </f>
+          <f x="43" y="-21.5" kX="0" kY="0" cX="1" cY="0.9" pX="0" pY="0" z="2" dI="0" twE="0" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="92" gM="92" bM="92"/>
+          </f>
+          <f x="43" y="-49.9" kX="0" kY="0" cX="0.62" cY="1.18" pX="0" pY="0" z="2" dI="0" twE="0" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="40" rM="97" gM="97" bM="97"/>
+          </f>
+          <f x="43" y="-80" kX="0" kY="0" cX="1" cY="0.59" pX="0" pY="0" z="2" dI="0" dr="37">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="baozi_21" sc="1" dl="0">
+          <f x="-32" y="-24" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="100">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="92" gM="92" bM="92"/>
+          </f>
+        </b>
+        <b name="baozi_22" sc="1" dl="0">
+          <f x="3.5" y="-13" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="86"/>
+          <f x="3.5" y="-13" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="3"/>
+          <f x="3.5" y="-10.5" kX="0" kY="0" cX="1" cY="0.76" pX="0" pY="0" z="4" dI="0" twE="0" dr="7"/>
+          <f x="3.5" y="-42.5" kX="0" kY="0" cX="0.65" cY="1.25" pX="0" pY="0" z="4" dI="0" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="33" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="3.5" y="-67" kX="0" kY="0" cX="1" cY="0.82" pX="0" pY="0" z="4" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="baozi_23" sc="1" dl="0">
+          <f x="76" y="-9.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="100">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="95" gM="95" bM="95"/>
+          </f>
+        </b>
+        <b name="baozi_24" sc="1" dl="0">
+          <f x="52" y="8.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="100"/>
+        </b>
+        <b name="baozi_25" sc="1" dl="0">
+          <f x="-64" y="-9.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="100">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="95" gM="95" bM="95"/>
+          </f>
+        </b>
+        <b name="baozi_26" sc="1" dl="0">
+          <f x="-42" y="8.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" dr="100"/>
+        </b>
+        <b name="baozi_27" sc="1" dl="0">
+          <f x="5.5" y="17.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" dr="100"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="eat">
+    <SubTexture name="images/ui_huodong/baozi_13" width="20" height="17" cocos2d_pX="10" cocos2d_pY="8.5"/>
+    <SubTexture name="images/ui_huodong/baozi_7" width="91" height="72" cocos2d_pX="45.5" cocos2d_pY="36"/>
+    <SubTexture name="images/ui_huodong/baozi_8" width="127" height="72" cocos2d_pX="63.5" cocos2d_pY="36"/>
+    <SubTexture name="images/ui_huodong/baozi_2" width="81" height="51" cocos2d_pX="40.5" cocos2d_pY="25.5"/>
+    <SubTexture name="images/ui_huodong/baozi_9" width="184" height="133" cocos2d_pX="92" cocos2d_pY="66.5"/>
+    <SubTexture name="images/ui_huodong/baozi_10" width="139" height="183" cocos2d_pX="69.5" cocos2d_pY="91.5"/>
+    <SubTexture name="images/ui_huodong/baozi_5" width="77" height="63" cocos2d_pX="38.5" cocos2d_pY="31.5"/>
+    <SubTexture name="images/ui_huodong/baozi_1" width="630" height="122" cocos2d_pX="315" cocos2d_pY="61"/>
+    <SubTexture name="images/ui_huodong/baozi_12" width="7" height="19" cocos2d_pX="3.5" cocos2d_pY="9.5"/>
+    <SubTexture name="images/ui_huodong/baozi_11" width="152" height="178" cocos2d_pX="76" cocos2d_pY="89"/>
+    <SubTexture name="images/ui_huodong/baozi_6" width="90" height="87" cocos2d_pX="45" cocos2d_pY="43.5"/>
+    <SubTexture name="images/ui_huodong/baozi_4" width="78" height="88" cocos2d_pX="39" cocos2d_pY="44"/>
+    <SubTexture name="images/ui_huodong/baozi_3" width="154" height="166" cocos2d_pX="77" cocos2d_pY="83"/>
+    <SubTexture name="images/ui_huodong/baozi_14" width="270" height="116" cocos2d_pX="135" cocos2d_pY="58"/>
+  </TextureAtlas>
+</skeleton>

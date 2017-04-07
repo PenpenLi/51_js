@@ -1,0 +1,205 @@
+<skeleton name="ui_lingshou_fanpai（灵兽翻牌）" frameRate="35" version="2.2">
+  <armatures>
+    <armature name="ui_ls_fanpai_x">
+      <b name="x">
+        <d name="images/ui_lingshou/zz_wrong"/>
+      </b>
+    </armature>
+    <armature name="ui_ls_fanpaidonghua">
+      <b name="ui_fanpai_ka">
+        <d name="ui_ls_fanpai_ka" isArmature="1"/>
+      </b>
+      <b name="ui_fanpai_ka  复制 2">
+        <d name="ui_ls_fanpai_ka" isArmature="1"/>
+      </b>
+      <b name="1">
+        <d name="ui_ls_fanpai_ka" isArmature="1"/>
+        <d name="ui_ls_fanpai_xipai" isArmature="1"/>
+      </b>
+      <b name="ui_fanpai_ka  复制 20">
+        <d name="ui_ls_fanpai_ka" isArmature="1"/>
+      </b>
+      <b name="ui_fanpai_ka  复制 21">
+        <d name="ui_ls_fanpai_ka" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_ls_fanpai_xipai">
+      <b name="图层 2 复制">
+        <d name="ui_ls_fanpai_ka" isArmature="1"/>
+      </b>
+      <b name="图层 2">
+        <d name="ui_ls_fanpai_ka" isArmature="1"/>
+      </b>
+      <b name="图层 3">
+        <d name="ui_ls_fanpai_ka" isArmature="1"/>
+      </b>
+      <b name="图层 3 复制">
+        <d name="ui_ls_fanpai_ka" isArmature="1"/>
+      </b>
+      <b name="1">
+        <d name="ui_ls_fanpai_ka" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_ls_fanpai_ka">
+      <b name="2">
+        <d name="images/ui_lingshou/ka0"/>
+      </b>
+    </armature>
+    <armature name="ui_ls_fanpai_v">
+      <b name="v">
+        <d name="images/ui_lingshou/zz_right"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_ls_fanpai_x">
+      <mov name="stand" dr="20" to="0" drTW="20" lp="1" twE="NaN">
+        <b name="x" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="0.8" pX="0" pY="0" z="0" dI="0" twE="0" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="-6.25" kX="0" kY="0" cX="1.2" cY="1.29" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+          <f x="0.4" y="-16.45" kX="0" kY="0" cX="1.33" cY="1.58" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+          <f x="0.4" y="-1.75" kX="0" kY="0" cX="1.51" cY="1.51" pX="0" pY="0" z="0" dI="0" twE="0" dr="4"/>
+          <f x="0.4" y="-2.4" kX="0" kY="0" cX="1.5" cY="1.5" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f x="0.4" y="-2.4" kX="0" kY="0" cX="1.5" cY="1.5" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_ls_fanpaidonghua">
+      <mov name="stand" dr="90" to="0" drTW="90" lp="1" twE="NaN">
+        <b name="ui_fanpai_ka" sc="1" dl="0">
+          <f x="-200.65" y="2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="4"/>
+          <f x="-200.65" y="2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="-200.6" y="2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-214.1" y="2" kX="-20" kY="-20" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+          <f x="-109.1" y="2" kX="-25" kY="-25" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="4"/>
+          <f x="0.9" y="2" kX="-20" kY="-20" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="4"/>
+          <f x="-13.5" y="2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="3"/>
+          <f dr="47" dI="-1"/>
+          <f x="-13.5" y="2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f x="0.9" y="2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-109.1" y="2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+          <f x="-214.1" y="2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-200.55" y="2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="-200.6" y="2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="7"/>
+        </b>
+        <b name="ui_fanpai_ka  复制 2" sc="1" dl="0">
+          <f x="198.35" y="1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="4"/>
+          <f x="198.35" y="1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f x="198.35" y="1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+          <f x="210.1" y="1" kX="20" kY="20" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="5"/>
+          <f x="105.1" y="1" kX="20" kY="20" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="4"/>
+          <f x="-4.9" y="1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="4"/>
+          <f x="8.85" y="1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="3"/>
+          <f dr="47" dI="-1"/>
+          <f x="11.65" y="1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f x="11.5" y="0.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="105.1" y="1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="5"/>
+          <f x="210.1" y="1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+          <f x="198.55" y="1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f x="198.55" y="1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="7"/>
+        </b>
+        <b name="1" sc="1" dl="0">
+          <f x="0.5" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="24"/>
+          <f x="0.5" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="30"/>
+          <f x="0.5" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="4"/>
+          <f x="0.25" y="0" kX="0" kY="0" cX="0.96" cY="0.96" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="0.5" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="0.5" y="0" kX="0" kY="0" cX="0.96" cY="0.96" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="0.5" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="0.5" y="0" kX="0" kY="0" cX="0.96" cY="0.96" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="0.5" y="0" kX="0" kY="0" cX="0.96" cY="0.96" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="0.5" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="0.5" y="0" kX="0" kY="0" cX="0.96" cY="0.96" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="0.5" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="2"/>
+          <f x="0.5" y="0" kX="0" kY="0" cX="1.25" cY="1.25" pX="0" pY="0" z="2" dI="0" twE="0" dr="2"/>
+          <f x="0.5" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="15"/>
+        </b>
+        <b name="ui_fanpai_ka  复制 20" sc="1" dl="0">
+          <f x="-0.65" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="3" dI="0" dr="14">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="4"/>
+          <f x="0.35" y="0" kX="0" kY="0" cX="1.13" cY="1.13" bd="8" pX="0" pY="0" z="3" dI="0" dr="1"/>
+          <f dr="71" dI="-1"/>
+        </b>
+        <b name="ui_fanpai_ka  复制 21" sc="1" dl="0">
+          <f dr="18" dI="-1"/>
+          <f x="0.35" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="5"/>
+          <f x="0.35" y="0" kX="0" kY="0" cX="1.13" cY="1.13" bd="8" pX="0" pY="0" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="66" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_ls_fanpai_xipai">
+      <mov name="stand" dr="15" to="0" drTW="15" lp="1" twE="NaN">
+        <b name="图层 2 复制" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-65.9" y="-14.55" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-80.7" y="52" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-35.2" y="93.6" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="39.2" y="62.4" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" dr="2"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="4"/>
+          <f x="93.5" y="-110.4" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="4"/>
+          <f x="-8" y="8" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="0" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="2"/>
+          <f x="-59.2" y="52.8" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="5"/>
+          <f x="-59.2" y="-81.6" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+          <f x="-3.2" y="-81.6" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+          <f x="-1.6" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="0" dr="2"/>
+        </b>
+        <b name="图层 3 复制" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="2"/>
+          <f x="13.6" y="92.8" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="5"/>
+          <f x="66.4" y="56.8" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="3"/>
+          <f x="37.6" y="-33.6" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="3"/>
+          <f x="-1.6" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="3" dI="0" dr="2"/>
+        </b>
+        <b name="1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.26" cY="1.26" pX="0" pY="0" z="4" dI="0" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" pX="0" pY="0" z="4" dI="0" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.16" cY="1.16" pX="0" pY="0" z="4" dI="0" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_ls_fanpai_ka">
+      <mov name="stand" dr="1" to="0">
+        <b name="2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_ls_fanpai_v">
+      <mov name="stand" dr="20" to="0" drTW="20" lp="1" twE="NaN">
+        <b name="v" sc="1" dl="0">
+          <f x="0" y="2.8" kX="0" kY="0" cX="1" cY="0.8" pX="0" pY="0" z="0" dI="0" twE="0" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="-3.85" kX="0" kY="0" cX="1.2" cY="1.29" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+          <f x="0" y="-14" kX="0" kY="0" cX="1.08" cY="1.28" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+          <f x="0" y="0.7" kX="0" kY="0" cX="1.02" cY="1.02" pX="0" pY="0" z="0" dI="0" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_lingshou_fanpai（灵兽翻牌）">
+    <SubTexture name="images/ui_lingshou/zz_right" width="91" height="85" cocos2d_pX="45.5" cocos2d_pY="42.5"/>
+    <SubTexture name="images/ui_lingshou/ka0" width="168" height="239" cocos2d_pX="84" cocos2d_pY="119.5"/>
+    <SubTexture name="images/ui_lingshou/zz_wrong" width="89" height="95" cocos2d_pX="44.5" cocos2d_pY="47.5"/>
+  </TextureAtlas>
+</skeleton>

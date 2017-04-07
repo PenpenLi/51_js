@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>（附身提供灵兽基础属性@%的加成）</string>
+        <key>5</key>
+        <string>卸下</string>
+        <key>6</key>
+        <string>更换</string>
+        <key>13</key>
+        <string>基础天赋</string>
+        <key>14</key>
+        <string>特殊天赋</string>
+        <key>15</key>
+        <string>攻击</string>
+        <key>16</key>
+        <string>魔防</string>
+        <key>17</key>
+        <string>物防</string>
+        <key>18</key>
+        <string>气血</string>
+    </dict>
+</plist>

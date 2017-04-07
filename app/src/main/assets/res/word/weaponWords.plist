@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>点击放入材料，可熔炼成熔液；点击材料右上方减号可减少数量，长按可加速放入；在下方类别选择栏可批量放入，还可选择材料的保留个数</string>
+        <key>2</key>
+        <string>【熔炼池】</string>
+        <key>3</key>
+        <string>熔炼</string>
+        <key>4</key>
+        <string>材料背包</string>
+        <key>5</key>
+        <string>选择要互换的神器</string>
+        <key>6</key>
+        <string>选择要互换的神器</string>
+        <key>select_pos_1</key>
+        <string>选择要互换的神器</string>
+        <key>select_pos_2</key>
+        <string>选择要互换的神器</string>
+        <key>9</key>
+        <string>神器互换</string>
+        <key>10</key>
+        <string>英雄回炉</string>
+        <key>11</key>
+        <string>选择英雄</string>
+        <key>12</key>
+        <string>返还资源</string>
+        <key>13</key>
+        <string>基础资源</string>
+        <key>14</key>
+        <string>材料资源</string>
+        <key>15</key>
+        <string>保留\\w{c=4eff00}@\\个</string>
+        <key>16</key>
+        <string>当前突破+@</string>
+        <key>17</key>
+        <string>突破已达上限</string>
+        <key>18</key>
+        <string>当前:</string>
+        <key>19</key>
+        <string>该武将的输出提升@%</string>
+        <key>20</key>
+        <string>该武将的减伤提升@%</string>
+        <key>21</key>
+        <string>下一级:</string>
+        <key>max_power_level</key>
+        <string>已达上限</string>
+        <key>empty</key>
+        <string>无</string>
+        <key>24</key>
+        <string>淬炼强度</string>
+        <key>25</key>
+        <string>淬炼战力达到@开启  </string>
+        <key>26</key>
+        <string>转换者</string>
+        <key>27</key>
+        <string>被转换者</string>
+        <key>28</key>
+        <string>转换成功</string>
+        <key>29</key>
+        <string>双方的神器突破等级都为0，无法转换</string>
+        <key>30</key>
+        <string>武将等级需要达到@级</string>
+    </dict>
+</plist>

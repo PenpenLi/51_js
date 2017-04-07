@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>no_family</key>
+        <string>暂无</string>
+        <key>no_family1</key>
+        <string>暂无家族</string>
+        <key>prodect_dec</key>
+        <string>保护@小时</string>
+        <key>info_under_protect</key>
+        <string>该玩家当前处于系统保护期间，请稍后再试！</string>
+        <key>info_user_loot_leave</key>
+        <string>该位置玩家已经离开</string>
+        <key>info_dia_loot</key>
+        <string>是否消耗@元宝增加挑战次数?</string>
+        <key>info_finish_tip</key>
+        <string>确定结束本次训练？</string>
+        <key>fight_list_title</key>
+        <string>记录板</string>
+        <key>loot_list_win</key>
+        <string>成功了</string>
+        <key>loot_list_lose</key>
+        <string>失败了</string>
+        <key>loot_list_user</key>
+        <string>占领你的位置</string>
+        <key>change_desk</key>
+        <string>是否确定换位置?</string>
+        <key>pro_once_dec</key>
+        <string>每次喝酒期间，仅可购买一次保护时间。若在
+保护期间进行挑战，则保护失效。</string>
+        <key>buy_max</key>
+        <string>当前已无购买次数</string>
+        <key>no_times</key>
+        <string>挑战次数已用完，是否购买？</string>
+        <key>lootinfo_fname</key>
+        <string>家族：</string>
+        <key>38</key>
+        <string>已获得：</string>
+        <key>39</key>
+        <string>今日剩余抢位次数：</string>
+        <key>40</key>
+        <string>本轮训练剩余时间：</string>
+        <key>tip1</key>
+        <string>该位置已经有人了</string>
+        <key>20</key>
+        <string>保护中</string>
+        <key>21</key>
+        <string>主公的等级已经超过该训练房的等级段！</string>
+        <key>23</key>
+        <string>魔鬼训练房@</string>
+        <key>24</key>
+        <string>分解后所消耗部分可100%返还</string>
+    </dict>
+</plist>

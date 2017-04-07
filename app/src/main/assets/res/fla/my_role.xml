@@ -1,0 +1,115 @@
+<skeleton name="my_role" frameRate="30" version="2.2">
+  <armatures>
+    <armature name="my_role_1">
+      <b name="a11">
+        <d name="images/role/025/a11"/>
+      </b>
+      <b name="图层 11">
+        <d name="images/role/025/a14"/>
+      </b>
+      <b name="a15">
+        <d name="images/role/025/a15"/>
+      </b>
+      <b name="a14">
+        <d name="images/role/025/a14"/>
+      </b>
+      <b name="a12">
+        <d name="images/role/025/a12"/>
+      </b>
+      <b name="a13">
+        <d name="images/role/025/a13"/>
+      </b>
+      <b name="a10">
+        <d name="my_role_2" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="my_role_2">
+      <b name="a10">
+        <d name="images/role/025/a10"/>
+      </b>
+      <b name="a8">
+        <d name="images/role/025/a8"/>
+        <d name="images/role/025/a7"/>
+      </b>
+      <b name="a9">
+        <d name="images/role/025/a9"/>
+      </b>
+      <b name="a2">
+        <d name="images/role/025/a2"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="my_role_2">
+      <mov name="stand" dr="36" to="0" drTW="36" lp="1" twE="NaN">
+        <b name="a10" sc="1" dl="0">
+          <f x="110" y="186" kX="0" kY="0" cX="1" cY="1" pX="0" pY="81" z="0" dI="0" dr="36"/>
+        </b>
+        <b name="a8" sc="1" dl="0">
+          <f x="132" y="158.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="4"/>
+          <f x="133.65" y="161" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" dr="3"/>
+          <f x="132" y="158.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="29"/>
+        </b>
+        <b name="a9" sc="1" dl="0">
+          <f x="141" y="99.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="36"/>
+        </b>
+        <b name="a2" sc="1" dl="0">
+          <f x="145.5" y="121" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="4"/>
+          <f x="144.75" y="130.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="3"/>
+          <f x="145.5" y="121" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="29"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="my_role_1">
+      <mov name="stand" dr="40" to="0" drTW="40" lp="1" twE="NaN">
+        <b name="a11" sc="1" dl="0">
+          <f x="-70" y="-112.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="18"/>
+          <f x="-73" y="-119.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="21"/>
+          <f x="-70" y="-112.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f x="20.8" y="-61.8" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="18"/>
+          <f x="24.8" y="-70.8" kX="-6.81" kY="173.19" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="21"/>
+          <f x="20.8" y="-61.8" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="a15" sc="1" dl="0">
+          <f x="-22.5" y="-73.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="18"/>
+          <f x="-22.45" y="-80.1" kX="0" kY="0" cX="1.02" cY="1.02" pX="0" pY="0" z="2" dI="0" twE="0" dr="21"/>
+          <f x="-22.5" y="-73.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="a14" sc="1" dl="0">
+          <f x="-61" y="-63.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="18"/>
+          <f x="-65.5" y="-71.05" kX="7.45" kY="7.45" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="21"/>
+          <f x="-61" y="-63.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="a12" sc="1" dl="0">
+          <f x="-47.5" y="-80.55" kX="0" kY="0" cX="1.06" cY="1.06" pX="0" pY="0" z="4" dI="0" twE="0" dr="18"/>
+          <f x="-47.8" y="-87.2" kX="0" kY="0" cX="1.08" cY="1.08" pX="0" pY="0" z="4" dI="0" twE="0" dr="21"/>
+          <f x="-47.5" y="-80.55" kX="0" kY="0" cX="1.06" cY="1.06" pX="0" pY="0" z="4" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="a13" sc="1" dl="0">
+          <f x="-43" y="-14.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="18"/>
+          <f x="-52.15" y="-22.55" kX="5.24" kY="5.24" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="21"/>
+          <f x="-43" y="-14.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="a10" sc="1" dl="0">
+          <f x="-12" y="-108" kX="0" kY="0" cX="1" cY="1" pX="106" pY="187.05" z="6" dI="0" twE="0" dr="18"/>
+          <f x="-15" y="-115" kX="0" kY="0" cX="1" cY="1" pX="106" pY="187.05" z="6" dI="0" twE="0" dr="21"/>
+          <f x="-12" y="-108" kX="0" kY="0" cX="1" cY="1" pX="106" pY="187.05" z="6" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="my_role">
+    <SubTexture name="images/role/025/a2" width="66" height="19" cocos2d_pX="33" cocos2d_pY="9.5"/>
+    <SubTexture name="images/role/025/a9" width="72" height="81" cocos2d_pX="36" cocos2d_pY="40.5"/>
+    <SubTexture name="images/role/025/a7" width="76" height="60" cocos2d_pX="38" cocos2d_pY="30"/>
+    <SubTexture name="images/role/025/a8" width="85" height="63" cocos2d_pX="42.5" cocos2d_pY="31.5"/>
+    <SubTexture name="images/role/025/a10" width="220" height="210" cocos2d_pX="110" cocos2d_pY="105"/>
+    <SubTexture name="images/role/025/a13" width="83" height="64" cocos2d_pX="41.5" cocos2d_pY="32"/>
+    <SubTexture name="images/role/025/a12" width="48" height="42" cocos2d_pX="24" cocos2d_pY="21"/>
+    <SubTexture name="images/role/025/a15" width="92" height="94" cocos2d_pX="46" cocos2d_pY="47"/>
+    <SubTexture name="images/role/025/a14" width="44" height="59" cocos2d_pX="22" cocos2d_pY="29.5"/>
+    <SubTexture name="images/role/025/a11" width="51" height="50" cocos2d_pX="25.5" cocos2d_pY="25"/>
+  </TextureAtlas>
+</skeleton>

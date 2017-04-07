@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>购买的次数只可当日使用，第二天将会重置</string>
+        <key>2</key>
+        <string>确定</string>
+        <key>3</key>
+        <string>副本挑战次数</string>
+        <key>4</key>
+        <string>购买次数总价：</string>
+    </dict>
+</plist>

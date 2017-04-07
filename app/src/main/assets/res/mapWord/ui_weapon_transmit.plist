@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>更换</string>
+        <key>2</key>
+        <string>淬炼效果</string>
+        <key>3</key>
+        <string>突破效果</string>
+        <key>4</key>
+        <string>淬炼效果</string>
+        <key>5</key>
+        <string>突破效果</string>
+        <key>6</key>
+        <string>更换</string>
+        <key>7</key>
+        <string>更换</string>
+        <key>8</key>
+        <string>强化等级：</string>
+        <key>9</key>
+        <string>专属阵营：</string>
+        <key>10</key>
+        <string>精炼等级：</string>
+        <key>11</key>
+        <string>要转化的魔纹</string>
+        <key>12</key>
+        <string>转化后保留所有属性效果</string>
+        <key>13</key>
+        <string>突破等级：</string>
+        <key>14</key>
+        <string>淬炼值：</string>
+        <key>15</key>
+        <string>突破等级：</string>
+        <key>16</key>
+        <string>淬炼值：</string>
+    </dict>
+</plist>

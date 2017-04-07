@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lab_1</key>
+	<string>当前的竞技场排名是@名，保持当前排名(第@至第@)，每天可领取奖励:</string>
+	<key>lab_1_1</key>
+	<string>当前的竞技场排名是@名，保持当前排名，每天可领取奖励:</string>
+	<key>lab_1_2</key>
+	<string>当前的竞技场排名是@名，每天可领取奖励:</string>
+	<key>lab_2</key>
+	<string>你的历史最高排名：\\w{c=ffffff}@</string>
+	<key>next_1</key>
+	<string>下一目标排名：（第@名至第@名），每天可领取奖励：</string>
+	<key>next_2</key>
+	<string>下一目标排名：（第@名），每天可领取奖励：</string>
+	<key>lab_3</key>
+	<string>1.竞技场战斗自动进行，玩家不能手动释放技能
+2.若战斗胜利，且防守排名高于进攻方，则双方排名互换
+3.若战斗超时，则判进攻方失败 
+4.每天每个玩家，可以在竞技场赛场分别发起5次战斗，每天零点重置次数
+5.每次攻击后，若失败则进攻方将进入10分钟的等待时间
+6.正在进行战斗的敌人，无法被选择作为对手
+</string>
+	<key>lab_4</key>
+	<string>竞技场规则</string>
+	<key>lab_5</key>
+	<string>历史最高排名奖励规则</string>
+	<key>lab_6</key>
+	<string>当玩家成功提升自己的历史最高排名时，将获得一次性元宝奖励，最高排名的提升幅度越大奖励越丰厚，每次至少1元宝，奖励通过邮箱发放。</string>
+	<key>lab_no</key>
+	<string>无</string>
+	<key>9</key>
+	<string>排行榜</string>
+	<key>10</key>
+	<string>名次</string>
+	<key>11</key>
+	<string>用户信息</string>
+	<key>11-1</key>
+	<string>军团信息</string>
+	<key>12</key>
+	<string>我的排名：@</string>
+	<key>12-1</key>
+	<string>我的战力：@</string>
+	<key>12-2</key>
+	<string>我的等级：@</string>
+	<key>12-3</key>
+	<string>我的记录：第@层</string>
+	<key>12-4</key>
+	<string>我的记录：无</string>
+	<key>12-5</key>
+	<string>我的军团活跃度：@</string>
+	<key>12-6</key>
+	<string>我的军团活跃度：无军团</string>
+	<key>12-7</key>
+	<string>我的伤害：@</string>
+	<key>12-8</key>
+	<string>我的伤害：无</string>
+	<key>12-9</key>
+	<string>我的星数：@</string>
+	<key>12-9-1</key>
+	<string>我的星数：无</string>
+	<key>13</key>
+	<string>防守战力</string>
+	<key>13-1</key>
+	<string>战队等级</string>
+	<key>13-2</key>
+	<string>通过记录</string>
+	<key>13-3</key>
+	<string>军团活跃度</string>
+	<key>13-4</key>
+	<string>造成伤害</string>
+	<key>13-5</key>
+	<string>最高星数</string>
+	<key>13-6</key>
+	<string>挑战守卫战力</string>
+	<key>14</key>
+	<string>军团：@</string>
+	<key>14-1</key>
+	<string>军团长：@</string>
+	<key>15</key>
+	<string>Lv.@</string>
+	<key>16</key>
+	<string>日 志</string>
+	<key>17</key>
+	<string>职 位:@</string>
+	<key>rank_no</key>
+	<string>排名不变</string>
+	<key>pw</key>
+	<string>战力：@</string>
+	<key>name1</key>
+	<string>等级排行</string>
+	<key>name2</key>
+	<string>竞技场排行</string>
+	<key>name3</key>
+	<string>卧龙窟排行</string>
+	<key>name4</key>
+	<string>军团排行</string>
+	<key>name5</key>
+	<string>巨兽来袭排行</string>
+	<key>name6</key>
+	<string>无尽之塔排行</string>
+	<key>name7</key>
+	<string>灵兽探险排行</string>
+	<key>teamType22</key>
+	<string>灵兽探险排名：</string>
+	<key>teamType1</key>
+	<string>竞技场排名</string>
+	<key>winword1</key>
+	<string>我就说一句，还有谁！</string>
+	<key>winword2</key>
+	<string>今天你对我爱搭不理，明天我打的你落花流水！</string>
+	<key>winword3</key>
+	<string>老夫纵横竞技场二十余载，罕逢敌手！</string>
+	<key>winword4</key>
+	<string>爱我你就抱抱我，爱我你就让让我！</string>
+	<key>winword5</key>
+	<string>能遇旗鼓相当的对手同场竞技，实乃人生幸事[16]</string>
+	<key>showoff</key>
+	<string>已炫耀到世界频道</string>
+</dict>
+</plist>

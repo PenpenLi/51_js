@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>@级</string>
+        <key>2</key>
+        <string>@阶</string>
+        <key>3</key>
+        <string>获取途径</string>
+        <key>6</key>
+        <string>点击查看预览</string>
+        <key>7</key>
+        <string>觉醒</string>
+        <key>8</key>
+        <string>略过动画</string>
+        <key>11</key>
+        <string>已觉醒至最终形态</string>
+        <key>12</key>
+        <string>领悟</string>
+        <key>19</key>
+        <string>基础</string>
+        <key>20</key>
+        <string>特殊</string>
+        <key>24</key>
+        <string>灵兽附身于武将上天赋才会生效</string>
+        <key>28</key>
+        <string>灵兽碎片：</string>
+    </dict>
+</plist>

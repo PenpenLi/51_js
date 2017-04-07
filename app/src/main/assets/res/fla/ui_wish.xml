@@ -1,0 +1,179 @@
+<skeleton name="ui_wish" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="activity_type_sale_off">
+      <b name="图层 1">
+        <d name="png/ui_huodong/activity_type_sale_off.png"/>
+      </b>
+    </armature>
+    <armature name="shendeng">
+      <b name="wish_bg">
+        <d name="images/ui_huodong/wish_bg"/>
+      </b>
+      <b name="wish_under">
+        <d name="images/ui_huodong/wish_under"/>
+      </b>
+      <b name="wish_top">
+        <d name="images/ui_huodong/wish_top"/>
+      </b>
+      <b name="wish_bottle">
+        <d name="images/ui_huodong/wish_bottle"/>
+      </b>
+      <b name="图层 8">
+        <d name="images/ui_huodong/wish_bottle"/>
+      </b>
+      <b name="wish_light">
+        <d name="images/ui_huodong/wish_light"/>
+      </b>
+      <b name="shen">
+        <d name="shen" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="shen">
+      <b name="wish_ghost4">
+        <d name="images/ui_huodong/wish_ghost4"/>
+      </b>
+      <b name="wish_ghost5">
+        <d name="images/ui_huodong/wish_ghost5"/>
+      </b>
+      <b name="wish_ghost3">
+        <d name="images/ui_huodong/wish_ghost3"/>
+      </b>
+      <b name="wish_ghost1">
+        <d name="images/ui_huodong/wish_ghost1"/>
+      </b>
+      <b name="wish_ghost2">
+        <d name="images/ui_huodong/wish_ghost2"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="activity_type_sale_off">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="68" pY="55" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="shendeng">
+      <mov name="stand" dr="140" to="0" drTW="140" lp="1" twE="NaN">
+        <b name="wish_bg" sc="1" dl="0">
+          <f x="-138.9" y="48" kX="0" kY="0" cX="0.61" cY="0.4" pX="0" pY="0" z="0" dI="0" twE="0.41" dr="11">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-51" y="56" kX="0" kY="0" cX="1" cY="1.69" pX="0" pY="0" z="0" dI="0" twE="0.41" dr="5"/>
+          <f x="-5.75" y="56" kX="0" kY="0" cX="1.22" cY="2.34" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+          <f x="24" y="56" kX="0" kY="0" cX="1.27" cY="1.72" pX="0" pY="0" z="0" dI="0" twE="-0.54" dr="7"/>
+          <f x="87.45" y="53.1" kX="0" kY="0" cX="1.09" cY="1.08" pX="0" pY="0" z="0" dI="0" twE="0" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="64" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="183.45" y="48" kX="0" kY="0" cX="1" cY="0.61" pX="0" pY="0" z="0" dI="0" dr="106">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="wish_under" sc="1" dl="0">
+          <f x="-10.85" y="20.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="140"/>
+        </b>
+        <b name="wish_top" sc="1" dl="0">
+          <f x="-27.35" y="17.15" kX="0" kY="0" cX="1" cY="1" pX="-15" pY="17" z="2" dI="0" dr="64"/>
+          <f x="-27.35" y="17.15" kX="0" kY="0" cX="1" cY="1" pX="-15" pY="17" z="2" dI="0" twE="-0.4" dr="7"/>
+          <f x="-27.35" y="17.15" kX="-15" kY="-15" cX="1" cY="1" pX="-14.95" pY="17" z="2" dI="0" twE="0.33" dr="8"/>
+          <f x="-27.35" y="17.15" kX="-4.47" kY="-4.47" cX="1" cY="1" pX="-15" pY="17" z="2" dI="0" twE="0" dr="5"/>
+          <f x="-27.35" y="17.15" kX="-8.79" kY="-8.79" cX="1" cY="1" pX="-15" pY="17" z="2" dI="0" twE="0.33" dr="8"/>
+          <f x="-27.35" y="17.15" kX="0" kY="0" cX="1" cY="1" pX="-15" pY="17" z="2" dI="0" dr="12"/>
+          <f x="-27.35" y="17.15" kX="0" kY="0" cX="1" cY="1" pX="-15" pY="17" z="2" dI="0" twE="-0.4" dr="7"/>
+          <f x="-27.35" y="17.15" kX="-15" kY="-15" cX="1" cY="1" pX="-14.95" pY="17" z="2" dI="0" twE="0.33" dr="8"/>
+          <f x="-27.35" y="17.15" kX="-4.47" kY="-4.47" cX="1" cY="1" pX="-15" pY="17" z="2" dI="0" twE="0" dr="5"/>
+          <f x="-27.35" y="17.15" kX="-8.79" kY="-8.79" cX="1" cY="1" pX="-15" pY="17" z="2" dI="0" twE="0.33" dr="8"/>
+          <f x="-27.35" y="17.15" kX="0" kY="0" cX="1" cY="1" pX="-15" pY="17" z="2" dI="0" dr="8"/>
+        </b>
+        <b name="wish_bottle" sc="1" dl="0">
+          <f x="-0.35" y="78.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="140"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f x="-0.35" y="78.65" kX="0" kY="0" cX="1" cY="1" bd="5" pX="0" pY="0" z="4" dI="0" twE="0" dr="15">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.35" y="78.65" kX="0" kY="0" cX="1" cY="1" bd="5" pX="0" pY="0" z="4" dI="0" twE="0" dr="20"/>
+          <f x="-0.35" y="78.65" kX="0" kY="0" cX="1" cY="1" bd="5" pX="0" pY="0" z="4" dI="0" dr="105">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="wish_light" sc="1" dl="0">
+          <f x="-83" y="14.5" kX="0" kY="0" cX="0.15" cY="0.15" bd="8" pX="0" pY="0" z="5" dI="0" twE="0" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-80" y="14.5" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="5" dI="0" twE="0" dr="2"/>
+          <f x="-85.5" y="22.5" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="5" dI="0" twE="0" dr="2"/>
+          <f x="-83" y="30.5" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="5" dI="0" twE="0" dr="2"/>
+          <f x="-75.4" y="40.3" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="5" dI="0" twE="0" dr="3"/>
+          <f x="-60" y="49" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="5" dI="0" twE="0" dr="3"/>
+          <f x="-25" y="57.75" kX="0" kY="0" cX="0.73" cY="0.73" bd="8" pX="0" pY="0" z="5" dI="0" twE="0" dr="3"/>
+          <f x="10" y="57" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="5" dI="0" twE="0" dr="2"/>
+          <f x="41.8" y="50.45" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="5" dI="0" twE="0" dr="3"/>
+          <f x="83.05" y="35" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="5" dI="0" twE="0" dr="3"/>
+          <f x="98.7" y="30.5" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="5" dI="0" twE="0" dr="4"/>
+          <f x="114.35" y="29.5" kX="30" kY="30" cX="1" cY="1" bd="8" pX="0" pY="0" z="5" dI="0" twE="0" dr="5"/>
+          <f x="127" y="34" kX="-180" kY="-180" cX="1" cY="1" bd="8" pX="0" pY="0" z="5" dI="0" twE="0" dr="5"/>
+          <f x="130.5" y="36" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="5" dI="0" dr="99">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="shen" sc="1" dl="0">
+          <f x="92.45" y="-51.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="140"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="shen">
+      <mov name="stand" dr="35" to="0" drTW="35" lp="1" twE="NaN">
+        <b name="wish_ghost4" sc="1" dl="0">
+          <f x="-20" y="-30" kX="0" kY="0" cX="1" cY="1" pX="19.25" pY="-13.25" z="0" dI="0" twE="0" dr="17"/>
+          <f x="-20.5" y="-39" kX="-11.91" kY="-11.91" cX="1" cY="1" pX="19.2" pY="-13.3" z="0" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="80" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-20" y="-30" kX="0" kY="0" cX="1" cY="1" pX="19.25" pY="-13.25" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="wish_ghost5" sc="1" dl="0">
+          <f x="-20" y="65" kX="0" kY="0" cX="1" cY="1" pX="-29" pY="-7.5" z="1" dI="0" twE="0" dr="17"/>
+          <f x="-16.75" y="59.3" kX="-6.01" kY="-6" cX="0.92" cY="0.93" pX="-28.85" pY="-7.45" z="1" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="47" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-20" y="65" kX="0" kY="0" cX="1" cY="1" pX="-29" pY="-7.5" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="wish_ghost3" sc="1" dl="0">
+          <f x="-25" y="60" kX="0.25" kY="0" cX="1" cY="1" pX="-20.3" pY="44.75" z="2" dI="0" twE="0" dr="17"/>
+          <f x="-24.95" y="52" kX="2.7" kY="2.45" cX="1.03" cY="1.03" pX="-20.25" pY="44.7" z="2" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="80" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-25" y="60" kX="0.25" kY="0" cX="1" cY="1" pX="-20.3" pY="44.75" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="wish_ghost1" sc="1" dl="0">
+          <f x="0" y="-30" kX="0" kY="0" cX="1" cY="1" pX="-18.25" pY="5.25" z="3" dI="0" twE="0" dr="17"/>
+          <f x="-3" y="-36.5" kX="8.2" kY="8.2" cX="1" cY="1" pX="-18.3" pY="5.25" z="3" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="80" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="-30" kX="0" kY="0" cX="1" cY="1" pX="-18.25" pY="5.25" z="3" dI="0" dr="1"/>
+        </b>
+        <b name="wish_ghost2" sc="1" dl="0">
+          <f x="30" y="25" kX="0" kY="0" cX="1" cY="1" pX="-18" pY="8" z="4" dI="0" twE="0" dr="17"/>
+          <f x="30" y="20" kX="-20.22" kY="-20.22" cX="1" cY="1" pX="-17.95" pY="7.95" z="4" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="80" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="30" y="25" kX="0" kY="0" cX="1" cY="1" pX="-18" pY="8" z="4" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_wish">
+    <SubTexture name="images/ui_huodong/wish_ghost2" width="60" height="59" cocos2d_pX="30" cocos2d_pY="29.5"/>
+    <SubTexture name="images/ui_huodong/wish_ghost1" width="79" height="106" cocos2d_pX="39.5" cocos2d_pY="53"/>
+    <SubTexture name="images/ui_huodong/wish_ghost3" width="112" height="116" cocos2d_pX="56" cocos2d_pY="58"/>
+    <SubTexture name="images/ui_huodong/wish_ghost5" width="83" height="35" cocos2d_pX="41.5" cocos2d_pY="17.5"/>
+    <SubTexture name="images/ui_huodong/wish_ghost4" width="77" height="79" cocos2d_pX="38.5" cocos2d_pY="39.5"/>
+    <SubTexture name="images/ui_huodong/wish_light" width="41" height="44" cocos2d_pX="17.5" cocos2d_pY="21"/>
+    <SubTexture name="images/ui_huodong/wish_bottle" width="266" height="133" cocos2d_pX="133" cocos2d_pY="66.5"/>
+    <SubTexture name="images/ui_huodong/wish_top" width="36" height="45" cocos2d_pX="18" cocos2d_pY="22.5"/>
+    <SubTexture name="images/ui_huodong/wish_under" width="32" height="9" cocos2d_pX="16" cocos2d_pY="4.5"/>
+    <SubTexture name="images/ui_huodong/wish_bg" width="386" height="190" cocos2d_pX="193" cocos2d_pY="95"/>
+    <SubTexture name="png/ui_huodong/activity_type_sale_off.png" width="136" height="110" cocos2d_pX="0" cocos2d_pY="0"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,66 @@
+<skeleton name="new_stage" frameRate="30" version="2.2">
+  <armatures>
+    <armature name="main_new_guanka">
+      <b name="图层 2">
+        <d name="main_new_guanka_2" isArmature="1"/>
+      </b>
+      <b name="1">
+        <d name="images/ui_word/new_guanka"/>
+      </b>
+    </armature>
+    <armature name="main_new_guanka_2">
+      <b name="图层 1">
+        <d name="images/ui_word/new_guanka"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="main_new_guanka_2">
+      <mov name="stand" dr="40" to="0" drTW="40" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="16.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="16.25" z="0" dI="0" twE="0" dr="9"/>
+          <f x="0.35" y="16.6" kX="4.76" kY="4.76" cX="1" cY="1" pX="-0.05" pY="16.3" z="0" dI="0" twE="0" dr="10"/>
+          <f x="0.35" y="16.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="16.25" z="0" dI="0" twE="0" dr="10"/>
+          <f x="0.35" y="16.6" kX="-3.98" kY="-3.98" cX="1" cY="1" pX="0.05" pY="16.15" z="0" dI="0" twE="0" dr="10"/>
+          <f x="0.35" y="16.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="16.25" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="main_new_guanka">
+      <mov name="stand" dr="160" to="0" drTW="160" lp="1" twE="NaN">
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="14" dI="-1"/>
+          <f x="-0.05" y="0.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+          <f x="-0.05" y="5.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+          <f x="-0.05" y="0.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+          <f x="-0.05" y="5.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+          <f x="-0.05" y="0.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+          <f x="-0.05" y="5.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+          <f x="-0.05" y="0.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+          <f x="-0.05" y="5.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+          <f x="-0.05" y="0.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+          <f x="-0.05" y="5.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+          <f x="-0.05" y="0.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f dr="45" dI="-1"/>
+        </b>
+        <b name="1" sc="1" dl="0">
+          <f x="0.35" y="16.6" kX="0" kY="0" cX="0.46" cY="0.3" pX="0" pY="16.2" z="0" dI="0" twE="0" dr="4"/>
+          <f x="0.35" y="16.55" kX="0" kY="0" cX="1" cY="1.28" pX="0" pY="16.2" z="0" dI="0" twE="0" dr="3"/>
+          <f x="0.35" y="16.65" kX="0" kY="0" cX="1.18" cY="1.08" pX="0" pY="16.3" z="0" dI="0" twE="0" dr="3"/>
+          <f x="0.35" y="16.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="16.25" z="0" dI="0" twE="0" dr="2"/>
+          <f x="0.35" y="16.55" kX="0" kY="0" cX="0.93" cY="1.11" pX="0" pY="16.2" z="0" dI="0" twE="0" dr="2"/>
+          <f x="0.35" y="16.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="16.25" z="1" dI="0" dr="1"/>
+          <f dr="100" dI="-1"/>
+          <f x="0.35" y="16.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="16.25" z="0" dI="0" twE="0" dr="4"/>
+          <f x="0.35" y="16.6" kX="0" kY="0" cX="1.25" cY="0.89" pX="0" pY="16.25" z="0" dI="0" twE="0" dr="3"/>
+          <f x="0.35" y="16.6" kX="0" kY="0" cX="0.84" cY="1.33" pX="0" pY="16.25" z="0" dI="0" twE="0" dr="3"/>
+          <f x="0.35" y="16.55" kX="0" kY="0" cX="0.37" cY="0.46" pX="0" pY="16.2" z="0" dI="0" dr="1"/>
+          <f dr="34" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="new_stage">
+    <SubTexture name="images/ui_word/new_guanka" width="76" height="32" cocos2d_pX="38" cocos2d_pY="16"/>
+  </TextureAtlas>
+</skeleton>

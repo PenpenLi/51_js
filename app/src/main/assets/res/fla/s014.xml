@@ -1,0 +1,72 @@
+<skeleton name="s014" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="s014_a_feibiao">
+      <b name="Layer 1">
+        <d name="s014_a_feibiao2" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="s014_a_feibiao2">
+      <b name="2">
+        <d name="images/role/015/a28"/>
+      </b>
+      <b name="1">
+        <d name="images/role/015/a29"/>
+      </b>
+      <b name="刀片">
+        <d name="images/skill/014/s014_luoxuan"/>
+      </b>
+      <b name="光环">
+        <d name="images/skill/other/quan"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="s014_a_feibiao2">
+      <mov name="stand" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+        <b name="2" sc="1" dl="0">
+          <f x="1.55" y="2.55" kX="0" kY="0" cX="1.1" cY="1.1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="1.55" y="2.55" kX="68.48" kY="68.48" cX="1.1" cY="1.1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="1.55" y="2.55" kX="112.56" kY="112.56" cX="1.1" cY="1.1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="1.55" y="2.55" kX="0" kY="0" cX="1.1" cY="1.1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="1.55" y="2.55" kX="68.48" kY="68.48" cX="1.1" cY="1.1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="1.55" y="2.55" kX="112.56" kY="112.56" cX="1.1" cY="1.1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="1" sc="1" dl="0">
+          <f x="1.4" y="2.05" kX="53.53" kY="53.53" cX="1.13" cY="1.13" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f x="1.4" y="2.05" kX="22.52" kY="22.52" cX="1.13" cY="1.13" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f x="1.4" y="2.05" kX="59.68" kY="59.68" cX="1.13" cY="1.13" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f x="1.4" y="2.05" kX="53.53" kY="53.53" cX="1.13" cY="1.13" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f x="1.4" y="2.05" kX="22.52" kY="22.52" cX="1.13" cY="1.13" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f x="1.4" y="2.05" kX="59.68" kY="59.68" cX="1.13" cY="1.13" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="刀片" sc="1" dl="0">
+          <f x="-0.1" y="1.45" kX="0" kY="0" cX="1.63" cY="1.63" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+          <f x="-0.1" y="1.45" kX="120" kY="120" cX="1.63" cY="1.63" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+          <f x="-0.1" y="1.45" kX="-150" kY="-150" cX="1.63" cY="1.63" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+          <f x="-0.1" y="1.45" kX="0" kY="0" cX="1.63" cY="1.63" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+          <f x="-0.1" y="1.45" kX="120" kY="120" cX="1.63" cY="1.63" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+          <f x="-0.1" y="1.45" kX="-150" kY="-150" cX="1.63" cY="1.63" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="光环" sc="1" dl="0">
+          <f x="0.35" y="0.3" kX="0" kY="0" cX="1.31" cY="1.31" pX="0.35" pY="0.35" z="3" dI="0" twE="0" dr="5"/>
+          <f x="0.4" y="0.35" kX="0" kY="0" cX="4.06" cY="4.06" pX="0.35" pY="0.35" z="3" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="s014_a_feibiao">
+      <mov name="stand" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="75.1" y="43.9" kX="0" kY="0" cX="1.46" cY="0.75" pX="53.4" pY="53.95" z="0" dI="0" dr="6"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="s014">
+    <SubTexture name="images/skill/other/quan" width="88" height="89" cocos2d_pX="43.65" cocos2d_pY="44.15"/>
+    <SubTexture name="images/skill/014/s014_luoxuan" width="100" height="100" cocos2d_pX="50" cocos2d_pY="50"/>
+    <SubTexture name="images/role/015/a29" width="98" height="99" cocos2d_pX="49" cocos2d_pY="49.5"/>
+    <SubTexture name="images/role/015/a28" width="98" height="99" cocos2d_pX="49" cocos2d_pY="49.5"/>
+  </TextureAtlas>
+</skeleton>

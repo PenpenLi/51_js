@@ -1,0 +1,594 @@
+<skeleton name="ui_shop" frameRate="30" version="2.2">
+  <armatures>
+    <armature name="ui_shopnpc9">
+      <b name="图层 1">
+        <d name="ui_shopnpc9_2" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_shopnpc9_2">
+      <b name="图层 1">
+        <d name="images/ui_pic1/npc_6_3"/>
+      </b>
+      <b name="图层 2">
+        <d name="images/ui_pic1/npc_6_2"/>
+      </b>
+      <b name="图层 3">
+        <d name="ui_shopnpc9_3" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_shopnpc9_3">
+      <b name="图层 2">
+        <d name="ui_shopnpc_smok" isArmature="1"/>
+      </b>
+      <b name="图层 1">
+        <d name="images/ui_pic1/npc_6_1"/>
+      </b>
+    </armature>
+    <armature name="ui_shopnpc5">
+      <b name="npc_5_3">
+        <d name="images/ui_pic1/npc_5_3"/>
+      </b>
+      <b name="npc_5_2">
+        <d name="images/ui_pic1/npc_5_2"/>
+      </b>
+      <b name="npc_5_1">
+        <d name="images/ui_pic1/npc_5_1"/>
+      </b>
+    </armature>
+    <armature name="ui_shopnpc4">
+      <b name="npc_4_4">
+        <d name="images/ui_pic1/npc_4_4"/>
+      </b>
+      <b name="npc_4_3">
+        <d name="images/ui_pic1/npc_4_3"/>
+      </b>
+      <b name="npc_4_2">
+        <d name="ui_shopnpc4_2" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_shopnpc4_2">
+      <b name="图层 1">
+        <d name="images/ui_pic1/npc_4_2"/>
+      </b>
+      <b name="图层 2">
+        <d name="images/ui_pic1/npc_4_1"/>
+      </b>
+      <b name="图层 3">
+        <d name="ui_shopnpc_smok" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_shopnpc3">
+      <b name="npc_3_3">
+        <d name="images/ui_pic1/npc_3_3"/>
+      </b>
+      <b name="npc_3_2">
+        <d name="ui_shopnpc3_2" isArmature="1"/>
+      </b>
+      <b name="npc_3_1">
+        <d name="ui_shopnpc3_1" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_shopnpc3_2">
+      <b name="图层 1">
+        <d name="images/ui_pic1/npc_3_2"/>
+      </b>
+      <b name="图层 2">
+        <d name="images/ui_pic1/npc_3_4"/>
+      </b>
+    </armature>
+    <armature name="ui_shopnpc3_1">
+      <b name="图层 1">
+        <d name="images/ui_pic1/npc_3_1"/>
+      </b>
+    </armature>
+    <armature name="ui_shopnpc2">
+      <b name="npc_2_5">
+        <d name="images/ui_pic1/npc_2_5"/>
+      </b>
+      <b name="npc_2_4">
+        <d name="images/ui_pic1/npc_2_4"/>
+      </b>
+      <b name="npc_2_3">
+        <d name="ui_shopnpc2_2" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_shopnpc2_2">
+      <b name="图层 1">
+        <d name="images/ui_pic1/npc_2_3"/>
+      </b>
+      <b name="图层 2">
+        <d name="images/ui_pic1/npc_2_1"/>
+      </b>
+      <b name="图层 3">
+        <d name="images/ui_pic1/npc_2_2"/>
+      </b>
+    </armature>
+    <armature name="ui_shopnpc1">
+      <b name="npc_1_8">
+        <d name="images/ui_pic1/npc_1_8"/>
+      </b>
+      <b name="npc_1_7">
+        <d name="images/ui_pic1/npc_1_7"/>
+      </b>
+      <b name="npc_1_6">
+        <d name="images/ui_pic1/npc_1_6"/>
+      </b>
+      <b name="npc_1_5">
+        <d name="images/ui_pic1/npc_1_5"/>
+      </b>
+      <b name="npc_1_4">
+        <d name="images/ui_pic1/npc_1_4"/>
+      </b>
+      <b name="npc_1_3">
+        <d name="images/ui_pic1/npc_1_3"/>
+      </b>
+      <b name="npc_1_2">
+        <d name="images/ui_pic1/npc_1_2"/>
+      </b>
+      <b name="npc_1_1">
+        <d name="ui_shopnpc1_1" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_shopnpc1_1">
+      <b name="图层 1">
+        <d name="images/ui_pic1/npc_1_1"/>
+      </b>
+      <b name="图层 2">
+        <d name="ui_shopnpc_smok" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_shopnpc_smok">
+      <b name="图层 1 复制">
+        <d name="images/ui_main_bg/smok"/>
+      </b>
+      <b name="图层 1">
+        <d name="images/ui_main_bg/smok"/>
+      </b>
+    </armature>
+    <armature name="ui_shopnpc10">
+      <b name="图层 1">
+        <d name="ui_shopnpc10_1" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_shopnpc10_1">
+      <b name="npc_10_3">
+        <d name="images/ui_pic1/npc_10_3"/>
+      </b>
+      <b name="npc_10_2">
+        <d name="images/ui_pic1/npc_10_2"/>
+      </b>
+      <b name="npc_10_1">
+        <d name="images/ui_pic1/npc_10_1"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_shopnpc9_3">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="77.9" y="2.85" kX="0" kY="0" cX="2.86" cY="2.12" pX="0.9" pY="3.25" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="5" y="27.5" kX="0" kY="0" cX="1" cY="1" pX="-41.5" pY="11" z="1" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_shopnpc9_2">
+      <mov name="stand" dr="98" to="0" drTW="98" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="127.5" y="114.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="98"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="33" dI="-1"/>
+          <f x="128.3" y="91" kX="0" kY="0" cX="1" cY="0.65" pX="0" pY="-10.55" z="1" dI="0" twE="0" dr="2"/>
+          <f x="128.3" y="91" kX="0" kY="0" cX="1" cY="0.96" pX="0" pY="-10.55" z="1" dI="0" twE="0" dr="2"/>
+          <f dr="61" dI="-1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="172.95" y="125.5" kX="0" kY="0" cX="1" cY="1" pX="6.5" pY="27" z="1" dI="0" twE="0" dr="20"/>
+          <f x="172.95" y="125.5" kX="-6.69" kY="-6.69" cX="1" cY="1" pX="6.5" pY="27.05" z="1" dI="0" twE="0" dr="29"/>
+          <f x="172.95" y="125.5" kX="2.28" kY="2.28" cX="1" cY="1" pX="6.5" pY="27" z="1" dI="0" twE="0" dr="21"/>
+          <f x="172.95" y="125.55" kX="-4.69" kY="-4.69" cX="1" cY="1" pX="6.45" pY="27" z="1" dI="0" twE="0" dr="16"/>
+          <f x="172.95" y="125.5" kX="0" kY="0" cX="1" cY="1" pX="6.5" pY="27" z="1" dI="0" twE="0" dr="12"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_shopnpc9">
+      <mov name="stand" dr="78" to="0" drTW="78" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-4" y="60.35" kX="0" kY="0" cX="1" cY="0.97" pX="139" pY="212.5" z="0" dI="0" twE="0" dr="29"/>
+          <f x="-4.05" y="60.35" kX="-1.22" kY="-1.23" cX="1" cY="1.02" pX="138.9" pY="212.55" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-4.05" y="60.35" kX="-1.22" kY="-1.23" cX="1" cY="1.02" pX="138.9" pY="212.55" z="0" dI="0" twE="0" dr="41"/>
+          <f x="-4" y="60.35" kX="0" kY="0" cX="1" cY="0.97" pX="139" pY="212.5" z="0" dI="0" twE="0" dr="5"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_shopnpc5">
+      <mov name="stand" dr="178" to="0" drTW="178" lp="1" twE="NaN">
+        <b name="npc_5_3" sc="1" dl="0">
+          <f x="-39.65" y="-28.05" kX="0" kY="0" cX="1" cY="0.96" pX="27.85" pY="0.4" z="0" dI="0" twE="0" dr="11"/>
+          <f x="-39.65" y="-40.45" kX="0" kY="0" cX="1" cY="1" pX="27.85" pY="0.35" z="0" dI="0" twE="0" dr="4"/>
+          <f x="-44.15" y="-37" kX="3.45" kY="3.45" cX="1" cY="1" pX="27.8" pY="0.3" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-39.65" y="-26.95" kX="0" kY="0" cX="1" cY="1" pX="27.85" pY="0.35" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-39.65" y="-32.45" kX="0" kY="0" cX="1" cY="1" pX="27.85" pY="0.35" z="0" dI="0" twE="0" dr="33"/>
+          <f x="-39.65" y="-40" kX="0" kY="0" cX="1" cY="1.07" pX="27.85" pY="0.35" z="0" dI="0" twE="0" dr="38"/>
+          <f x="-39.65" y="-28.05" kX="0" kY="0" cX="1" cY="0.96" pX="27.85" pY="0.4" z="0" dI="0" twE="0" dr="47"/>
+          <f x="-39.65" y="-40" kX="0" kY="0" cX="1" cY="1.07" pX="27.85" pY="0.35" z="0" dI="0" twE="0" dr="37"/>
+          <f x="-39.65" y="-28.05" kX="0" kY="0" cX="1" cY="0.96" pX="27.85" pY="0.4" z="0" dI="0" twE="0" dr="3"/>
+        </b>
+        <b name="npc_5_2" sc="1" dl="0">
+          <f x="0.8" y="57.65" kX="0" kY="0" cX="1" cY="0.96" pX="12.35" pY="56.8" z="1" dI="0" twE="0" dr="11"/>
+          <f x="3.8" y="54.5" kX="0" kY="0" cX="1.06" cY="1.14" pX="12.35" pY="56.85" z="1" dI="0" twE="0" dr="6"/>
+          <f x="0.8" y="57" kX="0" kY="0" cX="1" cY="1" pX="12.35" pY="56.85" z="1" dI="0" twE="0" dr="36"/>
+          <f x="0.8" y="55.8" kX="0" kY="0" cX="1" cY="1.07" pX="12.35" pY="56.85" z="1" dI="0" twE="0" dr="38"/>
+          <f x="0.8" y="57.65" kX="0" kY="0" cX="1" cY="0.96" pX="12.35" pY="56.8" z="1" dI="0" twE="0" dr="47"/>
+          <f x="0.8" y="55.8" kX="0" kY="0" cX="1" cY="1.07" pX="12.35" pY="56.85" z="1" dI="0" twE="0" dr="37"/>
+          <f x="0.8" y="57.65" kX="0" kY="0" cX="1" cY="0.96" pX="12.35" pY="56.8" z="1" dI="0" twE="0" dr="3"/>
+        </b>
+        <b name="npc_5_1" sc="1" dl="0">
+          <f x="-18.25" y="-54.95" kX="0" kY="0" cX="1" cY="0.96" pX="4.8" pY="49.35" z="2" dI="0" twE="0" dr="11"/>
+          <f x="-15.25" y="-72" kX="-6.24" kY="-6.24" cX="1" cY="0.97" pX="4.85" pY="49.35" z="2" dI="0" twE="0" dr="6"/>
+          <f x="-18.25" y="-60.5" kX="0" kY="0" cX="1" cY="1" pX="4.8" pY="49.35" z="2" dI="0" twE="0" dr="36"/>
+          <f x="-20.75" y="-73" kX="-3.7" kY="-3.7" cX="1" cY="1" pX="4.75" pY="49.35" z="2" dI="0" twE="0" dr="38"/>
+          <f x="-18.25" y="-54.95" kX="0" kY="0" cX="1" cY="0.96" pX="4.8" pY="49.35" z="2" dI="0" twE="0" dr="47"/>
+          <f x="-20.75" y="-73" kX="-3.7" kY="-3.7" cX="1" cY="1" pX="4.75" pY="49.35" z="2" dI="0" twE="0" dr="37"/>
+          <f x="-18.25" y="-54.95" kX="0" kY="0" cX="1" cY="0.96" pX="4.8" pY="49.35" z="2" dI="0" twE="0" dr="3"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_shopnpc4_2">
+      <mov name="stand" dr="194" to="0" drTW="194" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="88.5" y="64.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="194"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="133.35" y="91.5" kX="0" kY="0" cX="1" cY="0.06" pX="0" pY="-7.2" z="1" dI="0" twE="0" dr="18">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="133.35" y="91.5" kX="0" kY="0" cX="1" cY="0.06" pX="0" pY="-7.2" z="1" dI="0" twE="0" dr="47">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="133.35" y="91.5" kX="0" kY="0" cX="1" cY="0.64" pX="0" pY="-7.15" z="1" dI="0" twE="0" dr="47">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="133.35" y="91.55" kX="0" kY="0" cX="1" cY="1.84" pX="0" pY="-7.2" z="1" dI="0" twE="0" dr="12">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="133.35" y="91.5" kX="1.96" kY="1.96" cX="1" cY="2" pX="0.05" pY="-7.2" z="1" dI="0" twE="0" dr="14">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="133.35" y="91.35" kX="-0.79" kY="-0.79" cX="1.12" cY="2.08" pX="0" pY="-7.3" z="1" dI="0" twE="0" dr="11">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="133.25" y="91.25" kX="4.48" kY="4.48" cX="1" cY="2.19" pX="-0.15" pY="-7.35" z="1" dI="0" twE="0" dr="16">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="133.25" y="91.3" kX="-1.99" kY="-1.99" cX="1" cY="2.19" pX="-0.1" pY="-7.35" z="1" dI="0" twE="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="133.2" y="91.15" kX="10.7" kY="10.7" cX="1" cY="2.19" pX="-0.2" pY="-7.35" z="1" dI="0" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="133.3" y="91.15" kX="-16.26" kY="-16.26" cX="1" cY="1.22" pX="0" pY="-7.4" z="1" dI="0" twE="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="133.3" y="91.1" kX="17.97" kY="17.97" cX="1" cY="0.24" pX="0" pY="-7.4" z="1" dI="0" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="133.35" y="91.1" kX="-12.02" kY="-12.03" cX="1" cY="0.03" pX="0.05" pY="-7.05" z="1" dI="0" twE="0" dr="11">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="3" dI="-1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="164.9" y="86.45" kX="15" kY="15" cX="2.15" cY="1.81" pX="1" pY="3.3" z="1" dI="0" dr="194"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_shopnpc4">
+      <mov name="stand" dr="195" to="0" drTW="195" lp="1" twE="NaN">
+        <b name="npc_4_4" sc="1" dl="0">
+          <f x="-5" y="7.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="43"/>
+          <f x="-4" y="5.2" kX="0" kY="0" cX="1.03" cY="1.06" pX="0" pY="0" z="0" dI="0" twE="0" dr="36"/>
+          <f x="-5" y="7.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="50"/>
+          <f x="-4" y="5.2" kX="0" kY="0" cX="1.03" cY="1.06" pX="0" pY="0" z="0" dI="0" twE="0" dr="43"/>
+          <f x="-5" y="7.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="7"/>
+          <f x="-5" y="1.9" kX="0" kY="0" cX="1" cY="1.09" pX="0" pY="0" z="0" dI="0" twE="0" dr="15"/>
+          <f x="-5" y="7.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="npc_4_3" sc="1" dl="0">
+          <f x="-24.45" y="-22.6" kX="0" kY="0" cX="1" cY="1" pX="-30.95" pY="-23.5" z="1" dI="0" twE="0" dr="43"/>
+          <f x="-24.45" y="-25.8" kX="0" kY="0" cX="1" cY="0.91" pX="-30.95" pY="-23.5" z="1" dI="0" twE="0" dr="36"/>
+          <f x="-24.45" y="-22.6" kX="0" kY="0" cX="1" cY="1" pX="-30.95" pY="-23.5" z="1" dI="0" twE="0" dr="50"/>
+          <f x="-24.45" y="-25.8" kX="0" kY="0" cX="1" cY="0.91" pX="-30.95" pY="-23.5" z="1" dI="0" twE="0" dr="43"/>
+          <f x="-24.45" y="-22.6" kX="0" kY="0" cX="1" cY="1" pX="-30.95" pY="-23.5" z="1" dI="0" twE="0" dr="7"/>
+          <f x="-24.45" y="-31.1" kX="0" kY="0" cX="1" cY="0.9" pX="-30.95" pY="-23.5" z="1" dI="0" twE="0" dr="15"/>
+          <f x="-24.45" y="-22.6" kX="0" kY="0" cX="1" cY="1" pX="-30.95" pY="-23.5" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="npc_4_2" sc="1" dl="0">
+          <f x="-19.5" y="-47.1" kX="0" kY="0" cX="1" cY="1" pX="101.5" pY="117" z="2" dI="0" twE="0" dr="43"/>
+          <f x="-20.5" y="-53.2" kX="-2.69" kY="-2.69" cX="1" cY="1.02" pX="101.45" pY="116.95" z="2" dI="0" twE="0" dr="36"/>
+          <f x="-19.5" y="-47.1" kX="0" kY="0" cX="1" cY="1" pX="101.5" pY="117" z="2" dI="0" twE="0" dr="50"/>
+          <f x="-20.5" y="-53.2" kX="-2.69" kY="-2.69" cX="1" cY="1.02" pX="101.45" pY="116.95" z="2" dI="0" twE="0" dr="43"/>
+          <f x="-18.5" y="-43.1" kX="0" kY="0" cX="1" cY="1" pX="101.5" pY="117" z="2" dI="0" twE="0" dr="7"/>
+          <f x="-21.2" y="-59.85" kX="-8.74" kY="-8.74" cX="1" cY="0.88" pX="101.55" pY="117" z="2" dI="0" twE="0" dr="15"/>
+          <f x="-19.5" y="-47.1" kX="0" kY="0" cX="1" cY="1" pX="101.5" pY="117" z="2" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_shopnpc3_2">
+      <mov name="stand" dr="131" to="0" drTW="131" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="77.15" y="93" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="131"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="30" dI="-1"/>
+          <f x="99.45" y="91.5" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0" z="1" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="99.45" y="91.5" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0" z="1" dI="0" twE="0" dr="6"/>
+          <f x="99.45" y="91.5" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0" z="1" dI="0" twE="0" dr="12"/>
+          <f x="99.45" y="91.5" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="73" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_shopnpc3_1">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-0.35" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_shopnpc3">
+      <mov name="stand" dr="114" to="0" drTW="114" lp="1" twE="NaN">
+        <b name="npc_3_3" sc="1" dl="0">
+          <f x="-20.7" y="-18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="61"/>
+          <f x="-20.7" y="-12" kX="0" kY="0" cX="1" cY="0.92" pX="0" pY="0" z="0" dI="0" twE="0" dr="4"/>
+          <f x="-20.7" y="-12" kX="0" kY="0" cX="1" cY="0.92" pX="0" pY="0" z="0" dI="0" twE="0" dr="41"/>
+          <f x="-20.7" y="-18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="8"/>
+        </b>
+        <b name="npc_3_2" sc="1" dl="0">
+          <f x="9.2" y="-54.5" kX="0" kY="0" cX="1" cY="1" pX="77.5" pY="93" z="1" dI="0" twE="0" dr="61"/>
+          <f x="9.2" y="-43.1" kX="0" kY="0" cX="1" cY="0.97" pX="77.5" pY="93" z="1" dI="0" twE="0" dr="4"/>
+          <f x="9.2" y="-43.1" kX="0" kY="0" cX="1" cY="0.97" pX="77.5" pY="93" z="1" dI="0" twE="0" dr="41"/>
+          <f x="9.2" y="-54.5" kX="0" kY="0" cX="1" cY="1" pX="77.5" pY="93" z="1" dI="0" twE="0" dr="8"/>
+        </b>
+        <b name="npc_3_1" sc="1" dl="0">
+          <f x="3.7" y="40.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="61"/>
+          <f x="3.7" y="42.4" kX="0" kY="0" cX="1" cY="1.01" pX="0" pY="0" z="2" dI="0" twE="0" dr="4"/>
+          <f x="3.7" y="42.4" kX="0" kY="0" cX="1" cY="1.01" pX="0" pY="0" z="2" dI="0" twE="0" dr="41"/>
+          <f x="3.7" y="40.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="8"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_shopnpc2_2">
+      <mov name="stand" dr="58" to="0" drTW="58" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="88.5" y="125" kX="0" kY="0" cX="1" cY="1" pX="2.5" pY="55.5" z="0" dI="0" twE="0" dr="34"/>
+          <f x="88.5" y="125" kX="0" kY="0" cX="1" cY="1" pX="2.5" pY="55.5" z="0" dI="0" twE="0" dr="24"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="134.95" y="115.75" kX="0" kY="0" cX="1" cY="1" pX="-26" pY="-18.5" z="1" dI="0" twE="0" dr="20"/>
+          <f x="134.95" y="115.75" kX="-9.45" kY="-9.45" cX="1" cY="1" pX="-26.05" pY="-18.5" z="1" dI="0" twE="0" dr="16"/>
+          <f x="134.95" y="115.85" kX="5.55" kY="5.55" cX="1" cY="1" pX="-26" pY="-18.45" z="1" dI="0" twE="0" dr="8"/>
+          <f x="134.95" y="115.75" kX="-4.49" kY="-4.49" cX="1" cY="1" pX="-25.95" pY="-18.5" z="1" dI="0" twE="0" dr="13"/>
+          <f x="134.95" y="115.75" kX="0" kY="0" cX="1" cY="1" pX="-26" pY="-18.5" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="40" dI="-1"/>
+          <f x="98.5" y="91.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="4"/>
+          <f dr="14" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_shopnpc2">
+      <mov name="stand" dr="80" to="0" drTW="80" lp="1" twE="NaN">
+        <b name="npc_2_5" sc="1" dl="0">
+          <f x="-43.15" y="43.85" kX="-11.44" kY="-11.44" cX="1" cY="1" pX="41.45" pY="29.55" z="0" dI="0" twE="0" dr="39"/>
+          <f x="-40.75" y="45.4" kX="4.94" kY="-1.1" cX="0.92" cY="1" pX="41.4" pY="29.45" z="0" dI="0" twE="0" dr="10"/>
+          <f x="-41.5" y="45.8" kX="-1.83" kY="-5.93" cX="0.94" cY="0.98" pX="41.4" pY="29.5" z="0" dI="0" twE="0" dr="12"/>
+          <f x="-42.45" y="45.35" kX="-10.29" kY="-12.02" cX="0.98" cY="1" pX="41.5" pY="29.5" z="0" dI="0" twE="0" dr="12"/>
+          <f x="-42.9" y="44.35" kX="-18" kY="-18.52" cX="0.99" cY="1" pX="41.6" pY="29.5" z="0" dI="0" twE="0" dr="6"/>
+          <f x="-43.15" y="43.85" kX="-11.44" kY="-11.44" cX="1" cY="1" pX="41.45" pY="29.55" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="npc_2_4" sc="1" dl="0">
+          <f x="-4.1" y="15.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="49"/>
+          <f x="-4.1" y="17.15" kX="0" kY="0" cX="1" cY="0.99" pX="0" pY="0" z="1" dI="0" twE="0" dr="30"/>
+          <f x="-4.1" y="15.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="npc_2_3" sc="1" dl="0">
+          <f x="-13.35" y="-44.4" kX="-1.27" kY="-1.27" cX="1" cY="1" pX="92.45" pY="120.45" z="2" dI="0" twE="0" dr="49"/>
+          <f x="-13.35" y="-38.75" kX="1.24" kY="1.21" cX="1" cY="0.99" pX="92.45" pY="120.5" z="2" dI="0" twE="0" dr="30"/>
+          <f x="-13.35" y="-44.4" kX="-1.27" kY="-1.27" cX="1" cY="1" pX="92.45" pY="120.45" z="2" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_shopnpc1_1">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="57" y="40.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="3.85" y="19.35" kX="0" kY="0" cX="1.77" cY="1.88" pX="0.95" pY="3.25" z="1" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_shopnpc1">
+      <mov name="stand" dr="125" to="0" drTW="125" lp="1" twE="NaN">
+        <b name="npc_1_8" sc="1" dl="0">
+          <f x="-19" y="-59.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-38" z="0" dI="0" twE="0" dr="35"/>
+          <f x="-19" y="-50" kX="4.87" kY="4.61" cX="1" cY="0.97" pX="-0.05" pY="-38" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-18.95" y="-50.3" kX="4.52" kY="4.27" cX="1" cY="0.97" pX="0.05" pY="-37.95" z="0" dI="0" twE="0" dr="25"/>
+          <f x="-19" y="-59.5" kX="-3.2" kY="-3.2" cX="1" cY="1" pX="0" pY="-38" z="0" dI="0" twE="0" dr="36"/>
+          <f x="-19" y="-49.2" kX="1.33" kY="1.24" cX="1" cY="0.97" pX="0.05" pY="-38" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-18.95" y="-49.65" kX="1.26" kY="1.05" cX="1" cY="0.97" pX="0.05" pY="-38" z="0" dI="0" twE="0" dr="22"/>
+          <f x="-19" y="-59.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-38" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="npc_1_7" sc="1" dl="0">
+          <f x="72.95" y="6.1" kX="-15.21" kY="-15.21" cX="0.87" cY="0.87" pX="-31.05" pY="5.3" z="1" dI="0" twE="0" dr="35"/>
+          <f x="73.95" y="9.95" kX="7.64" kY="7.24" cX="0.87" cY="0.85" pX="-31.05" pY="5.35" z="1" dI="0" twE="0" dr="3"/>
+          <f x="73.95" y="9.8" kX="7.54" kY="7.07" cX="0.87" cY="0.85" pX="-30.95" pY="5.35" z="1" dI="0" twE="0" dr="25"/>
+          <f x="73.9" y="5.65" kX="7.3" kY="7.3" cX="0.87" cY="0.87" pX="-31.05" pY="5.3" z="1" dI="0" twE="0" dr="36"/>
+          <f x="73.95" y="10.3" kX="13.11" kY="12.26" cX="0.87" cY="0.84" pX="-30.95" pY="5.3" z="1" dI="0" twE="0" dr="3"/>
+          <f x="73.85" y="10.1" kX="11.79" kY="11.02" cX="0.87" cY="0.84" pX="-31" pY="5.3" z="1" dI="0" twE="0" dr="22"/>
+          <f x="72.95" y="6.1" kX="-15.21" kY="-15.21" cX="0.87" cY="0.87" pX="-31.05" pY="5.3" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="npc_1_6" sc="1" dl="0">
+          <f x="55.95" y="29.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="35"/>
+          <f x="55.95" y="32.7" kX="0" kY="0" cX="1" cY="0.97" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+          <f x="55.95" y="32.6" kX="0" kY="0" cX="1" cY="0.97" pX="0" pY="0" z="2" dI="0" twE="0" dr="25"/>
+          <f x="55.95" y="29.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="36"/>
+          <f x="55.95" y="32.95" kX="0" kY="0" cX="1" cY="0.97" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+          <f x="55.95" y="32.8" kX="0" kY="0" cX="1" cY="0.97" pX="0" pY="0" z="2" dI="0" twE="0" dr="22"/>
+          <f x="55.95" y="29.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="npc_1_5" sc="1" dl="0">
+          <f x="21.45" y="15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="35"/>
+          <f x="21.45" y="18.1" kX="0" kY="0" cX="1" cY="0.97" pX="0" pY="0" z="3" dI="0" twE="0" dr="3"/>
+          <f x="21.45" y="18" kX="0" kY="0" cX="1" cY="0.97" pX="0" pY="0" z="3" dI="0" twE="0" dr="25"/>
+          <f x="21.45" y="15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="36"/>
+          <f x="21.45" y="18.45" kX="0" kY="0" cX="1" cY="0.97" pX="0" pY="0" z="3" dI="0" twE="0" dr="3"/>
+          <f x="21.45" y="18.3" kX="0" kY="0" cX="1" cY="0.97" pX="0" pY="0" z="3" dI="0" twE="0" dr="22"/>
+          <f x="21.45" y="15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="npc_1_4" sc="1" dl="0">
+          <f x="-1.05" y="20" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="35"/>
+          <f x="-1.05" y="22" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="3"/>
+          <f x="-1.05" y="21.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="25"/>
+          <f x="-1.05" y="20" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="36"/>
+          <f x="-1.05" y="22" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="3"/>
+          <f x="-1.05" y="21.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="22"/>
+          <f x="-1.05" y="20" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="npc_1_3" sc="1" dl="0">
+          <f x="-22" y="-81" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="35"/>
+          <f x="-21.5" y="-73.35" kX="0" kY="0" cX="1" cY="0.97" pX="0" pY="0" z="5" dI="0" twE="0" dr="3"/>
+          <f x="-21.5" y="-73.7" kX="0" kY="0" cX="1" cY="0.97" pX="0" pY="0" z="5" dI="0" twE="0" dr="25"/>
+          <f x="-22" y="-81" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="36"/>
+          <f x="-21.5" y="-72.35" kX="0" kY="0" cX="1" cY="0.97" pX="0" pY="0" z="5" dI="0" twE="0" dr="3"/>
+          <f x="-21.5" y="-72.75" kX="0" kY="0" cX="1" cY="0.97" pX="0" pY="0" z="5" dI="0" twE="0" dr="22"/>
+          <f x="-22" y="-81" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="npc_1_2" sc="1" dl="0">
+          <f dr="32" dI="-1"/>
+          <f x="3.95" y="-54" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0" dr="3"/>
+          <f x="4.45" y="-50" kX="0" kY="0" cX="1" cY="0.97" pX="0" pY="0" z="6" dI="0" twE="0" dr="1"/>
+          <f dr="89" dI="-1"/>
+        </b>
+        <b name="npc_1_1" sc="1" dl="0">
+          <f x="-77" y="18.5" kX="0" kY="0" cX="1" cY="1" pX="57" pY="40.5" z="7" dI="0" twE="0" dr="35"/>
+          <f x="-78.5" y="24.45" kX="-2.24" kY="-2.12" cX="1" cY="0.97" pX="56.95" pY="40.45" z="6" dI="0" twE="0" dr="3"/>
+          <f x="-78.45" y="24.15" kX="-2.04" kY="-2.01" cX="1" cY="0.97" pX="57" pY="40.4" z="6" dI="0" twE="0" dr="25"/>
+          <f x="-77" y="18.5" kX="0" kY="0" cX="1" cY="1" pX="57" pY="40.5" z="6" dI="0" twE="0" dr="36"/>
+          <f x="-77.5" y="24" kX="-3.07" kY="-2.87" cX="1" cY="0.97" pX="56.95" pY="40.45" z="6" dI="0" twE="0" dr="3"/>
+          <f x="-77.5" y="23.8" kX="-2.8" kY="-2.56" cX="1" cY="0.97" pX="56.95" pY="40.5" z="6" dI="0" twE="0" dr="22"/>
+          <f x="-77" y="18.5" kX="0" kY="0" cX="1" cY="1" pX="57" pY="40.5" z="6" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_shopnpc_smok">
+      <mov name="stand" dr="128" to="0" drTW="128" lp="1" twE="NaN">
+        <b name="图层 1 复制" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="1.05" y="3.4" kX="0" kY="0" cX="0.22" cY="0.32" pX="0.45" pY="0.45" z="0" dI="0" twE="0" dr="11"/>
+          <f x="0.5" y="-2.25" kX="-3.19" kY="0.8" cX="0.52" cY="0.53" pX="1" pY="0.55" z="0" dI="0" twE="0" dr="14"/>
+          <f x="4.25" y="-7.65" kX="-8.51" kY="-4.98" cX="0.64" cY="0.81" pX="0.35" pY="0.55" z="0" dI="0" twE="0" dr="16">
+            <colorTransform a="0" r="0" g="0" b="0" aM="79" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.05" y="-14.25" kX="-4.92" kY="-5.88" cX="0.98" cY="0.95" pX="0.45" pY="0.55" z="0" dI="0" twE="0" dr="21">
+            <colorTransform a="0" r="0" g="0" b="0" aM="64" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-1.95" y="-27.15" kX="14.84" kY="20.2" cX="1.23" cY="1.08" pX="0.6" pY="0.55" z="0" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="22" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-1.75" y="-43.85" kX="-14.05" kY="-26.81" cX="1.57" cY="1.85" pX="0.5" pY="0.45" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="11" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="33" dI="-1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="1.05" y="3.4" kX="0" kY="0" cX="0.32" cY="0.32" pX="0.45" pY="0.45" z="1" dI="0" twE="0" dr="9"/>
+          <f x="2.9" y="-3.45" kX="9.1" kY="0" cX="0.29" cY="0.74" pX="0.65" pY="0.4" z="1" dI="0" twE="0" dr="13"/>
+          <f x="-1.65" y="-10.45" kX="-21.03" kY="-10.45" cX="0.32" cY="0.89" pX="0.55" pY="0.3" z="1" dI="0" twE="0" dr="15"/>
+          <f x="1.65" y="-21.85" kX="16.26" kY="3.47" cX="0.52" cY="1.21" pX="0.7" pY="0.4" z="1" dI="0" twE="0" dr="16"/>
+          <f x="-1.8" y="-28.95" kX="-4.51" kY="-13.79" cX="0.9" cY="1.15" pX="0.75" pY="0.45" z="1" dI="0" twE="0" dr="15">
+            <colorTransform a="0" r="0" g="0" b="0" aM="80" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.3" y="-36.15" kX="-25.38" kY="-31.22" cX="1.27" cY="1.08" pX="0.5" pY="0.5" z="1" dI="0" twE="0" dr="18">
+            <colorTransform a="0" r="0" g="0" b="0" aM="61" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-1.8" y="-40.35" kX="37.39" kY="48.16" cX="1.56" cY="1.85" pX="0.5" pY="0.5" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="11" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="41" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_shopnpc10_1">
+      <mov name="stand" dr="76" to="0" drTW="76" lp="1" twE="NaN">
+        <b name="npc_10_3" sc="1" dl="0">
+          <f x="0.5" y="43.85" kX="0" kY="0" cX="1" cY="1" pX="5.5" pY="48.5" z="0" dI="0" twE="0" dr="40"/>
+          <f x="0.5" y="43.85" kX="0" kY="3.7" cX="1" cY="1" pX="5.5" pY="48.5" z="0" dI="0" twE="0" dr="35"/>
+          <f x="0.5" y="43.85" kX="0" kY="0" cX="1" cY="1" pX="5.5" pY="48.5" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="npc_10_2" sc="1" dl="0">
+          <f x="-5" y="-40.65" kX="-5.97" kY="-5.97" cX="1" cY="1" pX="4.05" pY="49.95" z="1" dI="0" twE="0" dr="40"/>
+          <f x="-5.05" y="-40.6" kX="4.14" kY="4.14" cX="1" cY="1" pX="4" pY="49.95" z="1" dI="0" twE="0" dr="35"/>
+          <f x="-5" y="-40.65" kX="-5.97" kY="-5.97" cX="1" cY="1" pX="4.05" pY="49.95" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="npc_10_1" sc="1" dl="0">
+          <f x="60" y="0.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="40"/>
+          <f x="60" y="3.35" kX="0" kY="4.76" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="35">
+            <colorTransform a="0" r="0" g="0" b="0" aM="63" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="60" y="0.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_shopnpc10">
+      <mov name="stand" dr="89" to="0" drTW="89" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="1.5" y="58.35" kX="0" kY="0" cX="1" cY="0.96" pX="1.5" pY="55.45" z="0" dI="0" twE="0" dr="34"/>
+          <f x="1.5" y="57.85" kX="0" kY="0" cX="1" cY="0.99" pX="1.5" pY="55.45" z="0" dI="0" twE="0" dr="54"/>
+          <f x="1.5" y="58.35" kX="0" kY="0" cX="1" cY="0.96" pX="1.5" pY="55.45" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_shop">
+    <SubTexture name="images/ui_pic1/npc_10_1" width="108" height="106" cocos2d_pX="54" cocos2d_pY="53"/>
+    <SubTexture name="images/ui_pic1/npc_10_2" width="123" height="120" cocos2d_pX="61.5" cocos2d_pY="60"/>
+    <SubTexture name="images/ui_pic1/npc_10_3" width="212" height="149" cocos2d_pX="106" cocos2d_pY="74.5"/>
+    <SubTexture name="images/ui_main_bg/smok" width="30" height="31" cocos2d_pX="15" cocos2d_pY="15.5"/>
+    <SubTexture name="images/ui_pic1/npc_1_1" width="114" height="81" cocos2d_pX="57" cocos2d_pY="40.5"/>
+    <SubTexture name="images/ui_pic1/npc_1_2" width="71" height="26" cocos2d_pX="35.5" cocos2d_pY="13"/>
+    <SubTexture name="images/ui_pic1/npc_1_3" width="167" height="139" cocos2d_pX="83.5" cocos2d_pY="69.5"/>
+    <SubTexture name="images/ui_pic1/npc_1_4" width="100" height="105" cocos2d_pX="50" cocos2d_pY="52.5"/>
+    <SubTexture name="images/ui_pic1/npc_1_5" width="36" height="57" cocos2d_pX="18" cocos2d_pY="28.5"/>
+    <SubTexture name="images/ui_pic1/npc_1_6" width="58" height="56" cocos2d_pX="29" cocos2d_pY="28"/>
+    <SubTexture name="images/ui_pic1/npc_1_7" width="75" height="39" cocos2d_pX="37.5" cocos2d_pY="19.5"/>
+    <SubTexture name="images/ui_pic1/npc_1_8" width="120" height="176" cocos2d_pX="60" cocos2d_pY="88"/>
+    <SubTexture name="images/ui_pic1/npc_2_2" width="90" height="38" cocos2d_pX="45" cocos2d_pY="19"/>
+    <SubTexture name="images/ui_pic1/npc_2_1" width="60" height="41" cocos2d_pX="30" cocos2d_pY="20.5"/>
+    <SubTexture name="images/ui_pic1/npc_2_3" width="172" height="139" cocos2d_pX="86" cocos2d_pY="69.5"/>
+    <SubTexture name="images/ui_pic1/npc_2_4" width="115" height="111" cocos2d_pX="57.5" cocos2d_pY="55.5"/>
+    <SubTexture name="images/ui_pic1/npc_2_5" width="105" height="81" cocos2d_pX="52.5" cocos2d_pY="40.5"/>
+    <SubTexture name="images/ui_pic1/npc_3_1" width="140" height="99" cocos2d_pX="70" cocos2d_pY="49.5"/>
+    <SubTexture name="images/ui_pic1/npc_3_4" width="69" height="36" cocos2d_pX="34.5" cocos2d_pY="18"/>
+    <SubTexture name="images/ui_pic1/npc_3_2" width="155" height="186" cocos2d_pX="77.5" cocos2d_pY="93"/>
+    <SubTexture name="images/ui_pic1/npc_3_3" width="166" height="170" cocos2d_pX="83" cocos2d_pY="85"/>
+    <SubTexture name="images/ui_pic1/npc_4_1" width="7" height="18" cocos2d_pX="3.5" cocos2d_pY="9"/>
+    <SubTexture name="images/ui_pic1/npc_4_2" width="177" height="129" cocos2d_pX="88.5" cocos2d_pY="64.5"/>
+    <SubTexture name="images/ui_pic1/npc_4_3" width="108" height="70" cocos2d_pX="54" cocos2d_pY="35"/>
+    <SubTexture name="images/ui_pic1/npc_4_4" width="120" height="139" cocos2d_pX="60" cocos2d_pY="69.5"/>
+    <SubTexture name="images/ui_pic1/npc_5_1" width="158" height="141" cocos2d_pX="79" cocos2d_pY="70.5"/>
+    <SubTexture name="images/ui_pic1/npc_5_2" width="190" height="146" cocos2d_pX="95" cocos2d_pY="73"/>
+    <SubTexture name="images/ui_pic1/npc_5_3" width="142" height="185" cocos2d_pX="71" cocos2d_pY="92.5"/>
+    <SubTexture name="images/ui_pic1/npc_6_1" width="93" height="33" cocos2d_pX="46.5" cocos2d_pY="16.5"/>
+    <SubTexture name="images/ui_pic1/npc_6_2" width="91" height="27" cocos2d_pX="45.5" cocos2d_pY="13.5"/>
+    <SubTexture name="images/ui_pic1/npc_6_3" width="255" height="229" cocos2d_pX="127.5" cocos2d_pY="114.5"/>
+  </TextureAtlas>
+</skeleton>

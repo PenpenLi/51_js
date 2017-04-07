@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>须&#xd;&#xd;&#xd;
+知</string>
+        <key>2</key>
+        <string>月卡须知</string>
+        <key>3</key>
+        <string>购买</string>
+        <key>4</key>
+        <string>最大技能点上限+@</string>
+        <key>5</key>
+        <string>技能点恢复时间减少@%</string>
+        <key>6</key>
+        <string>购买</string>
+        <key>7</key>
+        <string>扫荡材料@%几率获得双倍数量</string>
+        <key>8</key>
+        <string>最大体力上限+@点</string>
+        <key>9</key>
+        <string>须&#xd;&#xd;&#xd;
+知</string>
+        <key>10</key>
+        <string>终身卡须知</string>
+        <key>11</key>
+        <string>(月卡和终身卡可同时购买并生效)</string>
+    </dict>
+</plist>

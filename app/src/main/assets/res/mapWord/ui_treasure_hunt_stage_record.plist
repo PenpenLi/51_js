@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>2</key>
+        <string>护送方</string>
+        <key>3</key>
+        <string>埋伏方</string>
+        <key>5</key>
+        <string>护送方获得了胜利!</string>
+    </dict>
+</plist>

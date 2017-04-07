@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>购买全部金币物品</string>
+        <key>2</key>
+        <string>购买全部元宝物品</string>
+        <key>3</key>
+        <string>总价:</string>
+        <key>4</key>
+        <string>全部购买</string>
+        <key>5</key>
+        <string>购买全部将魂物品</string>
+        <key>6</key>
+        <string>商店已过期</string>
+        <key>7</key>
+        <string>购买次数已达上限</string>
+        <key>8</key>
+        <string>lv.@可兑换</string>
+        <key>9</key>
+        <string>时间已到</string>
+        <key>need_shop_item</key>
+        <string>您有急需的商品还未购买，是否刷新</string>
+    </dict>
+</plist>

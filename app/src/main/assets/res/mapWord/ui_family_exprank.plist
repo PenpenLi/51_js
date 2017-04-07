@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<string>名字</string>
+	<key>2</key>
+	<string>职称</string>
+	<key>3</key>
+	<string>军团贡献</string>
+	<key>4</key>
+	<string>战力</string>
+	<key>5</key>
+	<string>本周贡献</string>
+	<key>6</key>
+	<string>本月贡献</string>
+</dict>
+</plist>

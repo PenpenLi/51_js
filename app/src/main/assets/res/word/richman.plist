@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>error1</key>
+	<string>骰子不足，是否购买</string>
+	<key>error2</key>
+	<string>幸运骰子不足</string>
+	<key>move</key>
+	<string>移动格随机向前行走@步</string>
+	 
+</dict>
+</plist>

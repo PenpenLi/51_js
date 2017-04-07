@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>2</key>
+        <string>猎星1次</string>
+        <key>3</key>
+        <string>免费</string>
+        <key>4</key>
+        <string>猎星5次</string>
+        <key>5</key>
+        <string>再购买\\w{c=00ff00,s=20}@\\次必得\\w{c=ff7800,s=20}橙色\\星宿</string>
+    </dict>
+</plist>

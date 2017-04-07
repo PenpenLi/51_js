@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>skill_rang0</key>
+	<string>选择全体@个目标</string>
+	<key>skill_rang1</key>
+	<string>选择@个目标</string>
+	<key>skill_rang2</key>
+	<string>选择横扫@个目标</string>
+	<key>skill_rang3</key>
+	<string>选择前排@个目标</string>
+	<key>skill_rang4</key>
+	<string>选择后排@个目标</string>
+	<key>skill_rang5</key>
+	<string>选择贯穿@个目标</string>
+	<key>skill_rang6</key>
+	<string>选择技能决定@个目标</string>
+	<key>skill_rang7</key>
+	<string>选择气血值低@个目标</string>
+	<key>skill_rang8</key>
+	<string>选择随机@个目标</string>
+	<key>skill_rang11</key>
+	<string>选择随机@个目标</string>
+	<key>skill_rang12</key>
+	<string>选择随机@个相邻目标</string>
+	<key>skill_rang15</key>
+	<string>选择随机@个目标</string>
+</dict>
+</plist>
+
+ 

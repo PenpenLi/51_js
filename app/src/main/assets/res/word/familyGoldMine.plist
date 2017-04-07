@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<string>探索</string>
+	<key>2</key>
+	<string>收获</string>
+	<key>3</key>
+	<string>挖</string>
+	<key>4</key>
+	<string>往下挖</string>
+	<key>5</key>
+	<string>已收获</string>
+	<key>9</key>
+	<string>金矿记录板</string>
+	<key>10</key>
+	<string>挖矿次数:</string>
+	<key>11</key>
+	<string>获得水晶石:</string>
+	<key>12</key>
+	<string>挖到了:</string>
+	<key>tip1</key>
+	<string>\\w{c=00DEFF}发现了大量金币,额外获得\\w{c=D068E0}1个水晶石。</string>
+	<key>tip2</key>
+	<string>\\w{c=00DEFF}发现了大量金币。</string>
+	<key>tip3</key>
+	<string>\\w{c=00DEFF}继续挖矿最高可获得金币@。</string>
+	<key>get</key>
+	<string>继续挖矿可获更多金币，主公确定现在收获吗？</string>
+	<key>19</key>
+	<string>铁铲:</string>
+	<key>20</key>
+	<string>探索可得:</string>
+	<key>21</key>
+	<string>矿位数量:</string>
+	<key>22</key>
+	<string>土地数量:</string>
+	<key>23</key>
+	<string>完成任务获得金币和贡献增加</string>
+	<key>24</key>
+	<string>水晶石奖励</string>
+	<key>25</key>
+	<string>军团每集满@颗水晶石</string>
+	<key>26</key>
+	<string>你可获得:金币+@</string>
+	<key>27</key>
+	<string>当前等级未解锁新建筑。</string>
+	<key>28</key>
+	<string>当前等级未解锁新物品。</string>
+	<key>29</key>
+	<string>提升军团等级可解锁更多矿坑</string>
+	<key>30</key>
+	<string>金矿已集齐@颗水晶石！</string>
+</dict>
+</plist>

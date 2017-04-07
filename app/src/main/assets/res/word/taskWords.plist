@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1title</key>
+	<string>初见曹公</string>
+	<key>1content</key>
+	<string>正当众人决定分头寻找灵兽之际，大军阀曹操亲率大军，为讨伐黄巾乱党踏马而至，误将众人认成黄巾乱党，冲突一触即发…</string>
+	<key>1target</key>
+	<string>通关桃园结义-3并击败曹操</string>
+	<key>2title</key>
+	<string>江东俊杰</string>
+	<key>2content</key>
+	<string>摆脱曹操的纠缠后，众人继续踏上寻找灵兽之路。途径某村，两拨人马正在剑拔弩张的对峙，零星的对话中似乎提及到灵兽的下落。</string>
+	<key>2target</key>
+	<string>通关桃园结义-5并击败孙权</string>
+	<key>3title</key>
+	<string>大汉皇叔</string>
+	<key>3content</key>
+	<string>刘备带着众多小弟，来帮关羽找回折了的面子，却意外的发现乱斗一族正在寻找灵兽的下落，刘备眼神闪烁，似乎有什么难言之隐……</string>
+	<key>3target</key>
+	<string>通关桃园结义-7并击败刘备</string>
+	<key>4title</key>
+	<string>雌雄双煞</string>
+	<key>4content</key>
+	<string>得知灵兽下落后，众人再次启程。却被当朝太师董卓拦住了去路，逼问灵兽下落。为了保住灵兽的秘密，众人使出全力，向董卓的百万大军发起了最后的冲击…</string>
+	<key>4target</key>
+	<string>通关桃园结义-9并击败董卓</string>
+</dict>
+</plist>

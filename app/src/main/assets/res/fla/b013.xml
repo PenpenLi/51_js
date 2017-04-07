@@ -1,0 +1,313 @@
+<skeleton name="b013" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="b013">
+      <b name="bg13_bg_02">
+        <d name="images/bg/013/bg13_bg_02"/>
+      </b>
+      <b name="bg13_04">
+        <d name="b013元件 3" isArmature="1"/>
+        <d name="images/bg/013/bg13_04"/>
+      </b>
+      <b name="bg13_05">
+        <d name="images/bg/013/bg13_05"/>
+      </b>
+      <b name="bg13_050">
+        <d name="images/bg/013/bg13_05"/>
+      </b>
+      <b name="bg13_051">
+        <d name="images/bg/013/bg13_05"/>
+      </b>
+      <b name="bg13_052">
+        <d name="images/bg/013/bg13_05"/>
+      </b>
+      <b name="bg13_053">
+        <d name="images/bg/013/bg13_05"/>
+      </b>
+      <b name="bg13_054">
+        <d name="images/bg/013/bg13_05"/>
+      </b>
+      <b name="bg13_055">
+        <d name="images/bg/013/bg13_05"/>
+      </b>
+      <b name="bg13_056">
+        <d name="images/bg/013/bg13_05"/>
+      </b>
+      <b name="bg13_057">
+        <d name="images/bg/013/bg13_05"/>
+      </b>
+      <b name="bg13_058">
+        <d name="images/bg/013/bg13_05"/>
+      </b>
+      <b name="bg13_bg_01">
+        <d name="images/common_bg/bg13_bg_01"/>
+      </b>
+      <b name="bg13_bg_010">
+        <d name="images/common_bg/bg13_bg_01"/>
+      </b>
+      <b name="bg13_01">
+        <d name="images/bg/013/bg13_01"/>
+      </b>
+      <b name="bg13_010">
+        <d name="images/bg/013/bg13_01"/>
+      </b>
+      <b name="bg13_011">
+        <d name="images/bg/013/bg13_01"/>
+      </b>
+      <b name="bg13_012">
+        <d name="images/bg/013/bg13_01"/>
+      </b>
+      <b name="bg13_013">
+        <d name="images/bg/013/bg13_01"/>
+      </b>
+      <b name="bg13_014">
+        <d name="images/bg/013/bg13_01"/>
+      </b>
+      <b name="图层 3">
+        <d name="b013元件 5" isArmature="1"/>
+      </b>
+      <b name="bg13_03">
+        <d name="images/bg/013/bg13_03"/>
+      </b>
+      <b name="bg13_b_01">
+        <d name="b013元件 2" isArmature="1"/>
+      </b>
+      <b name="bg13_c_01">
+        <d name="b013元件 4" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="b013元件 3">
+      <b name="图层 1">
+        <d name="images/bg/013/bg13_04"/>
+      </b>
+    </armature>
+    <armature name="b013元件 2">
+      <b name="bg13_b_02">
+        <d name="images/common_bg/bg13_b_02"/>
+      </b>
+      <b name="bg13_b_01">
+        <d name="images/common_bg/bg13_b_01"/>
+      </b>
+      <b name="bg13_b_020">
+        <d name="images/common_bg/bg13_b_02"/>
+      </b>
+    </armature>
+    <armature name="b013元件 4">
+      <b name="图层 1">
+        <d name="images/common_bg/bg13_c_01"/>
+      </b>
+    </armature>
+    <armature name="b013元件 5">
+      <b name="元件 1">
+        <d name="b013元件 1" isArmature="1"/>
+      </b>
+      <b name="元件 10">
+        <d name="b013元件 1" isArmature="1"/>
+      </b>
+      <b name="元件 11">
+        <d name="b013元件 1" isArmature="1"/>
+      </b>
+      <b name="元件 12">
+        <d name="b013元件 1" isArmature="1"/>
+      </b>
+      <b name="bg13_02">
+        <d name="images/bg/013/bg13_02"/>
+      </b>
+    </armature>
+    <armature name="b013元件 1">
+      <b name="bg13_a_01">
+        <d name="images/common_bg/bg13_a_01"/>
+        <d name="images/common_bg/bg13_a_02"/>
+        <d name="images/common_bg/bg13_a_03"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="b013元件 3">
+      <mov name="stand" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="327.65" y="108" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="24"/>
+          <f x="327.65" y="111" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="25"/>
+          <f x="327.65" y="108" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="b013元件 2">
+      <mov name="stand" dr="20" to="0" drTW="20" lp="1" twE="NaN">
+        <b name="bg13_b_02" sc="1" dl="0">
+          <f x="12.05" y="-6.85" kX="0" kY="180" cX="0.78" cY="1" pX="12.1" pY="6.15" z="0" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="74" gM="74" bM="74"/>
+          </f>
+          <f x="12.1" y="-11.05" kX="-15" kY="165" cX="0.78" cY="1" pX="12.1" pY="6.25" z="0" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="74" gM="74" bM="74"/>
+          </f>
+          <f x="12.05" y="-6.85" kX="0" kY="180" cX="0.78" cY="1" pX="12.1" pY="6.15" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="74" gM="74" bM="74"/>
+          </f>
+        </b>
+        <b name="bg13_b_01" sc="1" dl="0">
+          <f x="0" y="40" kX="0" kY="0" cX="1" cY="1" pX="0" pY="39.65" z="1" dI="0" twE="0" dr="9"/>
+          <f x="0" y="38.8" kX="0" kY="0" cX="1" cY="1.06" pX="0" pY="39.65" z="1" dI="0" twE="0" dr="10"/>
+          <f x="0" y="40" kX="0" kY="0" cX="1" cY="1" pX="0" pY="39.65" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="bg13_b_020" sc="1" dl="0">
+          <f x="-10" y="0" kX="0" kY="0" cX="1" cY="1" pX="12.15" pY="6.15" z="2" dI="0" twE="0" dr="9"/>
+          <f x="-8.5" y="-6" kX="21.47" kY="21.47" cX="1" cY="1" pX="12.2" pY="6.2" z="2" dI="0" twE="0" dr="10"/>
+          <f x="-10" y="0" kX="0" kY="0" cX="1" cY="1" pX="12.15" pY="6.15" z="2" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="b013元件 4">
+      <mov name="stand" dr="40" to="0" drTW="40" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="27.35" y="83.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="35.5" z="0" dI="0" twE="0" dr="19"/>
+          <f x="27.35" y="83.5" kX="0" kY="0" cX="1" cY="1.06" pX="0" pY="35.55" z="0" dI="0" twE="0" dr="20"/>
+          <f x="27.35" y="83.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="35.5" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="b013">
+      <mov name="stand" dr="2400" to="0" drTW="2400" lp="1" twE="NaN">
+        <b name="bg13_bg_02" sc="1" dl="0">
+          <f x="0.25" y="-255.65" kX="0" kY="0" cX="2.05" cY="2.05" pX="0" pY="0" z="0" dI="0" dr="2400"/>
+        </b>
+        <b name="bg13_04" sc="1" dl="0">
+          <f x="430.6" y="-206" kX="0" kY="0" cX="1" cY="1" pX="328" pY="108" z="1" dI="0" twE="0" dr="2000"/>
+          <f x="-901.85" y="-203.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="0" dr="1"/>
+          <f x="758" y="-203.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="0" dr="398"/>
+          <f x="430.6" y="-206" kX="0" kY="0" cX="1" cY="1" pX="328" pY="108" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="bg13_05" sc="1" dl="0">
+          <f x="142.2" y="-119.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="2400"/>
+        </b>
+        <b name="bg13_050" sc="1" dl="0">
+          <f x="251.25" y="-119.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="2400"/>
+        </b>
+        <b name="bg13_051" sc="1" dl="0">
+          <f x="357.8" y="-119.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="2400"/>
+        </b>
+        <b name="bg13_052" sc="1" dl="0">
+          <f x="461.35" y="-119.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="2400"/>
+        </b>
+        <b name="bg13_053" sc="1" dl="0">
+          <f x="34.7" y="-119.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="2400"/>
+        </b>
+        <b name="bg13_054" sc="1" dl="0">
+          <f x="-76" y="-120" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="2400"/>
+        </b>
+        <b name="bg13_055" sc="1" dl="0">
+          <f x="-188" y="-120" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" dr="2400"/>
+        </b>
+        <b name="bg13_056" sc="1" dl="0">
+          <f x="-308" y="-120" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" dr="2400"/>
+        </b>
+        <b name="bg13_057" sc="1" dl="0">
+          <f x="-420.55" y="-120" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" dr="2400"/>
+        </b>
+        <b name="bg13_058" sc="1" dl="0">
+          <f x="-550" y="-120" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="11" dI="0" dr="2400"/>
+        </b>
+        <b name="bg13_bg_01" sc="1" dl="0">
+          <f x="-290.3" y="142.9" kX="0" kY="0" cX="1.16" cY="1.16" pX="0" pY="0" z="12" dI="0" dr="2400"/>
+        </b>
+        <b name="bg13_bg_010" sc="1" dl="0">
+          <f x="292.1" y="142.9" kX="0" kY="180" cX="1.16" cY="1.16" pX="0" pY="0" z="13" dI="0" dr="2400"/>
+        </b>
+        <b name="bg13_01" sc="1" dl="0">
+          <f x="0" y="-115.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="14" dI="0" dr="2400"/>
+        </b>
+        <b name="bg13_010" sc="1" dl="0">
+          <f x="-188.5" y="-115.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="15" dI="0" dr="2400"/>
+        </b>
+        <b name="bg13_011" sc="1" dl="0">
+          <f x="-379.4" y="-115.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="16" dI="0" dr="2400"/>
+        </b>
+        <b name="bg13_012" sc="1" dl="0">
+          <f x="-566.3" y="-115.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="17" dI="0" dr="2400"/>
+        </b>
+        <b name="bg13_013" sc="1" dl="0">
+          <f x="389.85" y="-115.7" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="18" dI="0" dr="2400"/>
+        </b>
+        <b name="bg13_014" sc="1" dl="0">
+          <f x="577.85" y="-117.7" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="19" dI="0" dr="2400"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="81.1" y="-280.85" kX="0" kY="0" cX="1" cY="1" pX="81.45" pY="-275.5" z="20" dI="0" dr="2400"/>
+        </b>
+        <b name="bg13_03" sc="1" dl="0">
+          <f x="285" y="-89.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="21" dI="0" dr="2400"/>
+        </b>
+        <b name="bg13_b_01" sc="1" dl="0">
+          <f x="-455.3" y="-117.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="22" dI="0" dr="2400"/>
+        </b>
+        <b name="bg13_c_01" sc="1" dl="0">
+          <f x="240" y="-140" kX="0" kY="0" cX="1" cY="1" pX="27.5" pY="48" z="23" dI="0" dr="2400"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="b013元件 1">
+      <mov name="stand" dr="15" to="0" drTW="15" lp="1" twE="NaN">
+        <b name="bg13_a_01" sc="1" dl="0">
+          <f x="1" y="1.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="5"/>
+          <f x="0" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="5"/>
+          <f x="0" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="5"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="b013元件 5">
+      <mov name="stand" dr="600" to="0" drTW="600" lp="1" twE="NaN">
+        <b name="元件 1" sc="1" dl="0">
+          <f x="-133.95" y="-280" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="160"/>
+          <f x="-480" y="-420" kX="0" kY="0" cX="0.54" cY="0.54" pX="0" pY="0" z="0" dI="0" dr="101">
+            <colorTransform a="0" r="0" g="0" b="0" aM="14" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="596" y="-150" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0.39" dr="338"/>
+          <f x="-133.95" y="-280" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="元件 10" sc="1" dl="0">
+          <f x="-210" y="-300" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="160"/>
+          <f x="-520" y="-430" kX="0" kY="0" cX="0.45" cY="0.45" pX="0" pY="0" z="1" dI="0" dr="97">
+            <colorTransform a="0" r="0" g="0" b="0" aM="14" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="534.95" y="-171" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0.39" dr="342"/>
+          <f x="-210" y="-300" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="元件 11" sc="1" dl="0">
+          <f x="-50" y="-260" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="160"/>
+          <f x="-440" y="-410" kX="0" kY="0" cX="0.54" cY="0.54" pX="0" pY="0" z="2" dI="0" dr="105">
+            <colorTransform a="0" r="0" g="0" b="0" aM="14" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="663.95" y="-130" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0.39" dr="334"/>
+          <f x="-50" y="-260" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="元件 12" sc="1" dl="0">
+          <f x="383.9" y="-225.9" kX="0" kY="0" cX="2.29" cY="2.29" pX="0" pY="0" z="3" dI="0" twE="0.79" dr="78"/>
+          <f x="-30" y="-430" kX="0" kY="0" cX="0.61" cY="0.61" pX="0" pY="0" z="3" dI="0" dr="69"/>
+          <f x="500" y="-210" kX="0" kY="0" cX="1.5" cY="1.5" pX="0" pY="0" z="3" dI="0" twE="0.61" dr="93"/>
+          <f x="75.9" y="-422.95" kX="0" kY="0" cX="0.73" cY="0.73" pX="0" pY="0" z="3" dI="0" dr="360"/>
+        </b>
+        <b name="bg13_02" sc="1" dl="0">
+          <f x="498.95" y="-167.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="148"/>
+          <f x="498.95" y="-167.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="3"/>
+          <f x="498.95" y="-171.55" kX="0" kY="0" cX="1.04" cY="1.04" pX="0" pY="0" z="4" dI="0" twE="0" dr="5"/>
+          <f x="500.95" y="-165.55" kX="0" kY="0" cX="0.99" cY="0.99" pX="0" pY="0" z="4" dI="0" twE="0" dr="4"/>
+          <f x="498.95" y="-167.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="440"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="b013">
+    <SubTexture name="images/common_bg/bg13_a_03" width="66" height="38" cocos2d_pX="33" cocos2d_pY="19"/>
+    <SubTexture name="images/common_bg/bg13_a_02" width="66" height="38" cocos2d_pX="33" cocos2d_pY="19"/>
+    <SubTexture name="images/common_bg/bg13_a_01" width="66" height="38" cocos2d_pX="33" cocos2d_pY="19"/>
+    <SubTexture name="images/bg/013/bg13_02" width="168" height="376" cocos2d_pX="84" cocos2d_pY="188"/>
+    <SubTexture name="images/common_bg/bg13_c_01" width="55" height="96" cocos2d_pX="27.5" cocos2d_pY="48"/>
+    <SubTexture name="images/common_bg/bg13_b_01" width="63" height="100" cocos2d_pX="31.5" cocos2d_pY="50"/>
+    <SubTexture name="images/common_bg/bg13_b_02" width="32" height="29" cocos2d_pX="16" cocos2d_pY="14.5"/>
+    <SubTexture name="images/bg/013/bg13_03" width="108" height="58" cocos2d_pX="54" cocos2d_pY="29"/>
+    <SubTexture name="images/bg/013/bg13_01" width="201" height="79" cocos2d_pX="100.5" cocos2d_pY="39.5"/>
+    <SubTexture name="images/common_bg/bg13_bg_01" width="505" height="442" cocos2d_pX="252.5" cocos2d_pY="221"/>
+    <SubTexture name="images/bg/013/bg13_05" width="82" height="41" cocos2d_pX="41" cocos2d_pY="20.5"/>
+    <SubTexture name="images/bg/013/bg13_04" width="656" height="216" cocos2d_pX="328" cocos2d_pY="108"/>
+    <SubTexture name="images/bg/013/bg13_bg_02" width="568" height="139" cocos2d_pX="284" cocos2d_pY="69.5"/>
+  </TextureAtlas>
+</skeleton>

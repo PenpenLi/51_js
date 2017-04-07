@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>【化魂器】</string>
+        <key>2</key>
+        <string>自动选择多余的星宿</string>
+        <key>3</key>
+        <string>蓝色</string>
+        <key>4</key>
+        <string>紫色</string>
+        <key>5</key>
+        <string>橙色</string>
+        <key>6</key>
+        <string>点击放入星宿，可化成星魂；点击星宿左上角的减号可以减少数量，长按可加速放入；自行选择多余星宿将自动选择你多余的星宿进行化魂。</string>
+    </dict>
+</plist>

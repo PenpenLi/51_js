@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>换一批</string>
+        <key>2</key>
+        <string>剩余次数：</string>
+        <key>3</key>
+        <string>重置</string>
+        <key>4</key>
+        <string>可再次挑战</string>
+    </dict>
+</plist>

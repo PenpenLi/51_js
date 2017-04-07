@@ -1,0 +1,38 @@
+<skeleton name="s031" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="s031-quanping">
+      <b name="图层 1">
+        <d name="images/skill/other/white"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="s031-quanping">
+      <mov name="stand" dr="49" to="0" drTW="49" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.15" y="131.45" kX="0" kY="0" cX="28.96" cY="28.96" pX="0" pY="0" z="0" dI="0" twE="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="0" bM="0"/>
+          </f>
+          <f x="0.15" y="131.45" kX="0" kY="0" cX="28.96" cY="28.96" pX="0" pY="0" z="0" dI="0" dr="33">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="60" bM="0"/>
+          </f>
+          <f x="0.15" y="131.45" kX="0" kY="0" cX="28.96" cY="28.96" pX="0" pY="0" z="0" dI="0" twE="0" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="60" bM="0"/>
+          </f>
+          <f x="0.15" y="131.45" kX="0" kY="0" cX="28.96" cY="28.96" pX="0" pY="0" z="0" dI="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="0" bM="0"/>
+          </f>
+          <f x="0.15" y="131.45" kX="0" kY="0" cX="28.96" cY="28.96" pX="0" pY="0" z="0" dI="0" twE="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="99" bM="100"/>
+          </f>
+          <f x="0.15" y="131.45" kX="0" kY="0" cX="28.96" cY="28.96" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="99" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="s031">
+    <SubTexture name="images/skill/other/white" width="60" height="40" cocos2d_pX="30" cocos2d_pY="20"/>
+  </TextureAtlas>
+</skeleton>

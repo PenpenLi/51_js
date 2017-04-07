@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>领取</string>
+        <key>3</key>
+        <string>在包裹中使用可选择其一作为奖励</string>
+        <key>4</key>
+        <string>奖励倍率越高，获得的奖励越多！</string>
+        <key>5</key>
+        <string>奖励倍率：</string>
+    </dict>
+</plist>

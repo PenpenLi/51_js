@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict>
+ <key>objs</key>
+<array>
+<dict>
+<key>id</key>
+<string>camera</string>
+<key>type</key>
+<string>camera</string>
+<key>fov</key>
+<string>28</string>
+<key>scale</key>
+<string>{1.00,1.00,1.00}</string>
+<key>pos</key>
+<string>{0.0,0.0,1318.7}</string>
+<key>rotation</key>
+ <string>{0.0,0.0,0.0}</string>
+</dict>
+<dict>
+<key>id</key>
+<string>dragon</string>
+<key>type</key>
+<string>sprite3d</string>
+<key>path</key>
+<string>long.c3b</string>
+<key>scale</key>
+<string>{1.00,1.00,1.00}</string>
+<key>pos</key>
+<string>{187.9,-93.1,-200.0}</string>
+<key>rotation</key>
+ <string>{9.0,0.0,0.0}</string>
+</dict>
+<dict>
+<key>id</key>
+<string>cloud</string>
+<key>type</key>
+<string>flash</string>
+<key>action</key>
+<string>ui_dragon_cloud</string>
+<key>path</key>
+<string>ui_dragon</string>
+<key>depth2d</key>
+<string> 1</string>
+<key>scale</key>
+<string>{1.80,1.80,0.60}</string>
+<key>pos</key>
+<string>{57.7,0.0,-731.2}</string>
+<key>rotation</key>
+ <string>{0.0,0.0,0.0}</string>
+</dict>
+<dict>
+<key>id</key>
+<string>cloud3</string>
+<key>type</key>
+<string>flash</string>
+<key>action</key>
+<string>ui_dragon_cloud3</string>
+<key>path</key>
+<string>ui_dragon</string>
+<key>depth2d</key>
+<string> 1</string>
+<key>scale</key>
+<string>{2.00,2.00,0.60}</string>
+<key>pos</key>
+<string>{-114.5,179.1,-838.2}</string>
+<key>rotation</key>
+ <string>{0.0,0.0,0.0}</string>
+</dict>
+<dict>
+<key>id</key>
+<string>cloud4</string>
+<key>type</key>
+<string>flash</string>
+<key>action</key>
+<string>ui_dragon_cloud4</string>
+<key>path</key>
+<string>ui_dragon</string>
+<key>depth2d</key>
+<string> 1</string>
+<key>scale</key>
+<string>{1.40,1.40,0.60}</string>
+<key>pos</key>
+<string>{65.2,-60.1,-617.9}</string>
+<key>rotation</key>
+ <string>{0.0,0.0,0.0}</string>
+</dict>
+<dict>
+<key>id</key>
+<string>cloud2</string>
+<key>type</key>
+<string>flash</string>
+<key>action</key>
+<string>ui_dragon_cloud2</string>
+<key>path</key>
+<string>ui_dragon</string>
+<key>depth2d</key>
+<string> 1</string>
+<key>scale</key>
+<string>{2.30,2.30,0.60}</string>
+<key>pos</key>
+<string>{268.5,133.6,-773.9}</string>
+<key>rotation</key>
+ <string>{0.0,0.0,0.0}</string>
+</dict>
+<dict>
+<key>id</key>
+<string>ui_chouka_shui</string>
+<key>type</key>
+<string>flash</string>
+<key>action</key>
+<string>ui_chouka_shui</string>
+<key>path</key>
+<string>ui_dragon</string>
+<key>depth2d</key>
+<string> 1</string>
+<key>scale</key>
+<string>{1.12,0.40,0.60}</string>
+<key>pos</key>
+<string>{262.5,26.6,22.5}</string>
+<key>rotation</key>
+ <string>{0.0,0.0,0.0}</string>
+</dict>
+<dict>
+<key>id</key>
+<string>ui_chouka_shui2</string>
+<key>type</key>
+<string>flash</string>
+<key>action</key>
+<string>ui_chouka_shui</string>
+<key>path</key>
+<string>ui_dragon</string>
+<key>depth2d</key>
+<string> 1</string>
+<key>scale</key>
+<string>{-1.20,0.40,0.60}</string>
+<key>pos</key>
+<string>{-257.9,26.6,22.5}</string>
+<key>rotation</key>
+ <string>{0.0,0.0,0.0}</string>
+</dict>
+<dict>
+<key>id</key>
+<string>bg</string>
+<key>type</key>
+<string>sprite</string>
+<key>path</key>
+<string>images/ui_dragon/chouka-2.png</string>
+<key>depth2d</key>
+<string>1</string>
+<key>scale</key>
+<string>{4.60,4.60,0.00}</string>
+<key>pos</key>
+<string>{15.7,279.1,-1900.0}</string>
+<key>rotation</key>
+ <string>{0.0,0.0,0.0}</string>
+</dict>
+<dict>
+<key>id</key>
+<string>font</string>
+<key>type</key>
+<string>sprite</string>
+<key>path</key>
+<string>images/ui_dragon/chouka-1.png</string>
+<key>depth2d</key>
+<string>1</string>
+<key>scale</key>
+<string>{1.15,1.15,0.00}</string>
+<key>pos</key>
+<string>{0.0,0.0,0.0}</string>
+<key>rotation</key>
+ <string>{0.0,0.0,0.0}</string>
+</dict>
+</array></dict>

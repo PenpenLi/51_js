@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>6</key>
+        <string>激活组合达到@条</string>
+        <key>7</key>
+        <string>全部武将属性加成</string>
+        <key>8</key>
+        <string>所需星宿值:</string>
+        <key>9</key>
+        <string>当前属性加成:</string>
+    </dict>
+</plist>

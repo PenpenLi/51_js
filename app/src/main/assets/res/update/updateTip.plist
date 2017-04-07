@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>check_update_word</key>
+	<string>检查资源更新中...</string>
+	<key>need_update_word</key>
+	<string>发现新版本,请更新!</string>
+	<key>retry_update_word</key>
+	<string>更新失败,重新尝试</string>
+	<key>retry_downloaderror_word</key>
+	<string>下载资源包失败,重新尝试</string>
+	<key>retry_unziperror_word</key>
+	<string>解压失败,重新尝试</string>
+	<key>enter_game_init</key>
+	<string>游戏加载中...</string>
+	<key>updateing_word</key>
+	<string>正在更新中...</string>
+	<key>updateZipFile</key>
+	<string>下载数据包...</string>
+	<key>waiting_info_get_serverlist</key>
+	<string>获取服务器列表</string>
+	<key>downloadZipError</key>
+	<string>下载资源包失败</string>
+	<key>waiting_info_check_assets</key>
+	<string>连接资源服务器</string>
+	<key>update_app_tip</key>
+	<string>主公，有新版本啦，快去下载吧?</string>
+	<key>download_error</key>
+	<string>有@个资源没有下载成功</string>
+	<key>download_Size</key>
+	<string>需要更新@M资源,是否下载!</string>
+	<key>net_error</key>
+	<string>更新失败,请检查网络后重新进入游戏</string>
+	<key>waiting_info_install_assets</key>
+	<string>初始化数据中</string>
+	<key>GetServerList</key>
+	<string>获取服务器列表</string>
+	<key>initChannel</key>
+	<string>初始化中...</string>
+	<key>loading_errorunzip</key>
+	<string>解压失败</string>
+	<key>remove_old_version_files</key>
+	<string>删除旧版本文件中</string>
+	<key>dylib_intalling</key>
+	<string>资源解压不耗流量哦~</string>
+	<key>unzipInfo</key>
+	<string>资源解压不耗流量哦~</string>
+	<key>connect_master_fail</key>
+	<string>连接失败，请检查网络环境!</string>
+	<key>waiting_info_check_assets</key>
+	<string>连接资源服务器</string>
+	<key>waiting_info_compair_assets</key>
+	<string>版本比较中...</string>
+	<key>title_key</key>
+	<string>提醒</string>
+	<key>btn_yes</key>
+	<string>确定</string>
+	<key>btn_no</key>
+	<string>取消</string>
+	<key>has_login</key>
+	<string>已登陆</string>
+	<key>not_login</key>
+	<string>未登陆</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>暴力模式</string>
+        <key>2</key>
+        <string>命魂介绍</string>
+        <key>3</key>
+        <string>我的命魂</string>
+        <key>4</key>
+        <string>命魂背包:</string>
+        <key>5</key>
+        <string>@折</string>
+        <key>6</key>
+        <string>@折</string>
+        <key>7</key>
+        <string>@折</string>
+    </dict>
+</plist>

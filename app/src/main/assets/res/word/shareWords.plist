@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>formationShareDesc</key>
+	<string>我的战队已无敌，过来点个赞吧！</string>
+	<key>levelUpShareDesc</key>
+	<string>攻击已经超神，我怕没对手！</string>
+	<key>newCardShareDesc</key>
+	<string>****，竟然抽到了神将！</string>
+	<key>petShareDesc</key>
+	<string>我的生肖战宠酷酷的吧，可是你的没我高级 :)</string>
+	<key>recruitShareDesc</key>
+	<string>recruitShareDesc</string>
+</dict>
+</plist>

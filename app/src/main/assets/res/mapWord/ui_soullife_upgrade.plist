@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>升级</string>
+        <key>2</key>
+        <string>攻击:</string>
+        <key>3</key>
+        <string>请选择以下命魂</string>
+        <key>4</key>
+        <string>自动选择</string>
+        <key>5</key>
+        <string>取消选择</string>
+        <key>6</key>
+        <string>石</string>
+        <key>7</key>
+        <string>魂</string>
+        <key>8</key>
+        <string>晶</string>
+        <key>9</key>
+        <string>灵</string>
+    </dict>
+</plist>

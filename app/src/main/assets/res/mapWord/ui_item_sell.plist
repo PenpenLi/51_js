@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>确认出售</string>
+        <key>2</key>
+        <string>出售单价：</string>
+        <key>3</key>
+        <string>获得金币：</string>
+        <key>4</key>
+        <string>请选择出售数量</string>
+    </dict>
+</plist>

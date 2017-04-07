@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>初</string>
+        <key>2</key>
+        <string>中</string>
+        <key>3</key>
+        <string>高</string>
+        <key>4</key>
+        <string>尊</string>
+        <key>5</key>
+        <string>混</string>
+        <key>6</key>
+        <string>Lv不限</string>
+        <key>7</key>
+        <string>请选择合适的段位寻宝</string>
+        <key>8</key>
+        <string>奖励加成@%</string>
+        <key>9</key>
+        <string>奖励加成@%</string>
+        <key>10</key>
+        <string>奖励加成@%</string>
+        <key>11</key>
+        <string>奖励加成@%</string>
+        <key>12</key>
+        <string>奖励加成@%</string>
+        <key>13</key>
+        <string>还可购买@次</string>
+    </dict>
+</plist>

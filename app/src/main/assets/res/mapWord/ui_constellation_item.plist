@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>激活组合:</string>
+        <key>2</key>
+        <string>等级达到@级</string>
+        <key>3</key>
+        <string>@法阵激活星宿组合@条</string>
+        <key>5</key>
+        <string>未解锁</string>
+        <key>7</key>
+        <string>@法阵</string>
+        <key>11</key>
+        <string>激活组合:@/@</string>
+        <key>12</key>
+        <string>激活所有组合才能在战斗中显示法阵特效</string>
+        <key>13</key>
+        <string>法阵特效可使用</string>
+    </dict>
+</plist>

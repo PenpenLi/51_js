@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>4</key>
+        <string>全部武将属性加成</string>
+        <key>8</key>
+        <string>挑战次数:</string>
+        <key>9</key>
+        <string>挑战</string>
+        <key>13</key>
+        <string>星宿值:</string>
+        <key>15</key>
+        <string>已激活组合:</string>
+        <key>16</key>
+        <string>猎星</string>
+        <key>17</key>
+        <string>最快获得星宿的方式</string>
+        <key>19</key>
+        <string>后恢复1次</string>
+    </dict>
+</plist>

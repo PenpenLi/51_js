@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>已到达等级上限</string>
+        <key>2</key>
+        <string>数据</string>
+        <key>3</key>
+        <string>通过以下方式可强化团队实力</string>
+    </dict>
+</plist>

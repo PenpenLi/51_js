@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>只有对应灵兽才可以领悟！</string>
+        <key>2</key>
+        <string>专属天赋</string>
+        <key>3</key>
+        <string>普通天赋</string>
+        <key>4</key>
+        <string>所有灵兽都能领悟！</string>
+    </dict>
+</plist>

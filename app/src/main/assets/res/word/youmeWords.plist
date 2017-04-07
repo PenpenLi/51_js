@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict> 
+        <key>tooOften</key>
+        <string>发言太频繁</string>
+        <key>formatError</key>
+        <string>语音格式错误</string>
+        <key>tooShore</key>
+        <string>说话时间太短</string>
+    </dict>
+</plist>

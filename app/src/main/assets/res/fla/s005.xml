@@ -1,0 +1,244 @@
+<skeleton name="s005" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="s005_b">
+      <b name="烟雾">
+        <d name="s005_skill2_6" isArmature="1"/>
+      </b>
+      <b name="气">
+        <d name="s005_sikll2_1" isArmature="1"/>
+      </b>
+      <b name="效果">
+        <d name="images/skill/005/r005_shizihou_1" pX="104.5" pY="191"/>
+      </b>
+      <b name="音波">
+        <d name="s005_skill2_2" isArmature="1"/>
+      </b>
+      <b name="音波 复制">
+        <d name="s005_skill2_2" isArmature="1"/>
+      </b>
+      <b name="气2">
+        <d name="s005_skill2_3" isArmature="1"/>
+      </b>
+      <b name="口水">
+        <d name="s005_skill2_4" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="s005_skill2_6">
+      <b name="images">
+        <d name="images/skill/other/s002_yan3_01" pX="96.15" pY="29"/>
+        <d name="images/skill/other/s002_yan3_02" pX="96.15" pY="29"/>
+        <d name="images/skill/other/s002_yan3_03" pX="96.15" pY="29"/>
+        <d name="images/skill/other/s002_yan3_04" pX="96.15" pY="29"/>
+        <d name="images/skill/other/s002_yan3_05" pX="96.15" pY="29"/>
+        <d name="images/skill/other/s002_yan3_06" pX="96.15" pY="29"/>
+        <d name="images/skill/other/s002_yan3_07" pX="96.15" pY="29"/>
+        <d name="images/skill/other/s002_yan3_08" pX="96.15" pY="29"/>
+      </b>
+    </armature>
+    <armature name="s005_sikll2_1">
+      <b name="images">
+        <d name="images/skill/other/qiliu_01" pX="43.15" pY="93.5"/>
+        <d name="images/skill/other/qiliu_02" pX="43.15" pY="93.5"/>
+        <d name="images/skill/other/qiliu_03" pX="43.15" pY="93.5"/>
+      </b>
+    </armature>
+    <armature name="s005_skill2_2">
+      <b name="images">
+        <d name="images/skill/other/other-kuosanquan-01" pX="62.15" pY="62.5"/>
+        <d name="images/skill/other/other-kuosanquan-02" pX="62.15" pY="62.5"/>
+        <d name="images/skill/other/other-kuosanquan-03" pX="62.15" pY="62.5"/>
+        <d name="images/skill/other/other-kuosanquan-04" pX="62.15" pY="62.5"/>
+        <d name="images/skill/other/other-kuosanquan-05" pX="62.15" pY="62.5"/>
+      </b>
+    </armature>
+    <armature name="s005_skill2_3">
+      <b name="图层 1">
+        <d name="images/skill/other/qiliubo" pX="27.15" pY="74"/>
+      </b>
+      <b name="图层 2">
+        <d name="images/skill/other/qiliubo" pX="27.15" pY="74"/>
+      </b>
+    </armature>
+    <armature name="s005_skill2_4">
+      <b name="images">
+        <d name="images/skill/other/pen2_01" pX="55.65" pY="63"/>
+        <d name="images/skill/other/pen2_02" pX="55.65" pY="63"/>
+        <d name="images/skill/other/pen2_03" pX="55.65" pY="63"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="s005_skill2_6">
+      <mov name="stand" dr="13" to="0" drTW="13" lp="1" twE="NaN">
+        <b name="images" sc="1" dl="0">
+          <f x="0.35" y="0" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0" z="0" dI="0" dr="1"/>
+          <f x="0.35" y="0" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0" z="0" dI="1" dr="1"/>
+          <f x="0.35" y="0" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0" z="0" dI="2" dr="1"/>
+          <f x="0.35" y="0" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0" z="0" dI="3" dr="2"/>
+          <f x="0.35" y="0" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0" z="0" dI="4" dr="2"/>
+          <f x="0.35" y="0" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0" z="0" dI="5" dr="2"/>
+          <f x="0.35" y="0" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0" z="0" dI="6" dr="2"/>
+          <f x="0.35" y="0" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0" z="0" dI="7" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="s005_sikll2_1">
+      <mov name="stand" dr="12" to="0" drTW="12" lp="1" twE="NaN">
+        <b name="images" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f x="-4.45" y="0.35" kX="0" kY="0" cX="1.03" cY="1.03" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f x="-5.65" y="0.35" kX="0" kY="0" cX="1.06" cY="1.06" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f x="-8.05" y="0.35" kX="0" kY="0" cX="1.08" cY="1.08" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="0" dr="2"/>
+          <f x="-4.05" y="0.35" kX="0" kY="0" cX="1.08" cY="1.08" pX="0" pY="0" z="0" dI="1" twE="0" dr="1"/>
+          <f x="-9.1" y="0.4" kX="0" kY="0" cX="1.09" cY="1.09" pX="0" pY="0" z="0" dI="1" twE="0" dr="1"/>
+          <f x="-5.6" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="0" dr="2"/>
+          <f x="-13.15" y="-5.25" kX="0" kY="0" cX="1.13" cY="1.13" pX="0" pY="0" z="0" dI="2" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="25" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="s005_skill2_2">
+      <mov name="stand" dr="5" to="0" drTW="5" lp="1" twE="NaN">
+        <b name="images" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="1"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="1"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" dr="1"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="s005_skill2_3">
+      <mov name="stand" dr="35" to="0" drTW="35" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-2.65" y="99.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="9"/>
+          <f x="-2.65" y="-13.65" kX="0" kY="0" cX="1.58" cY="1.58" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="25" dI="-1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="-2.65" y="163.35" kX="180" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="9"/>
+          <f x="-2.65" y="252.35" kX="180" kY="0" cX="1.44" cY="1.44" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="25" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="s005_skill2_4">
+      <mov name="stand" dr="10" to="0" drTW="10" lp="1" twE="NaN">
+        <b name="images" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="42.4" y="1.85" kX="0" kY="0" cX="1.42" cY="1.42" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="39.35" y="1.35" kX="0" kY="0" cX="1.13" cY="1.13" pX="0" pY="0" z="0" dI="1" dr="1"/>
+          <f x="58.85" y="0.35" kX="0" kY="0" cX="1.45" cY="1.45" pX="0" pY="0" z="0" dI="1" dr="1"/>
+          <f x="48.35" y="-0.15" kX="0" kY="0" cX="1.35" cY="1.35" pX="0" pY="0" z="0" dI="2" dr="1"/>
+          <f x="68.85" y="-0.15" kX="0" kY="0" cX="1.68" cY="1.68" pX="0" pY="0" z="0" dI="2" dr="1"/>
+          <f x="80.85" y="0.85" kX="0" kY="0" cX="1.8" cY="1.8" pX="0" pY="0" z="0" dI="2" dr="1"/>
+          <f dr="3" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="s005_b">
+      <mov name="stand" dr="28" to="0" drTW="28" lp="1" twE="NaN">
+        <b name="烟雾" sc="1" dl="0">
+          <f dr="5" dI="-1"/>
+          <f x="664.55" y="65.15" kX="0" kY="0" cX="2.3" cY="3.92" pX="11" pY="15.55" z="0" dI="0" twE="0" dr="10"/>
+          <f x="693.45" y="64.9" kX="0" kY="0" cX="2.73" cY="5.03" pX="10.95" pY="15.5" z="0" dI="0" twE="0" dr="1"/>
+          <f dr="12" dI="-1"/>
+        </b>
+        <b name="气" sc="1" dl="0">
+          <f x="-76.25" y="-146.8" kX="0" kY="0" cX="2.14" cY="2.28" pX="17.5" pY="12.25" z="1" dI="0" twE="0" dr="8"/>
+          <f x="-106.4" y="-146.75" kX="0" kY="0" cX="2.08" cY="2.5" pX="17.45" pY="12.25" z="1" dI="0" twE="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="38" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-115" y="-146.75" kX="0" kY="0" cX="2.06" cY="2.57" pX="17.5" pY="12.25" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="20" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="17" dI="-1"/>
+        </b>
+        <b name="效果" sc="1" dl="0">
+          <f dr="3" dI="-1"/>
+          <f x="245.45" y="-71.65" kX="0" kY="0" cX="0.6" cY="0.6" pX="-91.95" pY="0" z="2" dI="0" twE="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="66" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="289.45" y="-71.65" kX="0" kY="0" cX="3.27" cY="3.27" pX="-91.95" pY="0" z="0" dI="0" twE="0" dr="8">
+            <colorTransform a="0" r="0" g="0" b="0" aM="66" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="287.45" y="-81.65" kX="0" kY="0" cX="4.3" cY="4.3" pX="-91.95" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="9" dI="-1"/>
+        </b>
+        <b name="音波" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="323.95" y="-81.75" kX="0" kY="0" cX="0.62" cY="1.94" pX="0" pY="0" z="2" dI="0" twE="0" dr="8">
+            <colorTransform a="0" r="255" g="137" b="124" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+          <f x="664" y="-107.75" kX="0" kY="0" cX="2.1" cY="6.58" pX="0" pY="0" z="0" dI="0" twE="0" dr="8">
+            <colorTransform a="0" r="255" g="137" b="124" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+          <f x="1008.1" y="-115.75" kX="0" kY="0" cX="2.76" cY="8.64" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="7" dI="-1"/>
+        </b>
+        <b name="音波 复制" sc="1" dl="0">
+          <f dr="11" dI="-1"/>
+          <f x="323.95" y="-81.75" kX="0" kY="0" cX="0.62" cY="1.94" pX="0" pY="0" z="2" dI="0" twE="0" dr="8">
+            <colorTransform a="0" r="255" g="137" b="124" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+          <f x="664" y="-107.75" kX="0" kY="0" cX="2.1" cY="6.58" pX="0" pY="0" z="0" dI="0" twE="0" dr="8">
+            <colorTransform a="0" r="255" g="137" b="124" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+          <f x="1008.1" y="-115.75" kX="0" kY="0" cX="2.76" cY="8.64" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="气2" sc="1" dl="0">
+          <f dr="1" dI="-1"/>
+          <f x="149" y="-82.65" kX="0" kY="0" cX="1" cY="1" pX="-2.65" pY="131.35" z="4" dI="0" twE="1" dr="7"/>
+          <f x="149" y="-82.7" kX="0" kY="0" cX="1.38" cY="1.38" pX="-2.65" pY="131.4" z="4" dI="0" twE="0" dr="2"/>
+          <f x="148.9" y="-82.6" kX="0" kY="0" cX="1.31" cY="1.31" pX="-2.65" pY="131.4" z="4" dI="0" twE="0" dr="1"/>
+          <f dr="17" dI="-1"/>
+        </b>
+        <b name="口水" sc="1" dl="0">
+          <f dr="1" dI="-1"/>
+          <f x="438.3" y="-49.05" kX="0" kY="0" cX="2.09" cY="2.09" pX="19" pY="13.35" z="5" dI="0" twE="0" dr="6"/>
+          <f x="512.45" y="-37.1" kX="0" kY="0" cX="2.71" cY="2.71" pX="19" pY="13.35" z="5" dI="0" twE="0" dr="3"/>
+          <f x="566.25" y="-49.05" kX="0" kY="0" cX="2.76" cY="2.76" pX="19" pY="13.35" z="5" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="17" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="s005" width="1024" height="512">
+    <SubTexture name="images/skill/other/pen2_03" width="112" height="126" cocos2d_pX="55.65" cocos2d_pY="63" x="877" y="254"/>
+    <SubTexture name="images/skill/other/pen2_02" width="112" height="126" cocos2d_pX="55.65" cocos2d_pY="63" x="763" y="254"/>
+    <SubTexture name="images/skill/other/pen2_01" width="112" height="126" cocos2d_pX="55.65" cocos2d_pY="63" x="268" y="189"/>
+    <SubTexture name="images/skill/other/qiliubo" width="55" height="148" cocos2d_pX="27.15" cocos2d_pY="74" x="211" y="189"/>
+    <SubTexture name="images/skill/other/other-kuosanquan-05" width="125" height="125" cocos2d_pX="62.15" cocos2d_pY="62.5" x="868" y="127"/>
+    <SubTexture name="images/skill/other/other-kuosanquan-04" width="125" height="125" cocos2d_pX="62.15" cocos2d_pY="62.5" x="868" y="0"/>
+    <SubTexture name="images/skill/other/other-kuosanquan-03" width="125" height="125" cocos2d_pX="62.15" cocos2d_pY="62.5" x="382" y="240"/>
+    <SubTexture name="images/skill/other/other-kuosanquan-02" width="125" height="125" cocos2d_pX="62.15" cocos2d_pY="62.5" x="636" y="240"/>
+    <SubTexture name="images/skill/other/other-kuosanquan-01" width="125" height="125" cocos2d_pX="62.15" cocos2d_pY="62.5" x="509" y="240"/>
+    <SubTexture name="images/skill/other/qiliu_03" width="87" height="187" cocos2d_pX="43.15" cocos2d_pY="93.5" x="389" y="0"/>
+    <SubTexture name="images/skill/other/qiliu_02" width="87" height="187" cocos2d_pX="43.15" cocos2d_pY="93.5" x="211" y="0"/>
+    <SubTexture name="images/skill/other/qiliu_01" width="87" height="187" cocos2d_pX="43.15" cocos2d_pY="93.5" x="300" y="0"/>
+    <SubTexture name="images/skill/other/s002_yan3_08" width="193" height="58" cocos2d_pX="96.15" cocos2d_pY="29" x="478" y="0"/>
+    <SubTexture name="images/skill/other/s002_yan3_07" width="193" height="58" cocos2d_pX="96.15" cocos2d_pY="29" x="673" y="0"/>
+    <SubTexture name="images/skill/other/s002_yan3_06" width="193" height="58" cocos2d_pX="96.15" cocos2d_pY="29" x="673" y="60"/>
+    <SubTexture name="images/skill/other/s002_yan3_05" width="193" height="58" cocos2d_pX="96.15" cocos2d_pY="29" x="673" y="120"/>
+    <SubTexture name="images/skill/other/s002_yan3_04" width="193" height="58" cocos2d_pX="96.15" cocos2d_pY="29" x="478" y="120"/>
+    <SubTexture name="images/skill/other/s002_yan3_03" width="193" height="58" cocos2d_pX="96.15" cocos2d_pY="29" x="478" y="60"/>
+    <SubTexture name="images/skill/other/s002_yan3_02" width="193" height="58" cocos2d_pX="96.15" cocos2d_pY="29" x="478" y="180"/>
+    <SubTexture name="images/skill/other/s002_yan3_01" width="193" height="58" cocos2d_pX="96.15" cocos2d_pY="29" x="673" y="180"/>
+    <SubTexture name="images/skill/005/r005_shizihou_1" width="209" height="382" cocos2d_pX="104.5" cocos2d_pY="191" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

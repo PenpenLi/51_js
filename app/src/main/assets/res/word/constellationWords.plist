@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>notice_active_achieve</key>
+    <string>成功激活，获得属性加成 @@</string>
+	<key>notice_active_group</key>
+    <string>星宿值 </string>
+    <key>tip_item_desc</key>
+    <string>收集对应星宿，可以激活法阵组合获得属性，分解可获得一定数量星魂</string>
+	<key>no_enough_fight_num</key>
+	<string>挑战次数已用完!</string>
+	<key>txt_actived</key>
+	<string>已激活</string>
+	<key>no_enough_consmoney</key>
+	<string>星魂不足!</string>
+	<key>shop_title</key>
+	<string>星魂兑换</string>
+</dict>
+</plist>

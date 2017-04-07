@@ -1,0 +1,58 @@
+system Test_Fire01
+{
+    technique Technique3
+    {
+        visual_particle_quota                   200
+        material                                xulie_fire_4x4
+        default_particle_width                  0.255916
+        default_particle_height                 0.255916
+        default_particle_depth                  0.255916
+        renderer                                Billboard
+        {
+            texture_coords_rows                 4
+            texture_coords_columns              4
+        }
+        emitter                                 Point 
+        {
+            emission_rate                       dyn_random
+            {
+                min                             30
+                max                             50
+            }
+            angle                               dyn_random
+            {
+                min                             -10
+                max                             10
+            }
+            time_to_live                        1
+            velocity                            dyn_random
+            {
+                min                             5
+                max                             8
+            }
+            all_particle_dimensions             dyn_random
+            {
+                min                             1
+                max                             2
+            }
+            auto_direction                      true
+        }
+        affector                                Scale Affector65
+        {
+            xyz_scale                           dyn_random
+            {
+                min                             2
+                max                             5
+            }
+        }
+        affector                                Colour Affector66
+        {
+            time_colour                         0    1 0.501961 1 0
+            time_colour                         1    1 0.501961 1 0
+        }
+        affector                                TextureAnimator 
+        {
+            end_texture_coords_range            3
+        }
+    }
+}

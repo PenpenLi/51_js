@@ -1,0 +1,60 @@
+<skeleton name="ui_card_equip_activate" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="ui-card-fangru">
+      <b name="图层 1">
+        <d name="ui-card-fangru-2" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui-card-fangru-2">
+      <b name="images">
+        <d name="images/skill/ui/ui-fangru-01"/>
+      </b>
+      <b name="images  复制 2">
+        <d name="images/skill/ui/ui-fangru-01"/>
+      </b>
+      <b name="images 复制">
+        <d name="images/skill/ui/ui-fangru-01"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui-card-fangru-2">
+      <mov name="stand" dr="20" to="0" drTW="20" lp="1" twE="NaN">
+        <b name="images" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="99" gM="98" bM="100"/>
+          </f>
+        </b>
+        <b name="images  复制 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.69" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.69" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.7" cY="0.7" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="99" gM="98" bM="100"/>
+          </f>
+        </b>
+        <b name="images 复制" sc="1" dl="0">
+          <f x="0" y="0" kX="141.47" kY="141.47" cX="0.52" cY="0.52" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="10"/>
+          <f x="0" y="0" kX="141.47" kY="141.47" cX="0.58" cY="0.58" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="99" gM="98" bM="100"/>
+          </f>
+          <f dr="9" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui-card-fangru">
+      <mov name="stand" dr="19" to="0" drTW="19" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="4.77" cY="4.77" pX="0" pY="0" z="0" dI="0" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="9.36" cY="9.36" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_card_equip_activate">
+    <SubTexture name="images/skill/ui/ui-fangru-01" width="69" height="69" cocos2d_pX="34.5" cocos2d_pY="34.5"/>
+  </TextureAtlas>
+</skeleton>

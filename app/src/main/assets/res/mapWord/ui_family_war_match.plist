@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>晋级赛</string>
+        <key>2</key>
+        <string>第</string>
+        <key>3</key>
+        <string>届</string>
+        <key>4</key>
+        <string>布阵</string>
+    </dict>
+</plist>

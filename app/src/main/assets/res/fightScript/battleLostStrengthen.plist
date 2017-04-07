@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>recruit</key>
+	<dict>
+		<key>lev</key>
+		<integer>1</integer>
+		<key>desc</key>
+		<string>招募</string>
+		<key>itemid</key>
+		<real>120001</real>
+	</dict>
+	<key>equipStrengthen</key>
+	<dict>
+		<key>lev</key>
+		<integer>1</integer>
+		<key>desc</key>
+		<string>装备强化</string>
+		<key>itemid</key>
+		<integer>120002</integer>
+	</dict>
+	<key>starUp</key>
+	<dict>
+		<key>lev</key>
+		<integer>1</integer>
+		<key>desc</key>
+		<string>升星</string>
+		<key>itemid</key>
+		<integer>120003</integer>
+	</dict>
+	<key>skillUp</key>
+	<dict>
+		<key>lev</key>
+		<string>3</string>
+		<key>desc</key>
+		<string>技能升级</string>
+		<key>itemid</key>
+		<integer>120004</integer>
+	</dict>
+	<key>petTrain</key>
+	<dict>
+		<key>lev</key>
+		<integer>11</integer>
+		<key>desc</key>
+		<string>灵兽培养</string>
+		<key>itemid</key>
+		<integer>120005</integer>
+	</dict>
+</dict>
+</plist>

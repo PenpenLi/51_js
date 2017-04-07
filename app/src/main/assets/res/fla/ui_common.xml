@@ -1,0 +1,69 @@
+<skeleton name="ui_common" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="ui_main_bg_nightcolor">
+      <b name="图层 1">
+        <d name="images/ui_main/nightcolor"/>
+      </b>
+    </armature>
+    <armature name="ui_common_sloading">
+      <b name="Layer 1">
+        <d name="images/ui_public1/load-hua"/>
+      </b>
+    </armature>
+    <armature name="ui_common_cover_purple">
+      <b name="图层 2">
+        <d name="images/skill/other/black"/>
+      </b>
+      <b name="图层 1">
+        <d name="images/skill/other/purple"/>
+      </b>
+      <b name="图层 3">
+        <d name="images/skill/other/line_long"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_main_bg_nightcolor">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="20" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_common_sloading">
+      <mov name="stand" dr="49" to="0" drTW="49" lp="1" twE="NaN">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="-1" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="11"/>
+          <f x="-1" y="0" kX="89.99" kY="89.99" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="12"/>
+          <f x="-1" y="0" kX="180" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="13"/>
+          <f x="-1" y="0" kX="-89.99" kY="-89.99" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="12"/>
+          <f x="-1" y="0" kX="-1" kY="-1" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_common_cover_purple">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="14.5" cY="14.5" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="87" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="14.5" cY="14.5" bd="5" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="-1.5" y="-1.05" kX="0" kY="0" cX="53.61" cY="1.05" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_common">
+    <SubTexture name="images/skill/other/line_long" width="27" height="767" cocos2d_pX="13.5" cocos2d_pY="383.5"/>
+    <SubTexture name="images/skill/other/purple" width="100" height="56" cocos2d_pX="50" cocos2d_pY="28"/>
+    <SubTexture name="images/skill/other/black" width="100" height="56" cocos2d_pX="50" cocos2d_pY="28"/>
+    <SubTexture name="images/ui_public1/load-hua" width="48" height="48" cocos2d_pX="24" cocos2d_pY="24"/>
+    <SubTexture name="images/ui_main/nightcolor" width="162" height="111" cocos2d_pX="81" cocos2d_pY="55.5"/>
+  </TextureAtlas>
+</skeleton>

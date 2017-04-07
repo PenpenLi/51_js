@@ -1,0 +1,104 @@
+<skeleton name="ui_card_equip_upgrade" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="ui_card_equip_upgrade">
+      <b name="图层 4">
+        <d name="images/skill/other/baiguang"/>
+      </b>
+      <b name="图层 1">
+        <d name="ui_card_equip_upgrade2" isArmature="1"/>
+      </b>
+      <b name="图层 3">
+        <d name="ui_card_equip_upgrade3" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_card_equip_upgrade2">
+      <b name="图层 1">
+        <d name="images/ui_pic1/zbk-di5"/>
+      </b>
+    </armature>
+    <armature name="ui_card_equip_upgrade3">
+      <b name="图层 1">
+        <d name="images/skill/ui/ui-shanfaguang-01"/>
+        <d name="images/skill/ui/ui-shanfaguang-02"/>
+        <d name="images/skill/ui/ui-shanfaguang-03"/>
+        <d name="images/skill/ui/ui-shanfaguang-04"/>
+        <d name="images/skill/ui/ui-shanfaguang-05"/>
+        <d name="images/skill/ui/ui-shanfaguang-06"/>
+        <d name="images/skill/ui/ui-shanfaguang-07"/>
+        <d name="images/skill/ui/ui-shanfaguang-08"/>
+        <d name="images/skill/ui/ui-shanfaguang-09"/>
+        <d name="images/skill/ui/ui-shanfaguang-10"/>
+        <d name="images/skill/ui/ui-shanfaguang-11"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_card_equip_upgrade2">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.74" cY="2.74" bd="5" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_card_equip_upgrade3">
+      <mov name="stand" dr="22" to="0" drTW="22" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-5" y="3" kX="0" kY="0" cX="2.97" cY="2.97" bd="8" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="-5" y="3" kX="0" kY="0" cX="2.97" cY="2.97" bd="8" pX="0" pY="0" z="0" dI="1" dr="2"/>
+          <f x="-5" y="3" kX="0" kY="0" cX="2.97" cY="2.97" bd="8" pX="0" pY="0" z="0" dI="2" dr="2"/>
+          <f x="-5" y="3" kX="0" kY="0" cX="2.97" cY="2.97" bd="8" pX="0" pY="0" z="0" dI="3" dr="2"/>
+          <f x="-5" y="3" kX="0" kY="0" cX="2.97" cY="2.97" bd="8" pX="0" pY="0" z="0" dI="4" dr="2"/>
+          <f x="-5" y="3" kX="0" kY="0" cX="2.97" cY="2.97" bd="8" pX="0" pY="0" z="0" dI="5" dr="2"/>
+          <f x="-5" y="3" kX="0" kY="0" cX="2.97" cY="2.97" bd="8" pX="0" pY="0" z="0" dI="6" dr="2"/>
+          <f x="-5" y="3" kX="0" kY="0" cX="2.97" cY="2.97" bd="8" pX="0" pY="0" z="0" dI="7" dr="2"/>
+          <f x="-5" y="3" kX="0" kY="0" cX="2.97" cY="2.97" bd="8" pX="0" pY="0" z="0" dI="8" dr="2"/>
+          <f x="-5" y="3" kX="0" kY="0" cX="2.97" cY="2.97" bd="8" pX="0" pY="0" z="0" dI="9" dr="2"/>
+          <f x="-5" y="3" kX="0" kY="0" cX="2.97" cY="2.97" bd="8" pX="0" pY="0" z="0" dI="10" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_card_equip_upgrade">
+      <mov name="stand" dr="10" to="0" drTW="10" lp="1" twE="NaN">
+        <b name="图层 4" sc="1" dl="0">
+          <f x="1.05" y="1" kX="0" kY="0" cX="1.54" cY="1.54" bd="8" pX="0.3" pY="0" z="0" dI="0" twE="0" dr="9"/>
+          <f x="1.05" y="-6" kX="0" kY="0" cX="2.54" cY="2.54" bd="8" pX="0.4" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="20" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="201" g="201" b="201" aM="100" rM="21" gM="21" bM="21"/>
+          </f>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="-5" y="4.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="20" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5" y="4.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="20" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5" y="-2.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="20" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_card_equip_upgrade">
+    <SubTexture name="images/skill/ui/ui-shanfaguang-11" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+    <SubTexture name="images/skill/ui/ui-shanfaguang-10" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+    <SubTexture name="images/skill/ui/ui-shanfaguang-09" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+    <SubTexture name="images/skill/ui/ui-shanfaguang-08" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+    <SubTexture name="images/skill/ui/ui-shanfaguang-07" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+    <SubTexture name="images/skill/ui/ui-shanfaguang-06" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+    <SubTexture name="images/skill/ui/ui-shanfaguang-05" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+    <SubTexture name="images/skill/ui/ui-shanfaguang-04" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+    <SubTexture name="images/skill/ui/ui-shanfaguang-03" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+    <SubTexture name="images/skill/ui/ui-shanfaguang-02" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+    <SubTexture name="images/skill/ui/ui-shanfaguang-01" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+    <SubTexture name="images/ui_pic1/zbk-di5" width="80" height="54" cocos2d_pX="40" cocos2d_pY="27"/>
+    <SubTexture name="images/skill/other/baiguang" width="117" height="117" cocos2d_pX="58.15" cocos2d_pY="58.5"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>9</key>
+        <string>倍率+@</string>
+        <key>10</key>
+        <string>横线3个硬币同为一种硬币</string>
+        <key>11</key>
+        <string>倍率+@</string>
+        <key>12</key>
+        <string>所有格子都为不同种硬币</string>
+        <key>13</key>
+        <string>倍率+@</string>
+        <key>14</key>
+        <string>竖线3个硬币同为一种硬币</string>
+        <key>15</key>
+        <string>倍率+@</string>
+        <key>16</key>
+        <string>斜线3个硬币同为一种硬币</string>
+    </dict>
+</plist>

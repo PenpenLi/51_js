@@ -1,0 +1,81 @@
+<skeleton name="washit" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="washit">
+      <b name="g">
+        <d name="images/skill/other/huangguang1"/>
+      </b>
+      <b name="images">
+        <d name="images/skill/washit1/washit1-01"/>
+        <d name="images/skill/washit1/washit1-02"/>
+        <d name="images/skill/washit1/washit1-03"/>
+        <d name="images/skill/washit1/washit1-04"/>
+        <d name="images/skill/washit1/washit1-05"/>
+        <d name="images/skill/washit1/washit1-06"/>
+        <d name="images/skill/washit1/washit1-07"/>
+        <d name="images/skill/washit1/washit1-08"/>
+      </b>
+      <b name="images0">
+        <d name="images/skill/other/baojidi-01"/>
+        <d name="images/skill/other/baojidi-02"/>
+        <d name="images/skill/other/baojidi-03"/>
+        <d name="images/skill/other/baojidi-04"/>
+        <d name="images/skill/other/baojidi-05"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="washit">
+      <mov name="stand" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="g" sc="1" dl="0">
+          <f dr="2" dI="-1"/>
+          <f x="6.05" y="-87.05" kX="0" kY="0" cX="9.36" cY="9.36" bd="8" pX="0.35" pY="0" z="0" dI="0" twE="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="6.05" y="-87.05" kX="0" kY="0" cX="9.36" cY="9.36" bd="8" pX="0.35" pY="0" z="0" dI="0" twE="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="52" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="6.05" y="-87.05" kX="0" kY="0" cX="9.36" cY="9.36" bd="8" pX="0.35" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="43" dI="-1"/>
+        </b>
+        <b name="images" sc="1" dl="0">
+          <f x="2.9" y="-61.6" kX="0" kY="0" cX="1.56" cY="1.56" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="2.9" y="-88.6" kX="0" kY="0" cX="1.56" cY="1.56" pX="0" pY="0" z="0" dI="1" dr="1"/>
+          <f x="2.9" y="-88.6" kX="0" kY="0" cX="1.56" cY="1.56" pX="0" pY="0" z="1" dI="2" sd="common_washit.mp3" dr="1"/>
+          <f x="2.9" y="-88.6" kX="0" kY="0" cX="1.56" cY="1.56" pX="0" pY="0" z="1" dI="3" dr="1"/>
+          <f x="2.9" y="-88.6" kX="0" kY="0" cX="1.56" cY="1.56" pX="0" pY="0" z="1" dI="4" dr="1"/>
+          <f x="2.9" y="-88.6" kX="0" kY="0" cX="1.56" cY="1.56" pX="0" pY="0" z="1" dI="5" dr="1"/>
+          <f x="2.9" y="-88.6" kX="0" kY="0" cX="1.56" cY="1.56" pX="0" pY="0" z="1" dI="6" dr="1"/>
+          <f x="2.9" y="-88.6" kX="0" kY="0" cX="1.56" cY="1.56" pX="0" pY="0" z="0" dI="7" dr="1"/>
+          <f dr="42" dI="-1"/>
+        </b>
+        <b name="images0" sc="1" dl="0">
+          <f dr="1" dI="-1"/>
+          <f x="1" y="-92.05" kX="0" kY="0" cX="1.36" cY="2.41" bd="8" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f x="1" y="-92.05" kX="0" kY="0" cX="1.36" cY="2.41" bd="8" pX="0" pY="0" z="2" dI="1" dr="1"/>
+          <f x="1" y="-92.05" kX="0" kY="0" cX="1.36" cY="2.41" bd="8" pX="0" pY="0" z="2" dI="2" dr="1"/>
+          <f x="1" y="-92.05" kX="0" kY="0" cX="1.36" cY="2.41" bd="8" pX="0" pY="0" z="2" dI="3" dr="1"/>
+          <f x="1" y="-92.05" kX="0" kY="0" cX="1.36" cY="2.41" bd="8" pX="0" pY="0" z="2" dI="4" dr="1"/>
+          <f dr="44" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="washit">
+    <SubTexture name="images/skill/other/baojidi-05" width="145" height="82" cocos2d_pX="72.5" cocos2d_pY="41"/>
+    <SubTexture name="images/skill/other/baojidi-04" width="145" height="82" cocos2d_pX="72.5" cocos2d_pY="41"/>
+    <SubTexture name="images/skill/other/baojidi-03" width="145" height="82" cocos2d_pX="72.5" cocos2d_pY="41"/>
+    <SubTexture name="images/skill/other/baojidi-02" width="145" height="82" cocos2d_pX="72.5" cocos2d_pY="41"/>
+    <SubTexture name="images/skill/other/baojidi-01" width="145" height="82" cocos2d_pX="72.5" cocos2d_pY="41"/>
+    <SubTexture name="images/skill/washit1/washit1-08" width="161" height="120" cocos2d_pX="80.5" cocos2d_pY="60"/>
+    <SubTexture name="images/skill/washit1/washit1-07" width="161" height="120" cocos2d_pX="80.5" cocos2d_pY="60"/>
+    <SubTexture name="images/skill/washit1/washit1-06" width="161" height="120" cocos2d_pX="80.5" cocos2d_pY="60"/>
+    <SubTexture name="images/skill/washit1/washit1-05" width="161" height="120" cocos2d_pX="80.5" cocos2d_pY="60"/>
+    <SubTexture name="images/skill/washit1/washit1-04" width="161" height="120" cocos2d_pX="80.5" cocos2d_pY="60"/>
+    <SubTexture name="images/skill/washit1/washit1-03" width="161" height="120" cocos2d_pX="80.5" cocos2d_pY="60"/>
+    <SubTexture name="images/skill/washit1/washit1-02" width="161" height="120" cocos2d_pX="80.5" cocos2d_pY="60"/>
+    <SubTexture name="images/skill/washit1/washit1-01" width="161" height="120" cocos2d_pX="80.5" cocos2d_pY="60"/>
+    <SubTexture name="images/skill/other/huangguang1" width="81" height="75" cocos2d_pX="40.5" cocos2d_pY="37.5"/>
+  </TextureAtlas>
+</skeleton>

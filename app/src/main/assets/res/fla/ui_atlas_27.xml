@@ -1,0 +1,116 @@
+<skeleton name="ui_atlas_27" frameRate="35" version="2.2">
+  <armatures>
+    <armature name="ui_atlas_map27_type7">
+      <b name="图层 1">
+        <d name="images/ui_atlas/26/map"/>
+      </b>
+      <b name="图层 1 复制">
+        <d name="images/ui_atlas/26/map"/>
+      </b>
+    </armature>
+    <armature name="ui_atlas_map27_type1">
+      <b name="图层 1 复制">
+        <d name="images/ui_atlas/26/map"/>
+      </b>
+      <b name="图层 1">
+        <d name="images/ui_atlas/26/map"/>
+      </b>
+    </armature>
+    <armature name="ui_atlas_map27_type0">
+      <b name="图层 1">
+        <d name="images/ui_atlas/26/map"/>
+      </b>
+    </armature>
+    <armature name="ui_atlas_27_09">
+      <b name="1">
+        <d name="images/ui_atlas/26/09"/>
+      </b>
+      <b name="2">
+        <d name="images/ui_atlas/26/09_01"/>
+      </b>
+      <b name="3">
+        <d name="images/ui_atlas/26/09_02"/>
+      </b>
+    </armature>
+    <armature name="ui_atlas_27_01">
+      <b name="a">
+        <d name="images/ui_atlas/26/01"/>
+      </b>
+      <b name="b">
+        <d name="images/ui_atlas/26/01_01"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_atlas_map27_type7">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="图层 1 复制" sc="1" dl="0">
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="0" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_atlas_map27_type1">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1 复制" sc="1" dl="0">
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" bd="5" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="0" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_atlas_map27_type0">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_atlas_27_09">
+      <mov name="stand" dr="40" to="0" drTW="40" lp="1" twE="NaN">
+        <b name="1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="40"/>
+        </b>
+        <b name="2" sc="1" dl="0">
+          <f x="6.95" y="-33" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="19"/>
+          <f x="6.55" y="-27.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="20"/>
+          <f x="6.95" y="-33" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="3" sc="1" dl="0">
+          <f x="24.75" y="-11.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="19"/>
+          <f x="24.75" y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="20"/>
+          <f x="24.75" y="-11.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_atlas_27_01">
+      <mov name="stand" dr="140" to="0" drTW="140" lp="1" twE="NaN">
+        <b name="a" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="140"/>
+        </b>
+        <b name="b" sc="1" dl="0">
+          <f x="0.35" y="-17.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="34"/>
+          <f x="0.35" y="-17.75" kX="90" kY="90" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="35"/>
+          <f x="0.35" y="-17.75" kX="180" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="35"/>
+          <f x="0.35" y="-17.75" kX="-90" kY="-90" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="35"/>
+          <f x="0.35" y="-17.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_atlas_27">
+    <SubTexture name="images/ui_atlas/26/01_01" width="92" height="93" cocos2d_pX="46" cocos2d_pY="46.5"/>
+    <SubTexture name="images/ui_atlas/26/01" width="62" height="72" cocos2d_pX="31" cocos2d_pY="36"/>
+    <SubTexture name="images/ui_atlas/26/09_02" width="32" height="19" cocos2d_pX="16" cocos2d_pY="9.5"/>
+    <SubTexture name="images/ui_atlas/26/09_01" width="28" height="15" cocos2d_pX="14" cocos2d_pY="7.5"/>
+    <SubTexture name="images/ui_atlas/26/09" width="134" height="71" cocos2d_pX="67" cocos2d_pY="35.5"/>
+    <SubTexture name="images/ui_atlas/26/map" width="1112" height="571" cocos2d_pX="556" cocos2d_pY="285.5"/>
+  </TextureAtlas>
+</skeleton>

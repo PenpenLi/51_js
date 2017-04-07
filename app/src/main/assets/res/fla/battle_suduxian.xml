@@ -1,0 +1,106 @@
+<skeleton name="battle_suduxian" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="battle_suduxian">
+      <b name="效果2">
+        <d name="battle_suduxian_s005_sikll2_5" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="battle_suduxian_s005_sikll2_5">
+      <b name="图层 1">
+        <d name="images/skill/other/suduxian" pX="106.15" pY="66.5"/>
+      </b>
+      <b name="Layer 11">
+        <d name="images/skill/other/suduxian" pX="106.15" pY="66.5"/>
+      </b>
+      <b name="Layer 10">
+        <d name="images/skill/other/suduxian" pX="106.15" pY="66.5"/>
+      </b>
+      <b name="Layer 9">
+        <d name="images/skill/other/suduxian" pX="106.15" pY="66.5"/>
+      </b>
+      <b name="Layer 8">
+        <d name="images/skill/other/suduxian" pX="106.15" pY="66.5"/>
+      </b>
+      <b name="Layer 7">
+        <d name="images/skill/other/suduxian" pX="106.15" pY="66.5"/>
+      </b>
+      <b name="Layer 6">
+        <d name="images/skill/other/suduxian" pX="106.15" pY="66.5"/>
+      </b>
+      <b name="Layer 3">
+        <d name="images/skill/other/suduxian" pX="106.15" pY="66.5"/>
+      </b>
+      <b name="Layer 4">
+        <d name="images/skill/other/suduxian" pX="106.15" pY="66.5"/>
+      </b>
+      <b name="Layer 5">
+        <d name="images/skill/other/suduxian" pX="106.15" pY="66.5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="battle_suduxian_s005_sikll2_5">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-797.95" y="642.15" kX="0" kY="0" cX="3.36" cY="3.36" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="Layer 11" sc="1" dl="0">
+          <f x="-823.3" y="388.15" kX="28.92" kY="28.92" cX="2.71" cY="2.71" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="61" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="Layer 10" sc="1" dl="0">
+          <f x="-538.15" y="644.55" kX="106.79" kY="-73.2" cX="1.99" cY="1.23" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="Layer 9" sc="1" dl="0">
+          <f x="-257.7" y="795.65" kX="46.78" kY="-133.22" cX="1.99" cY="3.71" pX="0" pY="0" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="84" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="Layer 8" sc="1" dl="0">
+          <f x="306.3" y="710.75" kX="24.88" kY="-155.12" cX="2.52" cY="2.42" pX="0" pY="0" z="4" dI="0" dr="1"/>
+        </b>
+        <b name="Layer 7" sc="1" dl="0">
+          <f x="500.85" y="577.95" kX="-3.09" kY="176.91" cX="3.11" cY="2.99" pX="0" pY="0" z="5" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="69" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="Layer 6" sc="1" dl="0">
+          <f x="464.35" y="155.9" kX="-152.95" kY="-152.95" cX="2.01" cY="2.01" pX="75.8" pY="-25.1" z="6" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="54" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="Layer 3" sc="1" dl="0">
+          <f x="-609.05" y="-32.85" kX="-164.23" kY="15.77" cX="2.31" cY="1.43" pX="0" pY="0" z="7" dI="0" dr="1"/>
+        </b>
+        <b name="Layer 4" sc="1" dl="0">
+          <f x="355.2" y="-82.2" kX="149.63" kY="149.63" cX="2.67" cY="1.26" pX="0" pY="0" z="8" dI="0" dr="1"/>
+        </b>
+        <b name="Layer 5" sc="1" dl="0">
+          <f x="595.75" y="-34.55" kX="-178.61" kY="-178.61" cX="2.71" cY="2.71" pX="0" pY="0" z="9" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="battle_suduxian">
+      <mov name="stand" dr="20" to="0" drTW="20" lp="1" twE="NaN">
+        <b name="效果2" sc="1" dl="0">
+          <f x="-6.5" y="3.5" kX="0" kY="0" cX="0.82" cY="0.82" pX="-69" pY="303.9" z="0" dI="0" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-6.5" y="3.5" kX="0" kY="0" cX="1.01" cY="1.01" pX="-69.05" pY="303.9" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-6.5" y="3.45" kX="0" kY="0" cX="0.91" cY="0.91" pX="-69.1" pY="303.85" z="0" dI="0" twE="0" dr="4"/>
+          <f x="-6.55" y="3.5" kX="0" kY="0" cX="1.11" cY="1.11" pX="-69.1" pY="303.9" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-6.45" y="3.4" kX="0" kY="0" cX="1.05" cY="1.05" pX="-69" pY="303.85" z="0" dI="0" twE="0" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="73" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-6.45" y="3.45" kX="0" kY="0" cX="1.36" cY="1.36" pX="-69.05" pY="303.85" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="battle_suduxian" width="256" height="256">
+    <SubTexture name="images/skill/other/suduxian" width="213" height="133" cocos2d_pX="106.15" cocos2d_pY="66.5" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

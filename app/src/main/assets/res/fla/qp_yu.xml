@@ -1,0 +1,579 @@
+<skeleton name="qp_yu" frameRate="35" version="2.2">
+  <armatures>
+    <armature name="qp_yu">
+      <b name="1">
+        <d name="qp_yu_1" isArmature="1"/>
+        <d name="qp_yu_2" isArmature="1"/>
+        <d name="qp_yu_3" isArmature="1"/>
+        <d name="qp_yu_4" isArmature="1"/>
+        <d name="qp_yu_5" isArmature="1"/>
+      </b>
+      <b name="4">
+        <d name="qp_yu_1" isArmature="1"/>
+        <d name="qp_yu_2" isArmature="1"/>
+        <d name="qp_yu_3" isArmature="1"/>
+        <d name="qp_yu_4" isArmature="1"/>
+        <d name="qp_yu_5" isArmature="1"/>
+      </b>
+      <b name="5">
+        <d name="qp_yu_1" isArmature="1"/>
+        <d name="qp_yu_2" isArmature="1"/>
+        <d name="qp_yu_3" isArmature="1"/>
+        <d name="qp_yu_4" isArmature="1"/>
+        <d name="qp_yu_5" isArmature="1"/>
+      </b>
+      <b name="6">
+        <d name="qp_yu_1" isArmature="1"/>
+        <d name="qp_yu_2" isArmature="1"/>
+        <d name="qp_yu_3" isArmature="1"/>
+        <d name="qp_yu_4" isArmature="1"/>
+        <d name="qp_yu_5" isArmature="1"/>
+      </b>
+      <b name="3">
+        <d name="qp_yu_1" isArmature="1"/>
+        <d name="qp_yu_2" isArmature="1"/>
+        <d name="qp_yu_3" isArmature="1"/>
+        <d name="qp_yu_4" isArmature="1"/>
+        <d name="qp_yu_5" isArmature="1"/>
+      </b>
+      <b name="2">
+        <d name="qp_yu_1" isArmature="1"/>
+        <d name="qp_yu_2" isArmature="1"/>
+        <d name="qp_yu_3" isArmature="1"/>
+        <d name="qp_yu_4" isArmature="1"/>
+        <d name="qp_yu_5" isArmature="1"/>
+      </b>
+      <b name="2 复制">
+        <d name="qp_yu_1" isArmature="1"/>
+        <d name="qp_yu_2" isArmature="1"/>
+        <d name="qp_yu_3" isArmature="1"/>
+        <d name="qp_yu_4" isArmature="1"/>
+        <d name="qp_yu_5" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="qp_yu_1">
+      <b name="ui-longchouka-1">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-10">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-11">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-12">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-13">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-14">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-15">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-16">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-17">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-18">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+    </armature>
+    <armature name="qp_yu_2">
+      <b name="ui-longchouka-1">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-10">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-11">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-12">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-13">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-14">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-15">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+    </armature>
+    <armature name="qp_yu_3">
+      <b name="ui-longchouka-1">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-10">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-11">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-12">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-13">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-14">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-15">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+    </armature>
+    <armature name="qp_yu_4">
+      <b name="ui-longchouka-1">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-10">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-11">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-12">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-13">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-14">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-15">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-16">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-17">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-1 复制">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+    </armature>
+    <armature name="qp_yu_5">
+      <b name="ui-longchouka-1">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-10">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-11">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-12">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-13">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+      <b name="ui-longchouka-14">
+        <d name="images/skill/ui/ui-longchouka-1"/>
+      </b>
+    </armature>
+    <armature name="qp_yushui_c">
+      <b name="1">
+        <d name="images/skill/ui/ui_maopao_01"/>
+        <d name="images/skill/ui/ui_maopao_02"/>
+        <d name="images/skill/ui/ui_maopao_03"/>
+        <d name="images/skill/ui/ui_maopao_04"/>
+      </b>
+    </armature>
+    <armature name="qp_yushui_b">
+      <b name="1">
+        <d name="images/skill/ui/ui_maopao_04"/>
+        <d name="images/skill/ui/ui_maopao_01"/>
+        <d name="images/skill/ui/ui_maopao_02"/>
+        <d name="images/skill/ui/ui_maopao_03"/>
+      </b>
+    </armature>
+    <armature name="qp_yushui_a">
+      <b name="1">
+        <d name="images/skill/ui/ui_maopao_01"/>
+        <d name="images/skill/ui/ui_maopao_02"/>
+        <d name="images/skill/ui/ui_maopao_03"/>
+        <d name="images/skill/ui/ui_maopao_04"/>
+      </b>
+      <b name="2">
+        <d name="images/skill/ui/ui_maopao_04"/>
+        <d name="images/skill/ui/ui_maopao_01"/>
+        <d name="images/skill/ui/ui_maopao_02"/>
+        <d name="images/skill/ui/ui_maopao_03"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="qp_yu_1">
+      <mov name="stand" dr="1" to="0">
+        <b name="ui-longchouka-1" sc="1" dl="0">
+          <f x="-142.65" y="-228.6" kX="25.19" kY="25.19" cX="0.75" cY="0.55" bd="8" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-10" sc="1" dl="0">
+          <f x="-90.15" y="-226.6" kX="25.19" kY="25.19" cX="0.75" cY="0.55" bd="8" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-11" sc="1" dl="0">
+          <f x="-40.65" y="-142.3" kX="22.97" kY="22.97" cX="0.75" cY="0.71" bd="8" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-12" sc="1" dl="0">
+          <f x="-141.25" y="-79.15" kX="26.66" kY="26.66" cX="0.58" cY="0.54" bd="8" pX="0" pY="0" z="3" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-13" sc="1" dl="0">
+          <f x="80.8" y="-120.15" kX="26.66" kY="26.66" cX="0.74" cY="0.69" bd="8" pX="0" pY="0" z="4" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-14" sc="1" dl="0">
+          <f x="194.8" y="-42.65" kX="26.66" kY="26.67" cX="0.54" cY="0.5" bd="8" pX="0" pY="0" z="5" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-15" sc="1" dl="0">
+          <f x="217.85" y="11.35" kX="24.65" kY="24.65" cX="0.44" cY="0.41" bd="8" pX="0" pY="0" z="6" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-16" sc="1" dl="0">
+          <f x="-149.85" y="107.85" kX="27.42" kY="27.42" cX="0.84" cY="0.79" bd="8" pX="0" pY="0" z="7" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-17" sc="1" dl="0">
+          <f x="-27.85" y="130.85" kX="27.42" kY="27.42" cX="0.52" cY="0.49" bd="8" pX="0" pY="0" z="8" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-18" sc="1" dl="0">
+          <f x="-259.9" y="37.8" kX="27.42" kY="27.42" cX="0.74" cY="0.69" bd="8" pX="0" pY="0" z="9" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="qp_yu_2">
+      <mov name="stand" dr="1" to="0">
+        <b name="ui-longchouka-1" sc="1" dl="0">
+          <f x="211.4" y="-153.05" kX="22.25" kY="22.25" cX="0.66" cY="0.66" bd="8" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-10" sc="1" dl="0">
+          <f x="-96.7" y="-73.55" kX="26.47" kY="26.47" cX="0.66" cY="0.66" bd="8" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-11" sc="1" dl="0">
+          <f x="-138.7" y="-82.55" kX="25.71" kY="25.71" cX="0.56" cY="0.56" bd="8" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-12" sc="1" dl="0">
+          <f x="-91.7" y="13.45" kX="24.23" kY="24.23" cX="0.52" cY="0.52" bd="8" pX="0" pY="0" z="3" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-13" sc="1" dl="0">
+          <f x="-9.7" y="88.25" kX="25.71" kY="25.71" cX="0.74" cY="0.52" bd="8" pX="0" pY="0" z="4" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-14" sc="1" dl="0">
+          <f x="104.85" y="90.4" kX="25.71" kY="25.71" cX="1.13" cY="0.79" bd="8" pX="0" pY="0" z="5" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-15" sc="1" dl="0">
+          <f x="-206.2" y="176.9" kX="25.71" kY="25.71" cX="0.76" cY="0.53" bd="8" pX="0" pY="0" z="6" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="qp_yu_3">
+      <mov name="stand" dr="1" to="0">
+        <b name="ui-longchouka-1" sc="1" dl="0">
+          <f x="86.4" y="-117.05" kX="29.24" kY="29.24" cX="1.32" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-10" sc="1" dl="0">
+          <f x="99.4" y="-207.6" kX="29.24" kY="29.24" cX="0.86" cY="0.65" bd="8" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-11" sc="1" dl="0">
+          <f x="-96.15" y="-177.1" kX="29.24" kY="29.24" cX="0.79" cY="0.6" bd="8" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-12" sc="1" dl="0">
+          <f x="190.4" y="-92.05" kX="25.29" kY="25.29" cX="0.9" cY="0.68" bd="8" pX="0" pY="0" z="3" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-13" sc="1" dl="0">
+          <f x="-11.15" y="42.45" kX="27.74" kY="27.74" cX="0.8" cY="0.6" bd="8" pX="0" pY="0" z="4" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-14" sc="1" dl="0">
+          <f x="-22.15" y="133.45" kX="27.98" kY="27.98" cX="0.87" cY="0.66" bd="8" pX="0" pY="0" z="5" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-15" sc="1" dl="0">
+          <f x="-122.15" y="-0.55" kX="29.51" kY="29.51" cX="0.87" cY="0.66" bd="8" pX="0" pY="0" z="6" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="qp_yu_4">
+      <mov name="stand" dr="1" to="0">
+        <b name="ui-longchouka-1" sc="1" dl="0">
+          <f x="62.35" y="-115.5" kX="22.21" kY="22.21" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-10" sc="1" dl="0">
+          <f x="-48.65" y="-211.55" kX="22.21" kY="22.21" cX="0.76" cY="0.76" bd="8" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-11" sc="1" dl="0">
+          <f x="-125.2" y="-110.5" kX="22.21" kY="22.21" cX="0.76" cY="0.76" bd="8" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-12" sc="1" dl="0">
+          <f x="61.35" y="-16.5" kX="22.21" kY="22.21" cX="0.59" cY="0.59" bd="8" pX="0" pY="0" z="3" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-13" sc="1" dl="0">
+          <f x="197.4" y="-184.5" kX="22.45" kY="22.45" cX="0.89" cY="0.59" bd="8" pX="0" pY="0" z="4" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-14" sc="1" dl="0">
+          <f x="285.4" y="-98.5" kX="22.47" kY="22.47" cX="0.89" cY="0.77" bd="8" pX="0" pY="0" z="5" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-15" sc="1" dl="0">
+          <f x="96.35" y="50.5" kX="23.92" kY="23.92" cX="0.83" cY="0.73" bd="8" pX="0" pY="0" z="6" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-16" sc="1" dl="0">
+          <f x="-156.2" y="40.5" kX="24.22" kY="24.22" cX="0.83" cY="0.73" bd="8" pX="0" pY="0" z="7" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-17" sc="1" dl="0">
+          <f x="-47.7" y="136" kX="26.21" kY="26.21" cX="0.85" cY="0.67" bd="8" pX="0" pY="0" z="8" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-1 复制" sc="1" dl="0">
+          <f x="184.35" y="134" kX="24" kY="24" cX="0.73" cY="0.57" bd="8" pX="0" pY="0" z="9" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="qp_yu_5">
+      <mov name="stand" dr="1" to="0">
+        <b name="ui-longchouka-1" sc="1" dl="0">
+          <f x="-73.15" y="-152.5" kX="25.84" kY="25.84" cX="0.6" cY="0.4" bd="8" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-10" sc="1" dl="0">
+          <f x="-112.15" y="-214.5" kX="25.04" kY="25.04" cX="0.5" cY="0.33" bd="8" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-11" sc="1" dl="0">
+          <f x="-151.65" y="-51.45" kX="23.54" kY="23.54" cX="0.69" cY="0.55" bd="8" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-12" sc="1" dl="0">
+          <f x="-188.7" y="105.85" kX="25.09" kY="25.09" cX="0.5" cY="0.48" bd="8" pX="0" pY="0" z="3" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-13" sc="1" dl="0">
+          <f x="70.9" y="99.85" kX="25.24" kY="25.24" cX="0.71" cY="0.49" bd="8" pX="0" pY="0" z="4" dI="0" dr="1"/>
+        </b>
+        <b name="ui-longchouka-14" sc="1" dl="0">
+          <f x="-222.65" y="37.5" kX="25.24" kY="25.24" cX="0.71" cY="0.49" bd="8" pX="0" pY="0" z="5" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="qp_yu">
+      <mov name="stand" dr="10" to="0" drTW="10" lp="1" twE="NaN">
+        <b name="1" sc="1" dl="0">
+          <f x="23.8" y="-4.3" kX="8.87" kY="0" cX="1" cY="1.08" pX="0" pY="0" z="0" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="18.6" y="-13.4" kX="8.87" kY="0" cX="1" cY="1.08" pX="0" pY="0" z="0" dI="1" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="15.8" y="-13.5" kX="8.87" kY="0" cX="1" cY="1.08" pX="0" pY="0" z="0" dI="2" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="15.8" y="-13.85" kX="8.87" kY="0" cX="1" cY="1.08" pX="0" pY="0" z="0" dI="3" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="16.6" y="-9.3" kX="8.87" kY="0" cX="1" cY="1.08" pX="0" pY="0" z="0" dI="4" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="4" sc="1" dl="0">
+          <f x="80.3" y="-252.25" kX="6.85" kY="-0.08" cX="1.19" cY="1.07" pX="0" pY="0" z="1" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="73.55" y="-261.4" kX="6.85" kY="-0.08" cX="1.19" cY="1.07" pX="0" pY="0" z="1" dI="1" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="70.15" y="-261.55" kX="6.85" kY="-0.08" cX="1.19" cY="1.07" pX="0" pY="0" z="1" dI="2" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="70.15" y="-261.9" kX="6.85" kY="-0.08" cX="1.19" cY="1.07" pX="0" pY="0" z="1" dI="3" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="71.35" y="-257.3" kX="6.85" kY="-0.08" cX="1.19" cY="1.07" pX="0" pY="0" z="1" dI="4" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="5" sc="1" dl="0">
+          <f x="485.9" y="-21.4" kX="7.46" kY="-0.08" cX="1.44" cY="1.31" pX="0" pY="0" z="2" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="477.85" y="-32.6" kX="7.46" kY="-0.08" cX="1.44" cY="1.31" pX="0" pY="0" z="2" dI="1" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="473.8" y="-32.75" kX="7.46" kY="-0.08" cX="1.44" cY="1.31" pX="0" pY="0" z="2" dI="2" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="473.85" y="-33.15" kX="7.46" kY="-0.08" cX="1.44" cY="1.31" pX="0" pY="0" z="2" dI="3" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="475.2" y="-27.6" kX="7.46" kY="-0.08" cX="1.44" cY="1.31" pX="0" pY="0" z="2" dI="4" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="6" sc="1" dl="0">
+          <f x="322.3" y="209.55" kX="9.1" kY="-0.08" cX="1.24" cY="1.14" pX="0" pY="0" z="3" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="315.55" y="199.85" kX="9.1" kY="-0.08" cX="1.24" cY="1.14" pX="0" pY="0" z="3" dI="1" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="312.05" y="199.75" kX="9.1" kY="-0.08" cX="1.24" cY="1.14" pX="0" pY="0" z="3" dI="2" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="312.15" y="199.35" kX="9.1" kY="-0.08" cX="1.24" cY="1.14" pX="0" pY="0" z="3" dI="3" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="313.15" y="204.15" kX="9.1" kY="-0.08" cX="1.24" cY="1.14" pX="0" pY="0" z="3" dI="4" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="3" sc="1" dl="0">
+          <f x="-296.4" y="188.3" kX="13.18" kY="0" cX="1.09" cY="1.3" pX="0" pY="0" z="4" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-301.5" y="177.55" kX="11.44" kY="0" cX="1.09" cY="1.29" pX="0" pY="0" z="4" dI="1" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-304.55" y="177.4" kX="11.44" kY="0" cX="1.09" cY="1.29" pX="0" pY="0" z="4" dI="2" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-304.4" y="176.95" kX="11.44" kY="0" cX="1.09" cY="1.29" pX="0" pY="0" z="4" dI="3" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-303.9" y="182.4" kX="11.44" kY="0" cX="1.09" cY="1.29" pX="0" pY="0" z="4" dI="4" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="2" sc="1" dl="0">
+          <f x="-419.55" y="-158.5" kX="12.76" kY="0" cX="0.86" cY="1.07" pX="0" pY="0" z="5" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-423.2" y="-167.45" kX="12.76" kY="0" cX="0.86" cY="1.07" pX="0" pY="0" z="5" dI="1" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-425.7" y="-167.55" kX="12.76" kY="0" cX="0.86" cY="1.07" pX="0" pY="0" z="5" dI="2" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-425.6" y="-167.9" kX="12.76" kY="0" cX="0.86" cY="1.07" pX="0" pY="0" z="5" dI="3" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-425.25" y="-163.4" kX="12.76" kY="0" cX="0.86" cY="1.07" pX="0" pY="0" z="5" dI="4" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="2 复制" sc="1" dl="0">
+          <f x="-584.3" y="-96.65" kX="12.76" kY="0" cX="1.1" cY="1.38" pX="0" pY="0" z="6" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="40" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-589" y="-108.15" kX="12.76" kY="0" cX="1.1" cY="1.38" pX="0" pY="0" z="6" dI="1" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="40" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-592.2" y="-108.25" kX="12.76" kY="0" cX="1.1" cY="1.38" pX="0" pY="0" z="6" dI="2" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="40" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-592.1" y="-108.7" kX="12.76" kY="0" cX="1.1" cY="1.38" pX="0" pY="0" z="6" dI="3" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="40" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-591.65" y="-102.95" kX="12.76" kY="0" cX="1.1" cY="1.38" pX="0" pY="0" z="6" dI="4" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="40" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="qp_yushui_c">
+      <mov name="stand" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+        <b name="1" sc="1" dl="0">
+          <f x="-2.65" y="-15.6" kX="0" kY="0" cX="0.61" cY="0.64" bd="8" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="60" gM="100" bM="100"/>
+          </f>
+          <f x="-2.65" y="-15.6" kX="0" kY="0" cX="0.61" cY="0.64" bd="8" pX="0" pY="0" z="0" dI="1" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="60" gM="100" bM="100"/>
+          </f>
+          <f x="-2.65" y="-15.6" kX="0" kY="0" cX="0.61" cY="0.64" bd="8" pX="0" pY="0" z="0" dI="2" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="60" gM="100" bM="100"/>
+          </f>
+          <f x="-2.65" y="-15.6" kX="0" kY="0" cX="0.61" cY="0.64" bd="8" pX="0" pY="0" z="0" dI="3" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="60" gM="100" bM="100"/>
+          </f>
+          <f x="-2.65" y="-15.6" kX="0" kY="0" cX="1.05" cY="1.11" bd="8" pX="0" pY="0" z="0" dI="3" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="60" gM="100" bM="100"/>
+          </f>
+          <f x="-2.65" y="-15.6" kX="0" kY="0" cX="1.3" cY="1.36" bd="8" pX="0" pY="0" z="0" dI="3" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="60" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="qp_yushui_b">
+      <mov name="stand" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+        <b name="1" sc="1" dl="0">
+          <f x="35.75" y="-28" kX="0" kY="0" cX="0.73" cY="0.82" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="60" gM="100" bM="100"/>
+          </f>
+          <f x="35.75" y="-28" kX="0" kY="0" cX="0.9" cY="1.01" bd="8" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="60" gM="100" bM="100"/>
+          </f>
+          <f x="35.75" y="-28" kX="0" kY="0" cX="0.43" cY="0.48" bd="8" pX="0" pY="0" z="0" dI="1" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="60" gM="100" bM="100"/>
+          </f>
+          <f x="35.75" y="-28" kX="0" kY="0" cX="0.43" cY="0.48" bd="8" pX="0" pY="0" z="0" dI="2" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="60" gM="100" bM="100"/>
+          </f>
+          <f x="35.75" y="-28" kX="0" kY="0" cX="0.43" cY="0.48" bd="8" pX="0" pY="0" z="0" dI="3" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="60" gM="100" bM="100"/>
+          </f>
+          <f x="35.75" y="-28" kX="0" kY="0" cX="0.43" cY="0.48" bd="8" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="60" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="qp_yushui_a">
+      <mov name="stand" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+        <b name="1" sc="1" dl="0">
+          <f x="1.75" y="-54.8" kX="0" kY="0" cX="0.31" cY="0.35" bd="8" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="60" gM="100" bM="100"/>
+          </f>
+          <f x="1.75" y="-54.8" kX="0" kY="0" cX="0.31" cY="0.35" bd="8" pX="0" pY="0" z="0" dI="1" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="60" gM="100" bM="100"/>
+          </f>
+          <f x="1.75" y="-54.8" kX="0" kY="0" cX="0.31" cY="0.35" bd="8" pX="0" pY="0" z="0" dI="2" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="60" gM="100" bM="100"/>
+          </f>
+          <f x="1.75" y="-54.8" kX="0" kY="0" cX="0.31" cY="0.35" bd="8" pX="0" pY="0" z="0" dI="3" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="60" gM="100" bM="100"/>
+          </f>
+          <f x="1.75" y="-54.8" kX="0" kY="0" cX="0.54" cY="0.6" bd="8" pX="0" pY="0" z="0" dI="3" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="60" gM="100" bM="100"/>
+          </f>
+          <f x="1.75" y="-54.8" kX="0" kY="0" cX="0.66" cY="0.74" bd="8" pX="0" pY="0" z="0" dI="3" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="60" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="2" sc="1" dl="0">
+          <f x="-34.9" y="-30.5" kX="0" kY="0" cX="0.51" cY="0.57" bd="8" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="60" gM="100" bM="100"/>
+          </f>
+          <f x="-34.9" y="-30.5" kX="0" kY="0" cX="0.87" cY="0.97" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="60" gM="100" bM="100"/>
+          </f>
+          <f x="-34.9" y="-30.5" kX="0" kY="0" cX="1.07" cY="1.2" bd="8" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="60" gM="100" bM="100"/>
+          </f>
+          <f x="-34.9" y="-30.5" kX="0" kY="0" cX="0.51" cY="0.57" bd="8" pX="0" pY="0" z="1" dI="1" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="60" gM="100" bM="100"/>
+          </f>
+          <f x="-34.9" y="-30.5" kX="0" kY="0" cX="0.51" cY="0.57" bd="8" pX="0" pY="0" z="1" dI="2" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="60" gM="100" bM="100"/>
+          </f>
+          <f x="-34.9" y="-30.5" kX="0" kY="0" cX="0.51" cY="0.57" bd="8" pX="0" pY="0" z="1" dI="3" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="60" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="qp_yu">
+    <SubTexture name="images/skill/ui/ui_maopao_04" width="53" height="25" cocos2d_pX="26.5" cocos2d_pY="12.5"/>
+    <SubTexture name="images/skill/ui/ui_maopao_03" width="53" height="25" cocos2d_pX="26.5" cocos2d_pY="12.5"/>
+    <SubTexture name="images/skill/ui/ui_maopao_02" width="53" height="25" cocos2d_pX="26.5" cocos2d_pY="12.5"/>
+    <SubTexture name="images/skill/ui/ui_maopao_01" width="53" height="25" cocos2d_pX="26.5" cocos2d_pY="12.5"/>
+    <SubTexture name="images/skill/ui/ui-longchouka-1" width="47" height="138" cocos2d_pX="23.5" cocos2d_pY="69"/>
+  </TextureAtlas>
+</skeleton>

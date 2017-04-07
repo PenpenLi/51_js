@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>研究等级:\\w{c=60FF00}@\\w{c=FFA330}（上限@,提升军团等级可提高上限）</string>
+        <key>3</key>
+        <string>说明</string>
+        <key>4</key>
+        <string>图腾名称:</string>
+        <key>5</key>
+        <string>已学等级:</string>
+        <key>6</key>
+        <string>本级效果:\\w{c=60FF00}@</string>
+        <key>7</key>
+        <string>下级效果:\\w{c=60FF00}@</string>
+        <key>8</key>
+        <string>学习</string>
+        <key>9</key>
+        <string>寒溟精石:</string>
+        <key>10</key>
+        <string>军团贡献:</string>
+        <key>11</key>
+        <string>研究</string>
+        <key>12</key>
+        <string>活跃度:</string>
+        <key>13</key>
+        <string>普通图腾</string>
+        <key>14</key>
+        <string>高级图腾</string>
+    </dict>
+</plist>

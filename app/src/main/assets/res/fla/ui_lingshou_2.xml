@@ -1,0 +1,91 @@
+<skeleton name="ui_lingshou_2(灵兽2)" frameRate="35" version="2.2">
+  <armatures>
+    <armature name="ui_lingshou_xuanzhonguang_b">
+      <b name="图层 1">
+        <d name="ui_lingshou_xuanzhonguang" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_lingshou_xuanzhonguang">
+      <b name="图层 1  复制 2">
+        <d name="images/skill/ui/greenlight"/>
+      </b>
+      <b name="图层 1 复制">
+        <d name="images/skill/ui/greenlight"/>
+      </b>
+      <b name="图层 1">
+        <d name="images/skill/ui/greenlight"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_lingshou_xuanzhonguang">
+      <mov name="stand" dr="152" to="0" drTW="152" lp="1" twE="NaN">
+        <b name="图层 1  复制 2" sc="1" dl="0">
+          <f x="-5.3" y="23.1" kX="0" kY="0" cX="0.75" cY="1.91" bd="8" pX="1.05" pY="73" z="0" dI="0" twE="0" dr="22">
+            <colorTransform a="0" r="0" g="0" b="0" aM="86" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.3" y="23.2" kX="0" kY="-14.73" cX="0.72" cY="1.75" bd="8" pX="1.05" pY="73.1" z="0" dI="0" twE="0" dr="25">
+            <colorTransform a="0" r="0" g="0" b="0" aM="86" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.3" y="28.95" kX="0" kY="32.58" cX="0.79" cY="2.25" bd="8" pX="1.05" pY="72.95" z="0" dI="0" twE="0" dr="31">
+            <colorTransform a="0" r="0" g="0" b="0" aM="86" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.3" y="21.7" kX="0" kY="24.07" cX="0.75" cY="2.79" bd="8" pX="1.05" pY="73.15" z="0" dI="0" twE="0" dr="40">
+            <colorTransform a="0" r="0" g="0" b="0" aM="86" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.3" y="27.65" kX="0" kY="-5.55" cX="0.79" cY="2.01" bd="8" pX="1" pY="73" z="0" dI="0" twE="0" dr="33">
+            <colorTransform a="0" r="0" g="0" b="0" aM="86" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.3" y="23.1" kX="0" kY="0" cX="0.75" cY="1.91" bd="8" pX="1.05" pY="73" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="86" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="图层 1 复制" sc="1" dl="0">
+          <f x="-22.35" y="39" kX="0" kY="180" cX="0.59" cY="1.04" bd="8" pX="0.95" pY="73.05" z="1" dI="0" twE="0" dr="30">
+            <colorTransform a="0" r="0" g="0" b="0" aM="86" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-22.35" y="38.05" kX="0" kY="146.95" cX="0.51" cY="1.27" bd="8" pX="0.95" pY="73" z="1" dI="0" twE="0" dr="34">
+            <colorTransform a="0" r="0" g="0" b="0" aM="86" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-25.05" y="38.1" kX="0" kY="169.91" cX="0.58" cY="1.25" bd="8" pX="1.05" pY="73.15" z="1" dI="0" twE="0" dr="33">
+            <colorTransform a="0" r="0" g="0" b="0" aM="86" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-21.55" y="38.15" kX="0" kY="-175.29" cX="0.6" cY="1.37" bd="8" pX="1" pY="73.15" z="1" dI="0" twE="0" dr="54">
+            <colorTransform a="0" r="0" g="0" b="0" aM="86" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-22.35" y="39" kX="0" kY="180" cX="0.59" cY="1.04" bd="8" pX="0.95" pY="73.05" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="86" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="9.85" y="37.6" kX="0" kY="0" cX="0.95" cY="1.1" bd="8" pX="1.05" pY="73" z="2" dI="0" twE="0" dr="26">
+            <colorTransform a="0" r="0" g="0" b="0" aM="86" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="9.85" y="37.7" kX="0" kY="-7.91" cX="0.89" cY="1.3" bd="8" pX="1.05" pY="73.05" z="2" dI="0" twE="0" dr="21">
+            <colorTransform a="0" r="0" g="0" b="0" aM="86" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="9.85" y="37.65" kX="0" kY="-6.19" cX="0.85" cY="1.27" bd="8" pX="1" pY="73.05" z="2" dI="0" twE="0" dr="53">
+            <colorTransform a="0" r="0" g="0" b="0" aM="86" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="9.85" y="37.55" kX="0" kY="17.36" cX="1" cY="1.57" bd="8" pX="1.05" pY="73" z="2" dI="0" twE="0" dr="51">
+            <colorTransform a="0" r="0" g="0" b="0" aM="86" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="9.85" y="37.6" kX="0" kY="0" cX="0.95" cY="1.1" bd="8" pX="1.05" pY="73" z="2" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="86" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_lingshou_xuanzhonguang_b">
+      <mov name="stand" dr="144" to="0" drTW="144" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.95" y="-28.55" kX="0" kY="0" cX="1.27" cY="0.51" pX="0.15" pY="-56.6" z="0" dI="0" twE="0" dr="22"/>
+          <f x="0.95" y="-28.55" kX="0" kY="0" cX="1.27" cY="0.51" pX="0.15" pY="-56.6" z="0" dI="0" dr="122"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_lingshou_2(灵兽2)">
+    <SubTexture name="images/skill/ui/greenlight" width="76" height="236" cocos2d_pX="38" cocos2d_pY="118"/>
+  </TextureAtlas>
+</skeleton>

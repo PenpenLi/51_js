@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>4</key>
+        <string>击败记录</string>
+        <key>5</key>
+        <string>军团竞赛</string>
+        <key>6</key>
+        <string>次要效果</string>
+        <key>7</key>
+        <string>主要效果</string>
+        <key>8</key>
+        <string>平均战力:</string>
+        <key>9</key>
+        <string>参战人数:</string>
+        <key>10</key>
+        <string>(选择效果后方可进行挑战)</string>
+        <key>11</key>
+        <string>确定</string>
+        <key>12</key>
+        <string>鼓舞</string>
+        <key>13</key>
+        <string>倒计时</string>
+    </dict>
+</plist>

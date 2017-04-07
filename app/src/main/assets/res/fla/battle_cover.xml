@@ -1,0 +1,47 @@
+<skeleton name="battle_cover" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="元件 1"/>
+    <armature name="battle_cover_red">
+      <b name="图层 2">
+        <d name="images/skill/other/red" pX="42.85" pY="28.55"/>
+      </b>
+      <b name="图层 3">
+        <d name="images/skill/other/yellow" pX="30" pY="20"/>
+        <d name="images/skill/other/white" pX="30" pY="20"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="元件 1">
+      <mov name="stand" dr="1" to="0"/>
+    </animation>
+    <animation name="battle_cover_red">
+      <mov name="stand" dr="64" to="0" drTW="64" lp="1" twE="NaN">
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="-0.8" y="0.8" kX="0" kY="0" cX="21.96" cY="21.96" bd="3" pX="0" pY="0" z="0" dI="0" twE="0" dr="11">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.8" y="0.8" kX="0" kY="0" cX="21.96" cY="21.96" bd="3" pX="0" pY="0" z="0" dI="0" dr="14"/>
+          <f x="-0.8" y="0.8" kX="0" kY="0" cX="21.96" cY="21.96" bd="8" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="-0.8" y="0.8" kX="0" kY="0" cX="21.96" cY="21.96" bd="3" pX="0" pY="0" z="0" dI="0" dr="10"/>
+          <f x="-0.8" y="0.8" kX="0" kY="0" cX="21.96" cY="21.96" bd="3" pX="0" pY="0" z="0" dI="0" twE="0" dr="19"/>
+          <f x="-0.8" y="0.8" kX="0" kY="0" cX="21.96" cY="21.96" bd="3" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0.35" kX="0" kY="0" cX="30.68" cY="30.68" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f dr="31" dI="-1"/>
+          <f x="-0.8" y="0.8" kX="0" kY="0" cX="29.53" cY="29.53" pX="0" pY="0" z="1" dI="1" dr="1"/>
+          <f dr="31" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="battle_cover" width="128" height="128">
+    <SubTexture name="images/skill/other/white" width="60" height="40" cocos2d_pX="30" cocos2d_pY="20" x="62" y="60"/>
+    <SubTexture name="images/skill/other/yellow" width="60" height="40" cocos2d_pX="30" cocos2d_pY="20" x="0" y="60"/>
+    <SubTexture name="images/skill/other/red" width="86" height="58" cocos2d_pX="42.85" cocos2d_pY="28.55" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

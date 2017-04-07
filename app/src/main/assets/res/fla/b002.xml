@@ -1,0 +1,259 @@
+<skeleton name="b002" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="b002">
+      <b name="4">
+        <d name="images/bg/002/bg2_01"/>
+      </b>
+      <b name="7">
+        <d name="images/bg/002/bg2_07"/>
+      </b>
+      <b name="图层 7">
+        <d name="images/bg/002/bg2_07"/>
+      </b>
+      <b name="图层 8">
+        <d name="images/bg/002/bg2_07"/>
+      </b>
+      <b name="5">
+        <d name="images/bg/002/bg2_bg_01"/>
+      </b>
+      <b name="图层 14">
+        <d name="b002_元件 1" isArmature="1"/>
+      </b>
+      <b name="图层 2">
+        <d name="images/bg/002/bg2_04"/>
+      </b>
+      <b name="8">
+        <d name="images/bg/002/bg2_02"/>
+      </b>
+      <b name="2">
+        <d name="images/bg/002/bg2_08"/>
+      </b>
+      <b name="19">
+        <d name="b002_元件3" isArmature="1"/>
+      </b>
+      <b name="10">
+        <d name="b002_元件2" isArmature="1"/>
+      </b>
+      <b name="1">
+        <d name="images/bg/002/bg2_05"/>
+      </b>
+      <b name="图层 3">
+        <d name="images/bg/002/bg2_06"/>
+      </b>
+      <b name="3">
+        <d name="images/bg/002/bg2_09"/>
+      </b>
+      <b name="图层 4">
+        <d name="images/bg/002/bg2_10"/>
+      </b>
+      <b name="图层 5">
+        <d name="images/bg/002/bg2_11"/>
+      </b>
+      <b name="24">
+        <d name="b002_元件 1" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="b002_元件 1">
+      <b name="bg2_b_06">
+        <d name="images/bg/002/bg2_b_06"/>
+        <d name="images/bg/002/bg2_b_07"/>
+        <d name="images/bg/002/bg2_b_08"/>
+        <d name="images/bg/002/bg2_b_09"/>
+        <d name="images/bg/002/bg2_b_10"/>
+      </b>
+    </armature>
+    <armature name="b002_元件3">
+      <b name="bg2_b_01">
+        <d name="images/bg/002/bg2_b_01"/>
+        <d name="images/bg/002/bg2_b_02"/>
+        <d name="images/bg/002/bg2_b_03"/>
+        <d name="images/bg/002/bg2_b_04"/>
+        <d name="images/bg/002/bg2_b_05"/>
+      </b>
+    </armature>
+    <armature name="b002_元件2">
+      <b name="bg2_a_01">
+        <d name="images/bg/002/bg2_a_01"/>
+        <d name="images/bg/002/bg2_a_02"/>
+        <d name="images/bg/002/bg2_a_03"/>
+        <d name="images/bg/002/bg2_a_04"/>
+        <d name="images/bg/002/bg2_a_05"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="b002_元件 1">
+      <mov name="stand" dr="15" to="0" drTW="15" lp="1" twE="NaN">
+        <b name="bg2_b_06" sc="1" dl="0">
+          <f x="0.05" y="0.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="3"/>
+          <f x="0.05" y="0.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="3"/>
+          <f x="0.05" y="0.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="3"/>
+          <f x="0.05" y="0.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" dr="3"/>
+          <f x="0.05" y="0.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" dr="3"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="b002_元件3">
+      <mov name="stand" dr="15" to="0" drTW="15" lp="1" twE="NaN">
+        <b name="bg2_b_01" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" dr="3"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="b002_元件2">
+      <mov name="stand" dr="72" to="0" drTW="72" lp="1" twE="NaN">
+        <b name="bg2_a_01" sc="1" dl="0">
+          <f x="0.35" y="-0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="3"/>
+          <f x="0.35" y="-0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="3"/>
+          <f x="0.35" y="-0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="3"/>
+          <f x="0.35" y="-0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" dr="3"/>
+          <f x="0.35" y="-0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" dr="3"/>
+          <f x="0.35" y="-0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="3"/>
+          <f x="0.35" y="-0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="3"/>
+          <f x="0.35" y="-0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="3"/>
+          <f x="0.35" y="-0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" dr="3"/>
+          <f x="0.35" y="-0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" dr="3"/>
+          <f x="0.35" y="-0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="20"/>
+          <f x="0.35" y="-0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="3"/>
+          <f x="0.35" y="-0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="3"/>
+          <f x="0.35" y="-0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="3"/>
+          <f x="0.35" y="-0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" dr="3"/>
+          <f x="0.35" y="-0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" dr="3"/>
+          <f x="0.35" y="-0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="7"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="b002">
+      <mov name="stand" dr="72" to="0" drTW="72" lp="1" twE="NaN">
+        <b name="4" sc="1" dl="0">
+          <f x="571.15" y="-371.75" kX="0" kY="0" cX="4.11" cY="1.04" pX="137.5" pY="-91.45" z="0" dI="0" dr="72"/>
+        </b>
+        <b name="7" sc="1" dl="0">
+          <f x="7" y="-197.9" kX="0" kY="0" cX="1.01" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="71"/>
+          <f x="153.95" y="-197.9" kX="0" kY="0" cX="1.01" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f x="-141" y="-197.9" kX="0" kY="0" cX="1.01" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="71"/>
+          <f x="7" y="-197.9" kX="0" kY="0" cX="1.01" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f x="153.95" y="-197.9" kX="0" kY="0" cX="1.01" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="71"/>
+          <f x="302" y="-197.9" kX="0" kY="0" cX="1.01" cY="1" pX="0" pY="0" z="3" dI="0" dr="1"/>
+        </b>
+        <b name="5" sc="1" dl="0">
+          <f x="6.1" y="-0.05" kX="0" kY="0" cX="1.14" cY="1.14" pX="0" pY="0" z="4" dI="0" dr="72"/>
+        </b>
+        <b name="图层 14" sc="1" dl="0">
+          <f x="-206.55" y="-171.4" kX="0" kY="180" cX="2.05" cY="1.49" pX="0" pY="0" z="5" dI="0" dr="72">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="-426.95" y="-199.3" kX="0" kY="0" cX="1" cY="1" pX="-318.5" pY="-30" z="6" dI="0" dr="72"/>
+        </b>
+        <b name="8" sc="1" dl="0">
+          <f x="-964.4" y="-259" kX="0" kY="0" cX="1" cY="1" pX="-568.1" pY="-86" z="7" dI="0" dr="72"/>
+        </b>
+        <b name="2" sc="1" dl="0">
+          <f x="5.55" y="336" kX="0" kY="0" cX="1.17" cY="1.17" pX="0" pY="0" z="8" dI="0" twE="0" dr="5"/>
+          <f x="5.45" y="335.95" kX="0" kY="0" cX="1.17" cY="1.17" pX="0" pY="0" z="8" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="30" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="5.55" y="336" kX="0" kY="0" cX="1.17" cY="1.17" pX="0" pY="0" z="8" dI="0" twE="0" dr="13"/>
+          <f x="5.45" y="335.95" kX="0" kY="0" cX="1.17" cY="1.17" pX="0" pY="0" z="8" dI="0" twE="0" dr="12">
+            <colorTransform a="0" r="0" g="0" b="0" aM="30" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="5.55" y="336" kX="0" kY="0" cX="1.17" cY="1.17" pX="0" pY="0" z="8" dI="0" twE="0" dr="13"/>
+          <f x="5.45" y="335.95" kX="0" kY="0" cX="1.17" cY="1.17" pX="0" pY="0" z="8" dI="0" twE="0" dr="18">
+            <colorTransform a="0" r="0" g="0" b="0" aM="30" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="5.55" y="336" kX="0" kY="0" cX="1.17" cY="1.17" pX="0" pY="0" z="8" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="19" sc="1" dl="0">
+          <f x="-473" y="-145.9" kX="0" kY="0" cX="3.06" cY="3.06" pX="0" pY="0" z="9" dI="0" dr="72"/>
+        </b>
+        <b name="10" sc="1" dl="0">
+          <f x="-173.6" y="-138.9" kX="0" kY="0" cX="1" cY="1" pX="28" pY="48" z="10" dI="0" dr="72"/>
+        </b>
+        <b name="1" sc="1" dl="0">
+          <f x="-256.05" y="308.2" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="11" dI="0" dr="72"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="442.45" y="311.85" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="12" dI="0" dr="72"/>
+        </b>
+        <b name="3" sc="1" dl="0">
+          <f x="96" y="-33" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="13" dI="0" twE="0" dr="20"/>
+          <f x="96" y="-33" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="13" dI="0" twE="0" dr="14">
+            <colorTransform a="0" r="0" g="0" b="0" aM="31" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="96" y="-33" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="13" dI="0" twE="0" dr="10"/>
+          <f x="96" y="-33" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="13" dI="0" twE="0" dr="27">
+            <colorTransform a="0" r="0" g="0" b="0" aM="31" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="96" y="-33" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="13" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="-444.7" y="121.35" kX="0" kY="0" cX="1.13" cY="1.13" pX="0" pY="0" z="14" dI="0" twE="-0.36" dr="14"/>
+          <f x="-444.7" y="122.35" kX="0" kY="0" cX="1.13" cY="1.13" pX="0" pY="0" z="14" dI="0" twE="0.42" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-444.7" y="122.35" kX="0" kY="0" cX="1.13" cY="1.13" pX="0" pY="0" z="14" dI="0" twE="0" dr="18"/>
+          <f x="-444.7" y="122.35" kX="0" kY="0" cX="1.13" cY="1.13" pX="0" pY="0" z="14" dI="0" twE="0" dr="15">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-444.7" y="122.35" kX="0" kY="0" cX="1.13" cY="1.13" pX="0" pY="0" z="14" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="294.85" y="214.1" kX="0" kY="0" cX="2.31" cY="2.31" pX="0" pY="0" z="15" dI="0" twE="0" dr="7"/>
+          <f x="294.85" y="214.1" kX="0" kY="0" cX="2.31" cY="2.31" pX="0" pY="0" z="15" dI="0" twE="0" dr="20">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="294.85" y="214.1" kX="0" kY="0" cX="2.31" cY="2.31" pX="0" pY="0" z="15" dI="0" twE="0" dr="7"/>
+          <f x="294.85" y="214.1" kX="0" kY="0" cX="2.31" cY="2.31" pX="0" pY="0" z="15" dI="0" twE="0" dr="18">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="294.85" y="214.1" kX="0" kY="0" cX="2.31" cY="2.31" pX="0" pY="0" z="15" dI="0" twE="0" dr="7"/>
+          <f x="294.85" y="214.1" kX="0" kY="0" cX="2.31" cY="2.31" pX="0" pY="0" z="15" dI="0" twE="0" dr="12">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="294.85" y="214.1" kX="0" kY="0" cX="2.31" cY="2.31" pX="0" pY="0" z="15" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="24" sc="1" dl="0">
+          <f x="536.85" y="-18.95" kX="0" kY="0" cX="2.97" cY="2.97" pX="0.05" pY="0.8" z="16" dI="0" dr="72"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="b002">
+    <SubTexture name="images/bg/002/bg2_a_05" width="56" height="96" cocos2d_pX="28" cocos2d_pY="48"/>
+    <SubTexture name="images/bg/002/bg2_a_04" width="56" height="96" cocos2d_pX="28" cocos2d_pY="48"/>
+    <SubTexture name="images/bg/002/bg2_a_03" width="56" height="96" cocos2d_pX="28" cocos2d_pY="48"/>
+    <SubTexture name="images/bg/002/bg2_a_02" width="56" height="96" cocos2d_pX="28" cocos2d_pY="48"/>
+    <SubTexture name="images/bg/002/bg2_a_01" width="56" height="96" cocos2d_pX="28" cocos2d_pY="48"/>
+    <SubTexture name="images/bg/002/bg2_b_05" width="93" height="66" cocos2d_pX="46.5" cocos2d_pY="33"/>
+    <SubTexture name="images/bg/002/bg2_b_04" width="93" height="66" cocos2d_pX="46.5" cocos2d_pY="33"/>
+    <SubTexture name="images/bg/002/bg2_b_03" width="93" height="66" cocos2d_pX="46.5" cocos2d_pY="33"/>
+    <SubTexture name="images/bg/002/bg2_b_02" width="93" height="66" cocos2d_pX="46.5" cocos2d_pY="33"/>
+    <SubTexture name="images/bg/002/bg2_b_01" width="93" height="66" cocos2d_pX="46.5" cocos2d_pY="33"/>
+    <SubTexture name="images/bg/002/bg2_b_10" width="78" height="37" cocos2d_pX="39" cocos2d_pY="18.5"/>
+    <SubTexture name="images/bg/002/bg2_b_09" width="78" height="37" cocos2d_pX="39" cocos2d_pY="18.5"/>
+    <SubTexture name="images/bg/002/bg2_b_08" width="78" height="37" cocos2d_pX="39" cocos2d_pY="18.5"/>
+    <SubTexture name="images/bg/002/bg2_b_07" width="78" height="37" cocos2d_pX="39" cocos2d_pY="18.5"/>
+    <SubTexture name="images/bg/002/bg2_b_06" width="78" height="37" cocos2d_pX="39" cocos2d_pY="18.5"/>
+    <SubTexture name="images/bg/002/bg2_11" width="228" height="33" cocos2d_pX="110.8" cocos2d_pY="16.5"/>
+    <SubTexture name="images/bg/002/bg2_10" width="234" height="31" cocos2d_pX="109.8" cocos2d_pY="15.5"/>
+    <SubTexture name="images/bg/002/bg2_09" width="164" height="73" cocos2d_pX="78.25" cocos2d_pY="37"/>
+    <SubTexture name="images/bg/002/bg2_06" width="73" height="44" cocos2d_pX="36.5" cocos2d_pY="22"/>
+    <SubTexture name="images/bg/002/bg2_05" width="161" height="46" cocos2d_pX="80.5" cocos2d_pY="23"/>
+    <SubTexture name="images/bg/002/bg2_08" width="998" height="110" cocos2d_pX="499" cocos2d_pY="55"/>
+    <SubTexture name="images/bg/002/bg2_02" width="361" height="217" cocos2d_pX="180.5" cocos2d_pY="108.5"/>
+    <SubTexture name="images/bg/002/bg2_04" width="217" height="160" cocos2d_pX="108.5" cocos2d_pY="80"/>
+    <SubTexture name="images/bg/002/bg2_bg_01" width="1024" height="703" cocos2d_pX="512" cocos2d_pY="351.5"/>
+    <SubTexture name="images/bg/002/bg2_07" width="147" height="35" cocos2d_pX="73.5" cocos2d_pY="15.5"/>
+    <SubTexture name="images/bg/002/bg2_01" width="284" height="239" cocos2d_pX="142" cocos2d_pY="119.5"/>
+  </TextureAtlas>
+</skeleton>

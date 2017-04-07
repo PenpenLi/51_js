@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>分解</string>
+        <key>2</key>
+        <string>【魔纹分解器】</string>
+        <key>3</key>
+        <string>紫</string>
+        <key>4</key>
+        <string>橙</string>
+        <key>5</key>
+        <string>全</string>
+        <key>6</key>
+        <string>足纹</string>
+        <key>7</key>
+        <string>头纹</string>
+        <key>8</key>
+        <string>手纹</string>
+        <key>9</key>
+        <string>胸纹</string>
+        <key>10</key>
+        <string>点击材料选择要分解的魔纹，点击右上角的减号可去除不想分解的魔纹；勾选想要分解的部位和资质可批量选中魔纹</string>
+    </dict>
+</plist>

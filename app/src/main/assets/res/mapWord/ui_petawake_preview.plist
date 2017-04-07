@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>灵兽觉醒预览</string>
+        <key>2</key>
+        <string>灵兽主动技能等级上限提升@级</string>
+        <key>4</key>
+        <string>灵兽被动技能等级上限提升@级</string>
+        <key>5</key>
+        <string>灵兽培养属性效果提升@%</string>
+    </dict>
+</plist>

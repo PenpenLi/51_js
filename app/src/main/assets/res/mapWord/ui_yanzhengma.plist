@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>绑定手机</string>
+        <key>2</key>
+        <string>发送验证码</string>
+        <key>4</key>
+        <string>领取礼包</string>
+        <key>5</key>
+        <string>验证</string>
+        <key>7</key>
+        <string>输入手机号码</string>
+        <key>8</key>
+        <string>输入验证码</string>
+        <key>10</key>
+        <string>@秒后重发</string>
+    </dict>
+</plist>

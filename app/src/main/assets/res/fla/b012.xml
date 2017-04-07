@@ -1,0 +1,267 @@
+<skeleton name="b012" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="b012">
+      <b name="bg12_bg_01">
+        <d name="images/bg/012/bg12_bg_01"/>
+      </b>
+      <b name="bg12_bg_010">
+        <d name="images/bg/012/bg12_bg_01"/>
+      </b>
+      <b name="b012_元件 1">
+        <d name="b012_元件 1" isArmature="1"/>
+      </b>
+      <b name="bg12_02">
+        <d name="images/bg/012/bg12_02"/>
+      </b>
+      <b name="bg12_020">
+        <d name="images/bg/012/bg12_02"/>
+      </b>
+      <b name="bg10_01">
+        <d name="images/common_bg/bg10_01"/>
+      </b>
+      <b name="bg10_010">
+        <d name="images/common_bg/bg10_01"/>
+      </b>
+      <b name="bg12_01">
+        <d name="images/bg/012/bg12_01"/>
+      </b>
+      <b name="bg12_010">
+        <d name="images/bg/012/bg12_01"/>
+      </b>
+      <b name="bg12_4">
+        <d name="images/bg/012/bg12_4"/>
+      </b>
+      <b name="bg12_40">
+        <d name="images/bg/012/bg12_4"/>
+      </b>
+      <b name="bg12_41">
+        <d name="images/bg/012/bg12_4"/>
+      </b>
+      <b name="bg12_42">
+        <d name="images/bg/012/bg12_4"/>
+      </b>
+      <b name="b012_元件 2">
+        <d name="b012_元件 2" isArmature="1"/>
+      </b>
+      <b name="b012_元件 20">
+        <d name="b012_元件 2" isArmature="1"/>
+      </b>
+      <b name="bg12_6">
+        <d name="images/bg/012/bg12_6"/>
+      </b>
+      <b name="bg12_60">
+        <d name="images/bg/012/bg12_6"/>
+      </b>
+    </armature>
+    <armature name="b012_元件 1">
+      <b name="bg12_3">
+        <d name="images/bg/012/bg12_3"/>
+      </b>
+      <b name="bg12_30">
+        <d name="images/bg/012/bg12_3"/>
+      </b>
+      <b name="bg12_31">
+        <d name="images/bg/012/bg12_3"/>
+      </b>
+      <b name="bg12_32">
+        <d name="images/bg/012/bg12_3"/>
+      </b>
+      <b name="bg12_33">
+        <d name="images/bg/012/bg12_3"/>
+      </b>
+      <b name="bg12_34">
+        <d name="images/bg/012/bg12_3"/>
+      </b>
+    </armature>
+    <armature name="b012_元件 2">
+      <b name="bg12_5">
+        <d name="images/bg/012/bg12_5"/>
+      </b>
+      <b name="bg12_50">
+        <d name="images/bg/012/bg12_5"/>
+      </b>
+      <b name="bg12_51">
+        <d name="images/bg/012/bg12_5"/>
+      </b>
+      <b name="bg12_52">
+        <d name="images/bg/012/bg12_5"/>
+      </b>
+      <b name="bg12_53">
+        <d name="images/bg/012/bg12_5"/>
+      </b>
+      <b name="bg12_54">
+        <d name="images/bg/012/bg12_5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="b012_元件 1">
+      <mov name="stand" dr="1" to="0">
+        <b name="bg12_3" sc="1" dl="0">
+          <f x="0" y="5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="125.95" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="65" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="bg12_30" sc="1" dl="0">
+          <f x="0" y="-2" kX="-60" kY="-60" cX="1" cY="1" pX="0.05" pY="125.95" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="65" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="bg12_31" sc="1" dl="0">
+          <f x="0" y="-2" kX="60" kY="60" cX="1" cY="1" pX="-0.05" pY="125.95" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="65" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="bg12_32" sc="1" dl="0">
+          <f x="0" y="-6" kX="120" kY="120" cX="1" cY="1" pX="0" pY="126" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="65" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="bg12_33" sc="1" dl="0">
+          <f x="0" y="-6" kX="-180" kY="180" cX="1" cY="1" pX="0" pY="126" z="4" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="65" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="bg12_34" sc="1" dl="0">
+          <f x="0" y="-6" kX="-120" kY="-120" cX="1" cY="1" pX="0" pY="126" z="5" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="65" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="b012_元件 2">
+      <mov name="stand" dr="60" to="0" drTW="60" lp="1" twE="NaN">
+        <b name="bg12_5" sc="1" dl="0">
+          <f x="-50" y="26.5" kX="0" kY="0" cX="0.9" cY="0.9" pX="0" pY="0" z="0" dI="0" dr="6"/>
+          <f x="-50" y="26.5" kX="0" kY="0" cX="0.9" cY="0.9" pX="0" pY="0" z="0" dI="0" twE="0.5" dr="10"/>
+          <f x="-50" y="26.5" kX="0" kY="0" cX="0.9" cY="0.9" pX="0" pY="0" z="0" dI="0" twE="0" dr="18">
+            <colorTransform a="0" r="0" g="0" b="0" aM="13" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-50" y="26.5" kX="0" kY="0" cX="0.9" cY="0.9" pX="0" pY="0" z="0" dI="0" dr="26"/>
+        </b>
+        <b name="bg12_50" sc="1" dl="0">
+          <f x="-5.5" y="-8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0.5" dr="10"/>
+          <f x="-5.5" y="-8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="18">
+            <colorTransform a="0" r="0" g="0" b="0" aM="13" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.5" y="-8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0.5" dr="10"/>
+          <f x="-5.5" y="-8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="21">
+            <colorTransform a="0" r="0" g="0" b="0" aM="13" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.5" y="-8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0.5" dr="1"/>
+        </b>
+        <b name="bg12_51" sc="1" dl="0">
+          <f x="46" y="-39.5" kX="0" kY="0" cX="1.1" cY="1.1" pX="0" pY="0" z="2" dI="0" dr="16"/>
+          <f x="46" y="-39.5" kX="0" kY="0" cX="1.1" cY="1.1" pX="0" pY="0" z="2" dI="0" twE="0.5" dr="10"/>
+          <f x="46" y="-39.5" kX="0" kY="0" cX="1.1" cY="1.1" pX="0" pY="0" z="2" dI="0" twE="0" dr="18">
+            <colorTransform a="0" r="0" g="0" b="0" aM="13" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="46" y="-39.5" kX="0" kY="0" cX="1.1" cY="1.1" pX="0" pY="0" z="2" dI="0" dr="16"/>
+        </b>
+        <b name="bg12_52" sc="1" dl="0">
+          <f x="-78.5" y="51" kX="0" kY="0" cX="0.75" cY="0.75" pX="0" pY="0" z="3" dI="0" dr="33"/>
+          <f x="-78.5" y="51" kX="0" kY="0" cX="0.75" cY="0.75" pX="0" pY="0" z="3" dI="0" twE="0.5" dr="7"/>
+          <f x="-78.5" y="51" kX="0" kY="0" cX="0.75" cY="0.75" pX="0" pY="0" z="3" dI="0" twE="0" dr="14">
+            <colorTransform a="0" r="0" g="0" b="0" aM="13" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-78.5" y="51" kX="0" kY="0" cX="0.75" cY="0.75" pX="0" pY="0" z="3" dI="0" dr="6"/>
+        </b>
+        <b name="bg12_53" sc="1" dl="0">
+          <f x="-104" y="73" kX="0" kY="0" cX="0.6" cY="0.6" pX="0" pY="0" z="4" dI="0" dr="11"/>
+          <f x="-104" y="73" kX="0" kY="0" cX="0.6" cY="0.6" pX="0" pY="0" z="4" dI="0" twE="0.5" dr="7"/>
+          <f x="-104" y="73" kX="0" kY="0" cX="0.6" cY="0.6" pX="0" pY="0" z="4" dI="0" twE="0" dr="13">
+            <colorTransform a="0" r="0" g="0" b="0" aM="13" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-104" y="73" kX="0" kY="0" cX="0.6" cY="0.6" pX="0" pY="0" z="4" dI="0" dr="29"/>
+        </b>
+        <b name="bg12_54" sc="1" dl="0">
+          <f x="98" y="-66.5" kX="0" kY="0" cX="1.25" cY="1.25" pX="0" pY="0" z="5" dI="0" dr="60"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="b012">
+      <mov name="stand" dr="240" to="0" drTW="240" lp="1" twE="NaN">
+        <b name="bg12_bg_01" sc="1" dl="0">
+          <f x="290.35" y="-241.8" kX="0" kY="0" cX="2" cY="2.03" pX="0" pY="0" z="0" dI="0" dr="240"/>
+        </b>
+        <b name="bg12_bg_010" sc="1" dl="0">
+          <f x="-291.65" y="-241.8" kX="0" kY="180" cX="2" cY="2.03" pX="0" pY="0" z="1" dI="0" dr="240"/>
+        </b>
+        <b name="b012_元件 1" sc="1" dl="0">
+          <f x="-3.2" y="-44.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="239"/>
+          <f x="-3.2" y="-44.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1" twR="1"/>
+        </b>
+        <b name="bg12_02" sc="1" dl="0">
+          <f x="-207.65" y="-88.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="240"/>
+        </b>
+        <b name="bg12_020" sc="1" dl="0">
+          <f x="201.35" y="-88.45" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="240"/>
+        </b>
+        <b name="bg10_01" sc="1" dl="0">
+          <f x="-290.75" y="156.2" kX="0" kY="0" cX="1.01" cY="1" pX="0" pY="0" z="5" dI="0" dr="240"/>
+        </b>
+        <b name="bg10_010" sc="1" dl="0">
+          <f x="289.2" y="156.2" kX="0" kY="180" cX="1.01" cY="1" pX="0" pY="0" z="6" dI="0" dr="240"/>
+        </b>
+        <b name="bg12_01" sc="1" dl="0">
+          <f x="-290.45" y="110" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="240"/>
+        </b>
+        <b name="bg12_010" sc="1" dl="0">
+          <f x="288.95" y="110" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" dr="240"/>
+        </b>
+        <b name="bg12_4" sc="1" dl="0">
+          <f x="-519.85" y="-242.05" kX="-39.46" kY="140.54" cX="1.09" cY="1" pX="14.65" pY="-56.05" z="9" dI="0" twE="0" dr="40"/>
+          <f x="-519.8" y="-242.05" kX="-69.38" kY="110.62" cX="1.09" cY="1" pX="14.65" pY="-56.05" z="9" dI="0" twE="0" dr="19"/>
+          <f x="-519.8" y="-242.05" kX="-69.38" kY="110.62" cX="1.09" cY="1" pX="14.65" pY="-56.05" z="9" dI="0" twE="0.5" dr="101"/>
+          <f x="-519.85" y="-242.1" kX="43.07" kY="-136.93" cX="1.09" cY="1" pX="14.7" pY="-56.15" z="9" dI="0" twE="0" dr="20"/>
+          <f x="-519.85" y="-242.1" kX="43.07" kY="-136.93" cX="1.09" cY="1" pX="14.7" pY="-56.15" z="9" dI="0" twE="0" dr="59"/>
+          <f x="-519.85" y="-242.05" kX="-39.46" kY="140.54" cX="1.09" cY="1" pX="14.65" pY="-56.05" z="9" dI="0" dr="1"/>
+        </b>
+        <b name="bg12_40" sc="1" dl="0">
+          <f x="510.9" y="-245.9" kX="73.48" kY="-106.52" cX="1.09" cY="1" pX="14.65" pY="-56" z="10" dI="0" twE="0.5" dr="101"/>
+          <f x="510.9" y="-245.9" kX="-20.08" kY="159.92" cX="1.09" cY="1" pX="14.6" pY="-56" z="10" dI="0" twE="0" dr="19"/>
+          <f x="510.9" y="-245.9" kX="-20.08" kY="159.92" cX="1.09" cY="1" pX="14.6" pY="-56" z="10" dI="0" twE="1" dr="100"/>
+          <f x="510.9" y="-245.9" kX="73.48" kY="-106.52" cX="1.09" cY="1" pX="14.65" pY="-56" z="10" dI="0" twE="0.5" dr="19"/>
+          <f x="510.9" y="-245.9" kX="73.48" kY="-106.52" cX="1.09" cY="1" pX="14.65" pY="-56" z="10" dI="0" twE="0.5" dr="1"/>
+        </b>
+        <b name="bg12_41" sc="1" dl="0">
+          <f x="250" y="-380" kX="0" kY="0" cX="1" cY="1" pX="14" pY="-58.4" z="11" dI="0" twE="0" dr="40"/>
+          <f x="250" y="-380" kX="45" kY="45" cX="1" cY="1" pX="14.05" pY="-58.45" z="11" dI="0" twE="0" dr="19"/>
+          <f x="250" y="-380" kX="45" kY="45" cX="1" cY="1" pX="14.05" pY="-58.45" z="11" dI="0" twE="1" dr="101"/>
+          <f x="250" y="-379.9" kX="-45" kY="-45" cX="1" cY="1" pX="14" pY="-58.4" z="11" dI="0" twE="0.5" dr="20"/>
+          <f x="250" y="-379.9" kX="-45" kY="-45" cX="1" cY="1" pX="14" pY="-58.4" z="11" dI="0" twE="0.5" dr="59"/>
+          <f x="250" y="-380" kX="0" kY="0" cX="1" cY="1" pX="14" pY="-58.4" z="11" dI="0" dr="1"/>
+        </b>
+        <b name="bg12_42" sc="1" dl="0">
+          <f x="-249.85" y="-380" kX="-47.66" kY="132.34" cX="1.09" cY="1" pX="12.7" pY="-58.4" z="12" dI="0" twE="1" dr="101"/>
+          <f x="-249.85" y="-380.1" kX="46.39" kY="-133.62" cX="1.09" cY="1" pX="12.75" pY="-58.45" z="12" dI="0" twE="0" dr="19"/>
+          <f x="-249.85" y="-380.1" kX="46.39" kY="-133.62" cX="1.09" cY="1" pX="12.75" pY="-58.45" z="12" dI="0" twE="0.5" dr="100"/>
+          <f x="-249.85" y="-380" kX="-47.66" kY="132.34" cX="1.09" cY="1" pX="12.7" pY="-58.4" z="12" dI="0" twE="0.6" dr="19"/>
+          <f x="-249.85" y="-380" kX="-47.66" kY="132.34" cX="1.09" cY="1" pX="12.7" pY="-58.4" z="12" dI="0" dr="1"/>
+        </b>
+        <b name="b012_元件 2" sc="1" dl="0">
+          <f x="-428.9" y="-329.95" kX="0" kY="180" cX="0.99" cY="0.99" pX="0.25" pY="0" z="13" dI="0" dr="240"/>
+        </b>
+        <b name="b012_元件 20" sc="1" dl="0">
+          <f x="429.15" y="-330.4" kX="0" kY="0" cX="1" cY="1" pX="0.25" pY="0" z="14" dI="0" dr="240"/>
+        </b>
+        <b name="bg12_6" sc="1" dl="0">
+          <f x="-458.65" y="-317.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="15" dI="0" dr="240"/>
+        </b>
+        <b name="bg12_60" sc="1" dl="0">
+          <f x="459.5" y="-317.05" kX="0" kY="180" cX="0.97" cY="1" pX="0" pY="0" z="16" dI="0" dr="240"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="b012">
+    <SubTexture name="images/bg/012/bg12_5" width="20" height="20" cocos2d_pX="10" cocos2d_pY="10"/>
+    <SubTexture name="images/bg/012/bg12_3" width="48" height="147" cocos2d_pX="24" cocos2d_pY="73.5"/>
+    <SubTexture name="images/bg/012/bg12_6" width="250" height="165" cocos2d_pX="125" cocos2d_pY="82.5"/>
+    <SubTexture name="images/bg/012/bg12_4" width="66" height="140" cocos2d_pX="33" cocos2d_pY="70"/>
+    <SubTexture name="images/bg/012/bg12_01" width="583" height="285" cocos2d_pX="291.5" cocos2d_pY="142.5"/>
+    <SubTexture name="images/common_bg/bg10_01" width="578" height="482" cocos2d_pX="289" cocos2d_pY="241"/>
+    <SubTexture name="images/bg/012/bg12_02" width="409" height="62" cocos2d_pX="204.5" cocos2d_pY="31"/>
+    <SubTexture name="images/bg/012/bg12_bg_01" width="292" height="156" cocos2d_pX="146" cocos2d_pY="78"/>
+  </TextureAtlas>
+</skeleton>

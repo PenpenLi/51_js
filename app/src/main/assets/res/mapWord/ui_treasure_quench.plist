@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>本阶属性</string>
+        <key>2</key>
+        <string>下阶属性</string>
+        <key>3</key>
+        <string>精炼@阶</string>
+        <key>4</key>
+        <string>一键精炼</string>
+    </dict>
+</plist>

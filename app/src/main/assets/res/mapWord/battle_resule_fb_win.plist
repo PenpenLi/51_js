@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>获得物品</string>
+        <key>2</key>
+        <string>通过以下方式可提升实力</string>
+        <key>3</key>
+        <string>重玩</string>
+        <key>4</key>
+        <string>数据</string>
+        <key>5</key>
+        <string>购买</string>
+        <key>6</key>
+        <string>三星翻牌</string>
+    </dict>
+</plist>

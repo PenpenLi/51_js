@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>排名</string>
+        <key>2</key>
+        <string>名字</string>
+        <key>3</key>
+        <string>造成伤害</string>
+        <key>4</key>
+        <string>复活按钮</string>
+        <key>5</key>
+        <string>加成按钮</string>
+        <key>6</key>
+        <string>挑战按钮</string>
+        <key>7</key>
+        <string>@后消失</string>
+        <key>8</key>
+        <string>已攻击：@次</string>
+        <key>9</key>
+        <string>当前加成：@%</string>
+        <key>10</key>
+        <string>伤害总数：@</string>
+        <key>11</key>
+        <string>当前奖励：</string>
+        <key>12</key>
+        <string>加成卷按钮</string>
+        <key>13</key>
+        <string>奖励按钮</string>
+        <key>14</key>
+        <string>排行榜按钮</string>
+    </dict>
+</plist>

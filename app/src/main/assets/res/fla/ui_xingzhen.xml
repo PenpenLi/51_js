@@ -1,0 +1,253 @@
+<skeleton name="ui_xingzhen" frameRate="32" version="2.2">
+  <armatures>
+    <armature name="xingzhen_4">
+      <b name="图层 1">
+        <d name="xingzhen_4_1" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="xingzhen_4_1">
+      <b name="图层 1">
+        <d name="images/battle/xingzhen_4"/>
+      </b>
+    </armature>
+    <armature name="xingzhen_3">
+      <b name="图层 1">
+        <d name="xingzhen_3_1" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="xingzhen_3_1">
+      <b name="图层 1">
+        <d name="images/battle/xingzhen_3"/>
+      </b>
+    </armature>
+    <armature name="xingzhen_2">
+      <b name="图层 1">
+        <d name="xingzhen_2_1" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="xingzhen_2_1">
+      <b name="图层 1">
+        <d name="images/battle/xingzhen_2"/>
+      </b>
+    </armature>
+    <armature name="xingzhen_1">
+      <b name="图层 1">
+        <d name="xingzhen_1_1" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="xingzhen_1_1">
+      <b name="图层 1">
+        <d name="images/battle/xingzhen_1"/>
+      </b>
+    </armature>
+    <armature name="xingzhen_5">
+      <b name="图层 1">
+        <d name="xingzhen_5_1" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="xingzhen_5_1">
+      <b name="图层 1">
+        <d name="images/battle/xingzhen_5"/>
+      </b>
+    </armature>
+    <armature name="xingzhen_6">
+      <b name="图层 1">
+        <d name="xingzhen_6_1" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="xingzhen_6_1">
+      <b name="图层 1">
+        <d name="images/battle/xingzhen_6"/>
+      </b>
+    </armature>
+    <armature name="xingzhen_7">
+      <b name="图层 1">
+        <d name="xingzhen_7_1" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="xingzhen_7_1">
+      <b name="图层 1">
+        <d name="images/battle/xingzhen_7"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="xingzhen_4_1">
+      <mov name="stand" dr="360" to="0" drTW="360" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="2.95" y="2.95" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0.35" z="0" dI="0" twE="0" dr="89"/>
+          <f x="2.95" y="2.95" kX="90" kY="90" cX="1" cY="1" pX="0.35" pY="0.35" z="0" dI="0" twE="0" dr="90">
+            <colorTransform a="0" r="0" g="0" b="0" aM="57" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="2.95" y="2.95" kX="180" kY="180" cX="1" cY="1" pX="0.35" pY="0.35" z="0" dI="0" twE="0" dr="90">
+            <colorTransform a="0" r="0" g="0" b="0" aM="25" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="2.95" y="2.95" kX="-90" kY="-90" cX="1" cY="1" pX="0.35" pY="0.35" z="0" dI="0" twE="0" dr="90">
+            <colorTransform a="0" r="0" g="0" b="0" aM="65" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="2.95" y="2.95" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0.35" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="xingzhen_4">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-2.2" y="-2.25" kX="3.08" kY="0" cX="1.75" cY="1.15" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="xingzhen_3_1">
+      <mov name="stand" dr="360" to="0" drTW="360" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="90"/>
+          <f x="0.35" y="0.35" kX="90" kY="90" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="90">
+            <colorTransform a="0" r="0" g="0" b="0" aM="61" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="180" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="90">
+            <colorTransform a="0" r="0" g="0" b="0" aM="19" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="-90" kY="-90" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="89">
+            <colorTransform a="0" r="0" g="0" b="0" aM="57" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="-0.81" kY="-0.81" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="xingzhen_3">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="2.8" y="2.65" kX="1.82" kY="0" cX="1.67" cY="1.2" pX="0.3" pY="0.3" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="xingzhen_2_1">
+      <mov name="stand" dr="360" to="0" drTW="360" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="90"/>
+          <f x="0.35" y="0.35" kX="90" kY="90" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="90">
+            <colorTransform a="0" r="0" g="0" b="0" aM="61" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="180" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="90">
+            <colorTransform a="0" r="0" g="0" b="0" aM="19" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="-90" kY="-90" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="89">
+            <colorTransform a="0" r="0" g="0" b="0" aM="57" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="-0.81" kY="-0.81" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="xingzhen_2">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="2.35" y="0.1" kX="2.14" kY="0" cX="1.63" cY="1.22" pX="0.35" pY="0.4" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="xingzhen_1_1">
+      <mov name="stand" dr="360" to="0" drTW="360" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="90"/>
+          <f x="0.35" y="0.35" kX="90" kY="90" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="90">
+            <colorTransform a="0" r="0" g="0" b="0" aM="61" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="180" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="90">
+            <colorTransform a="0" r="0" g="0" b="0" aM="19" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="-90" kY="-90" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="89">
+            <colorTransform a="0" r="0" g="0" b="0" aM="57" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="-0.81" kY="-0.81" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="xingzhen_1">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-0.15" y="-1.6" kX="1.76" kY="0" cX="1.59" cY="1.18" pX="0.3" pY="0.3" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="xingzhen_5_1">
+      <mov name="stand" dr="360" to="0" drTW="360" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="90"/>
+          <f x="0.35" y="0.35" kX="90" kY="90" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="90">
+            <colorTransform a="0" r="0" g="0" b="0" aM="61" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="180" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="90">
+            <colorTransform a="0" r="0" g="0" b="0" aM="19" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="-90" kY="-90" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="89">
+            <colorTransform a="0" r="0" g="0" b="0" aM="57" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="-0.81" kY="-0.81" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="xingzhen_5">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="2.05" y="2" kX="2.2" kY="0" cX="1.79" cY="1.19" pX="0.35" pY="0.35" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="xingzhen_6_1">
+      <mov name="stand" dr="360" to="0" drTW="360" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="90"/>
+          <f x="0.35" y="0.35" kX="90" kY="90" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="90">
+            <colorTransform a="0" r="0" g="0" b="0" aM="61" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="180" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="90">
+            <colorTransform a="0" r="0" g="0" b="0" aM="19" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="-90" kY="-90" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="89">
+            <colorTransform a="0" r="0" g="0" b="0" aM="57" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="-0.81" kY="-0.81" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="xingzhen_6">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-0.1" y="0.4" kX="2.09" kY="0" cX="1.75" cY="1.16" pX="0.35" pY="0.35" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="xingzhen_7_1">
+      <mov name="stand" dr="360" to="0" drTW="360" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="90"/>
+          <f x="0.35" y="0.35" kX="90" kY="90" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="90">
+            <colorTransform a="0" r="0" g="0" b="0" aM="61" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="180" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="90">
+            <colorTransform a="0" r="0" g="0" b="0" aM="19" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="-90" kY="-90" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="89">
+            <colorTransform a="0" r="0" g="0" b="0" aM="57" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="-0.81" kY="-0.81" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="xingzhen_7">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="2.85" y="0.85" kX="2.7" kY="0" cX="1.77" cY="1.3" pX="0.35" pY="0.35" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_xingzhen">
+    <SubTexture name="images/battle/xingzhen_7" width="350" height="350" cocos2d_pX="175" cocos2d_pY="175"/>
+    <SubTexture name="images/battle/xingzhen_6" width="370" height="370" cocos2d_pX="185" cocos2d_pY="185"/>
+    <SubTexture name="images/battle/xingzhen_5" width="360" height="360" cocos2d_pX="180" cocos2d_pY="180"/>
+    <SubTexture name="images/battle/xingzhen_1" width="350" height="350" cocos2d_pX="175" cocos2d_pY="175"/>
+    <SubTexture name="images/battle/xingzhen_2" width="350" height="350" cocos2d_pX="175" cocos2d_pY="175"/>
+    <SubTexture name="images/battle/xingzhen_3" width="350" height="350" cocos2d_pX="175" cocos2d_pY="175"/>
+    <SubTexture name="images/battle/xingzhen_4" width="350" height="350" cocos2d_pX="175" cocos2d_pY="175"/>
+  </TextureAtlas>
+</skeleton>

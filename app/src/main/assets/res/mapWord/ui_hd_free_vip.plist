@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>完成日常任务可以获得活跃度,活跃度可用来兑换vip积分！</string>
+        <key>2</key>
+        <string>活跃度</string>
+        <key>3</key>
+        <string>前往获取</string>
+    </dict>
+</plist>

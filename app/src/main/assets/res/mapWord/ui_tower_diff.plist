@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>23</key>
+        <string>推荐战力:</string>
+        <key>26</key>
+        <string>推荐战力:</string>
+        <key>29</key>
+        <string>推荐战力:</string>
+        <key>33</key>
+        <string>可获得</string>
+        <key>34</key>
+        <string>可获得</string>
+        <key>35</key>
+        <string>可获得</string>
+        <key>36</key>
+        <string>简单</string>
+        <key>37</key>
+        <string>困难</string>
+        <key>38</key>
+        <string>噩梦</string>
+        <key>39</key>
+        <string>难度选择</string>
+        <key>40</key>
+        <string>挑战</string>
+        <key>41</key>
+        <string>挑战</string>
+        <key>42</key>
+        <string>挑战</string>
+    </dict>
+</plist>

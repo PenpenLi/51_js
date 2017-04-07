@@ -1,0 +1,194 @@
+<skeleton name="r50001_pet" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="r50001_pet">
+      <b name="图层 2">
+        <d name="r50001_pet_wing2" isArmature="1"/>
+      </b>
+      <b name="a14">
+        <d name="images/role/pet001/a14"/>
+      </b>
+      <b name="a13">
+        <d name="images/role/pet001/a13"/>
+      </b>
+      <b name="a12">
+        <d name="images/role/pet001/a12"/>
+      </b>
+      <b name="a11">
+        <d name="images/role/pet001/a11"/>
+      </b>
+      <b name="a10">
+        <d name="images/role/pet001/a10"/>
+      </b>
+      <b name="a9">
+        <d name="images/role/pet001/a9"/>
+      </b>
+      <b name="a8">
+        <d name="images/role/pet001/a8"/>
+      </b>
+      <b name="a7">
+        <d name="images/role/pet001/a7"/>
+      </b>
+      <b name="a6">
+        <d name="images/role/pet001/a6"/>
+      </b>
+      <b name="a5">
+        <d name="images/role/pet001/a5"/>
+      </b>
+      <b name="a4">
+        <d name="images/role/pet001/a4"/>
+      </b>
+      <b name="a3">
+        <d name="r50001_pet_mao" isArmature="1"/>
+      </b>
+      <b name="a2">
+        <d name="images/role/pet001/a2"/>
+      </b>
+      <b name="a1">
+        <d name="images/role/pet001/a1"/>
+      </b>
+      <b name="图层 1">
+        <d name="r50001_pet_wing1" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="r50001_pet_wing2">
+      <b name="images">
+        <d name="images/role/pet001/a15"/>
+      </b>
+    </armature>
+    <armature name="r50001_pet_mao">
+      <b name="图层 1">
+        <d name="images/role/pet001/a3"/>
+      </b>
+    </armature>
+    <armature name="r50001_pet_wing1">
+      <b name="images">
+        <d name="images/role/pet001/a19"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="r50001_pet_wing2">
+      <mov name="stand" dr="1" to="0">
+        <b name="images" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="r50001_pet_mao">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="71.65" y="77.65" kX="0" kY="0" cX="1" cY="1" pX="17" pY="21" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="r50001_pet_wing1">
+      <mov name="stand" dr="1" to="0">
+        <b name="images" sc="1" dl="0">
+          <f x="44.05" y="79" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0.35" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="r50001_pet">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="17.3" y="-219.15" kX="0" kY="0" cX="1" cY="1" pX="-36.5" pY="6" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a14" sc="1" dl="0">
+          <f x="14.8" y="-188.65" kX="0" kY="0" cX="1" cY="1" pX="-4.5" pY="-15.5" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a13" sc="1" dl="0">
+          <f x="22.8" y="-171.65" kX="0" kY="0" cX="1" cY="1" pX="-18.5" pY="-14.5" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a12" sc="1" dl="0">
+          <f x="-48.6" y="-53.65" kX="0" kY="0" cX="1" cY="1" pX="-32.5" pY="-23" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a11" sc="1" dl="0">
+          <f x="-2.2" y="-81.15" kX="0" kY="0" cX="1" cY="1" pX="20.5" pY="-7" z="4" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a10" sc="1" dl="0">
+          <f x="-4.7" y="-166.65" kX="0" kY="0" cX="1" cY="1" pX="-9" pY="-19" z="5" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a9" sc="1" dl="0">
+          <f x="18.85" y="-129.65" kX="0" kY="0" cX="1" cY="1" pX="4.55" pY="-32" z="6" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a8" sc="1" dl="0">
+          <f x="-17.7" y="-241.15" kX="0" kY="0" cX="1" cY="1" pX="5.5" pY="-40" z="7" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a7" sc="1" dl="0">
+          <f x="26.25" y="-245.6" kX="0" kY="0" cX="1" cY="1" pX="22.45" pY="4" z="8" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a6" sc="1" dl="0">
+          <f x="-42.2" y="-175.65" kX="0" kY="0" cX="1" cY="1" pX="9" pY="-10.5" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a5" sc="1" dl="0">
+          <f x="-60.7" y="-150.15" kX="0" kY="0" cX="1" cY="1" pX="-19.5" pY="-16" z="10" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a4" sc="1" dl="0">
+          <f x="36.3" y="-199.15" kX="-8.97" kY="-8.97" cX="1" cY="1" pX="-30" pY="-39.45" z="11" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a3" sc="1" dl="0">
+          <f x="29.65" y="-248.3" kX="0" kY="0" cX="1" cY="1" pX="55" pY="57" z="12" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a2" sc="1" dl="0">
+          <f x="40.8" y="-229.15" kX="0" kY="0" cX="1" cY="1" pX="-10.5" pY="3.5" z="13" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a1" sc="1" dl="0">
+          <f x="74.6" y="-203" kX="-3.8" kY="-4.02" cX="1" cY="1" pX="0" pY="0" z="14" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-139" y="-250.9" kX="0" kY="0" cX="1" cY="1" pX="7.5" pY="16.5" z="15" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="r50001_pet">
+    <SubTexture name="images/role/pet001/a19" width="135" height="228" cocos2d_pX="67.5" cocos2d_pY="114"/>
+    <SubTexture name="images/role/pet001/a3" width="110" height="114" cocos2d_pX="55" cocos2d_pY="57"/>
+    <SubTexture name="images/role/pet001/a15" width="113" height="177" cocos2d_pX="56.5" cocos2d_pY="88.5"/>
+    <SubTexture name="images/role/pet001/a1" width="32" height="23" cocos2d_pX="16" cocos2d_pY="11.5"/>
+    <SubTexture name="images/role/pet001/a2" width="158" height="169" cocos2d_pX="79" cocos2d_pY="84.5"/>
+    <SubTexture name="images/role/pet001/a4" width="136" height="98" cocos2d_pX="68" cocos2d_pY="49"/>
+    <SubTexture name="images/role/pet001/a5" width="62" height="49" cocos2d_pX="31" cocos2d_pY="24.5"/>
+    <SubTexture name="images/role/pet001/a6" width="35" height="38" cocos2d_pX="17.5" cocos2d_pY="19"/>
+    <SubTexture name="images/role/pet001/a7" width="77" height="66" cocos2d_pX="38.5" cocos2d_pY="33"/>
+    <SubTexture name="images/role/pet001/a8" width="115" height="107" cocos2d_pX="57.5" cocos2d_pY="53.5"/>
+    <SubTexture name="images/role/pet001/a9" width="72" height="83" cocos2d_pX="36" cocos2d_pY="41.5"/>
+    <SubTexture name="images/role/pet001/a10" width="73" height="76" cocos2d_pX="36.5" cocos2d_pY="38"/>
+    <SubTexture name="images/role/pet001/a11" width="76" height="57" cocos2d_pX="38" cocos2d_pY="28.5"/>
+    <SubTexture name="images/role/pet001/a12" width="90" height="71" cocos2d_pX="45" cocos2d_pY="35.5"/>
+    <SubTexture name="images/role/pet001/a13" width="54" height="36" cocos2d_pX="27" cocos2d_pY="18"/>
+    <SubTexture name="images/role/pet001/a14" width="35" height="38" cocos2d_pX="17.5" cocos2d_pY="19"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<string>\\w{c=ffe400;s=20}@\\的红包</string>
+	<key>2</key>
+	<string>\\w{c=00ffff;s=20}@\\小手一挥，下了一场红包雨</string>
+	<key>btn_redpack_loop</key>
+	<string>抢</string>
+	<key>btn_view</key>
+	<string>查看</string>
+	<key>5</key>
+	<string>主公获得了\\w{c=00ffff;s=20}@\\的红包</string>
+	<key>6</key>
+	<string>\\w{c=6cff00;s=20}@\\个红包,\\w{c=6cff00;s=20}@\\内被领光</string>
+	<key>7</key>
+	<string>红包剩余：\\w{c=6cff00;s=20}@\\个</string>
+	<key>8</key>
+	<string>下手晚了,渣都没有！</string>
+	<key>9</key>
+	<string>\\w{c=ff0000;s=20}@\\的红包</string>
+	<key>10</key>
+	<string>必得下列一种奖励</string>
+	<key>11</key>
+	<string>红包剩余时间 @</string>
+	<key>12</key>
+	<string>必得下列一种奖励\\w{c=6cff00;s=20}(即刻!全服共\\\\w{c=ffffff;s=20}&quot;领&quot;\\\\w{c=6cff00;s=20}红包雨!)\\</string>
+	<key>13</key>
+	<string>返@%</string>
+	<key>14</key>
+	<string>今日领红包次数:</string>
+	<key>15</key>
+	<string>小乱给大家准备的红包雨将在倒计时结束后爆发，届时点击红包即可获得丰厚奖励哦！</string>
+</dict>
+</plist>

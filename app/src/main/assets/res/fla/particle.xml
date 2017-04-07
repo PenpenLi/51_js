@@ -1,0 +1,106 @@
+<skeleton name="particle" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="qp_kapai_lizi_b">
+      <b name="图层 2">
+        <d name="images/skill/other/xd"/>
+      </b>
+      <b name="图层 1">
+        <d name="qp_kapai_guang2" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="qp_kapai_guang2">
+      <b name="图层 3  复制 2">
+        <d name="images/skill/other/baiquan"/>
+      </b>
+      <b name="图层 3">
+        <d name="images/skill/other/baiquan"/>
+      </b>
+      <b name="images">
+        <d name="images/skill/qp/xzxd_01"/>
+        <d name="images/skill/qp/xzxd_02"/>
+        <d name="images/skill/qp/xzxd_03"/>
+        <d name="images/skill/qp/xzxd_04"/>
+        <d name="images/skill/qp/xzxd_05"/>
+        <d name="images/skill/qp/xzxd_06"/>
+        <d name="images/skill/qp/xzxd_07"/>
+        <d name="images/skill/qp/xzxd_08"/>
+        <d name="images/skill/qp/xzxd_09"/>
+        <d name="images/skill/qp/xzxd_10"/>
+        <d name="images/skill/qp/xzxd_11"/>
+        <d name="images/skill/qp/xzxd_12"/>
+      </b>
+      <b name="图层 3 复制">
+        <d name="images/skill/other/baiquan"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="qp_kapai_guang2">
+      <mov name="stand" dr="48" to="0" drTW="48" lp="1" twE="NaN">
+        <b name="图层 3  复制 2" sc="1" dl="0">
+          <f x="0.4" y="0.4" kX="0" kY="0" cX="1.5" cY="1.5" bd="8" pX="0.4" pY="0.4" z="0" dI="0" dr="48">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="30" bM="0"/>
+          </f>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1.26" cY="1.26" pX="0.4" pY="0.4" z="1" dI="0" dr="48">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="98" gM="100" bM="0"/>
+          </f>
+        </b>
+        <b name="images" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0.35" pY="0.35" z="2" dI="0" dr="4"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0.35" pY="0.35" z="2" dI="1" dr="4"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0.35" pY="0.35" z="2" dI="2" dr="4"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0.35" pY="0.35" z="2" dI="3" dr="4"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0.35" pY="0.35" z="2" dI="4" dr="4"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0.35" pY="0.35" z="2" dI="5" dr="4"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0.35" pY="0.35" z="2" dI="6" dr="4"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0.35" pY="0.35" z="2" dI="7" dr="4"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0.35" pY="0.35" z="2" dI="8" dr="4"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0.35" pY="0.35" z="2" dI="9" dr="4"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0.35" pY="0.35" z="2" dI="10" dr="4"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0.35" pY="0.35" z="2" dI="11" dr="4"/>
+        </b>
+        <b name="图层 3 复制" sc="1" dl="0">
+          <f x="0.45" y="0.45" kX="0" kY="0" cX="1.09" cY="1.09" bd="8" pX="0.4" pY="0.4" z="3" dI="0" dr="48"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="qp_kapai_lizi_b">
+      <mov name="stand" dr="16" to="0" drTW="16" lp="1" twE="NaN">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="2.46" cY="2.46" pX="0.35" pY="0.35" z="0" dI="0" twE="0" dr="2"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="5.59" cY="5.59" pX="0.35" pY="0.35" z="0" dI="0" twE="0" dr="6"/>
+          <f x="0.5" y="0.5" kX="0" kY="0" cX="7.53" cY="7.53" pX="0.35" pY="0.35" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="7" dI="-1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0.4" kX="0" kY="0" cX="0.45" cY="0.45" pX="0.35" pY="0.35" z="1" dI="0" twE="0" dr="4"/>
+          <f x="0" y="0.4" kX="0" kY="0" cX="1" cY="1" pX="0.3" pY="0.3" z="0" dI="0" twE="0" dr="10"/>
+          <f x="0" y="0.4" kX="0" kY="0" cX="1.29" cY="1.29" pX="0.3" pY="0.3" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="particle">
+    <SubTexture name="images/skill/qp/xzxd_12" width="114" height="114" cocos2d_pX="56.65" cocos2d_pY="56.65"/>
+    <SubTexture name="images/skill/qp/xzxd_11" width="114" height="114" cocos2d_pX="56.65" cocos2d_pY="56.65"/>
+    <SubTexture name="images/skill/qp/xzxd_10" width="114" height="114" cocos2d_pX="56.65" cocos2d_pY="56.65"/>
+    <SubTexture name="images/skill/qp/xzxd_09" width="114" height="114" cocos2d_pX="56.65" cocos2d_pY="56.65"/>
+    <SubTexture name="images/skill/qp/xzxd_08" width="114" height="114" cocos2d_pX="56.65" cocos2d_pY="56.65"/>
+    <SubTexture name="images/skill/qp/xzxd_07" width="114" height="114" cocos2d_pX="56.65" cocos2d_pY="56.65"/>
+    <SubTexture name="images/skill/qp/xzxd_06" width="114" height="114" cocos2d_pX="56.65" cocos2d_pY="56.65"/>
+    <SubTexture name="images/skill/qp/xzxd_05" width="114" height="114" cocos2d_pX="56.65" cocos2d_pY="56.65"/>
+    <SubTexture name="images/skill/qp/xzxd_04" width="114" height="114" cocos2d_pX="56.65" cocos2d_pY="56.65"/>
+    <SubTexture name="images/skill/qp/xzxd_03" width="114" height="114" cocos2d_pX="56.65" cocos2d_pY="56.65"/>
+    <SubTexture name="images/skill/qp/xzxd_02" width="114" height="114" cocos2d_pX="56.65" cocos2d_pY="56.65"/>
+    <SubTexture name="images/skill/qp/xzxd_01" width="114" height="114" cocos2d_pX="56.65" cocos2d_pY="56.65"/>
+    <SubTexture name="images/skill/other/baiquan" width="100" height="100" cocos2d_pX="50" cocos2d_pY="50"/>
+    <SubTexture name="images/skill/other/xd" width="40" height="40" cocos2d_pX="20" cocos2d_pY="20"/>
+  </TextureAtlas>
+</skeleton>

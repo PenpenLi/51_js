@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>wish</key>
+	<string>白云看得见，大海听得见！主公许下的誓言，让我来帮您实现！</string>
+    <key>eat12</key>
+    <string>人是铁，饭是钢，一顿不吃心慌慌。热气腾腾的大肉包纸已为主公准备好了！</string>
+    <key>eat18</key>
+    <string>香在口中，暖在心头!主公念念不忘的大肉包纸，又来了！！</string>
+    <key>eat21</key>
+    <string>主公，主公~听说夜宵的最佳选择就是肥而不腻的大肉包纸哟~</string>
+    <key>hpfull</key>
+    <string>主公体内的洪荒之力已经蓄满，现在该是释放的时候啦！</string>
+    <key>skillfull</key>
+    <string>叮咚~叮咚~！技能点集满后可是不会再增长的哟，主公快来提升战力吧！</string>
+    <key>worldboss1</key>
+    <string>来自异世界的巨兽将在10分钟后袭来，请各位主公做好准备，前往围剿</string>
+    <key>worldboss2</key>
+    <string>来自异世界的巨兽将在5分钟后袭来，请各位主公做好准备，前往围剿</string>
+    <key>worldboss3</key>
+    <string>巨兽袭来活动已经开始了，请各位主公立即前往围剿</string>
+</dict>
+</plist>

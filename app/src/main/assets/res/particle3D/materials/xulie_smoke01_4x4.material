@@ -1,0 +1,21 @@
+
+material xulie_smoke01_4x4
+{
+	technique
+	{
+		pass
+		{
+			lighting off
+			scene_blend add
+			depth_write off
+
+			texture_unit xulie_baozha013_4x4.png
+			{
+				texture_alias xulie_baozha013_4x4.png
+				texture xulie_baozha013_4x4.png
+			}
+		}
+
+	}
+
+}

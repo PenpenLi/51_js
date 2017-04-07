@@ -1,0 +1,104 @@
+<skeleton name="ui_family_icon" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="ui_family_bz_effect">
+      <b name="images">
+        <d name="images/skill/ui/ui-shanfaguang-01"/>
+        <d name="images/skill/ui/ui-shanfaguang-02"/>
+        <d name="images/skill/ui/ui-shanfaguang-03"/>
+        <d name="images/skill/ui/ui-shanfaguang-04"/>
+        <d name="images/skill/ui/ui-shanfaguang-05"/>
+        <d name="images/skill/ui/ui-shanfaguang-06"/>
+        <d name="images/skill/ui/ui-shanfaguang-07"/>
+        <d name="images/skill/ui/ui-shanfaguang-08"/>
+        <d name="images/skill/ui/ui-shanfaguang-09"/>
+        <d name="images/skill/ui/ui-shanfaguang-10"/>
+        <d name="images/skill/ui/ui-shanfaguang-11"/>
+      </b>
+      <b name="images0">
+        <d name="images/skill/other/ui_xingdian_01"/>
+        <d name="images/skill/other/ui_xingdian_02"/>
+        <d name="images/skill/other/ui_xingdian_03"/>
+        <d name="images/skill/other/ui_xingdian_04"/>
+        <d name="images/skill/other/ui_xingdian_05"/>
+        <d name="images/skill/other/ui_xingdian_06"/>
+        <d name="images/skill/other/ui_xingdian_07"/>
+        <d name="images/skill/other/ui_xingdian_08"/>
+        <d name="images/skill/other/ui_xingdian_09"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_family_bz_effect">
+      <mov name="stand" dr="35" to="0" drTW="35" lp="1" twE="NaN">
+        <b name="images" sc="1" dl="0">
+          <f x="-6.2" y="-9.1" kX="0" kY="0" cX="1.69" cY="1.69" bd="8" pX="0" pY="0" z="0" dI="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="50" bM="0"/>
+          </f>
+          <f x="-6.2" y="-9.1" kX="0" kY="0" cX="1.69" cY="1.69" bd="8" pX="0" pY="0" z="0" dI="1" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="50" bM="0"/>
+          </f>
+          <f x="-6.2" y="-9.1" kX="0" kY="0" cX="1.69" cY="1.69" bd="8" pX="0" pY="0" z="0" dI="2" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="50" bM="0"/>
+          </f>
+          <f x="-6.2" y="-9.1" kX="0" kY="0" cX="1.69" cY="1.69" bd="8" pX="0" pY="0" z="0" dI="3" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="50" bM="0"/>
+          </f>
+          <f x="-6.2" y="-9.1" kX="0" kY="0" cX="1.69" cY="1.69" bd="8" pX="0" pY="0" z="0" dI="4" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="50" bM="0"/>
+          </f>
+          <f x="-6.2" y="-9.1" kX="0" kY="0" cX="1.69" cY="1.69" bd="8" pX="0" pY="0" z="0" dI="5" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="50" bM="0"/>
+          </f>
+          <f x="-6.2" y="-9.1" kX="0" kY="0" cX="1.69" cY="1.69" bd="8" pX="0" pY="0" z="0" dI="6" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="50" bM="0"/>
+          </f>
+          <f x="-6.2" y="-9.1" kX="0" kY="0" cX="1.69" cY="1.69" bd="8" pX="0" pY="0" z="0" dI="7" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="50" bM="0"/>
+          </f>
+          <f x="-6.2" y="-9.1" kX="0" kY="0" cX="1.69" cY="1.69" bd="8" pX="0" pY="0" z="0" dI="8" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="50" bM="0"/>
+          </f>
+          <f x="-6.2" y="-9.1" kX="0" kY="0" cX="1.69" cY="1.69" bd="8" pX="0" pY="0" z="0" dI="9" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="50" bM="0"/>
+          </f>
+          <f x="-6.2" y="-9.1" kX="0" kY="0" cX="1.69" cY="1.69" bd="8" pX="0" pY="0" z="0" dI="10" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="50" bM="0"/>
+          </f>
+        </b>
+        <b name="images0" sc="1" dl="0">
+          <f x="1" y="-8" kX="0" kY="0" cX="1.48" cY="1.48" bd="8" pX="0" pY="0" z="1" dI="0" dr="3"/>
+          <f x="1" y="-8" kX="0" kY="0" cX="1.48" cY="1.48" bd="8" pX="0" pY="0" z="1" dI="1" dr="4"/>
+          <f x="1" y="-8" kX="0" kY="0" cX="1.48" cY="1.48" bd="8" pX="0" pY="0" z="1" dI="2" dr="4"/>
+          <f x="1" y="-8" kX="0" kY="0" cX="1.48" cY="1.48" bd="8" pX="0" pY="0" z="1" dI="3" dr="4"/>
+          <f x="1" y="-8" kX="0" kY="0" cX="1.48" cY="1.48" bd="8" pX="0" pY="0" z="1" dI="4" dr="4"/>
+          <f x="1" y="-8" kX="0" kY="0" cX="1.48" cY="1.48" bd="8" pX="0" pY="0" z="1" dI="5" dr="4"/>
+          <f x="1" y="-8" kX="0" kY="0" cX="1.48" cY="1.48" bd="8" pX="0" pY="0" z="1" dI="6" dr="4"/>
+          <f x="1" y="-8" kX="0" kY="0" cX="1.48" cY="1.48" bd="8" pX="0" pY="0" z="1" dI="7" dr="4"/>
+          <f x="1" y="-8" kX="0" kY="0" cX="1.48" cY="1.48" bd="8" pX="0" pY="0" z="1" dI="8" dr="4"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_family_icon">
+    <SubTexture name="images/skill/other/ui_xingdian_09" width="70" height="66" cocos2d_pX="35" cocos2d_pY="33"/>
+    <SubTexture name="images/skill/other/ui_xingdian_08" width="70" height="66" cocos2d_pX="35" cocos2d_pY="33"/>
+    <SubTexture name="images/skill/other/ui_xingdian_07" width="70" height="66" cocos2d_pX="35" cocos2d_pY="33"/>
+    <SubTexture name="images/skill/other/ui_xingdian_06" width="70" height="66" cocos2d_pX="35" cocos2d_pY="33"/>
+    <SubTexture name="images/skill/other/ui_xingdian_05" width="70" height="66" cocos2d_pX="35" cocos2d_pY="33"/>
+    <SubTexture name="images/skill/other/ui_xingdian_04" width="70" height="66" cocos2d_pX="35" cocos2d_pY="33"/>
+    <SubTexture name="images/skill/other/ui_xingdian_03" width="70" height="66" cocos2d_pX="35" cocos2d_pY="33"/>
+    <SubTexture name="images/skill/other/ui_xingdian_02" width="70" height="66" cocos2d_pX="35" cocos2d_pY="33"/>
+    <SubTexture name="images/skill/other/ui_xingdian_01" width="70" height="66" cocos2d_pX="35" cocos2d_pY="33"/>
+    <SubTexture name="images/skill/ui/ui-shanfaguang-11" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+    <SubTexture name="images/skill/ui/ui-shanfaguang-10" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+    <SubTexture name="images/skill/ui/ui-shanfaguang-09" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+    <SubTexture name="images/skill/ui/ui-shanfaguang-08" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+    <SubTexture name="images/skill/ui/ui-shanfaguang-07" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+    <SubTexture name="images/skill/ui/ui-shanfaguang-06" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+    <SubTexture name="images/skill/ui/ui-shanfaguang-05" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+    <SubTexture name="images/skill/ui/ui-shanfaguang-04" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+    <SubTexture name="images/skill/ui/ui-shanfaguang-03" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+    <SubTexture name="images/skill/ui/ui-shanfaguang-02" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+    <SubTexture name="images/skill/ui/ui-shanfaguang-01" width="100" height="76" cocos2d_pX="50" cocos2d_pY="38"/>
+  </TextureAtlas>
+</skeleton>

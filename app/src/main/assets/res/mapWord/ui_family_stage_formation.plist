@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>伤害排名</string>
+        <key>2</key>
+        <string>今日可挑战次数:</string>
+        <key>3</key>
+        <string>敌方阵容</string>
+        <key>4</key>
+        <string>选择自身buff提升实力</string>
+    </dict>
+</plist>

@@ -1,0 +1,60 @@
+<skeleton name="ui_atlas_28" frameRate="35" version="2.2">
+  <armatures>
+    <armature name="ui_atlas_map28_type7">
+      <b name="图层 1">
+        <d name="images/ui_atlas/24/map"/>
+      </b>
+      <b name="图层 2">
+        <d name="images/ui_atlas/ui/cover"/>
+      </b>
+    </armature>
+    <armature name="ui_atlas_map28_type1">
+      <b name="图层 1">
+        <d name="images/ui_atlas/24/map"/>
+      </b>
+      <b name="图层 2">
+        <d name="images/ui_atlas/ui/cover"/>
+      </b>
+    </armature>
+    <armature name="ui_atlas_map28_type0">
+      <b name="图层 1">
+        <d name="images/ui_atlas/24/map"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_atlas_map28_type7">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="15.28" cY="7.77" bd="8" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="13" g="0" b="66" aM="100" rM="74" gM="74" bM="74"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_atlas_map28_type1">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="15.28" cY="7.77" bd="5" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_atlas_map28_type0">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_atlas_28">
+    <SubTexture name="images/ui_atlas/ui/cover" width="72" height="72" cocos2d_pX="36" cocos2d_pY="36"/>
+    <SubTexture name="images/ui_atlas/24/map" width="1112" height="571" cocos2d_pX="556" cocos2d_pY="285.5"/>
+  </TextureAtlas>
+</skeleton>

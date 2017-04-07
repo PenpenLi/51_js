@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>title</key>
+		<string>第一章 桃园结义</string>
+		<key>info</key>
+		<string>结束了当前的混乱之旅，总算正式踏上了寻找灵兽的道路，未知的凶险与困境在前方等待着众人的到来…… </string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>title</key>
+		<string>第二章 黄巾之乱</string>
+		<key>info</key>
+		<string>张角趁乱逃脱，黄巾之乱暂告段落，此时汉皇却对天下诸侯发出勤王之令，一时间关中平原硝烟再起……</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>title</key>
+		<string>第三章 虎牢关</string>
+		<key>info</key>
+		<string>趁着张角拖住主角一众人等，董卓一伙仓皇逃向洛阳，勤王联军紧随而至，瞬间将洛阳城围的水泄不通……</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>title</key>
+		<string>第四章 火烧洛阳</string>
+		<key>info</key>
+		<string>董卓势力节节败退，在联军破城之际，董卓下令放火烧城，企图阻止联军的步伐，千年古城毁于一旦……</string>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>title</key>
+		<string>第五章 长安之乱</string>
+		<key>info</key>
+		<string>勤王诸侯，内部分裂，长安陷入混战之中……主角一行人，为寻找其他灵兽守卫者，来到江东之地……</string>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>title</key>
+		<string>第六章 扬名江东(上)</string>
+		<key>info</key>
+		<string>相传孙权其父因守卫灵兽而惨遭迫害，孙氏一族从此落寞，此次江东灵兽传闻在现乱世，江东孙氏又将面临灭顶之灾……</string>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>title</key>
+		<string>第七章 扬名江东(下)</string>
+		<key>info</key>
+		<string>得知曹操已率军潜入江东，孙权不得已只能与乱斗英雄暂时结盟，共同御敌！</string>
+	</dict>
+	<key>8</key>
+	<dict>
+		<key>title</key>
+		<string>第八章 将星陨落(上)</string>
+		<key>info</key>
+		<string>从司马懿口中得知，被击败的曹军只是一路疑军，曹军主力正全力攻打江东，此刻江东危在旦夕……</string>
+	</dict>
+	<key>9</key>
+	<dict>
+		<key>title</key>
+		<string>第九章 将星陨落(下)</string>
+		<key>info</key>
+		<string></string>
+	</dict>
+	<key>10</key>
+	<dict>
+		<key>title</key>
+		<string>第十章 四世三公(上)</string>
+		<key>info</key>
+		<string></string>
+	</dict>
+	<key>11</key>
+	<dict>
+		<key>title</key>
+		<string>第十一章 四世三公(下)</string>
+		<key>info</key>
+		<string></string>
+	</dict>
+	<key>12</key>
+	<dict>
+		<key>title</key>
+		<string>第十二章 官渡之战(上)</string>
+		<key>info</key>
+		<string></string>
+	</dict>
+	<key>13</key>
+	<dict>
+		<key>title</key>
+		<string>第十三章 官渡之战(下)</string>
+		<key>info</key>
+		<string></string>
+	</dict>
+	
+</dict>
+</plist>

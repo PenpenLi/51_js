@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>鼓舞</string>
+        <key>2</key>
+        <string>当前加成</string>
+        <key>3</key>
+        <string>下次鼓舞</string>
+        <key>5</key>
+        <string>当前进度:</string>
+        <key>6</key>
+        <string>可鼓舞次数:</string>
+        <key>7</key>
+        <string>等级@</string>
+        <key>8</key>
+        <string>等级@</string>
+    </dict>
+</plist>

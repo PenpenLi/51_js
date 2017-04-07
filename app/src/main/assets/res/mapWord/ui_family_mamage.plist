@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>军团成员：</string>
+        <key>2</key>
+        <string>确定</string>
+        <key>3</key>
+        <string>升级</string>
+        <key>4</key>
+        <string>消耗军团活跃度:</string>
+        <key>5</key>
+        <string>下一级:</string>
+        <key>6</key>
+        <string>还需军团活跃度\\c{n=190014;s=0.3;v=0}\\w{c=ffffff}@\\才可升级</string>
+        <key>7</key>
+        <string>当前:</string>
+        <key>8</key>
+        <string>可使用军团活跃度:</string>
+        <key>9</key>
+        <string>历史军团活跃度:</string>
+        <key>10</key>
+        <string>确定</string>
+        <key>11</key>
+        <string>确定</string>
+        <key>12</key>
+        <string>邮件标题</string>
+        <key>13</key>
+        <string>输入邮件</string>
+        <key>14</key>
+        <string>群发邮件</string>
+    </dict>
+</plist>

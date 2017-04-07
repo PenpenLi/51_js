@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>训练保护</string>
+        <key>2</key>
+        <string>每次训练期间，仅可购买一次保护时间。若在保护期间进行抢位或换位，则保护失效。</string>
+        <key>3</key>
+        <string>确定</string>
+    </dict>
+</plist>

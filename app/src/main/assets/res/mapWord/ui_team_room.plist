@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>记录</string>
+        <key>2</key>
+        <string>快速寻宝</string>
+        <key>3</key>
+        <string>快速埋伏</string>
+        <key>4</key>
+        <string>布阵</string>
+        <key>5</key>
+        <string>初级宝藏点</string>
+        <key>6</key>
+        <string>@人</string>
+        <key>7</key>
+        <string>埋伏冷却时间</string>
+        <key>8</key>
+        <string>00:00</string>
+        <key>9</key>
+        <string>埋伏次数</string>
+        <key>10</key>
+        <string>0</string>
+        <key>11</key>
+        <string>寻宝公告:</string>
+        <key>12</key>
+        <string>房间</string>
+    </dict>
+</plist>

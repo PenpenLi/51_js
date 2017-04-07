@@ -1,0 +1,265 @@
+<skeleton name="ui-huihejieshu" frameRate="30" version="2.2">
+  <armatures>
+    <armature name="ui_huihejieshu_b">
+      <b name="横条">
+        <d name="images/ui_fight/line_di_ends"/>
+      </b>
+      <b name="横条两侧光">
+        <d name="ui_huihejieshui_b_hengtiao2guang" isArmature="1"/>
+      </b>
+      <b name="word">
+        <d name="ui_huihejieshu_b_word2" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_huihejieshui_b_hengtiao2guang">
+      <b name="1">
+        <d name="ui_huihejieshu_b_hengtiao2guang2" isArmature="1"/>
+      </b>
+      <b name="2">
+        <d name="ui_huihejieshu_b_hengtiao2guang2" isArmature="1"/>
+      </b>
+      <b name="1 复制">
+        <d name="ui_huihejieshu_b_hengtiao2guang2" isArmature="1"/>
+      </b>
+      <b name="2 复制">
+        <d name="ui_huihejieshu_b_hengtiao2guang2" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_huihejieshu_b_hengtiao2guang2">
+      <b name="end_jieshuline">
+        <d name="images/ui_fight/end_jieshuline"/>
+      </b>
+      <b name="end_jieshuline0">
+        <d name="images/ui_fight/end_jieshuline"/>
+      </b>
+      <b name="end_jieshuline1">
+        <d name="images/ui_fight/end_jieshuline"/>
+      </b>
+      <b name="end_jieshuline2">
+        <d name="images/ui_fight/end_jieshuline"/>
+      </b>
+    </armature>
+    <armature name="ui_huihejieshu_b_word2">
+      <b name="word1">
+        <d name="ui_huihejieshu_b_word1" isArmature="1"/>
+      </b>
+      <b name="word2">
+        <d name="ui_huihejieshu_b_word1" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_huihejieshu_b_word1">
+      <b name="end_jieshu1">
+        <d name="images/ui_word/end_jieshu1"/>
+      </b>
+      <b name="end_jieshu3">
+        <d name="images/ui_word/end_jieshu3"/>
+      </b>
+      <b name="end_jieshu30">
+        <d name="images/ui_word/end_jieshu3"/>
+      </b>
+      <b name="end_jieshu31">
+        <d name="images/ui_word/end_jieshu3"/>
+      </b>
+      <b name="end_jieshu10">
+        <d name="images/ui_word/end_jieshu1"/>
+      </b>
+      <b name="end_jieshu11">
+        <d name="images/ui_word/end_jieshu1"/>
+      </b>
+    </armature>
+    <armature name="ui_huihejieshu_a">
+      <b name="横条">
+        <d name="images/ui_fight/line_di_ends"/>
+      </b>
+      <b name="word">
+        <d name="ui_huihejieshu_a_word2" isArmature="1"/>
+      </b>
+      <b name="回合结束">
+        <d name="images/ui_word/end_jieshu2"/>
+      </b>
+    </armature>
+    <armature name="ui_huihejieshu_a_word2">
+      <b name="word1">
+        <d name="ui_huihejieshu_a_word1" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_huihejieshu_a_word1">
+      <b name="end_jieshu1">
+        <d name="images/ui_word/end_jieshu1"/>
+      </b>
+      <b name="end_jieshu3">
+        <d name="images/ui_word/end_jieshu3"/>
+      </b>
+      <b name="end_jieshu30">
+        <d name="images/ui_word/end_jieshu3"/>
+      </b>
+      <b name="end_jieshu31">
+        <d name="images/ui_word/end_jieshu3"/>
+      </b>
+      <b name="end_jieshu10">
+        <d name="images/ui_word/end_jieshu1"/>
+      </b>
+      <b name="end_jieshu11">
+        <d name="images/ui_word/end_jieshu1"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_huihejieshu_b_hengtiao2guang2">
+      <mov name="stand" dr="1" to="0">
+        <b name="end_jieshuline" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="180" cX="2.61" cY="2" bd="8" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="end_jieshuline0" sc="1" dl="0">
+          <f x="-359.1" y="1" kX="0" kY="180" cX="2.61" cY="2" bd="8" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="end_jieshuline1" sc="1" dl="0">
+          <f x="344" y="1" kX="0" kY="180" cX="2.61" cY="2" bd="8" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="end_jieshuline2" sc="1" dl="0">
+          <f x="707" y="1" kX="0" kY="180" cX="2.61" cY="2" bd="8" pX="0" pY="0" z="3" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_huihejieshui_b_hengtiao2guang">
+      <mov name="stand" dr="40" to="0" drTW="40" lp="1" twE="NaN">
+        <b name="1" sc="1" dl="0">
+          <f x="249.05" y="-79.35" kX="0" kY="0" cX="1" cY="1" pX="286" pY="0.25" z="0" dI="0" twE="0" dr="34"/>
+          <f x="-1178.35" y="-81.35" kX="0" kY="0" cX="1" cY="1" pX="286" pY="0.25" z="0" dI="0" twE="0" dr="1"/>
+          <f dr="5" dI="-1"/>
+        </b>
+        <b name="2" sc="1" dl="0">
+          <f dr="5" dI="-1"/>
+          <f x="1454.3" y="-75.35" kX="0" kY="0" cX="1" cY="1" pX="286" pY="0.25" z="0" dI="0" twE="0" dr="34"/>
+          <f x="259.9" y="-77.35" kX="0" kY="0" cX="1" cY="1" pX="286" pY="0.25" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="1 复制" sc="1" dl="0">
+          <f x="-197.25" y="71.15" kX="180" kY="180" cX="1" cY="1" pX="286" pY="0.25" z="2" dI="0" twE="0" dr="34"/>
+          <f x="1230.15" y="77.15" kX="180" kY="180" cX="1" cY="1" pX="286" pY="0.25" z="2" dI="0" twE="0" dr="1"/>
+          <f dr="5" dI="-1"/>
+        </b>
+        <b name="2 复制" sc="1" dl="0">
+          <f dr="5" dI="-1"/>
+          <f x="-1402.5" y="71.15" kX="180" kY="180" cX="1" cY="1" pX="286" pY="0.25" z="1" dI="0" twE="0" dr="34"/>
+          <f x="-208.1" y="73.15" kX="180" kY="180" cX="1" cY="1" pX="286" pY="0.25" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_huihejieshu_b_word1">
+      <mov name="stand" dr="1" to="0">
+        <b name="end_jieshu1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="end_jieshu3" sc="1" dl="0">
+          <f x="342.1" y="2.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="end_jieshu30" sc="1" dl="0">
+          <f x="-1019.25" y="2.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="end_jieshu31" sc="1" dl="0">
+          <f x="-333.55" y="4.5" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="3" dI="0" dr="1"/>
+        </b>
+        <b name="end_jieshu10" sc="1" dl="0">
+          <f x="-668.75" y="1" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="4" dI="0" dr="1"/>
+        </b>
+        <b name="end_jieshu11" sc="1" dl="0">
+          <f x="681.65" y="2.45" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="5" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_huihejieshu_b_word2">
+      <mov name="stand" dr="52" to="0" drTW="52" lp="1" twE="NaN">
+        <b name="word1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="34"/>
+          <f x="-1427.4" y="-2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f dr="17" dI="-1"/>
+        </b>
+        <b name="word2" sc="1" dl="0">
+          <f dr="5" dI="-1"/>
+          <f x="1764.4" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="46"/>
+          <f x="-0.05" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_huihejieshu_b">
+      <mov name="stand" dr="1" to="0">
+        <b name="横条" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="47.07" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="横条两侧光" sc="1" dl="0">
+          <f x="2" y="0.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="word" sc="1" dl="0">
+          <f x="-1.65" y="1.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_huihejieshu_a_word1">
+      <mov name="stand" dr="1" to="0">
+        <b name="end_jieshu1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="end_jieshu3" sc="1" dl="0">
+          <f x="342.1" y="2.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="end_jieshu30" sc="1" dl="0">
+          <f x="-1019.25" y="2.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="end_jieshu31" sc="1" dl="0">
+          <f x="-333.55" y="4.5" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="3" dI="0" dr="1"/>
+        </b>
+        <b name="end_jieshu10" sc="1" dl="0">
+          <f x="-668.75" y="1" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="4" dI="0" dr="1"/>
+        </b>
+        <b name="end_jieshu11" sc="1" dl="0">
+          <f x="681.65" y="2.45" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="5" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_huihejieshu_a_word2">
+      <mov name="stand" dr="1" to="0">
+        <b name="word1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_huihejieshu_a">
+      <mov name="stand" dr="28" to="0" drTW="28" lp="1" twE="NaN">
+        <b name="横条" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="47.08" cY="0.1" pX="0" pY="0" z="0" dI="0" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="47.07" cY="1" pX="0" pY="0" z="0" dI="0" dr="22"/>
+        </b>
+        <b name="word" sc="1" dl="0">
+          <f x="-1.65" y="1.35" kX="0" kY="0" cX="1" cY="0.13" pX="0" pY="0" z="1" dI="0" twE="0" dr="6"/>
+          <f x="-1.65" y="1.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="22"/>
+        </b>
+        <b name="回合结束" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="0.35" y="1.35" kX="0" kY="0" cX="4.86" cY="4.86" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+          <f x="0.35" y="1.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2" dI="0" twE="0" dr="2"/>
+          <f x="0.35" y="1.35" kX="0" kY="0" cX="2.36" cY="2.36" pX="0" pY="0" z="2" dI="0" twE="0" dr="2"/>
+          <f x="0.35" y="1.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2" dI="0" dr="2"/>
+          <f x="0.35" y="1.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="1.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2" dI="0" dr="2"/>
+          <f x="0.35" y="1.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="1.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2" dI="0" dr="2"/>
+          <f x="0.35" y="1.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="1.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2" dI="0" dr="5"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui-huihejieshu">
+    <SubTexture name="images/ui_word/end_jieshu2" width="169" height="56" cocos2d_pX="84.5" cocos2d_pY="28"/>
+    <SubTexture name="images/ui_word/end_jieshu3" width="153" height="25" cocos2d_pX="76.5" cocos2d_pY="12.5"/>
+    <SubTexture name="images/ui_word/end_jieshu1" width="169" height="56" cocos2d_pX="84.5" cocos2d_pY="28"/>
+    <SubTexture name="images/ui_fight/end_jieshuline" width="132" height="10" cocos2d_pX="66" cocos2d_pY="5"/>
+    <SubTexture name="images/ui_fight/line_di_ends" width="38" height="272" cocos2d_pX="19" cocos2d_pY="136"/>
+  </TextureAtlas>
+</skeleton>

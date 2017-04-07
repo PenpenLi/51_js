@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>6</key>
+        <string>重置(免费)</string>
+        <key>7</key>
+        <string>一键扫荡</string>
+        <key>21</key>
+        <string>历史最高</string>
+        <key>22</key>
+        <string>本次挑战</string>
+        <key>23</key>
+        <string>剩余可用</string>
+        <key>24</key>
+        <string>单层扫荡</string>
+    </dict>
+</plist>

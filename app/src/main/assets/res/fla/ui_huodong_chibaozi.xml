@@ -1,0 +1,251 @@
+<skeleton name="ui_huodong_chibaozi" frameRate="30" version="2.2">
+  <armatures>
+    <armature name="ui_chibaozi_yan">
+      <b name="1">
+        <d name="images/skill/023/s023-yunwu"/>
+      </b>
+      <b name="1 复制">
+        <d name="images/skill/023/s023-yunwu"/>
+      </b>
+      <b name="1 复制0">
+        <d name="images/skill/023/s023-yunwu"/>
+      </b>
+      <b name="1 复制1">
+        <d name="images/skill/023/s023-yunwu"/>
+      </b>
+    </armature>
+    <armature name="ui_huodong_good">
+      <b name="good">
+        <d name="images/ui_word/baozi_good"/>
+      </b>
+    </armature>
+    <armature name="ui_huodong_chibaozi_timeover">
+      <b name="图层 1">
+        <d name="images/ui_word/baozi_timeup"/>
+      </b>
+    </armature>
+    <armature name="ui_huodong_baozi_time">
+      <b name="di">
+        <d name="images/ui_huodong/321_di"/>
+      </b>
+      <b name="3">
+        <d name="images/ui_num/paihang_num3"/>
+      </b>
+      <b name="2">
+        <d name="images/ui_num/paihang_num2"/>
+      </b>
+      <b name="1">
+        <d name="images/ui_num/paihang_num1"/>
+      </b>
+      <b name="go">
+        <d name="ui_huodong_baozi_time_go" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_huodong_baozi_time_go">
+      <b name="1">
+        <d name="images/ui_huodong/GO"/>
+      </b>
+      <b name="2">
+        <d name="images/ui_huodong/GO"/>
+      </b>
+      <b name="3">
+        <d name="images/ui_huodong/GO"/>
+      </b>
+    </armature>
+    <armature name="ui_huodong_baozi_tan">
+      <b name="baozi">
+        <d name="images/ui_public1/energy"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_chibaozi_yan">
+      <mov name="stand" dr="75" to="0" drTW="75" lp="1" twE="NaN">
+        <b name="1" sc="1" dl="0">
+          <f x="0.3" y="-0.4" kX="0" kY="-4.33" cX="0.7" cY="0.55" pX="0" pY="0" z="0" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.2" y="-4.75" kX="0" kY="-4.33" cX="0.7" cY="0.55" pX="0" pY="0" z="0" dI="0" twE="0" dr="25">
+            <colorTransform a="0" r="0" g="0" b="0" aM="40" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.2" y="-7.95" kX="0" kY="-4.33" cX="0.7" cY="0.55" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="25" dI="-1"/>
+        </b>
+        <b name="1 复制" sc="1" dl="0">
+          <f dr="24" dI="-1"/>
+          <f x="0.3" y="-0.4" kX="0" kY="-4.33" cX="0.7" cY="0.55" pX="0" pY="0" z="1" dI="0" twE="0" dr="25">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.2" y="-4.75" kX="0" kY="-4.33" cX="0.7" cY="0.55" pX="0" pY="0" z="0" dI="0" twE="0" dr="25">
+            <colorTransform a="0" r="0" g="0" b="0" aM="40" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.2" y="-7.95" kX="0" kY="-4.33" cX="0.7" cY="0.55" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="1 复制0" sc="1" dl="0">
+          <f dr="49" dI="-1"/>
+          <f x="0.3" y="-0.4" kX="0" kY="-4.33" cX="0.7" cY="0.55" pX="0" pY="0" z="1" dI="0" twE="0" dr="25">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.2" y="-4.75" kX="0" kY="-4.33" cX="0.7" cY="0.55" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="40" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="1 复制1" sc="1" dl="0">
+          <f x="0.2" y="-4.75" kX="0" kY="-4.33" cX="0.7" cY="0.55" pX="0" pY="0" z="2" dI="0" twE="0" dr="25">
+            <colorTransform a="0" r="0" g="0" b="0" aM="40" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.2" y="-7.95" kX="0" kY="-4.33" cX="0.7" cY="0.55" pX="0" pY="0" z="2" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="49" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_huodong_good">
+      <mov name="stand" dr="40" to="0" drTW="40" lp="1" twE="NaN">
+        <b name="good" sc="1" dl="0">
+          <f x="-0.15" y="0.1" kX="0" kY="0" cX="2.72" cY="0.16" pX="0" pY="0" z="0" dI="0" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.15" y="0.1" kX="0" kY="0" cX="1.43" cY="1.5" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-0.15" y="0.1" kX="0" kY="0" cX="1.32" cY="2.01" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-0.15" y="0.1" kX="0" kY="0" cX="1.45" cY="1.23" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-0.15" y="0.1" kX="0" kY="0" cX="1.32" cY="1.32" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f x="-0.15" y="0.1" kX="0" kY="0" cX="1.32" cY="1.51" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f x="-0.15" y="0.1" kX="-4.25" kY="-4.25" cX="1.32" cY="1.32" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-0.15" y="0.1" kX="4.24" kY="4.24" cX="1.32" cY="1.32" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-0.15" y="0.1" kX="-3.51" kY="-3.51" cX="1.32" cY="1.32" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-0.15" y="0.1" kX="4.24" kY="4.24" cX="1.32" cY="1.32" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-0.15" y="0.1" kX="-3.51" kY="-3.51" cX="1.32" cY="1.32" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-0.15" y="0.1" kX="4.24" kY="4.24" cX="1.32" cY="1.32" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-0.15" y="0.1" kX="0" kY="0" cX="1.32" cY="1.32" pX="0" pY="0" z="0" dI="0" dr="16"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_huodong_chibaozi_timeover">
+      <mov name="stand" dr="35" to="0" drTW="35" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="-0.15" kX="0" kY="0" cX="0.72" cY="0.72" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="0.35" y="-0.15" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="0.35" y="-0.15" kX="0" kY="0" cX="1.78" cY="1.78" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="0.35" y="-0.15" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="0" dr="4"/>
+          <f dr="3" dI="-1"/>
+          <f x="0.35" y="-0.15" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="0" dr="4"/>
+          <f dr="3" dI="-1"/>
+          <f x="0.35" y="-0.15" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="0" dr="14"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_huodong_baozi_time_go">
+      <mov name="stand" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="3.62" cY="1" pX="-64.5" pY="0" z="0" dI="0" twE="0" dr="5"/>
+          <f x="-115.8" y="0" kX="0" kY="0" cX="1.8" cY="1.8" pX="-64.5" pY="0" z="0" dI="0" dr="1"/>
+          <f dr="44" dI="-1"/>
+        </b>
+        <b name="2" sc="1" dl="0">
+          <f x="0" y="0.5" kX="0" kY="0" cX="3.65" cY="1" pX="64.5" pY="0.5" z="1" dI="0" twE="0" dr="5"/>
+          <f x="116.25" y="0.9" kX="0" kY="0" cX="1.8" cY="1.8" pX="64.5" pY="0.5" z="1" dI="0" dr="1"/>
+          <f dr="44" dI="-1"/>
+        </b>
+        <b name="3" sc="1" dl="0">
+          <f dr="5" dI="-1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f dr="2" dI="-1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f dr="2" dI="-1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" pX="0" pY="0" z="0" dI="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" pX="0" pY="0" z="0" dI="0" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.53" cY="4.53" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="25" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_huodong_baozi_time">
+      <mov name="stand" dr="101" to="0" drTW="101" lp="1" twE="NaN">
+        <b name="di" sc="1" dl="0">
+          <f x="0.05" y="0.15" kX="0" kY="0" cX="1.7" cY="1.7" pX="0" pY="0" z="0" dI="0" twE="0" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.05" y="0.15" kX="0" kY="0" cX="1.7" cY="1.7" pX="0" pY="0" z="0" dI="0" dr="67"/>
+          <f dr="30" dI="-1"/>
+        </b>
+        <b name="3" sc="1" dl="0">
+          <f x="-0.45" y="-18.1" kX="0" kY="0" cX="2.11" cY="2.11" pX="0" pY="0" z="1" dI="0" twE="0" sd="ui_3.mp3" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.5" y="0.35" kX="0" kY="0" cX="1.49" cY="1.49" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+          <f x="-0.5" y="0.35" kX="0" kY="0" cX="1.48" cY="1.48" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="-0.5" y="0.35" kX="0" kY="0" cX="1.49" cY="1.49" pX="0" pY="0" z="1" dI="0" twE="0" dr="10"/>
+          <f x="-0.5" y="0.35" kX="0" kY="0" cX="1.49" cY="1.49" pX="0" pY="0" z="1" dI="0" twE="0" dr="5"/>
+          <f x="-0.45" y="0.35" kX="0" kY="0" cX="1.8" cY="1.8" pX="0" pY="0" z="1" dI="0" twE="0" sd="ui_2.mp3" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="76" dI="-1"/>
+        </b>
+        <b name="2" sc="1" dl="0">
+          <f dr="24" dI="-1"/>
+          <f x="0.4" y="-18" kX="0" kY="0" cX="2.11" cY="2.11" pX="0" pY="0" z="1" dI="0" twE="0" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.45" y="0.5" kX="0" kY="0" cX="1.49" cY="1.49" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+          <f x="0.45" y="0.5" kX="0" kY="0" cX="1.48" cY="1.48" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="0.45" y="0.5" kX="0" kY="0" cX="1.49" cY="1.49" pX="0" pY="0" z="1" dI="0" twE="0" dr="10"/>
+          <f x="0.45" y="0.5" kX="0" kY="0" cX="1.49" cY="1.49" pX="0" pY="0" z="1" dI="0" twE="0" dr="5"/>
+          <f x="0.45" y="0.5" kX="0" kY="0" cX="1.8" cY="1.8" pX="0" pY="0" z="1" dI="0" twE="0" sd="ui_1.mp3" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="52" dI="-1"/>
+        </b>
+        <b name="1" sc="1" dl="0">
+          <f dr="48" dI="-1"/>
+          <f x="0.4" y="-18" kX="0" kY="0" cX="2.11" cY="2.11" pX="0" pY="0" z="1" dI="0" twE="0" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.45" y="0.5" kX="0" kY="0" cX="1.49" cY="1.49" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+          <f x="0.45" y="0.5" kX="0" kY="0" cX="1.48" cY="1.48" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="0.45" y="0.5" kX="0" kY="0" cX="1.49" cY="1.49" pX="0" pY="0" z="1" dI="0" twE="0" dr="10"/>
+          <f x="0.45" y="0.5" kX="0" kY="0" cX="1.49" cY="1.49" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+          <f x="0.45" y="0.5" kX="0" kY="0" cX="1.8" cY="1.8" pX="0" pY="0" z="0" dI="0" twE="0" sd="ui_fight.mp3" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="28" dI="-1"/>
+        </b>
+        <b name="go" sc="1" dl="0">
+          <f dr="72" dI="-1"/>
+          <f x="0" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="28"/>
+          <f dr="1" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_huodong_baozi_tan">
+      <mov name="stand" dr="17" to="0" drTW="17" lp="1" twE="NaN">
+        <b name="baozi" sc="1" dl="0">
+          <f x="0.1" y="21.5" kX="0" kY="0" cX="1" cY="1" pX="-52.05" pY="20.6" z="0" dI="0" twE="0" dr="4"/>
+          <f x="0.1" y="21" kX="0" kY="0" cX="1.05" cY="0.89" pX="-52.05" pY="20.6" z="0" dI="0" twE="0" dr="2"/>
+          <f x="0.15" y="21.25" kX="0" kY="0" cX="1.11" cY="0.88" pX="-52.05" pY="20.9" z="0" dI="0" twE="0" dr="2"/>
+          <f x="0.1" y="21" kX="0" kY="0" cX="1" cY="1.07" pX="-52.05" pY="20.6" z="0" dI="0" twE="0" dr="4"/>
+          <f x="0.1" y="21.15" kX="0" kY="0" cX="1" cY="1.12" pX="-52.05" pY="20.6" z="0" dI="0" twE="0" dr="4"/>
+          <f x="0.1" y="21.5" kX="0" kY="0" cX="1" cY="1" pX="-52.05" pY="20.6" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_huodong_chibaozi">
+    <SubTexture name="images/ui_public1/energy" width="111" height="111" cocos2d_pX="107.65" cocos2d_pY="55.9"/>
+    <SubTexture name="images/ui_huodong/GO" width="129" height="53" cocos2d_pX="64.15" cocos2d_pY="26.5"/>
+    <SubTexture name="images/ui_num/paihang_num1" width="29" height="57" cocos2d_pX="14.5" cocos2d_pY="28.5"/>
+    <SubTexture name="images/ui_num/paihang_num2" width="50" height="60" cocos2d_pX="25" cocos2d_pY="30"/>
+    <SubTexture name="images/ui_num/paihang_num3" width="47" height="58" cocos2d_pX="23.5" cocos2d_pY="29"/>
+    <SubTexture name="images/ui_huodong/321_di" width="81" height="81" cocos2d_pX="40.15" cocos2d_pY="40.5"/>
+    <SubTexture name="images/ui_word/baozi_timeup" width="214" height="89" cocos2d_pX="107" cocos2d_pY="44.5"/>
+    <SubTexture name="images/ui_word/baozi_good" width="281" height="89" cocos2d_pX="140.5" cocos2d_pY="44.5"/>
+    <SubTexture name="images/skill/023/s023-yunwu" width="124" height="89" cocos2d_pX="61.65" cocos2d_pY="44.5"/>
+  </TextureAtlas>
+</skeleton>

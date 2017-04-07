@@ -1,0 +1,21 @@
+<skeleton name="ui_guide_drag" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="ui_guide_drag">
+      <b name="Layer 1">
+        <d name="images/ui_guide/hand1"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_guide_drag">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="23" y="35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_guide_drag">
+    <SubTexture name="images/ui_guide/hand1" width="78" height="96" cocos2d_pX="39" cocos2d_pY="48"/>
+  </TextureAtlas>
+</skeleton>

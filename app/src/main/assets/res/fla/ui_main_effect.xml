@@ -1,0 +1,115 @@
+<skeleton name="ui_main_effect" frameRate="35" version="2.2">
+  <armatures>
+    <armature name="ui_main_draw">
+      <b name="icon0">
+        <d name="images/ui_main/draw_icon"/>
+      </b>
+      <b name="images">
+        <d name="images/skill/ui/main_tubiao_01"/>
+        <d name="images/skill/ui/main_tubiao_02"/>
+        <d name="images/skill/ui/main_tubiao_03"/>
+        <d name="images/skill/ui/main_tubiao_04"/>
+        <d name="images/skill/ui/main_tubiao_05"/>
+        <d name="images/skill/ui/main_tubiao_06"/>
+      </b>
+      <b name="图层 7">
+        <d name="images/skill/other/baiguang"/>
+      </b>
+      <b name="图层 6">
+        <d name="images/skill/other/other-shanguang"/>
+      </b>
+      <b name="图层 5 复制">
+        <d name="images/skill/other/other-shanguang"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_main_draw">
+      <mov name="stand" dr="85" to="0" drTW="85" lp="1" twE="NaN">
+        <b name="icon0" sc="1" dl="0">
+          <f dr="3" dI="-1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="74" dI="-1"/>
+        </b>
+        <b name="images" sc="1" dl="0">
+          <f dr="1" dI="-1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="50" bM="12"/>
+          </f>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="1" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="50" bM="12"/>
+          </f>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="2" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="50" bM="12"/>
+          </f>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="3" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="50" bM="12"/>
+          </f>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="4" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="50" bM="12"/>
+          </f>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="5" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="50" bM="12"/>
+          </f>
+          <f dr="72" dI="-1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f dr="6" dI="-1"/>
+          <f x="13.55" y="5.5" kX="0" kY="0" cX="0.48" cY="0.48" bd="8" pX="0.3" pY="0" z="2" dI="0" twE="0" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="38" bM="0"/>
+          </f>
+          <f x="13.55" y="5.5" kX="0" kY="0" cX="0.52" cY="0.52" bd="8" pX="0.3" pY="0" z="0" dI="0" twE="0" dr="13">
+            <colorTransform a="0" r="0" g="0" b="0" aM="96" rM="100" gM="91" bM="0"/>
+          </f>
+          <f x="13.55" y="5.5" kX="0" kY="0" cX="0.48" cY="0.48" bd="8" pX="0.3" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="38" bM="0"/>
+          </f>
+          <f dr="61" dI="-1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="24.85" y="0.85" kX="0" kY="0" cX="0.38" cY="0.38" bd="8" pX="0.4" pY="0" z="1" dI="0" twE="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="47"/>
+          </f>
+          <f x="24.85" y="0.85" kX="0" kY="0" cX="0.57" cY="0.57" bd="8" pX="0.45" pY="0" z="1" dI="0" twE="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="86" rM="100" gM="100" bM="0"/>
+          </f>
+          <f x="24.85" y="0.85" kX="0" kY="0" cX="0.13" cY="0.13" bd="8" pX="0.35" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="0"/>
+          </f>
+          <f dr="61" dI="-1"/>
+        </b>
+        <b name="图层 5 复制" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="24.85" y="0.85" kX="0" kY="0" cX="0.38" cY="0.38" bd="8" pX="0.4" pY="0" z="2" dI="0" twE="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="47"/>
+          </f>
+          <f x="24.85" y="0.85" kX="0" kY="0" cX="0.3" cY="0.3" bd="8" pX="0.5" pY="0" z="2" dI="0" twE="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="86" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="24.85" y="0.85" kX="0" kY="0" cX="0.13" cY="0.13" bd="8" pX="0.35" pY="0" z="2" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="0"/>
+          </f>
+          <f dr="61" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_main_effect">
+    <SubTexture name="images/skill/other/other-shanguang" width="100" height="100" cocos2d_pX="49.65" cocos2d_pY="50"/>
+    <SubTexture name="images/skill/other/baiguang" width="117" height="117" cocos2d_pX="58.15" cocos2d_pY="58.5"/>
+    <SubTexture name="images/skill/ui/main_tubiao_06" width="60" height="60" cocos2d_pX="30" cocos2d_pY="30"/>
+    <SubTexture name="images/skill/ui/main_tubiao_05" width="60" height="60" cocos2d_pX="30" cocos2d_pY="30"/>
+    <SubTexture name="images/skill/ui/main_tubiao_04" width="60" height="60" cocos2d_pX="30" cocos2d_pY="30"/>
+    <SubTexture name="images/skill/ui/main_tubiao_03" width="60" height="60" cocos2d_pX="30" cocos2d_pY="30"/>
+    <SubTexture name="images/skill/ui/main_tubiao_02" width="60" height="60" cocos2d_pX="30" cocos2d_pY="30"/>
+    <SubTexture name="images/skill/ui/main_tubiao_01" width="60" height="60" cocos2d_pX="30" cocos2d_pY="30"/>
+    <SubTexture name="images/ui_main/draw_icon" width="60" height="60" cocos2d_pX="30" cocos2d_pY="30"/>
+  </TextureAtlas>
+</skeleton>

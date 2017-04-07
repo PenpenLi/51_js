@@ -1,0 +1,51 @@
+<skeleton name="ui_fire" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="ui_panjun_ranshao">
+      <b name="1">
+        <d name="images/skill/buff/buff_ranshao_01"/>
+        <d name="images/skill/buff/buff_ranshao_02"/>
+        <d name="images/skill/buff/buff_ranshao_03"/>
+        <d name="images/skill/buff/buff_ranshao_04"/>
+        <d name="images/skill/buff/buff_ranshao_05"/>
+        <d name="images/skill/buff/buff_ranshao_06"/>
+        <d name="images/skill/buff/buff_ranshao_07"/>
+        <d name="images/skill/buff/buff_ranshao_08"/>
+        <d name="images/skill/buff/buff_ranshao_09"/>
+        <d name="images/skill/buff/buff_ranshao_10"/>
+        <d name="images/skill/buff/buff_ranshao_11"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_panjun_ranshao">
+      <mov name="stand" dr="33" to="0" drTW="33" lp="1" twE="NaN">
+        <b name="1" sc="1" dl="0">
+          <f x="9.65" y="-41" kX="0" kY="0" cX="2.41" cY="1.84" bd="8" pX="0" pY="0" z="0" dI="0" dr="3"/>
+          <f x="9.65" y="-41" kX="0" kY="0" cX="2.41" cY="1.84" bd="8" pX="0" pY="0" z="0" dI="1" dr="3"/>
+          <f x="9.65" y="-41" kX="0" kY="0" cX="2.41" cY="1.84" bd="8" pX="0" pY="0" z="0" dI="2" dr="3"/>
+          <f x="9.65" y="-41" kX="0" kY="0" cX="2.41" cY="1.84" bd="8" pX="0" pY="0" z="0" dI="3" dr="3"/>
+          <f x="9.65" y="-41" kX="0" kY="0" cX="2.41" cY="1.84" bd="8" pX="0" pY="0" z="0" dI="4" dr="3"/>
+          <f x="9.65" y="-41" kX="0" kY="0" cX="2.41" cY="1.84" bd="8" pX="0" pY="0" z="0" dI="5" dr="3"/>
+          <f x="9.65" y="-41" kX="0" kY="0" cX="2.41" cY="1.84" bd="8" pX="0" pY="0" z="0" dI="6" dr="3"/>
+          <f x="9.65" y="-41" kX="0" kY="0" cX="2.41" cY="1.84" bd="8" pX="0" pY="0" z="0" dI="7" dr="3"/>
+          <f x="9.65" y="-41" kX="0" kY="0" cX="2.41" cY="1.84" bd="8" pX="0" pY="0" z="0" dI="8" dr="3"/>
+          <f x="9.65" y="-41" kX="0" kY="0" cX="2.41" cY="1.84" bd="8" pX="0" pY="0" z="0" dI="9" dr="3"/>
+          <f x="9.65" y="-41" kX="0" kY="0" cX="2.41" cY="1.84" bd="8" pX="0" pY="0" z="0" dI="10" dr="3"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_fire">
+    <SubTexture name="images/skill/buff/buff_ranshao_11" width="50" height="55" cocos2d_pX="25" cocos2d_pY="27.5"/>
+    <SubTexture name="images/skill/buff/buff_ranshao_10" width="50" height="55" cocos2d_pX="25" cocos2d_pY="27.5"/>
+    <SubTexture name="images/skill/buff/buff_ranshao_09" width="50" height="55" cocos2d_pX="25" cocos2d_pY="27.5"/>
+    <SubTexture name="images/skill/buff/buff_ranshao_08" width="50" height="55" cocos2d_pX="25" cocos2d_pY="27.5"/>
+    <SubTexture name="images/skill/buff/buff_ranshao_07" width="50" height="55" cocos2d_pX="25" cocos2d_pY="27.5"/>
+    <SubTexture name="images/skill/buff/buff_ranshao_06" width="50" height="55" cocos2d_pX="25" cocos2d_pY="27.5"/>
+    <SubTexture name="images/skill/buff/buff_ranshao_05" width="50" height="55" cocos2d_pX="25" cocos2d_pY="27.5"/>
+    <SubTexture name="images/skill/buff/buff_ranshao_04" width="50" height="55" cocos2d_pX="25" cocos2d_pY="27.5"/>
+    <SubTexture name="images/skill/buff/buff_ranshao_03" width="50" height="55" cocos2d_pX="25" cocos2d_pY="27.5"/>
+    <SubTexture name="images/skill/buff/buff_ranshao_02" width="50" height="55" cocos2d_pX="25" cocos2d_pY="27.5"/>
+    <SubTexture name="images/skill/buff/buff_ranshao_01" width="50" height="55" cocos2d_pX="25" cocos2d_pY="27.5"/>
+  </TextureAtlas>
+</skeleton>

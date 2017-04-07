@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+          package="com.motu.luan2.jinshi"
+          android:versionCode="1"
+          android:versionName="1.0.0"
+          android:installLocation="auto">
+
+<supports-screens
+  android:anyDensity="true"
+  android:largeScreens="true"
+  android:normalScreens="true"
+  android:smallScreens="true"
+  android:xlargeScreens="true" />
+    
+  <uses-permission android:name="android.permission.INTERNET"/>  
+  <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>  
+  <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>  
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>  
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>  
+  <uses-permission android:name="android.permission.READ_PHONE_STATE"/>  
+  <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>  
+  <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>  
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>  
+  <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>  
+  <uses-permission android:name="android.permission.ACCESS_DOWNLOAD_MANAGER" />
+  <uses-permission android:name="android.permission.GET_ACCOUNTS"/>  
+  <uses-permission android:name="android.permission.WAKE_LOCK"/> 
+  <uses-permission android:name="android.permission.GET_TASKS"/>
+  <uses-permission android:name="android.permission.RECORD_AUDIO" />
+  
+<!--jssdk 权限声明-->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.webkit.permission.PLUGIN" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+    <!-- 在SDCard中创建与删除文件权限 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <!-- 照相的权限 -->
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.hardware.camera.autofocus" />
+
+    <!-- 读取短信验证码	可选 -->
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+
+    <!-- 录像需要的权限 -->
+    <uses-permission android:name="android.permission.RECORD_VIDEO" />
+
+    <!-- floatview -->
+    <uses-permission android:name="android.permission.SYSTEM_OVERLAY_WINDOW" />
+	<!--jssdk 权限声明-->
+
+  <uses-sdk android:minSdkVersion="9"/>  
+  <uses-feature android:glEsVersion="0x00020000"/>  
+
+  <application
+    android:name="com.motu.luan2.GlobalData"
+    android:allowBackup="true" 
+    android:label="@string/app_name"
+    tools:replace="android:name"
+    android:icon="@drawable/app_icon"> 
+    <!-- Tell Cocos2dxActivity the name of our .so -->  
+    <meta-data android:name="android.app.lib_name" android:value="cocos2dlua"/> 
+	<meta-data android:name="SO_VERSION" android:value="6"></meta-data>  
+    <meta-data android:name="IGNORE_UPDATE_SO" android:value="t1458210021" /> 
+    <meta-data android:name="ADID" android:value="t0"></meta-data>
+    <meta-data android:name="gfan_cpid" android:value="t0"></meta-data>
+    
+    <activity android:name="com.motu.luan2.AppActivity" 
+      android:label="@string/app_name" 
+      android:screenOrientation="landscape" 
+      android:launchMode="standard"
+      android:theme="@android:style/Theme.NoTitleBar.Fullscreen" 
+      android:configChanges="orientation|keyboardHidden|screenSize"> 
+      <intent-filter> 
+        <action android:name="android.intent.action.MAIN"/>  
+        <category android:name="android.intent.category.LAUNCHER"/> 
+      </intent-filter>
+    </activity> 
+    <activity
+        android:name="com.motu.luan2.DownloadActivity"
+        android:configChanges="orientation|keyboardHidden|navigation"
+        android:launchMode="singleTask"
+        android:screenOrientation="landscape"
+        android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+    </activity>
+
+    <service android:name="com.motu.luan2.DownloadService" >
+    </service>
+    <service android:enabled="true" android:name="com.motu.luan2.notification.NotificationService">
+    </service>
+    
+   <!--  <service android:enabled="true" android:name="com.motu.luan2.PushService" android:process="system"/>-->
+   <!--share sdk 需要 -->
+    <activity android:name="com.mob.tools.MobUIShell" 
+      android:configChanges="keyboardHidden|orientation|screenSize" 
+      android:theme="@android:style/Theme.Translucent.NoTitleBar" 
+      android:windowSoftInputMode="stateHidden|adjustResize"> 
+      <intent-filter> 
+        <data android:scheme="db-7janx53ilz11gbs"/>  
+        <action android:name="android.intent.action.VIEW"/>  
+        <category android:name="android.intent.category.BROWSABLE"/>  
+        <category android:name="android.intent.category.DEFAULT"/> 
+      </intent-filter>  
+      <intent-filter> 
+        <data android:scheme="tencent100371282"/>  
+        <action android:name="android.intent.action.VIEW"/>  
+        <category android:name="android.intent.category.BROWSABLE"/>  
+        <category android:name="android.intent.category.DEFAULT"/> 
+      </intent-filter> 
+    </activity>  
+    <activity android:name=".wxapi.WXEntryActivity" 
+      android:theme="@android:style/Theme.Translucent.NoTitleBar" 
+      android:configChanges="keyboardHidden|orientation|screenSize" 
+      android:exported="true" 
+      android:screenOrientation="portrait"/> 
+  <!--share sdk end -->
+  <!-- ******************************sdk from***************************************** -->
+       <activity
+            android:name="com.jsbase.sdk.ui.SplashActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="com.jsbase.sdk.ui.ForgetActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.jsbase.sdk.ui.UpdateActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.jsbase.sdk.ui.ChargeActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.jsbase.sdk.ui.ModifyMailActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.jsbase.sdk.ui.UserCenterActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.jsbase.sdk.ui.PayFailActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.jsbase.sdk.ui.RecordActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.jsbase.sdk.ui.ModifyPasswordActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.jsbase.sdk.ui.ExitActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.jsbase.sdk.ui.PTBRecordActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.jsbase.sdk.ui.RecordDetailsActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.jsbase.sdk.ui.MyPropertyActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.jsbase.sdk.ui.NoticeActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.jsbase.sdk.ui.LoginActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!-- alipay sdk begin -->
+        <activity
+            android:name="com.alipay.sdk.auth.AuthActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind" >
+        </activity>
+        <activity
+            android:name="com.alipay.sdk.app.H5PayActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind"
+            android:windowSoftInputMode="adjustResize|stateHidden" >
+        </activity>
+        <activity
+            android:name="com.jsbase.sdk.ui.AlipayActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.NoDisplay" />
+        <activity
+            android:name="com.jsbase.sdk.ui.NowPayActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.NoDisplay" />
+        <!-- alipay sdk end -->
+        <!-- 现在支付 -->
+        <activity
+            android:name="com.ipaynow.plugin.activity.PayMethodActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="false"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.Dialog" >
+        </activity>
+        <activity
+            android:name="com.ipaynow.plugin.inner_plugin.prepay_plugin.activity.PrePayActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="behind"
+            android:windowSoftInputMode="adjustResize" >
+        </activity>
+        <activity
+            android:name="com.ipaynow.plugin.inner_plugin.prepay_plugin.activity.NotifyActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="false"
+            android:screenOrientation="behind" >
+        </activity>
+
+        <!-- 微信WAP版支付 -->
+        <activity
+            android:name="com.ipaynow.plugin.inner_plugin.wechatwp.activity.WeChatNotifyActivity"
+            android:configChanges="keyboardHidden|navigation|orientation|screenSize"
+            android:exported="false"
+            android:launchMode="singleTop"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.NoDisplay" />
+
+        <service android:name="com.jsbase.sdk.SDKService" >
+
+        </service>
+        
+        <!-- meta-data需要写在application -->
+        <meta-data
+            android:name="GID"
+            android:value="9" />
+        <meta-data
+            android:name="KEY"
+            android:value="100010009" />
+
+        <!-- 推广标识，ConSdk专用请勿修改 -->
+        <meta-data
+            android:name="AID"
+            android:value="2" />
+
+        <!-- ******************************sdk end***************************************** -->
+  	
+  </application>  
+  
+</manifest>

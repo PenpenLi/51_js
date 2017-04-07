@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>2</key>
+	<string>等级：</string>
+	<key>3</key>
+	<string>战力：</string>
+	<key>4</key>
+	<string>被挑战次数：</string>
+	<key>5</key>
+	<string>挑战奖励：</string>
+	<key>10</key>
+	<string>\\w{c=ff0000;s=24;}官人将与\\w{s=24;c=ffff00}“@”\\w{c=ff0000;s=24;}共浴</string>
+	<key>11</key>
+	<string>修炼时间：</string>
+	<key>12</key>
+	<string>声望奖励：</string>
+	<key>13</key>
+	<string>金币奖励：</string>
+	<key>14</key>
+	<string>战力加成：</string>
+	<key>name1</key>
+	<string>潘金莲</string>
+	<key>name2</key>
+	<string>李师师</string>
+	<key>name3</key>
+	<string>小倩</string>
+	<key>name4</key>
+	<string>貂蝉</string>
+	<key>name5</key>
+	<string>嫦娥</string>
+	<key>21</key>
+	<string>@分钟</string>
+	<key>22</key>
+	<string>免费</string>
+	<key>23</key>
+	<string>花费@元宝，提高属性加成？
+
+可加成次数（@/@）</string>
+	<key>24</key>
+	<string>甘霖雨露</string>
+	<key>25</key>
+	<string>果断召唤</string>
+	<key>26</key>
+	<string>花费\\c{n=90001;s=0.3;v=0}\\@召唤佛光，立即获得\\c{n=90005;s=0.3;v=0}\\w{c=ffff00} @ \\，并且得到每个完成修炼的玩家\\w{c=ffff00} @% \\w{c=ff0000}（累计最多不超过@点）\\的声望奖励！</string>
+	<key>27</key>
+	<string>被官人赶跑了</string>
+	<key>28</key>
+	<string>回  放</string>
+	<key>29</key>
+	<string>加成次数已用完</string>
+	<key>30</key>
+	<string>立即结束</string>
+	<key>31</key>
+	<string>修炼</string>
+	<key>32</key>
+	<string>刷新</string>
+	<key>33</key>
+	<string>花费@元宝，立即结束修炼吗？</string>
+	<key>34</key>
+	<string>记录</string>
+	<key>35</key>
+	<string>确定花费@元宝享受帝尊之旅吗？</string>
+	<key>36</key>
+	<string>点击召唤</string>
+	<key>37</key>
+	<string>声望加成:</string>
+	<key>39</key>
+	<string>可修炼次数:</string>
+	<key>40</key>
+	<string>可挑战次数:</string>
+	<key>41</key>
+	<string>挑战时间:</string>
+	<key>42</key>
+	<string>召唤</string>
+	<key>43</key>
+	<string>\\w{c=ffffff;}甘霖雨露召唤者\\w{c=00FFFC;s=20} @ \\w{c=ffffff;}大官人</string>
+	<key>44</key>
+	<string>军团：</string>
+	<key>45</key>
+	<string>挑 战</string>
+	<key>39_1</key>
+	<string>天然原味</string>
+	<key>40_1</key>
+	<string>浪漫泡泡</string>
+	<key>41_1</key>
+	<string>梦幻漫游</string>
+	<key>42_1</key>
+	<string>奢享养生</string>
+	<key>43_1</key>
+	<string>帝尊之旅</string>
+	<key>44_1</key>
+	<string>刷 新</string>
+	<key>45_1</key>
+	<string>开始修炼</string>
+	<key>46</key>
+	<string>修 仙</string>
+	<key>47</key>
+	<string>@倍</string>
+	<key>48</key>
+	<string>奖励双倍</string>
+	<key>49</key>
+	<string>称号：</string>
+	<key>50</key>
+	<string>确定花费1张修仙台召唤卡享受帝尊之旅吗？</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>我是玩家姓名</string>
+        <key>2</key>
+        <string>【帮主】</string>
+        <key>3</key>
+        <string>@小时@分钟前</string>
+        <key>4</key>
+        <string>捐赠</string>
+        <key>6</key>
+        <string>收到的碎片：@</string>
+        <key>7</key>
+        <string>您有：@</string>
+        <key>8</key>
+        <string>我是碎片名称</string>
+    </dict>
+</plist>

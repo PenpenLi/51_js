@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<string>点宝成金</string>
+	<key>2</key>
+	<string>使用少量元宝可换取大量金币</string>
+	<key>3</key>
+	<string>剩余次数：</string>
+	<key>4</key>
+	<string>连续@次</string>
+	<key>5</key>
+	<string>点金</string>
+	<key>6</key>
+	<string>使用\\i{p=images/ui_public1/gold.png;s=0.35}\\w{c=ffffff}@\\w{c=ffdc00}获得了\\i{p=images/ui_public1/coin.png;s=0.35}\\w{c=ffffff}@\\w{c=ff0000}@</string>
+</dict>
+</plist>

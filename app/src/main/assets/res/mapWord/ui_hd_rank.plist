@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>排行榜</string>
+        <key>2</key>
+        <string>前往</string>
+        <key>4</key>
+        <string>@天</string>
+        <key>5</key>
+        <string>排名结算时间</string>
+        <key>6</key>
+        <string>排名刷新时间已截止</string>
+        <key>7</key>
+        <string>最终排名:@</string>
+    </dict>
+</plist>

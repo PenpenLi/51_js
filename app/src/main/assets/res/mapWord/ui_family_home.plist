@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>军团名称名称</string>
+        <key>2</key>
+        <string>公告：</string>
+        <key>3</key>
+        <string>满滚动帮派公告......</string>
+        <key>4</key>
+        <string>今日军团活跃度</string>
+        <key>5</key>
+        <string>今日活跃人数</string>
+    </dict>
+</plist>

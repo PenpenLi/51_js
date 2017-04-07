@@ -1,0 +1,104 @@
+<skeleton name="ui_main_time" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="ui_main_time2">
+      <b name="bg">
+        <d name="images/ui_main/time_di"/>
+      </b>
+      <b name="time">
+        <d name="images/ui_main/time_di"/>
+      </b>
+      <b name="icon">
+        <d name="ui_main_time_zhuan1" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_main_time_zhuan2">
+      <b name="图层 1">
+        <d name="images/ui_digmine/time_di"/>
+      </b>
+    </armature>
+    <armature name="ui_main_time">
+      <b name="bg">
+        <d name="images/ui_main/time_di"/>
+      </b>
+      <b name="time">
+        <d name="images/ui_main/time_di"/>
+      </b>
+      <b name="icon">
+        <d name="ui_main_time_zhuan1" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_main_time_zhuan1">
+      <b name="图层 1">
+        <d name="images/ui_digmine/time_di"/>
+      </b>
+      <b name="图层 2">
+        <d name="images/ui_digmine/time_1"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_main_time2">
+      <mov name="stand" dr="1" to="0">
+        <b name="bg" sc="1" dl="0">
+          <f x="-4.15" y="3.6" kX="0" kY="0" cX="1.55" cY="1.3" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="time" sc="1" dl="0">
+          <f x="0" y="-0.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="icon" sc="1" dl="0">
+          <f x="-54.55" y="-0.5" kX="0" kY="0" cX="0.8" cY="0.8" pX="0.05" pY="0.05" z="2" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_main_time_zhuan2">
+      <mov name="stand" dr="100" to="0" drTW="100" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.3" y="0.35" kX="0" kY="0" cX="0.38" cY="0.38" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+          <f x="0.3" y="-12.15" kX="0" kY="0" cX="0.47" cY="0.62" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+          <f x="0.3" y="-24.15" kX="0" kY="0" cX="0.77" cY="0.62" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+          <f x="0.3" y="-38.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="20"/>
+          <f x="0.3" y="-55.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="64" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_main_time_zhuan1">
+      <mov name="stand" dr="120" to="0" drTW="120" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="120"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="5.15" z="1" dI="0" twE="0" dr="29"/>
+          <f x="0" y="0" kX="90" kY="90" cX="1" cY="1" pX="0" pY="5.15" z="1" dI="0" twE="0" dr="30"/>
+          <f x="0" y="0" kX="180" kY="180" cX="1" cY="1" pX="0" pY="5.15" z="1" dI="0" twE="0" dr="30"/>
+          <f x="0" y="0" kX="-90" kY="-90" cX="1" cY="1" pX="0" pY="5.15" z="1" dI="0" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="5.15" z="1" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_main_time">
+      <mov name="stand" dr="1" to="0">
+        <b name="bg" sc="1" dl="0">
+          <f x="-3.15" y="2.6" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="time" sc="1" dl="0">
+          <f x="0.05" y="-0.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="icon" sc="1" dl="0">
+          <f x="-48.55" y="-1.5" kX="0" kY="0" cX="0.8" cY="0.8" pX="0.05" pY="0.05" z="2" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_main_time">
+    <SubTexture name="images/ui_digmine/time_1" width="6" height="16" cocos2d_pX="3" cocos2d_pY="8"/>
+    <SubTexture name="images/ui_digmine/time_di" width="34" height="34" cocos2d_pX="17" cocos2d_pY="17"/>
+    <SubTexture name="images/ui_main/time_di" width="64" height="26" cocos2d_pX="32" cocos2d_pY="13"/>
+  </TextureAtlas>
+</skeleton>

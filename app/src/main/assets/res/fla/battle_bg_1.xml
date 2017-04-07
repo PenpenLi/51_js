@@ -1,0 +1,21 @@
+<skeleton name="battle_bg_1" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="battle_bg_1_1">
+      <b name="Layer 1">
+        <d name="images/bg/bg_1" pX="568" pY="320"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="battle_bg_1_1">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="battle_bg_1" width="2048" height="1024">
+    <SubTexture name="images/bg/bg_1" width="1136" height="640" cocos2d_pX="568" cocos2d_pY="320" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

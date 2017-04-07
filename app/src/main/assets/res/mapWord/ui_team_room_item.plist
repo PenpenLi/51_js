@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>同品加成+20%</string>
+        <key>2</key>
+        <string>加入</string>
+        <key>3</key>
+        <string>加入</string>
+        <key>4</key>
+        <string>开始</string>
+        <key>5</key>
+        <string>进入</string>
+        <key>6</key>
+        <string>埋伏人数</string>
+        <key>8</key>
+        <string>等待中...</string>
+        <key>9</key>
+        <string>护送中...</string>
+        <key>10</key>
+        <string>离开</string>
+        <key>11</key>
+        <string>离开</string>
+        <key>12</key>
+        <string>请离</string>
+        <key>13</key>
+        <string>请离</string>
+        <key>14</key>
+        <string>路线选择</string>
+    </dict>
+</plist>

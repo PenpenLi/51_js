@@ -1,0 +1,160 @@
+<skeleton name="r50006_pet" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="r50006_pet">
+      <b name="a15">
+        <d name="r50006_pet_2" isArmature="1"/>
+      </b>
+      <b name="a14">
+        <d name="images/role/pet006/a14"/>
+      </b>
+      <b name="a11">
+        <d name="images/role/pet006/a11"/>
+      </b>
+      <b name="a10">
+        <d name="images/role/pet006/a10"/>
+      </b>
+      <b name="a9">
+        <d name="images/role/pet006/a9"/>
+      </b>
+      <b name="a8">
+        <d name="images/role/pet006/a8"/>
+      </b>
+      <b name="a7">
+        <d name="images/role/pet006/a7"/>
+      </b>
+      <b name="a6">
+        <d name="images/role/pet006/a6"/>
+      </b>
+      <b name="a5">
+        <d name="images/role/pet006/a5"/>
+      </b>
+      <b name="a3">
+        <d name="images/role/pet006/a3"/>
+      </b>
+      <b name="a1">
+        <d name="images/role/pet006/a1"/>
+      </b>
+    </armature>
+    <armature name="r50006_pet_2">
+      <b name="a17">
+        <d name="images/role/pet006/a17"/>
+      </b>
+      <b name="a16">
+        <d name="images/role/pet006/a16"/>
+      </b>
+      <b name="图层 1">
+        <d name="images/role/pet006/a15"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="r50006_pet_2">
+      <mov name="stand" dr="94" to="0" drTW="94" lp="1" twE="NaN">
+        <b name="a17" sc="1" dl="0">
+          <f x="-58.8" y="91" kX="60" kY="60" cX="1" cY="1" pX="1.45" pY="-41.5" z="0" dI="0" twE="0" dr="16"/>
+          <f x="-75.05" y="80.7" kX="20.04" kY="20.04" cX="1" cY="1" pX="1.5" pY="-41.6" z="0" dI="0" twE="0" dr="16"/>
+          <f x="-101.3" y="44.2" kX="36.75" kY="36.75" cX="1" cY="1" pX="1.55" pY="-41.55" z="0" dI="0" twE="0" dr="12"/>
+          <f x="-103.2" y="15.9" kX="116.97" kY="116.97" cX="1" cY="1" pX="1.55" pY="-41.5" z="0" dI="0" twE="0" dr="16"/>
+          <f x="-91.75" y="38.15" kX="135.2" kY="135.2" cX="1" cY="1" pX="1.6" pY="-41.5" z="0" dI="0" twE="0" dr="13"/>
+          <f x="-85.8" y="62.2" kX="125.98" kY="125.98" cX="1" cY="1" pX="1.55" pY="-41.55" z="0" dI="0" twE="0" dr="8"/>
+          <f x="-73.8" y="80.7" kX="107.48" kY="107.48" cX="1" cY="1" pX="1.55" pY="-41.55" z="0" dI="0" twE="0" dr="12"/>
+          <f x="-58.8" y="91" kX="60" kY="60" cX="1" cY="1" pX="1.45" pY="-41.5" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="a16" sc="1" dl="0">
+          <f x="-37.1" y="43.35" kX="20.21" kY="20.21" cX="1" cY="1" pX="0" pY="-25.05" z="1" dI="0" twE="0" dr="16"/>
+          <f x="-49.3" y="36.9" kX="30.82" kY="30.82" cX="1" cY="1" pX="0" pY="-25" z="1" dI="0" twE="0" dr="16"/>
+          <f x="-54.9" y="20.95" kX="65.2" kY="65.2" cX="1" cY="1" pX="-0.1" pY="-24.95" z="1" dI="0" twE="0" dr="12"/>
+          <f x="-53.35" y="25.2" kX="100.2" kY="100.2" cX="1" cY="1" pX="0.05" pY="-25" z="1" dI="0" twE="0" dr="16"/>
+          <f x="-39.35" y="46.2" kX="96.74" kY="96.74" cX="1" cY="1" pX="0" pY="-24.95" z="1" dI="0" twE="0" dr="13"/>
+          <f x="-35.1" y="50.2" kX="74.8" kY="74.8" cX="1" cY="1" pX="0.05" pY="-25" z="1" dI="0" twE="0" dr="8"/>
+          <f x="-32.1" y="52.05" kX="53.81" kY="53.81" cX="1" cY="1" pX="0.1" pY="-25" z="1" dI="0" twE="0" dr="12"/>
+          <f x="-37.1" y="43.35" kX="20.21" kY="20.21" cX="1" cY="1" pX="0" pY="-25.05" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.5" y="5" kX="45" kY="45" cX="1" cY="1" pX="0" pY="-25.9" z="2" dI="0" twE="0" dr="16"/>
+          <f x="0.5" y="5" kX="60.48" kY="60.48" cX="1" cY="1" pX="0" pY="-26" z="2" dI="0" twE="0" dr="16"/>
+          <f x="0.5" y="5" kX="74.73" kY="74.73" cX="1" cY="1" pX="0" pY="-25.95" z="2" dI="0" twE="0" dr="12"/>
+          <f x="0.5" y="4.95" kX="68.97" kY="68.97" cX="0.97" cY="1" pX="0.05" pY="-25.95" z="2" dI="0" twE="0" dr="16"/>
+          <f x="0.5" y="4.95" kX="44.19" kY="44.19" cX="1" cY="1" pX="0.05" pY="-25.95" z="2" dI="0" twE="0" dr="13"/>
+          <f x="0.6" y="4.9" kX="38.97" kY="38.97" cX="1" cY="1" pX="0.1" pY="-26.05" z="2" dI="0" twE="0" dr="8"/>
+          <f x="0.55" y="4.9" kX="35.27" kY="35.27" cX="1" cY="1" pX="0.1" pY="-25.9" z="2" dI="0" twE="0" dr="12"/>
+          <f x="0.5" y="5" kX="45" kY="45" cX="1" cY="1" pX="0" pY="-25.9" z="2" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="r50006_pet">
+      <mov name="stand" dr="1" to="0">
+        <b name="a15" sc="1" dl="0">
+          <f x="-15.85" y="-187.65" kX="-15" kY="-15" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a14" sc="1" dl="0">
+          <f x="66.9" y="-265.1" kX="-10.01" kY="-10.01" cX="1" cY="1" pX="-10.95" pY="-24.45" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a11" sc="1" dl="0">
+          <f x="98.35" y="-200.1" kX="4.98" kY="4.98" cX="1" cY="1" pX="-5.95" pY="-29.05" z="2" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a10" sc="1" dl="0">
+          <f x="27.5" y="-169.65" kX="-15" kY="-15" cX="1" cY="1" pX="-6.95" pY="-24" z="3" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a9" sc="1" dl="0">
+          <f x="51.5" y="-129.15" kX="15" kY="15" cX="1" cY="1" pX="0" pY="-26.55" z="4" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a8" sc="1" dl="0">
+          <f x="-9" y="-171.15" kX="0" kY="0" cX="1" cY="1" pX="3" pY="-18" z="5" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a7" sc="1" dl="0">
+          <f x="-21" y="-116.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-26" z="6" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a6" sc="1" dl="0">
+          <f x="13.35" y="-175.3" kX="4.98" kY="4.98" cX="1" cY="1" pX="12.45" pY="39.55" z="7" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a5" sc="1" dl="0">
+          <f x="19.45" y="-250.35" kX="9" kY="9" cX="1" cY="1" pX="6.6" pY="69.95" z="8" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a3" sc="1" dl="0">
+          <f x="-39.5" y="-282.45" kX="14.45" kY="14.45" cX="1" cY="1" pX="24" pY="-32.6" z="9" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="a1" sc="1" dl="0">
+          <f x="-115.6" y="-215.7" kX="4.98" kY="4.98" cX="1" cY="1" pX="-5" pY="-31.95" z="10" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="r50006_pet">
+    <SubTexture name="images/role/pet006/a15" width="27" height="74" cocos2d_pX="13" cocos2d_pY="37"/>
+    <SubTexture name="images/role/pet006/a16" width="28" height="63" cocos2d_pX="14" cocos2d_pY="31"/>
+    <SubTexture name="images/role/pet006/a17" width="90" height="100" cocos2d_pX="45" cocos2d_pY="50"/>
+    <SubTexture name="images/role/pet006/a1" width="91" height="125" cocos2d_pX="45" cocos2d_pY="62"/>
+    <SubTexture name="images/role/pet006/a3" width="118" height="169" cocos2d_pX="59" cocos2d_pY="84"/>
+    <SubTexture name="images/role/pet006/a5" width="232" height="217" cocos2d_pX="116" cocos2d_pY="108"/>
+    <SubTexture name="images/role/pet006/a6" width="119" height="146" cocos2d_pX="59" cocos2d_pY="73"/>
+    <SubTexture name="images/role/pet006/a7" width="36" height="94" cocos2d_pX="18" cocos2d_pY="47"/>
+    <SubTexture name="images/role/pet006/a8" width="46" height="81" cocos2d_pX="23" cocos2d_pY="40"/>
+    <SubTexture name="images/role/pet006/a9" width="48" height="86" cocos2d_pX="24" cocos2d_pY="43"/>
+    <SubTexture name="images/role/pet006/a10" width="45" height="72" cocos2d_pX="22" cocos2d_pY="36"/>
+    <SubTexture name="images/role/pet006/a11" width="66" height="111" cocos2d_pX="33" cocos2d_pY="55"/>
+    <SubTexture name="images/role/pet006/a14" width="86" height="144" cocos2d_pX="43" cocos2d_pY="72"/>
+  </TextureAtlas>
+</skeleton>

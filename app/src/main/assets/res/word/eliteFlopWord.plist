@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>tips_word</key>
+	<string>试试手气吧，3星请翻牌！</string>
+	<key>lefttime_word</key>
+	<string>剩余时间</string>
+	<key>leave_word</key>
+	<string>暂时离开</string>
+	<key>card_flop_word</key>
+	<string>3星翻牌</string>
+	<key>gold_need</key>
+	<string>\\i{p=images/ui_public1/gold.png;s=0.35}\\w{c=ffffff;f=20}@</string>
+	<key>finish_leave</key>
+	<string>领奖离开</string>
+	<key>flop_tab_title</key>
+	<string>三星翻牌信息</string>
+	<key>full_star_unlock</key>
+	<string>三星解锁</string>
+	<key>turn_flop</key>
+	<string>前往翻牌</string>
+	<key>turn_unlock</key>
+	<string>前往解锁</string>
+	<key>flop_tab_item_title</key>
+	<string>第@章 @-@</string>
+</dict>
+</plist>

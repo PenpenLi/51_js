@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>2-3星英雄</string>
+        <key>2</key>
+        <string>@折</string>
+        <key>3</key>
+        <string>周一零点自动刷新</string>
+    </dict>
+</plist>

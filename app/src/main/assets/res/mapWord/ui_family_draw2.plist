@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>已学习的军团图腾</string>
+        <key>2</key>
+        <string>（加入军团才可\\w{c=ffd800}学习\\图腾）</string>
+    </dict>
+</plist>

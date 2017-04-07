@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">乱斗堂2</string>
+    <string name="ldt_download">下载中</string>
+    <string name="ldt_cancel">取消</string>
+    <string name="ldt_update">更新</string>
+    <string name="ldt_lowVersion">版本太低,请下载更新</string>
+	<string name="ldt_checking">检测中</string>
+	<string name="ldt_installing">安装中</string>
+	<string name="ldt_loading">载入中</string>
+	<string name="ldt_leaveMsg">确定离开游戏吗？</string>
+	<string name="ldt_confirm">确定</string>
+	<string name="ldt_checkNet">检查网络链接</string>
+	<string name="ldt_connectAgain">点击确定重新连接</string>
+	<string name="ldt_downloaded">下载完成</string>
+	<string name="ldt_fileDownloaded">文件已下载完毕</string>
+	<string name="ldt_downloadFailure">下载更新文件失败</string>
+	<string name="product_name0">60元宝</string>
+	<string name="product_name1">300元宝</string>
+	<string name="product_name2">980元宝</string>
+	<string name="product_name3">1980元宝</string>
+	<string name="product_name4">3280元宝</string>
+	<string name="product_name5">6480元宝</string>
+	<string name="product_name6">月卡</string>
+	<string name="product_name7">终身卡</string>
+	<string name="product_desc0">60元宝</string>
+	<string name="product_desc1">300元宝</string>
+	<string name="product_desc2">980元宝</string>
+	<string name="product_desc3">1980元宝</string>
+	<string name="product_desc4">3280元宝</string>
+	<string name="product_desc5">6480元宝</string>
+	<string name="product_desc6">每天可领取100元宝</string>
+	<string name="product_desc7">每天可领取120元宝</string>
+	<string name="ldt2_logined">已登录</string>
+</resources>

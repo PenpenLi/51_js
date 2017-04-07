@@ -1,0 +1,1024 @@
+<skeleton name="ui_activity_icon" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="pet_explore_event_icon5">
+      <b name="图层 1">
+        <d name="images/ui_lingshou/icon5"/>
+      </b>
+    </armature>
+    <armature name="pet_explore_event_icon2">
+      <b name="图层 1">
+        <d name="images/ui_lingshou/icon4"/>
+      </b>
+    </armature>
+    <armature name="pet_explore_event_icon4">
+      <b name="图层 1">
+        <d name="images/ui_lingshou/icon3"/>
+      </b>
+    </armature>
+    <armature name="pet_explore_event_icon3">
+      <b name="图层 1">
+        <d name="images/ui_lingshou/icon2"/>
+      </b>
+    </armature>
+    <armature name="pet_explore_event_icon1">
+      <b name="图层 1">
+        <d name="images/ui_lingshou/icon1"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_1001">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_sign_pay"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_127">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_sign"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_126">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_weichat"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_125">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_eat"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_124">
+      <b name="图层 1">
+        <d name="images/ui_huodong/activity_type_contribution"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_123">
+      <b name="图层 1">
+        <d name="images/ui_huodong/activity_type_bath"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_122">
+      <b name="图层 1">
+        <d name="images/ui_huodong/activity_type_7_atlas"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_121">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_pay_present"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_120">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_second"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_119">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_energy_50off"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_118">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_energy"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_117">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_gold"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_116">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_wish"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_115">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_atlas_double"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_114">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_draw_card"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_113">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_7_day"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_108">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_iap_card"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_107">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_invest"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_104">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_level_up"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_99">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_iap_card"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_98">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_moneygod1"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_97">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_moneygod2"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_96">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_spring3"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_95">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_spring4"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_93">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_zhaomu"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_92">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_invest"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_82">
+      <b name="图层 1">
+        <d name="images/ui_huodong/activity_type_duobao"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_28">
+      <b name="图层 2">
+        <d name="images/ui_huodong/activity_type_sign"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_27">
+      <b name="图层 1">
+        <d name="images/ui_huodong/activity_type_wolongku"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_26">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_wake"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_23">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_freevip"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_20">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_red"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_19">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_spring2"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_17">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_calendar"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_15">
+      <b name="图层 1">
+        <d name="images/ui_huodong/activity_type_tuangou"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_13">
+      <b name="图层 1">
+        <d name="images/ui_huodong/activity_type_battle"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_12">
+      <b name="图层 1">
+        <d name="images/ui_huodong/activity_type_family"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_11">
+      <b name="图层 1">
+        <d name="images/ui_huodong/activity_type_level"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_8">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_cat"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_7">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_sale_off"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_6">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_pay_present"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_3">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_pay"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_2_21">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_spring1"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_2_20">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_mine3"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_2_19">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_mine4"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_2_18">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_mine5"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_2_17">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_mine2"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_2_16">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_mine1"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_2_15">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_dighand"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_2_14">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_digmon"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_2_13">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_god"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_2_12">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_soullife"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_2_11">
+      <b name="图层 1">
+        <d name="images/ui_huodong/activity_type_battle"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_2_10">
+      <b name="图层 1">
+        <d name="images/ui_huodong/activity_type_army"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_2_9">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_energy"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_2_8">
+      <b name="图层 1">
+        <d name="images/ui_huodong/activity_type_7_atlas"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_2_7">
+      <b name="图层 1">
+        <d name="images/ui_huodong/activity_type_dargon"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_2_6">
+      <b name="图层 1">
+        <d name="images/ui_huodong/activity_type_thousand"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_2_5">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_7_day"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_2_4">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_energy"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_2_3">
+      <b name="图层 1">
+        <d name="images/ui_huodong/activity_type_7_atlas"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_2_1">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_gold"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_1_12">
+      <b name="图层 1">
+        <d name="images/ui_huodong/activity_type_duihuanlibao"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_1_11">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_du"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_1_10">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_zongzi"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_1_9">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_61"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_1_8">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_mother"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_1_7">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_51"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_1_6">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_0115"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_1_5">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_newyear"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_1_4">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_laba"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_1_3">
+      <b name="图层 1">
+        <d name="images/ui_huodong/activity_type_chirstmas"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_1_2">
+      <b name="图层 1">
+        <d name="activity_type_thankgiven"/>
+      </b>
+    </armature>
+    <armature name="ui_activity_icon_1_1">
+      <b name="Layer 1">
+        <d name="images/ui_huodong/activity_type_1111"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="pet_explore_event_icon5">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pet_explore_event_icon2">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="0.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pet_explore_event_icon4">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pet_explore_event_icon3">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pet_explore_event_icon1">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_1001">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_127">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_126">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="-0.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_125">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_124">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_123">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_122">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_121">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="3" y="-1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_120">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0" y="-2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_119">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="2.05" y="-1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_118">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_117">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_116">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="-4.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_115">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="-4.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_114">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="-7.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_113">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0" y="-5.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_108">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="-7.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_107">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.3" y="-5.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_104">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.4" y="-5.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_99">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="-7.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_98">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_97">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_96">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_95">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_93">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.5" y="-0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_92">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.3" y="-5.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_82">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_28">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_27">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_26">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_23">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.5" y="-0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_20">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_19">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_17">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_15">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_13">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_12">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_11">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_8">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.1" y="-7.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_7">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="-5.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_6">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="3" y="-1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_3">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="-7.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_2_21">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_2_20">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="-0.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_2_19">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="-0.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_2_18">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="-0.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_2_17">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="-0.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_2_16">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="-0.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_2_15">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_2_14">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_2_13">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_2_12">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_2_11">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_2_10">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_2_9">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_2_8">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_2_7">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.05" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_2_6">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_2_5">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0" y="-5.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_2_4">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_2_3">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_2_1">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_1_12">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="3" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_1_11">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_1_10">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_1_9">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_1_8">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_1_7">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_1_6">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_1_5">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_1_4">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_1_3">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_1_2">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_activity_icon_1_1">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="1" y="1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_activity_icon">
+    <SubTexture name="images/ui_huodong/activity_type_1111" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="activity_type_thankgiven" width="0" height="0" cocos2d_pX="0" cocos2d_pY="0"/>
+    <SubTexture name="images/ui_huodong/activity_type_chirstmas" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_laba" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_newyear" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_0115" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_51" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_mother" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_61" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_zongzi" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_du" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_duihuanlibao" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_thousand" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_dargon" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_army" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_soullife" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_god" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_digmon" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_dighand" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_mine1" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_mine2" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_mine5" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_mine4" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_mine3" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_spring1" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_pay" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_sale_off" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_cat" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_level" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_family" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_battle" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_tuangou" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_calendar" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_spring2" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_red" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_freevip" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_wake" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_wolongku" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_duobao" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_zhaomu" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_spring4" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_spring3" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_moneygod2" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_moneygod1" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_level_up" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_invest" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_iap_card" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_7_day" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_draw_card" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_atlas_double" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_wish" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_gold" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_energy" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_energy_50off" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_second" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_pay_present" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_7_atlas" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_bath" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_contribution" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_eat" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_weichat" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_sign" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_huodong/activity_type_sign_pay" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_lingshou/icon1" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_lingshou/icon2" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_lingshou/icon3" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_lingshou/icon4" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+    <SubTexture name="images/ui_lingshou/icon5" width="136" height="110" cocos2d_pX="68" cocos2d_pY="55"/>
+  </TextureAtlas>
+</skeleton>

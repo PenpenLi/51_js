@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>title</key>
+	<string>@月签到奖励</string>
+	<key>sign_count</key>
+	<string>本月已累计签到 @ 次</string>
+	<key>sign_totalCount</key>
+	<string>总累计签到 @ 次</string>
+	<key>sign_lv</key>
+	<string>\\w{c=fdefc2;s=22}签到等级\\w{c=ffffff;s=22}LV@</string>
+	<key>sign_today</key>
+	<string>今日签到可额外获得 @ 充值元宝</string>
+	<key>sign_tomorrow</key>
+	<string>明日签到可额外获得 @ 充值元宝</string>
+	<key>sign_vip</key>
+	<string>当日签到奖励已领取，升级至VIP@可领取双倍奖励，是否充值？</string>
+	<key>unsign</key>
+	<string>每日登陆签到，可领取奖励</string>
+	<key>signed</key>
+	<string>今日已签到</string>
+	<key>vipTip</key>
+	<string>今日充值任意金额，领取高额奖励</string>
+</dict>
+</plist>

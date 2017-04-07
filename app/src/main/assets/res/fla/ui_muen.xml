@@ -1,0 +1,200 @@
+<skeleton name="ui_muen" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="ui_munu_dian">
+      <b name="图层 2">
+        <d name="images/ui_main/menu_talk"/>
+      </b>
+      <b name="1">
+        <d name="images/ui_main/menu_talk_point"/>
+      </b>
+      <b name="2">
+        <d name="images/ui_main/menu_talk_point"/>
+      </b>
+      <b name="3">
+        <d name="images/ui_main/menu_talk_point"/>
+      </b>
+    </armature>
+    <armature name="ui_main_menu_c">
+      <b name="图层 1">
+        <d name="images/ui_public1/b_menu2"/>
+      </b>
+      <b name="图层 2">
+        <d name="images/ui_public1/b_menu6"/>
+      </b>
+      <b name="图层 3">
+        <d name="images/ui_public1/b_menu4"/>
+      </b>
+      <b name="b_menu3">
+        <d name="images/ui_public1/b_menu3"/>
+      </b>
+      <b name="图层 4">
+        <d name="images/ui_public1/b_menu5"/>
+      </b>
+    </armature>
+    <armature name="ui_main_menu_b">
+      <b name="图层 1">
+        <d name="images/ui_public1/b_menu2"/>
+      </b>
+      <b name="图层 2">
+        <d name="images/ui_public1/b_menu6"/>
+      </b>
+      <b name="图层 3">
+        <d name="images/ui_public1/b_menu4"/>
+      </b>
+      <b name="b_menu3">
+        <d name="images/ui_public1/b_menu3"/>
+      </b>
+      <b name="图层 4">
+        <d name="images/ui_public1/b_menu5"/>
+      </b>
+    </armature>
+    <armature name="ui_main_menu_a">
+      <b name="图层 1">
+        <d name="images/ui_public1/b_menu2"/>
+      </b>
+      <b name="图层 3">
+        <d name="images/ui_public1/b_menu4"/>
+      </b>
+      <b name="b_menu3">
+        <d name="images/ui_public1/b_menu3"/>
+      </b>
+      <b name="图层 4">
+        <d name="images/ui_public1/b_menu5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_munu_dian">
+      <mov name="stand" dr="101" to="0" drTW="101" lp="1" twE="NaN">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="21.35" y="-0.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="101"/>
+        </b>
+        <b name="1" sc="1" dl="0">
+          <f x="1.5" y="-1.25" kX="0" kY="0" cX="0.64" cY="0.64" pX="0" pY="0" z="1" dI="0" twE="0" dr="6"/>
+          <f x="1.5" y="-5.7" kX="0" kY="0" cX="0.64" cY="0.64" pX="0" pY="0" z="1" dI="0" twE="0" dr="7"/>
+          <f x="1.5" y="-1.25" kX="0" kY="0" cX="0.64" cY="0.64" pX="0" pY="0" z="1" dI="0" dr="88"/>
+        </b>
+        <b name="2" sc="1" dl="0">
+          <f x="15" y="-1.25" kX="0" kY="0" cX="0.64" cY="0.64" pX="0" pY="0" z="2" dI="0" twE="0" dr="6"/>
+          <f x="15" y="-1.25" kX="0" kY="0" cX="0.64" cY="0.64" pX="0" pY="0" z="2" dI="0" twE="0" dr="6"/>
+          <f x="15" y="-5.7" kX="0" kY="0" cX="0.64" cY="0.64" pX="0" pY="0" z="2" dI="0" twE="0" dr="7"/>
+          <f x="15" y="-1.25" kX="0" kY="0" cX="0.64" cY="0.64" pX="0" pY="0" z="2" dI="0" dr="82"/>
+        </b>
+        <b name="3" sc="1" dl="0">
+          <f x="29.25" y="-1.15" kX="0" kY="0" cX="0.67" cY="0.67" pX="0" pY="0" z="3" dI="0" twE="0" dr="12"/>
+          <f x="29.25" y="-1.15" kX="0" kY="0" cX="0.67" cY="0.67" pX="0" pY="0" z="3" dI="0" twE="0" dr="6"/>
+          <f x="29.25" y="-5.8" kX="0" kY="0" cX="0.67" cY="0.67" pX="0" pY="0" z="3" dI="0" twE="0" dr="7"/>
+          <f x="29.25" y="-1.15" kX="0" kY="0" cX="0.67" cY="0.67" pX="0" pY="0" z="3" dI="0" dr="76"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_main_menu_c">
+      <mov name="stand" dr="45" to="0" drTW="45" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.1" y="-5.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="0.1" y="-34.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="3"/>
+          <f x="0.1" y="-34.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="0.1" y="-5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="38"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="-1.6" y="17.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="-1.6" y="-11.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f dr="42" dI="-1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="3" dI="-1"/>
+          <f x="-1.85" y="-19.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f x="-1.85" y="-19.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="-1.1" y="11.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="38"/>
+        </b>
+        <b name="b_menu3" sc="1" dl="0">
+          <f dr="3" dI="-1"/>
+          <f x="0.1" y="-17.9" kX="180" kY="0" cX="1.1" cY="0.73" pX="0" pY="-27.5" z="2" dI="0" dr="2"/>
+          <f x="0.1" y="-22.85" kX="0" kY="0" cX="1.1" cY="0.64" pX="0" pY="-27.55" z="2" dI="0" twE="0" dr="2"/>
+          <f x="0.85" y="7.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-27.5" z="2" dI="0" dr="38"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="3" dI="-1"/>
+          <f x="-0.35" y="-19.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="2"/>
+          <f x="-0.35" y="-19.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="2"/>
+          <f x="0.4" y="12.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="38"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_main_menu_b">
+      <mov name="stand" dr="44" to="0" drTW="44" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.1" y="-5.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="0.1" y="-5.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="0.1" y="-21.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="0.1" y="-40.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="0.1" y="-52.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="0.1" y="-52.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="0.1" y="-5.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="33"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="-1.6" y="-28.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+          <f x="-1.6" y="17.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="33"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="-1.1" y="11.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f x="-1.1" y="-0.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f x="-1.85" y="-19.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f x="-1.85" y="-19.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f dr="37" dI="-1"/>
+        </b>
+        <b name="b_menu3" sc="1" dl="0">
+          <f x="0.85" y="7.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-27.5" z="2" dI="0" dr="2"/>
+          <f x="0.85" y="-5.2" kX="0" kY="0" cX="1" cY="1.07" pX="0" pY="-27.45" z="2" dI="0" twE="0" dr="2"/>
+          <f x="0.1" y="-22.65" kX="0" kY="0" cX="1.1" cY="0.64" pX="0" pY="-27.55" z="2" dI="0" dr="2"/>
+          <f x="0.1" y="-17.7" kX="180" kY="0" cX="1.1" cY="0.73" pX="0" pY="-27.55" z="2" dI="0" dr="1"/>
+          <f dr="37" dI="-1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0.4" y="12.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="2"/>
+          <f x="0.4" y="-0.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="2"/>
+          <f x="-0.35" y="-18.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="2"/>
+          <f x="-0.35" y="-18.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="1"/>
+          <f dr="37" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_main_menu_a">
+      <mov name="stand" dr="60" to="0" drTW="60" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-0.05" y="-5.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="60"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="-1.25" y="11.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="60"/>
+        </b>
+        <b name="b_menu3" sc="1" dl="0">
+          <f x="0.7" y="7.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-27.5" z="2" dI="0" twE="0" dr="4"/>
+          <f x="0.75" y="6.9" kX="0" kY="0" cX="1.03" cY="0.98" pX="0.05" pY="-27.4" z="2" dI="0" twE="0" dr="4"/>
+          <f x="0.55" y="7.4" kX="0" kY="0" cX="1" cY="1" pX="-0.15" pY="-27.5" z="2" dI="0" twE="0" dr="4"/>
+          <f x="0.7" y="6.9" kX="0" kY="0" cX="1.02" cY="0.98" pX="0" pY="-27.5" z="2" dI="0" twE="0" dr="4"/>
+          <f x="0.7" y="7.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-27.5" z="2" dI="0" twE="0" dr="7"/>
+          <f x="0.6" y="6.9" kX="0" kY="0" cX="1.02" cY="0.98" pX="-0.1" pY="-27.5" z="2" dI="0" twE="0" dr="7"/>
+          <f x="0.7" y="7.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-27.5" z="2" dI="0" dr="30"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0.25" y="12.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="4"/>
+          <f x="0.25" y="12.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="4"/>
+          <f x="0.25" y="12.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="4"/>
+          <f x="0.25" y="12.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="4"/>
+          <f x="0.25" y="12.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="7"/>
+          <f x="0.25" y="12.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="37"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_muen">
+    <SubTexture name="images/ui_public1/b_menu5" width="47" height="22" cocos2d_pX="23.5" cocos2d_pY="11"/>
+    <SubTexture name="images/ui_public1/b_menu3" width="76" height="55" cocos2d_pX="38" cocos2d_pY="27.5"/>
+    <SubTexture name="images/ui_public1/b_menu4" width="62" height="35" cocos2d_pX="31" cocos2d_pY="17.5"/>
+    <SubTexture name="images/ui_public1/b_menu6" width="46" height="26" cocos2d_pX="23" cocos2d_pY="13"/>
+    <SubTexture name="images/ui_public1/b_menu2" width="116" height="114" cocos2d_pX="58" cocos2d_pY="57"/>
+    <SubTexture name="images/ui_main/menu_talk_point" width="11" height="11" cocos2d_pX="5.5" cocos2d_pY="5.5"/>
+    <SubTexture name="images/ui_main/menu_talk" width="58" height="101" cocos2d_pX="29" cocos2d_pY="50.5"/>
+  </TextureAtlas>
+</skeleton>

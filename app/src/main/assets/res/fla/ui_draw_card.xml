@@ -1,0 +1,337 @@
+<skeleton name="ui_draw_card" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="ui_draw_card_panel3">
+      <b name="Layer 13">
+        <d name="images/ui_pic1/draw_card17"/>
+      </b>
+      <b name="Layer 9">
+        <d name="images/ui_pic1/draw_card22"/>
+      </b>
+      <b name="Layer 12">
+        <d name="images/ui_pic1/draw_card18"/>
+      </b>
+      <b name="图层 4">
+        <d name="images/ui_pic1/draw_card18"/>
+      </b>
+      <b name="Layer 3">
+        <d name="images/ui_pic1/draw_card18"/>
+      </b>
+      <b name="图层 2">
+        <d name="images/ui_pic1/draw_card18"/>
+      </b>
+      <b name="Layer 1">
+        <d name="images/ui_pic1/draw_card20"/>
+      </b>
+      <b name="Layer 7">
+        <d name="images/ui_pic1/draw_card19"/>
+      </b>
+      <b name="Layer 4">
+        <d name="images/ui_pic1/draw_card18"/>
+      </b>
+    </armature>
+    <armature name="ui_draw_card_panel2">
+      <b name="Layer 11">
+        <d name="images/ui_pic1/draw_card15"/>
+      </b>
+      <b name="Layer 6">
+        <d name="images/ui_pic1/draw_card13"/>
+      </b>
+      <b name="Layer 10">
+        <d name="images/ui_pic1/draw_card_21"/>
+      </b>
+      <b name="图层 5">
+        <d name="images/ui_pic1/draw_card5"/>
+      </b>
+      <b name="图层 6">
+        <d name="images/ui_pic1/draw_card6"/>
+      </b>
+      <b name="Layer 1">
+        <d name="images/ui_pic1/draw_card11"/>
+      </b>
+      <b name="Layer 8">
+        <d name="images/ui_pic1/draw_card_21"/>
+      </b>
+      <b name="图层 3">
+        <d name="images/ui_pic1/draw_card10"/>
+      </b>
+      <b name="Layer 7">
+        <d name="images/ui_pic1/draw_card_21"/>
+      </b>
+      <b name="Layer 5">
+        <d name="images/ui_pic1/draw_card12"/>
+      </b>
+      <b name="图层 2">
+        <d name="images/ui_pic1/draw_card14"/>
+      </b>
+      <b name="Layer 100">
+        <d name="images/ui_pic1/draw_card16"/>
+      </b>
+    </armature>
+    <armature name="ui_draw_card_panel1">
+      <b name="Layer 4">
+        <d name="images/ui_pic1/draw_card15"/>
+      </b>
+      <b name="图层 3">
+        <d name="images/ui_pic1/draw_card9"/>
+      </b>
+      <b name="图层 6">
+        <d name="images/ui_pic1/draw_card12"/>
+      </b>
+      <b name="图层 2">
+        <d name="images/ui_pic1/draw_card_21"/>
+      </b>
+      <b name="Layer 8">
+        <d name="images/ui_pic1/draw_card_21"/>
+      </b>
+      <b name="Layer 10">
+        <d name="images/ui_pic1/draw_card13"/>
+      </b>
+      <b name="图层 4">
+        <d name="images/ui_pic1/draw_card14"/>
+      </b>
+      <b name="Layer 1">
+        <d name="images/ui_pic1/draw_card8"/>
+      </b>
+      <b name="图层 5">
+        <d name="images/ui_pic1/draw_card12"/>
+      </b>
+      <b name="Layer 11">
+        <d name="images/ui_pic1/draw_card12"/>
+      </b>
+      <b name="Layer 7">
+        <d name="images/ui_pic1/draw_card_21"/>
+      </b>
+      <b name="Layer 9">
+        <d name="images/ui_pic1/draw_card_21"/>
+      </b>
+      <b name="Layer 5">
+        <d name="images/ui_pic1/draw_card16"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_draw_card_panel3">
+      <mov name="stand" dr="60" to="0" drTW="60" lp="1" twE="NaN">
+        <b name="Layer 13" sc="1" dl="0">
+          <f x="-3.55" y="-2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="60"/>
+        </b>
+        <b name="Layer 9" sc="1" dl="0">
+          <f x="96.45" y="-80.5" kX="0" kY="0" cX="1" cY="1" pX="-65" pY="82" z="1" dI="0" twE="0" dr="30"/>
+          <f x="93.45" y="-82.5" kX="-4.98" kY="-4.98" cX="1" cY="1" pX="-65.05" pY="82" z="1" dI="0" twE="0" dr="29"/>
+          <f x="96.45" y="-80.5" kX="0" kY="0" cX="1" cY="1" pX="-65" pY="82" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="Layer 12" sc="1" dl="0">
+          <f x="147.95" y="-161" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0.35" dr="33">
+            <colorTransform a="0" r="0" g="0" b="0" aM="47" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="147.95" y="-167" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0.35" dr="26">
+            <colorTransform a="0" r="0" g="0" b="0" aM="47" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="147.95" y="-161" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0.35" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="47" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="-92" y="-137.25" kX="0" kY="0" cX="0.56" cY="0.56" pX="0" pY="0" z="3" dI="0" twE="0" dr="27">
+            <colorTransform a="0" r="0" g="0" b="0" aM="47" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-92" y="-143.25" kX="0" kY="0" cX="0.56" cY="0.56" pX="0" pY="0" z="3" dI="0" twE="0" dr="32">
+            <colorTransform a="0" r="0" g="0" b="0" aM="47" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-92" y="-137.25" kX="0" kY="0" cX="0.56" cY="0.56" pX="0" pY="0" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="47" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="Layer 3" sc="1" dl="0">
+          <f x="141.3" y="1" kX="0" kY="0" cX="0.71" cY="0.71" pX="0" pY="0" z="4" dI="0" twE="0.26" dr="23"/>
+          <f x="141.3" y="-6" kX="0" kY="0" cX="0.71" cY="0.71" pX="0" pY="0" z="4" dI="0" twE="0.26" dr="36"/>
+          <f x="141.3" y="1" kX="0" kY="0" cX="0.71" cY="0.71" pX="0" pY="0" z="4" dI="0" twE="0.26" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="172.65" y="-146" kX="0" kY="0" cX="0.67" cY="0.67" pX="0" pY="0" z="5" dI="0" twE="0" dr="29"/>
+          <f x="172.65" y="-143" kX="0" kY="0" cX="0.67" cY="0.67" pX="0" pY="0" z="5" dI="0" twE="0" dr="30"/>
+          <f x="172.65" y="-146" kX="0" kY="0" cX="0.67" cY="0.67" pX="0" pY="0" z="5" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="-88.45" y="-23.55" kX="0" kY="0" cX="1" cY="1" pX="-52" pY="82" z="6" dI="0" twE="0" dr="27"/>
+          <f x="-88.45" y="-23.55" kX="1.7" kY="1.7" cX="1" cY="1" pX="-51.95" pY="82" z="6" dI="0" twE="0" dr="32"/>
+          <f x="-88.45" y="-23.55" kX="0" kY="0" cX="1" cY="1" pX="-52" pY="82" z="6" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="Layer 7" sc="1" dl="0">
+          <f x="-106.65" y="35.45" kX="0" kY="0" cX="1" cY="1.17" pX="0" pY="0" z="7" dI="0" dr="60"/>
+        </b>
+        <b name="Layer 4" sc="1" dl="0">
+          <f x="-155.05" y="-87" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" twE="0.31" dr="25"/>
+          <f x="-155.05" y="-83" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" twE="0.31" dr="34"/>
+          <f x="-155.05" y="-87" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" twE="0.31" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_draw_card_panel2">
+      <mov name="stand" dr="60" to="0" drTW="60" lp="1" twE="NaN">
+        <b name="Layer 11" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="60">
+            <colorTransform a="0" r="48" g="14" b="91" aM="100" rM="46" gM="46" bM="46"/>
+          </f>
+        </b>
+        <b name="Layer 6" sc="1" dl="0">
+          <f x="173" y="-150" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0.35" dr="33">
+            <colorTransform a="0" r="0" g="0" b="0" aM="35" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="166" y="-151" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0.17" dr="26">
+            <colorTransform a="0" r="0" g="0" b="0" aM="35" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="173" y="-150" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="35" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="Layer 10" sc="1" dl="0">
+          <f x="-43.05" y="91.6" kX="0" kY="0" cX="1" cY="1.33" pX="0" pY="0" z="2" dI="0" dr="60">
+            <colorTransform a="0" r="0" g="43" b="115" aM="100" rM="44" gM="44" bM="44"/>
+          </f>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="-68" y="-125.95" kX="-8.43" kY="-8.43" cX="1" cY="1" pX="-34" pY="58.45" z="3" dI="0" twE="0" dr="35"/>
+          <f x="-68" y="-125.95" kX="1.56" kY="1.56" cX="1" cY="1" pX="-34.05" pY="58.45" z="3" dI="0" twE="0" dr="24"/>
+          <f x="-68" y="-125.95" kX="-8.43" kY="-8.43" cX="1" cY="1" pX="-34" pY="58.45" z="3" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f x="33.45" y="9.35" kX="0" kY="0" cX="1" cY="1" pX="-65" pY="13.35" z="4" dI="0" twE="0" dr="30"/>
+          <f x="30.45" y="14.35" kX="-6.3" kY="-6.3" cX="1" cY="1" pX="-65" pY="13.35" z="4" dI="0" twE="0" dr="29"/>
+          <f x="33.45" y="9.35" kX="0" kY="0" cX="1" cY="1" pX="-65" pY="13.35" z="4" dI="0" dr="1"/>
+        </b>
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="-102.55" y="-20.55" kX="0" kY="0" cX="1" cY="1" pX="-114" pY="75" z="5" dI="0" twE="0" dr="27"/>
+          <f x="-104.45" y="-20.55" kX="2.1" kY="2.1" cX="1" cY="1" pX="-113.9" pY="75" z="5" dI="0" twE="0" dr="32"/>
+          <f x="-102.55" y="-20.55" kX="0" kY="0" cX="1" cY="1" pX="-114" pY="75" z="5" dI="0" dr="1"/>
+        </b>
+        <b name="Layer 8" sc="1" dl="0">
+          <f x="-130.15" y="54.95" kX="0" kY="0" cX="1.27" cY="1.29" pX="0" pY="0" z="6" dI="0" dr="60">
+            <colorTransform a="0" r="0" g="40" b="78" aM="100" rM="62" gM="62" bM="62"/>
+          </f>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="-98.65" y="-14.65" kX="0" kY="0" cX="1" cY="1" pX="19" pY="-1" z="7" dI="0" twE="0.38" dr="30"/>
+          <f x="-100.05" y="-15.6" kX="10.26" kY="10.26" cX="1.03" cY="1.03" pX="18.85" pY="-1" z="7" dI="0" twE="0.32" dr="29"/>
+          <f x="-98.65" y="-14.65" kX="0" kY="0" cX="1" cY="1" pX="19" pY="-1" z="7" dI="0" dr="1"/>
+        </b>
+        <b name="Layer 7" sc="1" dl="0">
+          <f x="145.5" y="82.8" kX="0" kY="0" cX="1.07" cY="1.32" pX="0" pY="0" z="8" dI="0" dr="60">
+            <colorTransform a="0" r="0" g="44" b="112" aM="100" rM="56" gM="56" bM="56"/>
+          </f>
+        </b>
+        <b name="Layer 5" sc="1" dl="0">
+          <f x="-165.05" y="29.35" kX="0" kY="0" cX="1.11" cY="1.11" pX="0" pY="0" z="9" dI="0" twE="0.31" dr="25"/>
+          <f x="-165.05" y="39.35" kX="0" kY="0" cX="1.11" cY="1.11" pX="0" pY="0" z="9" dI="0" twE="0.42" dr="34"/>
+          <f x="-165.05" y="29.35" kX="0" kY="0" cX="1.11" cY="1.11" pX="0" pY="0" z="9" dI="0" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="94" y="60.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" twE="0.26" dr="23"/>
+          <f x="94" y="49.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" twE="0.22" dr="36"/>
+          <f x="94" y="60.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" dr="1"/>
+        </b>
+        <b name="Layer 100" sc="1" dl="0">
+          <f x="-158" y="-145" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="11" dI="0" dr="60">
+            <colorTransform a="0" r="139" g="37" b="139" aM="100" rM="31" gM="31" bM="31"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_draw_card_panel1">
+      <mov name="stand" dr="60" to="0" drTW="60" lp="1" twE="NaN">
+        <b name="Layer 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="60"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="-74" y="-66" kX="0" kY="0" cX="1" cY="1" pX="-10" pY="-45" z="1" dI="0" twE="0" dr="33"/>
+          <f x="-71" y="-65" kX="4.98" kY="4.98" cX="1" cY="1" pX="-10" pY="-45" z="1" dI="0" twE="0" dr="26"/>
+          <f x="-74" y="-66" kX="0" kY="0" cX="1" cY="1" pX="-10" pY="-45" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f x="-100.15" y="-189" kX="0" kY="0" cX="0.72" cY="0.72" pX="0" pY="0" z="2" dI="0" twE="0.24" dr="30">
+            <colorTransform a="0" r="0" g="0" b="0" aM="46" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-100.15" y="-186" kX="0" kY="0" cX="0.72" cY="0.72" pX="0" pY="0" z="2" dI="0" twE="0.39" dr="29">
+            <colorTransform a="0" r="0" g="0" b="0" aM="46" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-100.15" y="-189" kX="0" kY="0" cX="0.72" cY="0.72" pX="0" pY="0" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="46" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="-46.5" y="51.45" kX="0" kY="0" cX="1.07" cY="1.22" pX="0" pY="0" z="3" dI="0" dr="60">
+            <colorTransform a="0" r="22" g="87" b="65" aM="100" rM="66" gM="66" bM="66"/>
+          </f>
+        </b>
+        <b name="Layer 8" sc="1" dl="0">
+          <f x="-136.65" y="85.35" kX="0" kY="0" cX="1.28" cY="1.59" pX="0" pY="0" z="4" dI="0" dr="60">
+            <colorTransform a="0" r="35" g="87" b="35" aM="100" rM="66" gM="66" bM="66"/>
+          </f>
+        </b>
+        <b name="Layer 10" sc="1" dl="0">
+          <f x="-120" y="0.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0.27" dr="33">
+            <colorTransform a="0" r="0" g="0" b="0" aM="80" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-120" y="6.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0.26" dr="26">
+            <colorTransform a="0" r="0" g="0" b="0" aM="80" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-120" y="0.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="80" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="-146.5" y="30.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0.37" dr="20"/>
+          <f x="-146.5" y="21.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0.22" dr="39"/>
+          <f x="-146.5" y="30.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="1"/>
+        </b>
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="-81" y="-68.05" kX="0" kY="0" cX="1" cY="1" pX="-123" pY="48" z="7" dI="0" twE="0" dr="29"/>
+          <f x="-81" y="-68.05" kX="-1.97" kY="-1.97" cX="1" cY="1" pX="-123.1" pY="48" z="7" dI="0" twE="0" dr="30"/>
+          <f x="-81" y="-68.05" kX="0" kY="0" cX="1" cY="1" pX="-123" pY="48" z="7" dI="0" dr="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="161.95" y="-118" kX="0" kY="0" cX="1.28" cY="1.28" pX="0" pY="0" z="8" dI="0" twE="0.32" dr="22"/>
+          <f x="161.95" y="-112" kX="0" kY="0" cX="1.28" cY="1.28" pX="0" pY="0" z="8" dI="0" twE="0.4" dr="37"/>
+          <f x="161.95" y="-118" kX="0" kY="0" cX="1.28" cY="1.28" pX="0" pY="0" z="8" dI="0" dr="1"/>
+        </b>
+        <b name="Layer 11" sc="1" dl="0">
+          <f x="-40.5" y="45.9" kX="0" kY="180" cX="1" cY="0.96" pX="0" pY="0" z="9" dI="0" twE="0.3" dr="36"/>
+          <f x="-40.5" y="36.9" kX="0" kY="180" cX="1" cY="0.96" pX="0" pY="0" z="9" dI="0" twE="0.28" dr="23"/>
+          <f x="-40.5" y="45.9" kX="0" kY="180" cX="1" cY="0.96" pX="0" pY="0" z="9" dI="0" dr="1"/>
+        </b>
+        <b name="Layer 7" sc="1" dl="0">
+          <f x="-94.05" y="89.85" kX="0" kY="0" cX="0.86" cY="1.08" pX="0" pY="0" z="10" dI="0" dr="60">
+            <colorTransform a="0" r="75" g="87" b="17" aM="100" rM="66" gM="66" bM="66"/>
+          </f>
+        </b>
+        <b name="Layer 9" sc="1" dl="0">
+          <f x="139" y="81" kX="0" kY="0" cX="1" cY="1.17" pX="0" pY="0" z="11" dI="0" dr="60">
+            <colorTransform a="0" r="35" g="87" b="17" aM="100" rM="66" gM="66" bM="66"/>
+          </f>
+        </b>
+        <b name="Layer 5" sc="1" dl="0">
+          <f x="-160" y="-144" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="12" dI="0" dr="60"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_draw_card">
+    <SubTexture name="images/ui_pic1/draw_card8" width="307" height="382" cocos2d_pX="153.5" cocos2d_pY="191"/>
+    <SubTexture name="images/ui_pic1/draw_card9" width="210" height="204" cocos2d_pX="105" cocos2d_pY="102"/>
+    <SubTexture name="images/ui_pic1/draw_card16" width="59" height="166" cocos2d_pX="29.5" cocos2d_pY="70.5"/>
+    <SubTexture name="images/ui_pic1/draw_card14" width="111" height="38" cocos2d_pX="55.5" cocos2d_pY="19"/>
+    <SubTexture name="images/ui_pic1/draw_card12" width="93" height="45" cocos2d_pX="46.5" cocos2d_pY="22.5"/>
+    <SubTexture name="images/ui_pic1/draw_card10" width="94" height="52" cocos2d_pX="47" cocos2d_pY="26"/>
+    <SubTexture name="images/ui_pic1/draw_card11" width="370" height="350" cocos2d_pX="185" cocos2d_pY="175"/>
+    <SubTexture name="images/ui_pic1/draw_card6" width="170" height="124" cocos2d_pX="85" cocos2d_pY="62"/>
+    <SubTexture name="images/ui_pic1/draw_card5" width="185" height="150" cocos2d_pX="92.5" cocos2d_pY="75"/>
+    <SubTexture name="images/ui_pic1/draw_card_21" width="113" height="119" cocos2d_pX="56.5" cocos2d_pY="59.5"/>
+    <SubTexture name="images/ui_pic1/draw_card13" width="111" height="57" cocos2d_pX="55.5" cocos2d_pY="28.5"/>
+    <SubTexture name="images/ui_pic1/draw_card15" width="404" height="423" cocos2d_pX="202" cocos2d_pY="211.5"/>
+    <SubTexture name="images/ui_pic1/draw_card19" width="98" height="126" cocos2d_pX="49" cocos2d_pY="63"/>
+    <SubTexture name="images/ui_pic1/draw_card20" width="335" height="382" cocos2d_pX="153" cocos2d_pY="191"/>
+    <SubTexture name="images/ui_pic1/draw_card18" width="103" height="50" cocos2d_pX="47.5" cocos2d_pY="21"/>
+    <SubTexture name="images/ui_pic1/draw_card22" width="139" height="186" cocos2d_pX="97" cocos2d_pY="78"/>
+    <SubTexture name="images/ui_pic1/draw_card17" width="398" height="429" cocos2d_pX="199" cocos2d_pY="214.5"/>
+  </TextureAtlas>
+</skeleton>

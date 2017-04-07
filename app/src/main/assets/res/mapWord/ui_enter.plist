@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>抽卡</string>
+        <key>2</key>
+        <string>编辑器</string>
+        <key>3</key>
+        <string>选区</string>
+        <key>4</key>
+        <string>显示map名字</string>
+        <key>5</key>
+        <string>引导</string>
+        <key>6</key>
+        <string>登录/注册</string>
+        <key>7</key>
+        <string>微信登录</string>
+        <key>8</key>
+        <string>游客登录</string>
+    </dict>
+</plist>

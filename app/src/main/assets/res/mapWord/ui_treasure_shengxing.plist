@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>当前累计属性</string>
+        <key>11</key>
+        <string>当前纹耀属性：</string>
+        <key>12</key>
+        <string>（剩余纹耀之力 @）</string>
+        <key>23</key>
+        <string>升星</string>
+        <key>29</key>
+        <string>经验：</string>
+        <key>32</key>
+        <string>已满星！</string>
+        <key>33</key>
+        <string>橙色及以上品质的魔纹才可以升星！</string>
+        <key>36</key>
+        <string>升至\\w{c=00fff0}@星\\属性</string>
+        <key>40</key>
+        <string>经验</string>
+        <key>41</key>
+        <string>物防</string>
+        <key>42</key>
+        <string>@升星：</string>
+        <key>43</key>
+        <string>@升星：</string>
+        <key>44</key>
+        <string>@升星：</string>
+        <key>45</key>
+        <string>额外@加成</string>
+        <key>46</key>
+        <string>获得@点纹耀之力</string>
+    </dict>
+</plist>

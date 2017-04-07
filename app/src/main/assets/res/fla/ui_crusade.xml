@@ -1,0 +1,300 @@
+<skeleton name="ui_crusade" frameRate="30" version="2.2">
+  <armatures>
+    <armature name="ui_crusade_effect">
+      <b name="di">
+        <d name="images/ui_crusade/4"/>
+      </b>
+      <b name="2ds">
+        <d name="ui_crusade_chuanying" isArmature="1"/>
+      </b>
+      <b name="ship">
+        <d name="ui_crusade_chuan" isArmature="1"/>
+      </b>
+      <b name="1">
+        <d name="images/ui_crusade/1"/>
+      </b>
+      <b name="Layer 2">
+        <d name="ui_crusade_red" isArmature="1"/>
+      </b>
+      <b name="Layer 3">
+        <d name="images/ui_word/c_title"/>
+      </b>
+    </armature>
+    <armature name="ui_crusade_red">
+      <b name="red_1 复制">
+        <d name="images/ui_crusade/red_1"/>
+      </b>
+      <b name="red_2 复制">
+        <d name="images/ui_crusade/red_2"/>
+      </b>
+      <b name="red_1">
+        <d name="images/ui_crusade/red_1"/>
+      </b>
+      <b name="red_2">
+        <d name="images/ui_crusade/red_2"/>
+      </b>
+    </armature>
+    <armature name="ui_crusade_chuanying">
+      <b name="1">
+        <d name="images/ui_crusade/boat_4"/>
+      </b>
+      <b name="2">
+        <d name="images/ui_crusade/boat_4"/>
+      </b>
+    </armature>
+    <armature name="ui_crusade_chuan">
+      <b name="ship">
+        <d name="ui_crusade_chuan2" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_crusade_chuan2">
+      <b name="boat_3 复制">
+        <d name="images/ui_crusade/boat_3"/>
+      </b>
+      <b name="boat_3  复制 2">
+        <d name="images/ui_crusade/boat_3"/>
+      </b>
+      <b name="boat_2">
+        <d name="images/ui_crusade/boat_2"/>
+      </b>
+      <b name="npc">
+        <d name="images/ui_crusade/4"/>
+      </b>
+      <b name="boat_1">
+        <d name="images/ui_crusade/boat_1"/>
+      </b>
+      <b name="boat_3">
+        <d name="images/ui_crusade/boat_3"/>
+      </b>
+      <b name="boat_30">
+        <d name="images/ui_crusade/boat_3"/>
+      </b>
+      <b name="boat_31">
+        <d name="images/ui_crusade/boat_3"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_crusade_red">
+      <mov name="stand" dr="100" to="0" drTW="100" lp="1" twE="NaN">
+        <b name="red_1 复制" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="2.22" cY="2.22" pX="0" pY="0" z="0" dI="0" twE="0" dr="24"/>
+          <f x="0.35" y="0.35" kX="-90" kY="-90" cX="2.22" cY="2.22" pX="0" pY="0" z="0" dI="0" twE="0" dr="25"/>
+          <f x="0.35" y="0.35" kX="180" kY="180" cX="2.22" cY="2.22" pX="0" pY="0" z="0" dI="0" twE="0" dr="25"/>
+          <f x="0.35" y="0.35" kX="90" kY="90" cX="2.22" cY="2.22" pX="0" pY="0" z="0" dI="0" twE="0" dr="25"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="2.22" cY="2.22" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="red_2 复制" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="3.4" cY="3.4" pX="0" pY="0" z="1" dI="0" twE="0" dr="24"/>
+          <f x="0.35" y="0.35" kX="90" kY="90" cX="3.4" cY="3.4" pX="0" pY="0" z="1" dI="0" twE="0" dr="25"/>
+          <f x="0.35" y="0.35" kX="180" kY="180" cX="3.4" cY="3.4" pX="0" pY="0" z="1" dI="0" twE="0" dr="25"/>
+          <f x="0.35" y="0.35" kX="-90" kY="-90" cX="3.4" cY="3.4" pX="0" pY="0" z="1" dI="0" twE="0" dr="25"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="3.4" cY="3.4" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="red_1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="2.22" cY="2.22" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="24"/>
+          <f x="0.35" y="0.35" kX="-90" kY="-90" cX="2.22" cY="2.22" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="25">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="180" kY="180" cX="2.22" cY="2.22" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="25"/>
+          <f x="0.35" y="0.35" kX="90" kY="90" cX="2.22" cY="2.22" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="25">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="2.22" cY="2.22" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="red_2" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="3.4" cY="3.4" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="24"/>
+          <f x="0.35" y="0.35" kX="90" kY="90" cX="3.4" cY="3.4" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="25">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="180" kY="180" cX="3.4" cY="3.4" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="25"/>
+          <f x="0.35" y="0.35" kX="-90" kY="-90" cX="3.4" cY="3.4" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="25">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="3.4" cY="3.4" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_crusade_effect">
+      <mov name="stand" dr="100" to="0" drTW="100" lp="1" twE="NaN">
+        <b name="di" sc="1" dl="0">
+          <f x="0.35" y="0.3" kX="0" kY="0" cX="6.11" cY="6.11" pX="0" pY="0" z="0" dI="0" dr="100"/>
+        </b>
+        <b name="2ds" sc="1" dl="0">
+          <f x="0" y="0.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="1" dI="0" dr="20"/>
+          <f dr="80" dI="-1"/>
+        </b>
+        <b name="ship" sc="1" dl="0">
+          <f x="0.7" y="19.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="20">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.7" y="19.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="80"/>
+        </b>
+        <b name="1" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="100"/>
+        </b>
+        <b name="Layer 2" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0.35" z="3" dI="0" dr="100"/>
+        </b>
+        <b name="Layer 3" sc="1" dl="0">
+          <f x="13" y="-185" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="100"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_crusade_chuanying">
+      <mov name="stand" dr="20" to="0" drTW="20" lp="1" twE="NaN">
+        <b name="1" sc="1" dl="0">
+          <f x="0" y="0.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="9"/>
+          <f x="-27" y="6.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="2" sc="1" dl="0">
+          <f x="0" y="0.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="9"/>
+          <f x="43" y="-5.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_crusade_chuan2">
+      <mov name="stand" dr="60" to="0" drTW="60" lp="1" twE="NaN">
+        <b name="boat_3 复制" sc="1" dl="0">
+          <f x="27.55" y="25.65" kX="0" kY="180" cX="0.47" cY="0.47" pX="30.45" pY="-17.3" z="0" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="67" bM="35"/>
+          </f>
+          <f x="27.5" y="25.6" kX="3.08" kY="-178.21" cX="0.46" cY="0.48" pX="30.7" pY="-17.55" z="0" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="67" bM="35"/>
+          </f>
+          <f x="27.5" y="25.6" kX="4.11" kY="-174.65" cX="0.37" cY="0.4" pX="30.75" pY="-17.55" z="0" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="67" bM="35"/>
+          </f>
+          <f x="27.45" y="25.6" kX="25.34" kY="-174.65" cX="0.37" cY="0.35" pX="30.75" pY="-17.4" z="0" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="67" bM="35"/>
+          </f>
+          <f x="27.5" y="25.6" kX="29.73" kY="-174.65" cX="0.37" cY="0.27" pX="30.65" pY="-17.65" z="0" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="67" bM="35"/>
+          </f>
+          <f x="27.55" y="25.6" kX="-9.9" kY="173.05" cX="0.36" cY="0.45" pX="30.4" pY="-17.6" z="0" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="67" bM="35"/>
+          </f>
+          <f x="27.55" y="25.65" kX="0" kY="180" cX="0.47" cY="0.47" pX="30.45" pY="-17.4" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="67" bM="35"/>
+          </f>
+        </b>
+        <b name="boat_3  复制 2" sc="1" dl="0">
+          <f x="62.65" y="17.8" kX="0" kY="180" cX="0.77" cY="0.77" pX="30.5" pY="-17.4" z="1" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="67" bM="35"/>
+          </f>
+          <f x="62.55" y="17.75" kX="3.08" kY="-178.21" cX="0.75" cY="0.79" pX="30.7" pY="-17.5" z="1" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="67" bM="35"/>
+          </f>
+          <f x="62.6" y="17.7" kX="4.11" kY="-174.65" cX="0.61" cY="0.66" pX="30.65" pY="-17.7" z="1" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="67" bM="35"/>
+          </f>
+          <f x="62.5" y="17.75" kX="25.34" kY="-174.65" cX="0.61" cY="0.58" pX="30.7" pY="-17.4" z="1" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="67" bM="35"/>
+          </f>
+          <f x="62.6" y="17.75" kX="29.73" kY="-174.65" cX="0.61" cY="0.44" pX="30.65" pY="-17.6" z="1" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="67" bM="35"/>
+          </f>
+          <f x="62.65" y="17.7" kX="-9.9" kY="173.05" cX="0.59" cY="0.74" pX="30.45" pY="-17.6" z="1" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="67" bM="35"/>
+          </f>
+          <f x="62.65" y="17.8" kX="0" kY="180" cX="0.77" cY="0.77" pX="30.5" pY="-17.5" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="67" bM="35"/>
+          </f>
+        </b>
+        <b name="boat_2" sc="1" dl="0">
+          <f x="-43.5" y="-53.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="19"/>
+          <f x="-44.5" y="-53.5" kX="-0.93" kY="-0.71" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="20"/>
+          <f x="-43.5" y="-53.5" kX="-0.45" kY="0.96" cX="0.99" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="20"/>
+          <f x="-43.5" y="-53.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="npc" sc="1" dl="0">
+          <f x="17.85" y="2.85" kX="0" kY="0" cX="0.6" cY="0.6" pX="0" pY="0" z="3" dI="0" dr="60"/>
+        </b>
+        <b name="boat_1" sc="1" dl="0">
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="60"/>
+        </b>
+        <b name="boat_3" sc="1" dl="0">
+          <f x="15.8" y="24.35" kX="0" kY="0" cX="1" cY="1" pX="30.5" pY="-17.4" z="5" dI="0" twE="0" dr="9"/>
+          <f x="15.95" y="24.3" kX="-3.08" kY="-1.79" cX="0.97" cY="1.03" pX="30.7" pY="-17.5" z="5" dI="0" twE="0" dr="10"/>
+          <f x="15.9" y="24.25" kX="-4.11" kY="-5.35" cX="0.79" cY="0.86" pX="30.7" pY="-17.6" z="5" dI="0" twE="0" dr="10"/>
+          <f x="16" y="24.3" kX="-25.34" kY="-5.35" cX="0.79" cY="0.75" pX="30.7" pY="-17.5" z="5" dI="0" twE="0" dr="10"/>
+          <f x="15.9" y="24.3" kX="-29.73" kY="-5.35" cX="0.79" cY="0.57" pX="30.65" pY="-17.55" z="5" dI="0" twE="0" dr="10"/>
+          <f x="15.85" y="24.25" kX="9.9" kY="6.95" cX="0.77" cY="0.95" pX="30.6" pY="-17.55" z="5" dI="0" twE="0" dr="10"/>
+          <f x="15.8" y="24.35" kX="0" kY="0" cX="1" cY="1" pX="30.5" pY="-17.45" z="5" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="boat_30" sc="1" dl="0">
+          <f x="-33.55" y="28.1" kX="5.15" kY="4.16" cX="0.67" cY="0.71" pX="30.4" pY="-17.25" z="6" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+          <f x="-33.65" y="28" kX="4.14" kY="0.58" cX="0.54" cY="0.59" pX="30.45" pY="-17.25" z="6" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+          <f x="-33.6" y="28.05" kX="-17.45" kY="0.57" cX="0.54" cY="0.51" pX="30.4" pY="-17.25" z="6" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+          <f x="-33.6" y="28.05" kX="-21.98" kY="0.57" cX="0.54" cY="0.38" pX="30.45" pY="-17.15" z="6" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+          <f x="-33.6" y="28" kX="18.06" kY="12.89" cX="0.53" cY="0.66" pX="30.35" pY="-17.1" z="6" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+          <f x="-33.65" y="28.1" kX="8.25" kY="5.96" cX="0.69" cY="0.69" pX="30.5" pY="-17.3" z="6" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+          <f x="-33.55" y="28.1" kX="5.15" kY="4.16" cX="0.67" cY="0.71" pX="30.4" pY="-17.25" z="6" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="70" gM="70" bM="70"/>
+          </f>
+        </b>
+        <b name="boat_31" sc="1" dl="0">
+          <f x="-64" y="26.5" kX="27.31" kY="12.12" cX="0.42" cY="0.45" pX="30.45" pY="-17.3" z="7" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="40" gM="40" bM="40"/>
+          </f>
+          <f x="-64" y="26.55" kX="4.38" kY="12.12" cX="0.42" cY="0.36" pX="30.45" pY="-17.3" z="7" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="40" gM="40" bM="40"/>
+          </f>
+          <f x="-64" y="26.55" kX="-0.86" kY="12.12" cX="0.42" cY="0.27" pX="30.6" pY="-17.45" z="7" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="40" gM="40" bM="40"/>
+          </f>
+          <f x="-63.95" y="26.5" kX="40.36" kY="24.36" cX="0.39" cY="0.53" pX="30.35" pY="-17.3" z="7" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="40" gM="40" bM="40"/>
+          </f>
+          <f x="-64.05" y="26.6" kX="31.29" kY="17.33" cX="0.52" cY="0.53" pX="30.5" pY="-17.25" z="7" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="40" gM="40" bM="40"/>
+          </f>
+          <f x="-63.95" y="26.6" kX="28.3" kY="15.57" cX="0.52" cY="0.54" pX="30.55" pY="-17.3" z="7" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="40" gM="40" bM="40"/>
+          </f>
+          <f x="-64" y="26.5" kX="27.31" kY="12.12" cX="0.42" cY="0.45" pX="30.45" pY="-17.3" z="7" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="40" gM="40" bM="40"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_crusade_chuan">
+      <mov name="stand" dr="60" to="0" drTW="60" lp="1" twE="NaN">
+        <b name="ship" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="29"/>
+          <f x="0" y="-5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_crusade">
+    <SubTexture name="images/ui_crusade/boat_1" width="198" height="93" cocos2d_pX="99" cocos2d_pY="46.5"/>
+    <SubTexture name="images/ui_crusade/boat_2" width="81" height="123" cocos2d_pX="40.5" cocos2d_pY="61.5"/>
+    <SubTexture name="images/ui_crusade/boat_3" width="71" height="44" cocos2d_pX="35.5" cocos2d_pY="22"/>
+    <SubTexture name="images/ui_crusade/boat_4" width="141" height="119" cocos2d_pX="70.5" cocos2d_pY="59.5"/>
+    <SubTexture name="images/ui_crusade/red_2" width="128" height="128" cocos2d_pX="64" cocos2d_pY="64"/>
+    <SubTexture name="images/ui_crusade/red_1" width="178" height="178" cocos2d_pX="89" cocos2d_pY="89"/>
+    <SubTexture name="images/ui_word/c_title" width="397" height="162" cocos2d_pX="198.5" cocos2d_pY="81"/>
+    <SubTexture name="images/ui_crusade/1" width="328" height="328" cocos2d_pX="164" cocos2d_pY="164"/>
+    <SubTexture name="images/ui_crusade/4" width="46" height="47" cocos2d_pX="23" cocos2d_pY="23.5"/>
+  </TextureAtlas>
+</skeleton>

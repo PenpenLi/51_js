@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>次位</string>
+        <key>2</key>
+        <string>主位</string>
+        <key>4</key>
+        <string>英雄魂魄</string>
+        <key>5</key>
+        <string>英雄属性</string>
+        <key>6</key>
+        <string>英雄技能</string>
+        <key>7</key>
+        <string>神器</string>
+        <key>10</key>
+        <string>英雄魂魄</string>
+        <key>11</key>
+        <string>英雄属性</string>
+        <key>12</key>
+        <string>英雄技能</string>
+        <key>13</key>
+        <string>神器</string>
+        <key>14</key>
+        <string>更换</string>
+        <key>15</key>
+        <string>更换</string>
+        <key>16</key>
+        <string>突破等级:</string>
+        <key>17</key>
+        <string>突破等级:</string>
+    </dict>
+</plist>

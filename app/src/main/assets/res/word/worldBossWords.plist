@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buy_info</key>
+	<string>是否花费@元宝，提高战队输出@%?
+可加成次数（@/@）</string>
+	<key>buy_info1</key>
+	<string>消耗道具1个，提高属性加成？
+可加成次数（@/@）</string>
+	<key>final_1</key>
+	<string>本次挑战造成的伤害</string>
+	<key>final_2</key>
+	<string>本次挑战获得的金币</string>
+	<key>5</key>
+	<string>本次挑战巨兽来袭活动已经结束，根据您的排名
+将会获得奖励，奖励通过邮件发放！</string>
+	<key>6</key>
+	<string>恭喜您在挑战巨兽来袭中完成最后一击，您将获得
+一份丰厚的奖励，奖励通过邮件发放，注意查收！</string>
+	<key>7</key>
+	<string>恭喜您！</string>
+	<key>8</key>
+	<string>活动已结束！</string>
+	<key>9</key>
+	<string>击败奖励</string>
+	<key>10</key>
+	<string>伤害第@名</string>
+	<key>11</key>
+	<string>巨兽（等级.@）</string>
+	<key>12</key>
+	<string>每周一、三、五、七 20:00开启</string>
+	<key>13</key>
+	<string>奖励</string>
+	<key>14</key>
+	<string>排行</string>
+	<key>15</key>
+	<string>进入围剿</string>
+	<key>16</key>
+	<string>围剿</string>
+	<key>17</key>
+	<string>伤害排行</string>
+	<key>18</key>
+	<string>排名</string>
+	<key>19</key>
+	<string>名称</string>
+	<key>20</key>
+	<string>造成伤害</string>
+	<key>21</key>
+	<string>当前排名奖励：</string>
+	<key>22</key>
+	<string>当前加成：\\w{c=78ff00}@%</string>
+	<key>23</key>
+	<string>伤害总数：\\w{c=78ff00}@</string>
+	<key>24</key>
+	<string>已攻击：\\w{c=78ff00}@次</string>
+	<key>25</key>
+	<string>@后消失</string>
+	<key>26</key>
+	<string>复活
+倒计</string>
+	<key>full_add</key>
+	<string>加成次数已满</string>
+	<key>28</key>
+	<string>全服击败奖励</string>
+	<key>bossDead_1</key>
+	<string>击败巨兽时间已过！</string>
+	<key>bossDead_2</key>
+	<string>巨兽已被击败，击败者为：@</string>
+	<key>31</key>
+	<string>布阵</string>
+	<key>32</key>
+	<string>累积输出奖励:</string>
+	<key>33</key>
+	<string>排行奖励:</string>
+	<key>open_time</key>
+	<string>破天猴每周一、五 20点开启
+地狱犬每周三、七 全天开启</string>
+	<key>rank_cur</key>
+	<string>当前排行榜</string>
+	<key>rank_pre</key>
+	<string>上届排行榜</string>
+	<key>dog_name_lv</key>
+	<string>地狱犬（等级.@）</string>
+</dict>
+</plist>

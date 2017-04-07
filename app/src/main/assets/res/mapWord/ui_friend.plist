@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>修改签名</string>
+        <key>2</key>
+        <string>一键领取</string>
+        <key>3</key>
+        <string>一键赠送</string>
+        <key>4</key>
+        <string>可领取体力次数：</string>
+        <key>5</key>
+        <string>主公将无法收到黑名单玩家发送的世界聊天、私聊、留言。</string>
+        <key>8</key>
+        <string>好友邀请</string>
+    </dict>
+</plist>

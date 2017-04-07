@@ -1,0 +1,21 @@
+
+material xulie_fire_4x4
+{
+	technique
+	{
+		pass
+		{
+			lighting off
+			scene_blend add
+			depth_check off
+
+			texture_unit xulie_fire04_4x4.png
+			{
+				texture_alias xulie_fire04_4x4.png
+				texture xulie_fire04_4x4.png
+			}
+		}
+
+	}
+
+}

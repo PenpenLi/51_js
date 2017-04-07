@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>我是玩家姓名</string>
+        <key>2</key>
+        <string>我是玩家姓名</string>
+        <key>3</key>
+        <string>我是玩家姓名</string>
+        <key>4</key>
+        <string>我是玩家姓名</string>
+        <key>5</key>
+        <string>我是玩家姓名</string>
+        <key>6</key>
+        <string>每人参与封魔会额外获得</string>
+    </dict>
+</plist>

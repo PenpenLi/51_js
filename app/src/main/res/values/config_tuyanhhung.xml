@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="show_recharge_wallet">false</bool>
+    <bool name="is_sandbox">false</bool>
+    <string name="client_key">
+        ae10ab8ccde07d29b34f4b2ba408adb4
+    </string>
+    <string name="client_secret">
+        NkpbsqnHY9TQTi+QSkJ0Iw64XPYlEGMcwWivM2f3HNL8YWf71lpshmOoS4mOvov4uwO1lFFE5Kr6UCobztaTFQ==
+    </string>
+    <integer name="rate_convert_client_to_server">1</integer>
+    <!-- Set the configured key for each service-app-game (Required)-->
+    <integer name="rate_recharge">1000</integer>
+    <string name="partner_id">0</string>
+    <string name="refcode">0</string>
+    <integer name="service_ott">0</integer>
+    <string name="app_id">
+        1007
+    </string>
+    <string name="merchant_id">
+        1000910
+    </string>
+    <string name="app_name_service">game</string>
+    <string name="service_name"></string>
+
+    <!-- set key for change orientation screen -->
+    <integer name="orientation_screen">2</integer>
+
+    <!-- Set key for optional screens (Optional)-->
+    <!-- Has show button "Quick Login" in login screen or not ?
+    yes: set true, no: set false-->
+    <bool name="is_quick_login">true</bool>
+    <!-- Has show input phone-email in register screen via username-pass or not ?
+    yes: set true, no: set false-->
+    <bool name="is_verify_phone_mail">false</bool>
+    <!-- what service integrate this sdk ?
+    0:VegaID, 1: VegaGame, 2: Zen, 3: Gaba, 4: Game Offline-->
+    <integer name="service_type">1</integer>
+    <!-- what type of quick register screen ?
+    0: Gone register via phone or mail, 1:Register via phone,2: Register via email, 3: Register via both email and phone-->
+    <integer name="quick_register_type">3</integer>
+    <!-- what type of register screen is shown first when touching button "Register" in login screen ?
+    true: show register via username-pasword, false: show register via phone-email-->
+    <bool name="first_register_way">true</bool>
+    <!-- what type of verification step ?
+    0:Verify via phone, 1: Verify via email, 2: Verify via both email and phone-->
+    <integer name="verify_type">2</integer>
+
+    <!-- Set key for statistic, advertisement and marketing (Optional)-->
+    <!-- Set key for facebook -->
+    <string name="facebook_app_id">386771891682065</string>
+    <!-- Set key for Google Analytic -->
+    <string name="ga_id">UA-92530307-3</string>
+    <!-- Set key for Appsflyer -->
+    <string name="dev_key_appsflyers"></string>
+    <!-- Set key for Tune -->
+    <string name="advartiser_id"></string>
+    <string name="conversion_key"></string>
+    <!-- Set key for Google Adwords Conversion -->
+    <string name="conversion_id_install"></string>
+    <string name="conversion_label_install"></string>
+    <string name="conversion_id_payment"></string>
+    <string name="conversion_name_payment"></string>
+    <!-- Set key for advertisement -->
+    <string name="ads_campaign_id"></string>
+    <string name="ads_channel_id"></string>
+
+    <string name="licensekey_google"></string>
+
+</resources>

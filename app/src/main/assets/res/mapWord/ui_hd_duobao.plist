@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>选择想要的道具</string>
+        <key>2</key>
+        <string>投币池满了之后将从夺宝玩家中抽出一位直接获得
+。投入的夺宝币越多，获奖的概率越高！</string>
+        <key>3</key>
+        <string>幸运榜</string>
+        <key>4</key>
+        <string>投入夺宝币</string>
+        <key>5</key>
+        <string>当前积分：</string>
+    </dict>
+</plist>

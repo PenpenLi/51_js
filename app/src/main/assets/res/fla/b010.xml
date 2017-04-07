@@ -1,0 +1,247 @@
+<skeleton name="b010" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="b010">
+      <b name="tiankong">
+        <d name="images/bg/010/bg10_04"/>
+      </b>
+      <b name="san">
+        <d name="images/bg/010/bg10_02"/>
+      </b>
+      <b name="san0">
+        <d name="images/bg/010/bg10_02"/>
+      </b>
+      <b name="tiankong_1">
+        <d name="images/bg/010/bg10_05"/>
+      </b>
+      <b name="san1">
+        <d name="images/bg/010/bg10_02"/>
+      </b>
+      <b name="san2">
+        <d name="images/bg/010/bg10_02"/>
+      </b>
+      <b name="图层 2">
+        <d name="ui_sjboss_flay" isArmature="1"/>
+      </b>
+      <b name="zhuzio">
+        <d name="images/bg/010/bg10_06"/>
+      </b>
+      <b name="zhuzio0">
+        <d name="images/bg/010/bg10_06"/>
+      </b>
+      <b name="zhuzio1">
+        <d name="images/bg/010/bg10_06"/>
+      </b>
+      <b name="zhuzio2">
+        <d name="images/bg/010/bg10_06"/>
+      </b>
+      <b name="zhuzio3">
+        <d name="images/bg/010/bg10_06"/>
+      </b>
+      <b name="zhuzio4">
+        <d name="images/bg/010/bg10_06"/>
+      </b>
+      <b name="dibano">
+        <d name="images/common_bg/bg10_01"/>
+      </b>
+      <b name="dibano0">
+        <d name="images/common_bg/bg10_01"/>
+      </b>
+      <b name="taizia2">
+        <d name="images/bg/010/bg10_03"/>
+      </b>
+      <b name="taizia20">
+        <d name="images/bg/010/bg10_03"/>
+      </b>
+      <b name="taizia21">
+        <d name="images/bg/010/bg10_03"/>
+      </b>
+      <b name="taizia22">
+        <d name="images/bg/010/bg10_03"/>
+      </b>
+      <b name="taizia23">
+        <d name="images/bg/010/bg10_03"/>
+      </b>
+      <b name="taizia24">
+        <d name="images/bg/010/bg10_03"/>
+      </b>
+      <b name="taizia25">
+        <d name="images/bg/010/bg10_03"/>
+      </b>
+      <b name="taizia26">
+        <d name="images/bg/010/bg10_03"/>
+      </b>
+    </armature>
+    <armature name="ui_sjboss_flay">
+      <b name="1">
+        <d name="ui_sjboss_bird" isArmature="1"/>
+      </b>
+      <b name="1  复制 2">
+        <d name="ui_sjboss_bird" isArmature="1"/>
+      </b>
+      <b name="1 复制">
+        <d name="ui_sjboss_bird" isArmature="1"/>
+      </b>
+      <b name="1  复制 20">
+        <d name="ui_sjboss_bird" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_sjboss_bird">
+      <b name="images">
+        <d name="images/skill/boss/ui-bird-01"/>
+        <d name="images/skill/boss/ui-bird-02"/>
+        <d name="images/skill/boss/ui-bird-03"/>
+        <d name="images/skill/boss/ui-bird-04"/>
+        <d name="images/skill/boss/ui-bird-05"/>
+        <d name="images/skill/boss/ui-bird-06"/>
+        <d name="images/skill/boss/ui-bird-07"/>
+        <d name="images/skill/boss/ui-bird-08"/>
+        <d name="images/skill/boss/ui-bird-09"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_sjboss_bird">
+      <mov name="stand" dr="27" to="0" drTW="27" lp="1" twE="NaN">
+        <b name="images" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.52" cY="1.52" pX="0" pY="0" z="0" dI="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.52" cY="1.52" pX="0" pY="0" z="0" dI="1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.52" cY="1.52" pX="0" pY="0" z="0" dI="2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.52" cY="1.52" pX="0" pY="0" z="0" dI="3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.52" cY="1.52" pX="0" pY="0" z="0" dI="4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.52" cY="1.52" pX="0" pY="0" z="0" dI="5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.52" cY="1.52" pX="0" pY="0" z="0" dI="6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.52" cY="1.52" pX="0" pY="0" z="0" dI="7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.52" cY="1.52" pX="0" pY="0" z="0" dI="8" dr="3"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_sjboss_flay">
+      <mov name="stand" dr="607" to="0" drTW="607" lp="1" twE="NaN">
+        <b name="1" sc="1" dl="0">
+          <f x="-619.45" y="132.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="299"/>
+          <f x="611.45" y="-84.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f dr="307" dI="-1"/>
+        </b>
+        <b name="1  复制 2" sc="1" dl="0">
+          <f dr="275" dI="-1"/>
+          <f x="-512.05" y="-17.95" kX="0" kY="0" cX="0.53" cY="0.53" pX="0" pY="0" z="0" dI="0" twE="0" dr="331">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="80" gM="80" bM="80"/>
+          </f>
+          <f x="596.1" y="-213.35" kX="0" kY="0" cX="0.53" cY="0.53" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="80" gM="80" bM="80"/>
+          </f>
+        </b>
+        <b name="1 复制" sc="1" dl="0">
+          <f dr="89" dI="-1"/>
+          <f x="-625.5" y="-46.45" kX="0" kY="0" cX="0.77" cY="0.77" pX="0" pY="0" z="1" dI="0" twE="0" dr="299">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="90" gM="90" bM="90"/>
+          </f>
+          <f x="317.35" y="-212.7" kX="0" kY="0" cX="0.77" cY="0.77" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="90" gM="90" bM="90"/>
+          </f>
+          <f dr="218" dI="-1"/>
+        </b>
+        <b name="1  复制 20" sc="1" dl="0">
+          <f dr="161" dI="-1"/>
+          <f x="-627.5" y="-42.5" kX="0" kY="0" cX="0.47" cY="0.47" pX="0" pY="0" z="1" dI="0" twE="0" dr="299">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="75" gM="75" bM="75"/>
+          </f>
+          <f x="315.35" y="-208.75" kX="0" kY="0" cX="0.47" cY="0.47" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="75" gM="75" bM="75"/>
+          </f>
+          <f dr="146" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="b010">
+      <mov name="stand" dr="1" to="0">
+        <b name="tiankong" sc="1" dl="0">
+          <f x="-1" y="-200.6" kX="0" kY="0" cX="97.17" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="san" sc="1" dl="0">
+          <f x="193.7" y="-237.7" kX="0" kY="0" cX="0.88" cY="1.12" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="san0" sc="1" dl="0">
+          <f x="301.8" y="-212.1" kX="0" kY="0" cX="1.25" cY="1.12" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="tiankong_1" sc="1" dl="0">
+          <f x="-1.95" y="-115.35" kX="0" kY="0" cX="2.72" cY="2.72" pX="0" pY="0" z="3" dI="0" dr="1"/>
+        </b>
+        <b name="san1" sc="1" dl="0">
+          <f x="-322.35" y="-212.4" kX="0" kY="0" cX="1.12" cY="1.12" pX="0" pY="0" z="4" dI="0" dr="1"/>
+        </b>
+        <b name="san2" sc="1" dl="0">
+          <f x="-45.85" y="-252.15" kX="0" kY="0" cX="1.12" cY="1.12" pX="0" pY="0" z="5" dI="0" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="-10.55" y="-142.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="1"/>
+        </b>
+        <b name="zhuzio" sc="1" dl="0">
+          <f x="-503.75" y="-240" kX="0" kY="0" cX="1.02" cY="1.02" pX="0" pY="0" z="7" dI="0" dr="1"/>
+        </b>
+        <b name="zhuzio0" sc="1" dl="0">
+          <f x="-336.7" y="-240" kX="0" kY="0" cX="1.02" cY="1.02" pX="0" pY="0" z="8" dI="0" dr="1"/>
+        </b>
+        <b name="zhuzio1" sc="1" dl="0">
+          <f x="-152.85" y="-240" kX="0" kY="0" cX="1.02" cY="1.02" pX="0" pY="0" z="9" dI="0" dr="1"/>
+        </b>
+        <b name="zhuzio2" sc="1" dl="0">
+          <f x="493.2" y="-240" kX="0" kY="180" cX="1.04" cY="1.02" pX="0" pY="0" z="10" dI="0" dr="1"/>
+        </b>
+        <b name="zhuzio3" sc="1" dl="0">
+          <f x="320" y="-240" kX="0" kY="180" cX="1.04" cY="1.02" pX="0" pY="0" z="11" dI="0" dr="1"/>
+        </b>
+        <b name="zhuzio4" sc="1" dl="0">
+          <f x="136.8" y="-240" kX="0" kY="180" cX="1.04" cY="1.02" pX="0" pY="0" z="12" dI="0" dr="1"/>
+        </b>
+        <b name="dibano" sc="1" dl="0">
+          <f x="-295.6" y="149.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="13" dI="0" dr="1"/>
+        </b>
+        <b name="dibano0" sc="1" dl="0">
+          <f x="287.35" y="149.35" kX="0" kY="180" cX="1.02" cY="1" pX="0" pY="0" z="14" dI="0" dr="1"/>
+        </b>
+        <b name="taizia2" sc="1" dl="0">
+          <f x="-566.3" y="-143.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="15" dI="0" dr="1"/>
+        </b>
+        <b name="taizia20" sc="1" dl="0">
+          <f x="-418.1" y="-143.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="16" dI="0" dr="1"/>
+        </b>
+        <b name="taizia21" sc="1" dl="0">
+          <f x="-265.15" y="-143.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="17" dI="0" dr="1"/>
+        </b>
+        <b name="taizia22" sc="1" dl="0">
+          <f x="-97" y="-143.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="18" dI="0" dr="1"/>
+        </b>
+        <b name="taizia23" sc="1" dl="0">
+          <f x="555.55" y="-143.5" kX="0" kY="180" cX="0.99" cY="1" pX="0" pY="0" z="19" dI="0" dr="1"/>
+        </b>
+        <b name="taizia24" sc="1" dl="0">
+          <f x="408.25" y="-143.5" kX="0" kY="180" cX="0.99" cY="1" pX="0" pY="0" z="20" dI="0" dr="1"/>
+        </b>
+        <b name="taizia25" sc="1" dl="0">
+          <f x="256.3" y="-143.5" kX="0" kY="180" cX="0.99" cY="1" pX="0" pY="0" z="21" dI="0" dr="1"/>
+        </b>
+        <b name="taizia26" sc="1" dl="0">
+          <f x="89.2" y="-143.5" kX="0" kY="180" cX="0.99" cY="1" pX="0" pY="0" z="22" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="b010">
+    <SubTexture name="images/skill/boss/ui-bird-09" width="112" height="71" cocos2d_pX="56" cocos2d_pY="35.5"/>
+    <SubTexture name="images/skill/boss/ui-bird-08" width="112" height="71" cocos2d_pX="56" cocos2d_pY="35.5"/>
+    <SubTexture name="images/skill/boss/ui-bird-07" width="112" height="71" cocos2d_pX="56" cocos2d_pY="35.5"/>
+    <SubTexture name="images/skill/boss/ui-bird-06" width="112" height="71" cocos2d_pX="56" cocos2d_pY="35.5"/>
+    <SubTexture name="images/skill/boss/ui-bird-05" width="112" height="71" cocos2d_pX="56" cocos2d_pY="35.5"/>
+    <SubTexture name="images/skill/boss/ui-bird-04" width="112" height="71" cocos2d_pX="56" cocos2d_pY="35.5"/>
+    <SubTexture name="images/skill/boss/ui-bird-03" width="112" height="71" cocos2d_pX="56" cocos2d_pY="35.5"/>
+    <SubTexture name="images/skill/boss/ui-bird-02" width="112" height="71" cocos2d_pX="56" cocos2d_pY="35.5"/>
+    <SubTexture name="images/skill/boss/ui-bird-01" width="112" height="71" cocos2d_pX="56" cocos2d_pY="35.5"/>
+    <SubTexture name="images/bg/010/bg10_03" width="138" height="175" cocos2d_pX="69" cocos2d_pY="87.5"/>
+    <SubTexture name="images/common_bg/bg10_01" width="578" height="482" cocos2d_pX="289" cocos2d_pY="241"/>
+    <SubTexture name="images/bg/010/bg10_06" width="109" height="293" cocos2d_pX="54.5" cocos2d_pY="146.5"/>
+    <SubTexture name="images/bg/010/bg10_05" width="269" height="82" cocos2d_pX="134.5" cocos2d_pY="41"/>
+    <SubTexture name="images/bg/010/bg10_02" width="300" height="70" cocos2d_pX="150" cocos2d_pY="35"/>
+    <SubTexture name="images/bg/010/bg10_04" width="12" height="379" cocos2d_pX="6" cocos2d_pY="189.5"/>
+  </TextureAtlas>
+</skeleton>

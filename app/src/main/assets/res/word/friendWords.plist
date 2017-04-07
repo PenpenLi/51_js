@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>choose_friend</key>
+	<string>选择好友</string>
+	<key>friends_num</key>
+	<string>当前好友人数：</string>
+	<key>last_time</key>
+	<string>@分钟之前登录</string>
+	<key>4</key>
+	<string>你当前还没有好友，立即添加好友，丰富你的朋友圈！</string>
+	<key>5</key>
+	<string>好友数量：</string>
+	<key>6</key>
+	<string>黑名单数量：</string>
+	<key>warning1</key>
+	<string>不能给黑名单里的玩家发送邀请哦！</string>
+	<key>warning2</key>
+	<string>成功添加 @ 为好友！</string>
+	<key>warning3</key>
+	<string>无法接受，对方在你的黑名单里！</string>
+	<key>10</key>
+	<string>签名：\\w{c=ffffff}@</string>
+	<key>11</key>
+	<string>（还可输入\\w{c=ff0000}@\\个字）</string>
+	<key>12</key>
+	<string>（已超过\\w{c=ff0000}@\\个字）</string>
+	<key>13</key>
+	<string>查看阵容</string>
+	<key>14</key>
+	<string>好友切磋</string>
+	<key>15</key>
+	<string>私聊</string>
+	<key>16</key>
+	<string>发送留言</string>
+	<key>17</key>
+	<string>加黑名单</string>
+	<key>18</key>
+	<string>删除好友</string>
+	<key>19</key>
+	<string>添加好友</string>
+</dict>
+</plist>

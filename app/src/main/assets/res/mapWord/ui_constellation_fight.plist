@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>7</key>
+        <string>可能掉落</string>
+        <key>8</key>
+        <string>挑战</string>
+        <key>9</key>
+        <string>挑战次数:</string>
+        <key>10</key>
+        <string>换一个</string>
+        <key>11</key>
+        <string>免费@次</string>
+        <key>12</key>
+        <string>后恢复1次</string>
+    </dict>
+</plist>

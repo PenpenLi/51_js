@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>探索</string>
+        <key>2</key>
+        <string>挖</string>
+        <key>3</key>
+        <string>收获</string>
+        <key>4</key>
+        <string>还可挖:</string>
+        <key>5</key>
+        <string>继续挖矿最高可获得\\w{c=00ff00}@金币</string>
+        <key>6</key>
+        <string>未开启</string>
+    </dict>
+</plist>

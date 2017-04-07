@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>title</key>
+        <string>军团列表</string>
+        <key>lab1</key>
+        <string>军团帮主:</string>
+        <key>lab2</key>
+        <string>军团成员:</string>
+        <key>lab3</key>
+        <string>军团战力:</string>
+        <key>lab4</key>
+        <string>军团宣言:</string>
+        <key>lab5</key>
+        <string>消耗</string>
+        <key>btn1</key>
+        <string>申请</string>
+        <key>btn2</key>
+        <string>建立军团</string>
+        <key>btn3</key>
+        <string>撤销</string>
+        <key>btn4</key>
+        <string>加入</string>
+        <key>btn5</key>
+        <string>查看</string>
+        <key>btn6</key>
+        <string>返回</string>
+        <key>input_title</key>
+        <string>输入军团名称</string>
+        <key>input</key>
+        <string>请为军团取个响亮的名称</string>
+        <key>info_app</key>
+        <string>冷却时间还没到呢！</string>
+        <key>info_app2</key>
+        <string>已经申请过了</string>
+        <key>14</key>
+        <string>点击此处刷新全部军团</string>
+        <key>15</key>
+        <string>点击此处刷新推荐军团</string>
+        <key>16</key>
+        <string>推荐军团</string>
+        <key>17</key>
+        <string>全部军团</string>
+        <key>18</key>
+        <string>审核次数:</string>
+        <key>19</key>
+        <string>请选择一个军团徽章</string>
+        <key>btn7</key>
+        <string>刷新</string>
+    </dict>
+</plist>

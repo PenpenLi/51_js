@@ -1,0 +1,507 @@
+<skeleton name="ui_family_xuexi" frameRate="30" version="2.2">
+  <armatures>
+    <armature name="ui_family_xuexi_guangxiao">
+      <b name="图层 5">
+        <d name="images/skill/ui/ui-huangguang"/>
+      </b>
+      <b name="3">
+        <d name="images/skill/013/s013_quan"/>
+      </b>
+      <b name="2">
+        <d name="images/skill/013/s013_quan"/>
+      </b>
+      <b name="2 复制">
+        <d name="images/skill/013/s013_quan"/>
+      </b>
+      <b name="1">
+        <d name="ui_family_xingdian" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui_family_xingdian">
+      <b name="1">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+      <b name="1  复制 2">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+      <b name="1   复制 3">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+      <b name="2">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+      <b name="3">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+      <b name="5">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+      <b name="4">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+      <b name="1 复制">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+      <b name="2 复制">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+      <b name="3 复制">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+      <b name="5 复制">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+      <b name="4 复制">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+      <b name="1  复制 20">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+      <b name="2  复制 2">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+      <b name="3  复制 2">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+      <b name="5  复制 2">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+      <b name="4  复制 2">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+      <b name="1   复制 30">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+      <b name="2   复制 3">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+      <b name="3   复制 3">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+      <b name="5   复制 3">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+      <b name="图层 1">
+        <d name="images/ui_pic1/cou_point"/>
+      </b>
+    </armature>
+    <armature name="ui_family_ka1">
+      <b name="1">
+        <d name="images/ui_family/draw_1"/>
+      </b>
+      <b name="2">
+        <d name="images/ui_family/draw_2"/>
+      </b>
+      <b name="3">
+        <d name="images/ui_family/draw_2"/>
+      </b>
+    </armature>
+    <armature name="ui_xuexi_guangxiao_ka">
+      <b name="图层 1">
+        <d name="images/ui_family/draw_2"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_family_xuexi_guangxiao">
+      <mov name="stand" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0.35" y="1.35" kX="0" kY="0" cX="5.49" cY="5.49" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="14">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="1.35" kX="0" kY="0" cX="5.49" cY="5.49" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="20"/>
+          <f x="0.35" y="1.35" kX="0" kY="0" cX="5.49" cY="5.49" bd="8" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="15" dI="-1"/>
+        </b>
+        <b name="3" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="14">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="54"/>
+          </f>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="5.46" cY="5.46" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="54"/>
+          </f>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="8.78" cY="8.78" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="0" gM="100" bM="54"/>
+          </f>
+          <f dr="25" dI="-1"/>
+        </b>
+        <b name="2" sc="1" dl="0">
+          <f dr="10" dI="-1"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="14">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="19" gM="100" bM="54"/>
+          </f>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="5.46" cY="5.46" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="19" gM="100" bM="54"/>
+          </f>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="8.78" cY="8.78" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="19" gM="100" bM="54"/>
+          </f>
+          <f dr="15" dI="-1"/>
+        </b>
+        <b name="2 复制" sc="1" dl="0">
+          <f dr="20" dI="-1"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="14">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="19" gM="100" bM="54"/>
+          </f>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="5.46" cY="5.46" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="19" gM="100" bM="54"/>
+          </f>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="8.78" cY="8.78" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="19" gM="100" bM="54"/>
+          </f>
+          <f dr="5" dI="-1"/>
+        </b>
+        <b name="1" sc="1" dl="0">
+          <f x="-0.05" y="0.05" kX="0" kY="0" cX="0.23" cY="0.23" pX="-4.9" pY="-6.65" z="3" dI="0" dr="29"/>
+          <f x="-0.05" y="0.05" kX="0" kY="0" cX="0.23" cY="0.23" pX="-4.9" pY="-6.65" z="0" dI="0" twE="0" dr="20"/>
+          <f x="-0.05" y="0.05" kX="0" kY="0" cX="0.23" cY="0.23" pX="-4.9" pY="-6.65" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_family_xingdian">
+      <mov name="stand" dr="73" to="0" drTW="73" lp="1" twE="NaN">
+        <b name="1" sc="1" dl="0">
+          <f x="528.35" y="-493.75" kX="-132.45" kY="-122.74" cX="0.46" cY="0.97" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="16">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="183.6" y="-170.1" kX="-132.33" kY="-122.64" cX="0.29" cY="0.62" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="13">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="39.95" y="-35.4" kX="-132.45" kY="-122.74" cX="0.26" cY="0.25" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f dr="43" dI="-1"/>
+        </b>
+        <b name="1  复制 2" sc="1" dl="0">
+          <f dr="3" dI="-1"/>
+          <f x="865.5" y="-674.6" kX="-125.45" kY="-117.17" cX="1.14" cY="2.35" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="16">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="402.2" y="-335.25" kX="-125.34" kY="-117.07" cX="0.72" cY="1.51" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="13">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="209.15" y="-193.85" kX="-125.46" kY="-117.17" cX="0.54" cY="0.5" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f dr="40" dI="-1"/>
+        </b>
+        <b name="1   复制 3" sc="1" dl="0">
+          <f dr="6" dI="-1"/>
+          <f x="-989.4" y="479.2" kX="65.45" kY="70.28" cX="1.39" cY="2.8" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="16">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-372.85" y="187.15" kX="65.57" kY="70.38" cX="0.87" cY="1.8" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="13">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-116" y="65.45" kX="65.45" kY="70.28" cX="0.66" cY="0.6" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f dr="37" dI="-1"/>
+        </b>
+        <b name="2" sc="1" dl="0">
+          <f dr="19" dI="-1"/>
+          <f x="-520.05" y="-481.8" kX="133.21" kY="123.45" cX="0.91" cY="1.94" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="13">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-172" y="-163.2" kX="133.32" kY="123.55" cX="0.57" cY="1.25" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-27.05" y="-30.4" kX="133.21" kY="123.44" cX="0.43" cY="0.41" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f dr="30" dI="-1"/>
+        </b>
+        <b name="3" sc="1" dl="0">
+          <f dr="6" dI="-1"/>
+          <f x="-774.95" y="-16.8" kX="89.75" kY="89.83" cX="0.58" cY="1.97" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-248.9" y="-2.9" kX="89.3" kY="89.51" cX="0.36" cY="0.69" bd="8" pX="0" pY="0" z="4" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-31.9" y="3" kX="92.67" kY="91.88" cX="0.39" cY="0.32" bd="8" pX="0" pY="0" z="4" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f dr="47" dI="-1"/>
+        </b>
+        <b name="5" sc="1" dl="0">
+          <f dr="39" dI="-1"/>
+          <f x="448.2" y="-595.2" kX="-142.46" kY="-132.46" cX="0.88" cY="1.48" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="155.85" y="-205" kX="-142.36" kY="-132.35" cX="0.56" cY="0.83" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="34.05" y="-42.5" kX="-142.47" kY="-132.47" cX="0.42" cY="0.43" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f dr="14" dI="-1"/>
+        </b>
+        <b name="4" sc="1" dl="0">
+          <f dr="25" dI="-1"/>
+          <f x="-1.6" y="-784.1" kX="-179.54" kY="-179.35" cX="0.58" cY="1.33" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-1.4" y="-260.9" kX="-179.36" kY="-179.09" cX="0.43" cY="0.71" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-1.5" y="-43" kX="-179.42" kY="-179.17" cX="0.38" cY="0.46" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f dr="28" dI="-1"/>
+        </b>
+        <b name="1 复制" sc="1" dl="0">
+          <f x="-524.7" y="495.7" kX="47.55" kY="57.26" cX="0.91" cY="1.94" bd="8" pX="0" pY="0" z="4" dI="0" twE="0" dr="16">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-179.85" y="172.05" kX="47.66" kY="57.36" cX="0.57" cY="1.24" bd="8" pX="0" pY="0" z="5" dI="0" twE="0" dr="13">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-36.25" y="37.35" kX="47.55" kY="57.25" cX="0.43" cY="0.41" bd="8" pX="0" pY="0" z="5" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f dr="43" dI="-1"/>
+        </b>
+        <b name="2 复制" sc="1" dl="0">
+          <f dr="19" dI="-1"/>
+          <f x="532.9" y="483.7" kX="-46.79" kY="-56.55" cX="2.46" cY="1.36" bd="8" pX="0" pY="0" z="4" dI="0" twE="0" dr="13">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="225.05" y="213.1" kX="-46.68" kY="-56.45" cX="1.16" cY="0.62" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="39.9" y="32.35" kX="-46.79" kY="-56.56" cX="0.3" cY="0.29" bd="8" pX="0" pY="0" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f dr="30" dI="-1"/>
+        </b>
+        <b name="3 复制" sc="1" dl="0">
+          <f dr="6" dI="-1"/>
+          <f x="853.05" y="3.25" kX="-90.27" kY="-90.19" cX="1.88" cY="1.34" bd="8" pX="0" pY="0" z="5" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="343.5" y="4.85" kX="-88.66" kY="-89.06" cX="0.83" cY="0.75" bd="8" pX="0" pY="0" z="7" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="54.4" y="-1.05" kX="-87.33" kY="-88.12" cX="0.46" cY="0.38" bd="8" pX="0" pY="0" z="8" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f dr="47" dI="-1"/>
+        </b>
+        <b name="5 复制" sc="1" dl="0">
+          <f dr="39" dI="-1"/>
+          <f x="-444.55" y="597.1" kX="37.54" kY="47.54" cX="0.88" cY="1.48" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-152.2" y="206.95" kX="37.64" kY="47.65" cX="0.56" cY="0.83" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-30.4" y="44.45" kX="37.53" kY="47.53" cX="0.42" cY="0.43" bd="8" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f dr="14" dI="-1"/>
+        </b>
+        <b name="4 复制" sc="1" dl="0">
+          <f dr="44" dI="-1"/>
+          <f x="-1.45" y="860.65" kX="0.85" kY="0.76" cX="2.12" cY="1.53" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-0.4" y="323.9" kX="1.01" kY="1.05" cX="0.96" cY="0.65" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="3.3" y="43.35" kX="0.96" kY="0.96" cX="0.39" cY="0.29" bd="8" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f dr="9" dI="-1"/>
+        </b>
+        <b name="1  复制 20" sc="1" dl="0">
+          <f dr="14" dI="-1"/>
+          <f x="432.15" y="642.5" kX="-32.49" kY="-41.17" cX="0.45" cY="1.77" bd="8" pX="0" pY="0" z="7" dI="0" twE="0" dr="16">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="139.35" y="198.4" kX="-32.38" kY="-41.06" cX="0.24" cY="1.14" bd="8" pX="0" pY="0" z="5" dI="0" twE="0" dr="13">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="41.55" y="48.55" kX="-32.49" kY="-41.18" cX="0.11" cY="0.38" bd="8" pX="0" pY="0" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f dr="29" dI="-1"/>
+        </b>
+        <b name="2  复制 2" sc="1" dl="0">
+          <f dr="33" dI="-1"/>
+          <f x="368.15" y="-476.05" kX="-142.07" kY="-133.09" cX="2.27" cY="1.65" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="13">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="181.6" y="-217.15" kX="-141.98" kY="-132.96" cX="0.74" cY="0.54" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="23.15" y="-23.4" kX="-142.07" kY="-133.09" cX="0.31" cY="0.35" bd="8" pX="0" pY="0" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f dr="16" dI="-1"/>
+        </b>
+        <b name="3  复制 2" sc="1" dl="0">
+          <f dr="20" dI="-1"/>
+          <f x="21.95" y="-604.4" kX="-177.49" kY="-176.43" cX="0.63" cY="1.24" bd="8" pX="0" pY="0" z="8" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="8.4" y="-197.9" kX="-177.4" kY="-176.3" cX="0.4" cY="0.7" bd="8" pX="0" pY="0" z="5" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="2.65" y="-28.4" kX="-177.49" kY="-176.43" cX="0.3" cY="0.36" bd="8" pX="0" pY="0" z="7" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f dr="33" dI="-1"/>
+        </b>
+        <b name="5  复制 2" sc="1" dl="0">
+          <f dr="53" dI="-1"/>
+          <f x="379.7" y="415.5" kX="-41.71" kY="-51.73" cX="0.7" cY="1.14" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="128.25" y="140.45" kX="-41.6" kY="-51.63" cX="0.44" cY="0.64" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="23.6" y="25.75" kX="-41.71" kY="-51.73" cX="0.33" cY="0.33" bd="8" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+        </b>
+        <b name="4  复制 2" sc="1" dl="0">
+          <f dr="39" dI="-1"/>
+          <f x="507.95" y="3.1" kX="-88.45" kY="-88.91" cX="0.54" cY="0.86" bd="8" pX="0" pY="0" z="4" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="175" y="3.3" kX="-88.19" kY="-88.72" cX="0.39" cY="0.46" bd="8" pX="0" pY="0" z="4" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="32.9" y="0.9" kX="-88.27" kY="-88.79" cX="0.36" cY="0.3" bd="8" pX="0" pY="0" z="4" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f dr="14" dI="-1"/>
+        </b>
+        <b name="1   复制 30" sc="1" dl="0">
+          <f dr="6" dI="-1"/>
+          <f x="-293.2" y="-419.35" kX="145.02" kY="136.39" cX="2.37" cY="1.63" bd="8" pX="0" pY="0" z="10" dI="0" twE="0" dr="16">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-123.6" y="-164.05" kX="145.12" kY="136.51" cX="0.92" cY="0.67" bd="8" pX="0" pY="0" z="7" dI="0" twE="0" dr="13">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-27.3" y="-29.35" kX="145.02" kY="136.39" cX="0.31" cY="0.35" bd="8" pX="0" pY="0" z="7" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f dr="37" dI="-1"/>
+        </b>
+        <b name="2   复制 3" sc="1" dl="0">
+          <f dr="25" dI="-1"/>
+          <f x="-359.85" y="554.15" kX="34.16" kY="43.98" cX="1.68" cY="1.35" bd="8" pX="0" pY="0" z="6" dI="0" twE="0" dr="13">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-105.95" y="183.8" kX="34.26" kY="44.1" cX="0.75" cY="0.59" bd="8" pX="0" pY="0" z="5" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-56.85" y="97.25" kX="34.15" kY="43.98" cX="0.32" cY="0.33" bd="8" pX="0" pY="0" z="5" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f dr="24" dI="-1"/>
+        </b>
+        <b name="3   复制 3" sc="1" dl="0">
+          <f dr="12" dI="-1"/>
+          <f x="-14.3" y="561.2" kX="2.51" kY="3.57" cX="1.34" cY="1.24" bd="8" pX="0" pY="0" z="11" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-0.75" y="239.25" kX="2.6" kY="3.7" cX="0.4" cY="0.7" bd="8" pX="0" pY="0" z="9" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="4.95" y="34.55" kX="2.51" kY="3.57" cX="0.3" cY="0.36" bd="8" pX="0" pY="0" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f dr="41" dI="-1"/>
+        </b>
+        <b name="5   复制 3" sc="1" dl="0">
+          <f dr="45" dI="-1"/>
+          <f x="-390.5" y="-421.9" kX="138.29" kY="128.27" cX="0.7" cY="1.14" bd="8" pX="0" pY="0" z="6" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-139" y="-146.85" kX="138.4" kY="128.37" cX="0.44" cY="0.64" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-34.35" y="-32.15" kX="138.29" kY="128.27" cX="0.33" cY="0.33" bd="8" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f dr="8" dI="-1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f dr="31" dI="-1"/>
+          <f x="-790.95" y="2.55" kX="91.82" kY="90.93" cX="2.61" cY="1.25" bd="8" pX="0" pY="0" z="9" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-337.3" y="2.25" kX="92.13" kY="91.08" cX="1.06" cY="0.67" bd="8" pX="0" pY="0" z="6" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f x="-42" y="6.3" kX="92.03" kY="91.03" cX="0.61" cY="0.43" bd="8" pX="0" pY="0" z="6" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="100" bM="70"/>
+          </f>
+          <f dr="22" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_family_ka1">
+      <mov name="stand" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="1" sc="1" dl="0">
+          <f x="1.45" y="1.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="4.55" y="0.7" kX="0" kY="-4.51" cX="1.02" cY="1.02" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-3.95" y="1.7" kX="0" kY="5.46" cX="1.08" cY="1.08" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="8.05" y="0.7" kX="0" kY="-2.49" cX="1.12" cY="1.11" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="1.05" y="0.7" kX="0" kY="0" cX="1.22" cY="1.22" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+          <f x="1.05" y="0.7" kX="0" kY="0" cX="1.19" cY="1.19" pX="0" pY="0" z="0" dI="0" dr="33"/>
+        </b>
+        <b name="2" sc="1" dl="0">
+          <f dr="12" dI="-1"/>
+          <f x="0.95" y="0.95" kX="0" kY="0" cX="1.21" cY="1.21" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="8"/>
+          <f x="0.95" y="0.95" kX="0" kY="0" cX="1.38" cY="1.38" bd="8" pX="0" pY="0" z="1" dI="0" dr="30">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="3" sc="1" dl="0">
+          <f dr="12" dI="-1"/>
+          <f x="0.95" y="0.95" kX="0" kY="0" cX="1.21" cY="1.21" pX="0" pY="0" z="2" dI="0" twE="0" dr="12"/>
+          <f x="0.95" y="0.95" kX="0" kY="0" cX="1.21" cY="1.21" pX="0" pY="0" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="25" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_xuexi_guangxiao_ka">
+      <mov name="stand" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_family_xuexi">
+    <SubTexture name="images/ui_family/draw_2" width="138" height="150" cocos2d_pX="69" cocos2d_pY="75"/>
+    <SubTexture name="images/ui_family/draw_1" width="138" height="150" cocos2d_pX="69" cocos2d_pY="75"/>
+    <SubTexture name="images/ui_pic1/cou_point" width="37" height="82" cocos2d_pX="18.5" cocos2d_pY="41"/>
+    <SubTexture name="images/skill/013/s013_quan" width="50" height="50" cocos2d_pX="25" cocos2d_pY="25"/>
+    <SubTexture name="images/skill/ui/ui-huangguang" width="56" height="55" cocos2d_pX="28" cocos2d_pY="27.5"/>
+  </TextureAtlas>
+</skeleton>

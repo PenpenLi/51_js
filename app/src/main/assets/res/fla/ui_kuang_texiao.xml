@@ -1,0 +1,254 @@
+<skeleton name="ui_kuang_texiao" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="ui_kuang_guang">
+      <b name="images 复制">
+        <d name="images/skill/ui/ui_kuang_guang_01"/>
+        <d name="images/skill/ui/ui_kuang_guang_02"/>
+        <d name="images/skill/ui/ui_kuang_guang_03"/>
+        <d name="images/skill/ui/ui_kuang_guang_04"/>
+        <d name="images/skill/ui/ui_kuang_guang_05"/>
+        <d name="images/skill/ui/ui_kuang_guang_06"/>
+        <d name="images/skill/ui/ui_kuang_guang_07"/>
+        <d name="images/skill/ui/ui_kuang_guang_08"/>
+        <d name="images/skill/ui/ui_kuang_guang_09"/>
+        <d name="images/skill/ui/ui_kuang_guang_10"/>
+        <d name="images/skill/ui/ui_kuang_guang_11"/>
+        <d name="images/skill/ui/ui_kuang_guang_12"/>
+        <d name="images/skill/ui/ui_kuang_guang_13"/>
+        <d name="images/skill/ui/ui_kuang_guang_14"/>
+        <d name="images/skill/ui/ui_kuang_guang_15"/>
+      </b>
+      <b name="images">
+        <d name="images/skill/ui/ui_kuang_guang_01"/>
+        <d name="images/skill/ui/ui_kuang_guang_02"/>
+        <d name="images/skill/ui/ui_kuang_guang_03"/>
+        <d name="images/skill/ui/ui_kuang_guang_04"/>
+        <d name="images/skill/ui/ui_kuang_guang_05"/>
+        <d name="images/skill/ui/ui_kuang_guang_06"/>
+        <d name="images/skill/ui/ui_kuang_guang_07"/>
+        <d name="images/skill/ui/ui_kuang_guang_08"/>
+        <d name="images/skill/ui/ui_kuang_guang_09"/>
+        <d name="images/skill/ui/ui_kuang_guang_10"/>
+        <d name="images/skill/ui/ui_kuang_guang_11"/>
+        <d name="images/skill/ui/ui_kuang_guang_12"/>
+        <d name="images/skill/ui/ui_kuang_guang_13"/>
+        <d name="images/skill/ui/ui_kuang_guang_14"/>
+        <d name="images/skill/ui/ui_kuang_guang_15"/>
+      </b>
+      <b name="images  复制 2">
+        <d name="images/skill/ui/ui_kuang_guang_01"/>
+        <d name="images/skill/ui/ui_kuang_guang_02"/>
+        <d name="images/skill/ui/ui_kuang_guang_03"/>
+        <d name="images/skill/ui/ui_kuang_guang_04"/>
+        <d name="images/skill/ui/ui_kuang_guang_05"/>
+        <d name="images/skill/ui/ui_kuang_guang_06"/>
+        <d name="images/skill/ui/ui_kuang_guang_07"/>
+        <d name="images/skill/ui/ui_kuang_guang_08"/>
+        <d name="images/skill/ui/ui_kuang_guang_09"/>
+        <d name="images/skill/ui/ui_kuang_guang_10"/>
+        <d name="images/skill/ui/ui_kuang_guang_11"/>
+        <d name="images/skill/ui/ui_kuang_guang_12"/>
+        <d name="images/skill/ui/ui_kuang_guang_13"/>
+        <d name="images/skill/ui/ui_kuang_guang_14"/>
+        <d name="images/skill/ui/ui_kuang_guang_15"/>
+      </b>
+      <b name="图层 4">
+        <d name="images/skill/ui/fenchen2"/>
+      </b>
+      <b name="图层 4 复制">
+        <d name="images/skill/ui/fenchen2"/>
+      </b>
+    </armature>
+    <armature name="ui_kuang_xiaoguo">
+      <b name="images">
+        <d name="images/skill/ui/ui-kuang-guangxiao-01"/>
+        <d name="images/skill/ui/ui-kuang-guangxiao-02"/>
+        <d name="images/skill/ui/ui-kuang-guangxiao-03"/>
+        <d name="images/skill/ui/ui-kuang-guangxiao-04"/>
+        <d name="images/skill/ui/ui-kuang-guangxiao-05"/>
+        <d name="images/skill/ui/ui-kuang-guangxiao-06"/>
+        <d name="images/skill/ui/ui-kuang-guangxiao-07"/>
+        <d name="images/skill/ui/ui-kuang-guangxiao-08"/>
+        <d name="images/skill/ui/ui-kuang-guangxiao-09"/>
+        <d name="images/skill/ui/ui-kuang-guangxiao-10"/>
+      </b>
+      <b name="images 复制">
+        <d name="images/skill/ui/ui-kuang-guangxiao-01"/>
+        <d name="images/skill/ui/ui-kuang-guangxiao-02"/>
+        <d name="images/skill/ui/ui-kuang-guangxiao-03"/>
+        <d name="images/skill/ui/ui-kuang-guangxiao-04"/>
+        <d name="images/skill/ui/ui-kuang-guangxiao-05"/>
+        <d name="images/skill/ui/ui-kuang-guangxiao-06"/>
+        <d name="images/skill/ui/ui-kuang-guangxiao-07"/>
+        <d name="images/skill/ui/ui-kuang-guangxiao-08"/>
+        <d name="images/skill/ui/ui-kuang-guangxiao-09"/>
+        <d name="images/skill/ui/ui-kuang-guangxiao-10"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_kuang_guang">
+      <mov name="stand" dr="60" to="0" drTW="60" lp="1" twE="NaN">
+        <b name="images 复制" sc="1" dl="0">
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.4" cY="1.4" bd="8" pX="0" pY="0" z="0" dI="0" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="18" bM="6"/>
+          </f>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.4" cY="1.4" bd="8" pX="0" pY="0" z="0" dI="1" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="18" bM="6"/>
+          </f>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.4" cY="1.4" bd="8" pX="0" pY="0" z="0" dI="2" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="18" bM="6"/>
+          </f>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.4" cY="1.4" bd="8" pX="0" pY="0" z="0" dI="3" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="18" bM="6"/>
+          </f>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.4" cY="1.4" bd="8" pX="0" pY="0" z="0" dI="4" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="18" bM="6"/>
+          </f>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.4" cY="1.4" bd="8" pX="0" pY="0" z="0" dI="5" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="18" bM="6"/>
+          </f>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.4" cY="1.4" bd="8" pX="0" pY="0" z="0" dI="6" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="18" bM="6"/>
+          </f>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.4" cY="1.4" bd="8" pX="0" pY="0" z="0" dI="7" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="18" bM="6"/>
+          </f>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.4" cY="1.4" bd="8" pX="0" pY="0" z="0" dI="8" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="18" bM="6"/>
+          </f>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.4" cY="1.4" bd="8" pX="0" pY="0" z="0" dI="9" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="18" bM="6"/>
+          </f>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.4" cY="1.4" bd="8" pX="0" pY="0" z="0" dI="10" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="18" bM="6"/>
+          </f>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.4" cY="1.4" bd="8" pX="0" pY="0" z="0" dI="11" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="18" bM="6"/>
+          </f>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.4" cY="1.4" bd="8" pX="0" pY="0" z="0" dI="12" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="18" bM="6"/>
+          </f>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.4" cY="1.4" bd="8" pX="0" pY="0" z="0" dI="13" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="18" bM="6"/>
+          </f>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.4" cY="1.4" bd="8" pX="0" pY="0" z="0" dI="14" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="100" gM="18" bM="6"/>
+          </f>
+        </b>
+        <b name="images" sc="1" dl="0">
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" pX="0" pY="0" z="1" dI="0" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" pX="0" pY="0" z="1" dI="1" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" pX="0" pY="0" z="1" dI="2" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" pX="0" pY="0" z="1" dI="3" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" pX="0" pY="0" z="1" dI="4" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" pX="0" pY="0" z="1" dI="5" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" pX="0" pY="0" z="1" dI="6" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" pX="0" pY="0" z="1" dI="7" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" pX="0" pY="0" z="1" dI="8" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" pX="0" pY="0" z="1" dI="9" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" pX="0" pY="0" z="1" dI="10" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" pX="0" pY="0" z="1" dI="11" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" pX="0" pY="0" z="1" dI="12" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" pX="0" pY="0" z="1" dI="13" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" pX="0" pY="0" z="1" dI="14" dr="4"/>
+        </b>
+        <b name="images  复制 2" sc="1" dl="0">
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" bd="8" pX="0" pY="0" z="2" dI="0" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" bd="8" pX="0" pY="0" z="2" dI="1" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" bd="8" pX="0" pY="0" z="2" dI="2" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" bd="8" pX="0" pY="0" z="2" dI="3" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" bd="8" pX="0" pY="0" z="2" dI="4" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" bd="8" pX="0" pY="0" z="2" dI="5" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" bd="8" pX="0" pY="0" z="2" dI="6" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" bd="8" pX="0" pY="0" z="2" dI="7" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" bd="8" pX="0" pY="0" z="2" dI="8" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" bd="8" pX="0" pY="0" z="2" dI="9" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" bd="8" pX="0" pY="0" z="2" dI="10" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" bd="8" pX="0" pY="0" z="2" dI="11" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" bd="8" pX="0" pY="0" z="2" dI="12" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" bd="8" pX="0" pY="0" z="2" dI="13" dr="4"/>
+          <f x="-0.2" y="-0.15" kX="0" kY="0" cX="1.37" cY="1.37" bd="8" pX="0" pY="0" z="2" dI="14" dr="4"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="20" dI="-1"/>
+          <f x="-37.45" y="-44.5" kX="14.85" kY="21.8" cX="2.91" cY="3.08" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-37.45" y="-44.5" kX="14.85" kY="21.8" cX="5.73" cY="6.05" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="6"/>
+          <f x="-37.45" y="-44.5" kX="14.85" kY="21.8" cX="2.48" cY="2.62" bd="8" pX="0" pY="0" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="27" dI="-1"/>
+        </b>
+        <b name="图层 4 复制" sc="1" dl="0">
+          <f dr="17" dI="-1"/>
+          <f x="43.7" y="50.9" kX="14.85" kY="21.8" cX="3.47" cY="3.67" bd="8" pX="0" pY="0" z="4" dI="0" twE="0" dr="8">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="43.7" y="50.9" kX="14.85" kY="21.8" cX="6.83" cY="7.21" bd="8" pX="0" pY="0" z="4" dI="0" twE="0" dr="4"/>
+          <f x="43.7" y="50.9" kX="14.85" kY="21.8" cX="2.96" cY="3.13" bd="8" pX="0" pY="0" z="4" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="30" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_kuang_xiaoguo">
+      <mov name="stand" dr="30" to="0" drTW="30" lp="1" twE="NaN">
+        <b name="images" sc="1" dl="0">
+          <f x="0.5" y="-8" kX="0" kY="0" cX="1.83" cY="1.83" bd="5" pX="0" pY="0" z="0" dI="0" dr="3"/>
+          <f x="0.5" y="-8" kX="0" kY="0" cX="1.83" cY="1.83" bd="5" pX="0" pY="0" z="0" dI="1" dr="3"/>
+          <f x="0.5" y="-8" kX="0" kY="0" cX="1.83" cY="1.83" bd="5" pX="0" pY="0" z="0" dI="2" dr="3"/>
+          <f x="0.5" y="-8" kX="0" kY="0" cX="1.83" cY="1.83" bd="5" pX="0" pY="0" z="0" dI="3" dr="3"/>
+          <f x="0.5" y="-8" kX="0" kY="0" cX="1.83" cY="1.83" bd="5" pX="0" pY="0" z="0" dI="4" dr="3"/>
+          <f x="0.5" y="-8" kX="0" kY="0" cX="1.83" cY="1.83" bd="5" pX="0" pY="0" z="0" dI="5" dr="3"/>
+          <f x="0.5" y="-8" kX="0" kY="0" cX="1.83" cY="1.83" bd="5" pX="0" pY="0" z="0" dI="6" dr="3"/>
+          <f x="0.5" y="-8" kX="0" kY="0" cX="1.83" cY="1.83" bd="5" pX="0" pY="0" z="0" dI="7" dr="3"/>
+          <f x="0.5" y="-8" kX="0" kY="0" cX="1.83" cY="1.83" bd="5" pX="0" pY="0" z="0" dI="8" dr="3"/>
+          <f x="0.5" y="-8" kX="0" kY="0" cX="1.83" cY="1.83" bd="5" pX="0" pY="0" z="0" dI="9" dr="3"/>
+        </b>
+        <b name="images 复制" sc="1" dl="0">
+          <f x="0.5" y="-8" kX="0" kY="0" cX="1.83" cY="1.83" bd="5" pX="0" pY="0" z="1" dI="0" dr="3"/>
+          <f x="0.5" y="-8" kX="0" kY="0" cX="1.83" cY="1.83" bd="5" pX="0" pY="0" z="1" dI="1" dr="3"/>
+          <f x="0.5" y="-8" kX="0" kY="0" cX="1.83" cY="1.83" bd="5" pX="0" pY="0" z="1" dI="2" dr="3"/>
+          <f x="0.5" y="-8" kX="0" kY="0" cX="1.83" cY="1.83" bd="5" pX="0" pY="0" z="1" dI="3" dr="3"/>
+          <f x="0.5" y="-8" kX="0" kY="0" cX="1.83" cY="1.83" bd="5" pX="0" pY="0" z="1" dI="4" dr="3"/>
+          <f x="0.5" y="-8" kX="0" kY="0" cX="1.83" cY="1.83" bd="5" pX="0" pY="0" z="1" dI="5" dr="3"/>
+          <f x="0.5" y="-8" kX="0" kY="0" cX="1.83" cY="1.83" bd="5" pX="0" pY="0" z="1" dI="6" dr="3"/>
+          <f x="0.5" y="-8" kX="0" kY="0" cX="1.83" cY="1.83" bd="5" pX="0" pY="0" z="1" dI="7" dr="3"/>
+          <f x="0.5" y="-8" kX="0" kY="0" cX="1.83" cY="1.83" bd="5" pX="0" pY="0" z="1" dI="8" dr="3"/>
+          <f x="0.5" y="-8" kX="0" kY="0" cX="1.83" cY="1.83" bd="5" pX="0" pY="0" z="1" dI="9" dr="3"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_kuang_texiao">
+    <SubTexture name="images/skill/ui/ui-kuang-guangxiao-10" width="73" height="94" cocos2d_pX="36.5" cocos2d_pY="47"/>
+    <SubTexture name="images/skill/ui/ui-kuang-guangxiao-09" width="73" height="94" cocos2d_pX="36.5" cocos2d_pY="47"/>
+    <SubTexture name="images/skill/ui/ui-kuang-guangxiao-08" width="73" height="94" cocos2d_pX="36.5" cocos2d_pY="47"/>
+    <SubTexture name="images/skill/ui/ui-kuang-guangxiao-07" width="73" height="94" cocos2d_pX="36.5" cocos2d_pY="47"/>
+    <SubTexture name="images/skill/ui/ui-kuang-guangxiao-06" width="73" height="94" cocos2d_pX="36.5" cocos2d_pY="47"/>
+    <SubTexture name="images/skill/ui/ui-kuang-guangxiao-05" width="73" height="94" cocos2d_pX="36.5" cocos2d_pY="47"/>
+    <SubTexture name="images/skill/ui/ui-kuang-guangxiao-04" width="73" height="94" cocos2d_pX="36.5" cocos2d_pY="47"/>
+    <SubTexture name="images/skill/ui/ui-kuang-guangxiao-03" width="73" height="94" cocos2d_pX="36.5" cocos2d_pY="47"/>
+    <SubTexture name="images/skill/ui/ui-kuang-guangxiao-02" width="73" height="94" cocos2d_pX="36.5" cocos2d_pY="47"/>
+    <SubTexture name="images/skill/ui/ui-kuang-guangxiao-01" width="73" height="94" cocos2d_pX="36.5" cocos2d_pY="47"/>
+    <SubTexture name="images/skill/ui/fenchen2" width="12" height="12" cocos2d_pX="6" cocos2d_pY="6"/>
+    <SubTexture name="images/skill/ui/ui_kuang_guang_15" width="100" height="106" cocos2d_pX="50" cocos2d_pY="53"/>
+    <SubTexture name="images/skill/ui/ui_kuang_guang_14" width="100" height="106" cocos2d_pX="50" cocos2d_pY="53"/>
+    <SubTexture name="images/skill/ui/ui_kuang_guang_13" width="100" height="106" cocos2d_pX="50" cocos2d_pY="53"/>
+    <SubTexture name="images/skill/ui/ui_kuang_guang_12" width="100" height="106" cocos2d_pX="50" cocos2d_pY="53"/>
+    <SubTexture name="images/skill/ui/ui_kuang_guang_11" width="100" height="106" cocos2d_pX="50" cocos2d_pY="53"/>
+    <SubTexture name="images/skill/ui/ui_kuang_guang_10" width="100" height="106" cocos2d_pX="50" cocos2d_pY="53"/>
+    <SubTexture name="images/skill/ui/ui_kuang_guang_09" width="100" height="106" cocos2d_pX="50" cocos2d_pY="53"/>
+    <SubTexture name="images/skill/ui/ui_kuang_guang_08" width="100" height="106" cocos2d_pX="50" cocos2d_pY="53"/>
+    <SubTexture name="images/skill/ui/ui_kuang_guang_07" width="100" height="106" cocos2d_pX="50" cocos2d_pY="53"/>
+    <SubTexture name="images/skill/ui/ui_kuang_guang_06" width="100" height="106" cocos2d_pX="50" cocos2d_pY="53"/>
+    <SubTexture name="images/skill/ui/ui_kuang_guang_05" width="100" height="106" cocos2d_pX="50" cocos2d_pY="53"/>
+    <SubTexture name="images/skill/ui/ui_kuang_guang_04" width="100" height="106" cocos2d_pX="50" cocos2d_pY="53"/>
+    <SubTexture name="images/skill/ui/ui_kuang_guang_03" width="100" height="106" cocos2d_pX="50" cocos2d_pY="53"/>
+    <SubTexture name="images/skill/ui/ui_kuang_guang_02" width="100" height="106" cocos2d_pX="50" cocos2d_pY="53"/>
+    <SubTexture name="images/skill/ui/ui_kuang_guang_01" width="100" height="106" cocos2d_pX="50" cocos2d_pY="53"/>
+  </TextureAtlas>
+</skeleton>

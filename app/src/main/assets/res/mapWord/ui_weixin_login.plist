@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>免费帐号</string>
+        <key>2</key>
+        <string>找回密码</string>
+        <key>3</key>
+        <string>修改密码</string>
+        <key>4</key>
+        <string>登 录</string>
+        <key>5</key>
+        <string>注 册</string>
+        <key>6</key>
+        <string>密码确认：</string>
+        <key>7</key>
+        <string>已有帐号</string>
+        <key>8</key>
+        <string>注 册</string>
+        <key>9</key>
+        <string>注 册</string>
+        <key>10</key>
+        <string>4-12个英文/数字</string>
+        <key>11</key>
+        <string>4-12个英文/数字/点/减号/下划线</string>
+        <key>12</key>
+        <string>4-12个英文/数字</string>
+        <key>13</key>
+        <string>4-12个英文/数字/点/减号/下划线</string>
+        <key>14</key>
+        <string>4-12个英文/数字/点/减号/下划线</string>
+    </dict>
+</plist>

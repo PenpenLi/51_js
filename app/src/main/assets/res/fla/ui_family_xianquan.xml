@@ -1,0 +1,585 @@
+<skeleton name="ui_family_xianquan" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="ui_family_xianquan_xingdianpiao">
+      <b name="1">
+        <d name="images/ui_family/dian01"/>
+      </b>
+      <b name="1 复制">
+        <d name="images/ui_family/dian01"/>
+      </b>
+      <b name="1  复制 2">
+        <d name="images/ui_family/dian01"/>
+      </b>
+      <b name="1   复制 3">
+        <d name="images/ui_family/dian01"/>
+      </b>
+      <b name="1    复制 4">
+        <d name="images/ui_family/dian01"/>
+      </b>
+      <b name="1  复制 20">
+        <d name="images/ui_family/dian01"/>
+      </b>
+      <b name="1   复制 30">
+        <d name="images/ui_family/dian01"/>
+      </b>
+      <b name="1    复制 40">
+        <d name="images/ui_family/dian01"/>
+      </b>
+      <b name="1     复制 5">
+        <d name="images/ui_family/dian01"/>
+      </b>
+      <b name="1  复制 21">
+        <d name="images/ui_family/dian01"/>
+      </b>
+      <b name="1  复制 22">
+        <d name="images/ui_family/dian01"/>
+      </b>
+      <b name="1   复制 31">
+        <d name="images/ui_family/dian01"/>
+      </b>
+      <b name="1    复制 41">
+        <d name="images/ui_family/dian01"/>
+      </b>
+      <b name="1     复制 50">
+        <d name="images/ui_family/dian01"/>
+      </b>
+      <b name="1   复制 32">
+        <d name="images/ui_family/dian01"/>
+      </b>
+      <b name="1    复制 42">
+        <d name="images/ui_family/dian01"/>
+      </b>
+      <b name="1     复制 51">
+        <d name="images/ui_family/dian01"/>
+      </b>
+      <b name="1      复制 6">
+        <d name="images/ui_family/dian01"/>
+      </b>
+    </armature>
+    <armature name="ui_family_xianquan_qizi">
+      <b name="images">
+        <d name="images/skill/family/bang-qi1"/>
+        <d name="images/skill/family/bang-qi2"/>
+        <d name="images/skill/family/bang-qi3"/>
+        <d name="images/skill/family/bang-qi4"/>
+      </b>
+    </armature>
+    <armature name="ui_family_xianquan_bg_3">
+      <b name="shi02">
+        <d name="images/ui_family/shi02"/>
+      </b>
+      <b name="xianquan">
+        <d name="images/ui_family/xianquan"/>
+      </b>
+      <b name="xianquan0">
+        <d name="images/ui_family/xianquan"/>
+      </b>
+      <b name="水面">
+        <d name="ui_family_xianquan_shuibo" isArmature="1"/>
+      </b>
+      <b name="喷水">
+        <d name="ui_family_xianquan_penshui" isArmature="1"/>
+      </b>
+      <b name="xianquan2">
+        <d name="images/ui_family/xianquan2"/>
+      </b>
+      <b name="xianquan20">
+        <d name="images/ui_family/xianquan2"/>
+      </b>
+      <b name="shi03">
+        <d name="images/ui_family/shi03"/>
+      </b>
+      <b name="图层 15">
+        <d name="images/ui_family/shi01"/>
+      </b>
+      <b name="图层 16">
+        <d name="images/ui_family/guang01"/>
+      </b>
+    </armature>
+    <armature name="ui_family_xianquan_bg_2">
+      <b name="shi02">
+        <d name="images/ui_family/shi02"/>
+      </b>
+      <b name="xianquan">
+        <d name="images/ui_family/xianquan"/>
+      </b>
+      <b name="xianquan0">
+        <d name="images/ui_family/xianquan"/>
+      </b>
+      <b name="水面平静">
+        <d name="images/skill/family/yq-shuimian"/>
+      </b>
+      <b name="水面">
+        <d name="ui_family_xianquan_shuibo" isArmature="1"/>
+      </b>
+      <b name="喷水">
+        <d name="ui_family_xianquan_penshui" isArmature="1"/>
+      </b>
+      <b name="图层 11">
+        <d name="ui_family_xianquan_shuihua" isArmature="1"/>
+      </b>
+      <b name="xianquan2">
+        <d name="images/ui_family/xianquan2"/>
+      </b>
+      <b name="xianquan20">
+        <d name="images/ui_family/xianquan2"/>
+      </b>
+      <b name="shi03">
+        <d name="images/ui_family/shi03"/>
+      </b>
+      <b name="图层 15">
+        <d name="images/ui_family/shi01"/>
+      </b>
+      <b name="图层 16">
+        <d name="images/ui_family/guang01"/>
+      </b>
+    </armature>
+    <armature name="ui_family_xianquan_shuibo">
+      <b name="images">
+        <d name="images/skill/family/yq-shuibo1"/>
+        <d name="images/skill/family/yq-shuibo2"/>
+        <d name="images/skill/family/yq-shuibo3"/>
+        <d name="images/skill/family/yq-shuibo4"/>
+        <d name="images/skill/family/yq-shuibo5"/>
+      </b>
+    </armature>
+    <armature name="ui_family_xianquan_penshui">
+      <b name="喷泉">
+        <d name="images/skill/family/yq-shuizhu1"/>
+        <d name="images/skill/family/yq-shuizhu2"/>
+        <d name="images/skill/family/yq-shuizhu3"/>
+        <d name="images/skill/family/yq-shuizhu4"/>
+        <d name="images/skill/family/yq-shuizhu5"/>
+      </b>
+      <b name="水花">
+        <d name="images/skill/family/yq-shuihua1"/>
+        <d name="images/skill/family/yq-shuihua2"/>
+        <d name="images/skill/family/yq-shuihua3"/>
+        <d name="images/skill/family/yq-shuihua4"/>
+        <d name="images/skill/family/yq-shuihua5"/>
+      </b>
+      <b name="烟雾">
+        <d name="images/skill/023/s023-yunwu"/>
+      </b>
+      <b name="烟雾2">
+        <d name="images/skill/023/s023-yunwu"/>
+      </b>
+      <b name="烟雾3">
+        <d name="images/skill/023/s023-yunwu"/>
+      </b>
+    </armature>
+    <armature name="ui_family_xianquan_shuihua">
+      <b name="images">
+        <d name="images/skill/family/yq-shuihua1"/>
+        <d name="images/skill/family/yq-shuihua2"/>
+        <d name="images/skill/family/yq-shuihua3"/>
+        <d name="images/skill/family/yq-shuihua4"/>
+        <d name="images/skill/family/yq-shuihua5"/>
+      </b>
+    </armature>
+    <armature name="ui_family_xianquan_bg_1">
+      <b name="shi02">
+        <d name="images/ui_family/shi02"/>
+      </b>
+      <b name="xianquan">
+        <d name="images/ui_family/xianquan"/>
+      </b>
+      <b name="xianquan0">
+        <d name="images/ui_family/xianquan"/>
+      </b>
+      <b name="水面平静">
+        <d name="images/skill/family/yq-shuimian"/>
+      </b>
+      <b name="xianquan2">
+        <d name="images/ui_family/xianquan2"/>
+      </b>
+      <b name="xianquan20">
+        <d name="images/ui_family/xianquan2"/>
+      </b>
+      <b name="shi03">
+        <d name="images/ui_family/shi03"/>
+      </b>
+      <b name="图层 15">
+        <d name="images/ui_family/shi01"/>
+      </b>
+      <b name="图层 16">
+        <d name="images/ui_family/guang01"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_family_xianquan_xingdianpiao">
+      <mov name="stand" dr="269" to="0" drTW="269" lp="1" twE="NaN">
+        <b name="1" sc="1" dl="0">
+          <f x="-0.55" y="-0.4" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0.3" pY="0.3" z="0" dI="0" twE="0" dr="129"/>
+          <f x="6.45" y="-352.35" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0.3" pY="0.3" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="139" dI="-1"/>
+        </b>
+        <b name="1 复制" sc="1" dl="0">
+          <f dr="101" dI="-1"/>
+          <f x="-235.85" y="21.9" kX="0" kY="0" cX="1.27" cY="1.27" bd="8" pX="0.35" pY="0.3" z="0" dI="0" twE="0" dr="129"/>
+          <f x="-235.85" y="-423.4" kX="0" kY="0" cX="1.27" cY="1.27" bd="8" pX="0.35" pY="0.3" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="38" dI="-1"/>
+        </b>
+        <b name="1  复制 2" sc="1" dl="0">
+          <f dr="13" dI="-1"/>
+          <f x="252.6" y="18.25" kX="0" kY="0" cX="0.42" cY="0.42" bd="8" pX="0.2" pY="0.35" z="1" dI="0" twE="0" dr="129"/>
+          <f x="252.6" y="-407.25" kX="0" kY="0" cX="0.42" cY="0.42" bd="8" pX="0.2" pY="0.35" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="126" dI="-1"/>
+        </b>
+        <b name="1   复制 3" sc="1" dl="0">
+          <f dr="118" dI="-1"/>
+          <f x="409.45" y="13.5" kX="0" kY="0" cX="0.78" cY="0.78" bd="8" pX="0.3" pY="0.25" z="0" dI="0" twE="0" dr="129"/>
+          <f x="409.45" y="-379.9" kX="0" kY="0" cX="0.78" cY="0.78" bd="8" pX="0.3" pY="0.4" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="21" dI="-1"/>
+        </b>
+        <b name="1    复制 4" sc="1" dl="0">
+          <f dr="67" dI="-1"/>
+          <f x="-375.8" y="26.05" kX="0" kY="0" cX="0.94" cY="0.94" bd="8" pX="0.25" pY="0.25" z="2" dI="0" twE="0" dr="129"/>
+          <f x="-375.8" y="-443.85" kX="0" kY="0" cX="0.94" cY="0.94" bd="8" pX="0.25" pY="0.45" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="72" dI="-1"/>
+        </b>
+        <b name="1  复制 20" sc="1" dl="0">
+          <f dr="101" dI="-1"/>
+          <f x="373.35" y="21.9" kX="0" kY="180" cX="1.27" cY="1.27" bd="8" pX="0.3" pY="0.3" z="2" dI="0" twE="0" dr="129"/>
+          <f x="373.35" y="-423.4" kX="0" kY="180" cX="1.27" cY="1.27" bd="8" pX="0.3" pY="0.3" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="38" dI="-1"/>
+        </b>
+        <b name="1   复制 30" sc="1" dl="0">
+          <f dr="53" dI="-1"/>
+          <f x="-115.1" y="18.25" kX="0" kY="180" cX="0.42" cY="0.42" bd="8" pX="0.2" pY="0.35" z="4" dI="0" twE="0" dr="129"/>
+          <f x="-115.1" y="-407.25" kX="0" kY="180" cX="0.42" cY="0.42" bd="8" pX="0.2" pY="0.35" z="4" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="86" dI="-1"/>
+        </b>
+        <b name="1    复制 40" sc="1" dl="0">
+          <f dr="139" dI="-1"/>
+          <f x="-271.95" y="13.5" kX="0" kY="180" cX="0.78" cY="0.78" bd="8" pX="0.25" pY="0.25" z="0" dI="0" twE="0" dr="129"/>
+          <f x="-271.95" y="-379.9" kX="0" kY="180" cX="0.78" cY="0.78" bd="8" pX="0.25" pY="0.4" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="1     复制 5" sc="1" dl="0">
+          <f dr="47" dI="-1"/>
+          <f x="513.3" y="26.05" kX="0" kY="180" cX="0.94" cY="0.94" bd="8" pX="0.3" pY="0.25" z="6" dI="0" twE="0" dr="129"/>
+          <f x="513.3" y="-443.85" kX="0" kY="180" cX="0.94" cY="0.94" bd="8" pX="0.3" pY="0.45" z="6" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="92" dI="-1"/>
+        </b>
+        <b name="1  复制 21" sc="1" dl="0">
+          <f x="138.95" y="153.05" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0.3" pY="0.3" z="8" dI="0" twE="0" dr="129"/>
+          <f x="145.95" y="-198.9" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0.3" pY="0.3" z="8" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="139" dI="-1"/>
+        </b>
+        <b name="1  复制 22" sc="1" dl="0">
+          <f dr="101" dI="-1"/>
+          <f x="-96.35" y="175.35" kX="0" kY="0" cX="1.27" cY="1.27" bd="8" pX="0.3" pY="0.3" z="4" dI="0" twE="0" dr="129"/>
+          <f x="-96.35" y="-269.95" kX="0" kY="0" cX="1.27" cY="1.27" bd="8" pX="0.3" pY="0.35" z="4" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="38" dI="-1"/>
+        </b>
+        <b name="1   复制 31" sc="1" dl="0">
+          <f dr="13" dI="-1"/>
+          <f x="392.1" y="171.7" kX="0" kY="0" cX="0.42" cY="0.42" bd="8" pX="0.25" pY="0.4" z="9" dI="0" twE="0" dr="129"/>
+          <f x="392.1" y="-253.8" kX="0" kY="0" cX="0.42" cY="0.42" bd="8" pX="0.25" pY="0.35" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="126" dI="-1"/>
+        </b>
+        <b name="1    复制 41" sc="1" dl="0">
+          <f dr="118" dI="-1"/>
+          <f x="548.95" y="166.95" kX="0" kY="0" cX="0.78" cY="0.78" bd="8" pX="0.25" pY="0.25" z="2" dI="0" twE="0" dr="129"/>
+          <f x="548.95" y="-226.45" kX="0" kY="0" cX="0.78" cY="0.78" bd="8" pX="0.25" pY="0.4" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="21" dI="-1"/>
+        </b>
+        <b name="1     复制 50" sc="1" dl="0">
+          <f dr="67" dI="-1"/>
+          <f x="-236.3" y="179.5" kX="0" kY="0" cX="0.94" cY="0.94" bd="8" pX="0.3" pY="0.25" z="7" dI="0" twE="0" dr="129"/>
+          <f x="-236.3" y="-290.4" kX="0" kY="0" cX="0.94" cY="0.94" bd="8" pX="0.3" pY="0.4" z="7" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="72" dI="-1"/>
+        </b>
+        <b name="1   复制 32" sc="1" dl="0">
+          <f dr="101" dI="-1"/>
+          <f x="512.85" y="175.35" kX="0" kY="180" cX="1.27" cY="1.27" bd="8" pX="0.3" pY="0.3" z="6" dI="0" twE="0" dr="129"/>
+          <f x="512.85" y="-269.95" kX="0" kY="180" cX="1.27" cY="1.27" bd="8" pX="0.3" pY="0.35" z="6" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="38" dI="-1"/>
+        </b>
+        <b name="1    复制 42" sc="1" dl="0">
+          <f dr="53" dI="-1"/>
+          <f x="24.4" y="171.7" kX="0" kY="180" cX="0.42" cY="0.42" bd="8" pX="0.25" pY="0.4" z="10" dI="0" twE="0" dr="129"/>
+          <f x="24.4" y="-253.8" kX="0" kY="180" cX="0.42" cY="0.42" bd="8" pX="0.25" pY="0.35" z="10" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="86" dI="-1"/>
+        </b>
+        <b name="1     复制 51" sc="1" dl="0">
+          <f dr="139" dI="-1"/>
+          <f x="-132.45" y="166.95" kX="0" kY="180" cX="0.78" cY="0.78" bd="8" pX="0.25" pY="0.25" z="1" dI="0" twE="0" dr="129"/>
+          <f x="-132.45" y="-226.45" kX="0" kY="180" cX="0.78" cY="0.78" bd="8" pX="0.25" pY="0.4" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="1      复制 6" sc="1" dl="0">
+          <f dr="47" dI="-1"/>
+          <f x="652.8" y="179.5" kX="0" kY="180" cX="0.94" cY="0.94" bd="8" pX="0.25" pY="0.25" z="13" dI="0" twE="0" dr="129"/>
+          <f x="652.8" y="-290.4" kX="0" kY="180" cX="0.94" cY="0.94" bd="8" pX="0.25" pY="0.4" z="13" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="92" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_family_xianquan_qizi">
+      <mov name="stand" dr="12" to="0" drTW="12" lp="1" twE="NaN">
+        <b name="images" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" dr="3"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_family_xianquan_bg_3">
+      <mov name="stand" dr="100" to="0" drTW="100" lp="1" twE="NaN">
+        <b name="shi02" sc="1" dl="0">
+          <f x="325.45" y="218.4" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0.35" z="0" dI="0" dr="49"/>
+          <f dr="51" dI="-1"/>
+        </b>
+        <b name="xianquan" sc="1" dl="0">
+          <f x="-148.65" y="193.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="49"/>
+          <f dr="51" dI="-1"/>
+        </b>
+        <b name="xianquan0" sc="1" dl="0">
+          <f x="150.35" y="193.4" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="49"/>
+          <f dr="51" dI="-1"/>
+        </b>
+        <b name="水面" sc="1" dl="0">
+          <f x="4.05" y="256" kX="0" kY="0" cX="1.38" cY="1.38" pX="0" pY="0" z="3" dI="0" dr="49"/>
+          <f dr="51" dI="-1"/>
+        </b>
+        <b name="喷水" sc="1" dl="0">
+          <f x="0.5" y="26.55" kX="0" kY="0" cX="1.05" cY="1.02" pX="1" pY="-93" z="4" dI="0" dr="49"/>
+          <f dr="51" dI="-1"/>
+        </b>
+        <b name="xianquan2" sc="1" dl="0">
+          <f x="-141.3" y="314.45" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0.35" z="5" dI="0" dr="49"/>
+          <f dr="51" dI="-1"/>
+        </b>
+        <b name="xianquan20" sc="1" dl="0">
+          <f x="142.75" y="314.45" kX="0" kY="180" cX="1" cY="1" pX="0.35" pY="0.35" z="6" dI="0" dr="49"/>
+          <f dr="51" dI="-1"/>
+        </b>
+        <b name="shi03" sc="1" dl="0">
+          <f x="-264.05" y="356.4" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0.35" z="0" dI="0" dr="100"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f x="189.1" y="377.45" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0.35" z="1" dI="0" dr="100"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f x="-339.1" y="221.4" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0.35" z="2" dI="0" dr="100"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_family_xianquan_shuibo">
+      <mov name="stand" dr="10" to="0" drTW="10" lp="1" twE="NaN">
+        <b name="images" sc="1" dl="0">
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1.49" cY="1.89" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1.49" cY="1.89" pX="0" pY="0" z="0" dI="1" dr="2"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1.49" cY="1.89" pX="0" pY="0" z="0" dI="2" dr="2"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1.49" cY="1.89" pX="0" pY="0" z="0" dI="3" dr="2"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="1.49" cY="1.89" pX="0" pY="0" z="0" dI="4" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_family_xianquan_penshui">
+      <mov name="stand" dr="10" to="0" drTW="10" lp="1" twE="NaN">
+        <b name="喷泉" sc="1" dl="0">
+          <f x="1" y="4" kX="0" kY="0" cX="2.2" cY="2.2" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="1" y="4" kX="0" kY="0" cX="2.2" cY="2.2" pX="0" pY="0" z="0" dI="1" dr="2"/>
+          <f x="1" y="4" kX="0" kY="0" cX="2.2" cY="2.2" pX="0" pY="0" z="0" dI="2" dr="2"/>
+          <f x="1" y="4" kX="0" kY="0" cX="2.2" cY="2.2" pX="0" pY="0" z="0" dI="3" dr="2"/>
+          <f x="1" y="4" kX="0" kY="0" cX="2.2" cY="2.2" pX="0" pY="0" z="0" dI="4" dr="2"/>
+        </b>
+        <b name="水花" sc="1" dl="0">
+          <f x="5" y="107" kX="0" kY="0" cX="2.22" cY="2.22" bd="8" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f x="5" y="107" kX="0" kY="0" cX="2.22" cY="2.22" bd="8" pX="0" pY="0" z="1" dI="1" dr="2"/>
+          <f x="5" y="107" kX="0" kY="0" cX="2.22" cY="2.22" bd="8" pX="0" pY="0" z="1" dI="2" dr="2"/>
+          <f x="5" y="107" kX="0" kY="0" cX="2.22" cY="2.22" bd="8" pX="0" pY="0" z="1" dI="3" dr="2"/>
+          <f x="5" y="107" kX="0" kY="0" cX="2.22" cY="2.22" bd="8" pX="0" pY="0" z="1" dI="4" dr="2"/>
+        </b>
+        <b name="烟雾" sc="1" dl="0">
+          <f x="-3.3" y="113.8" kX="0" kY="0" cX="2.11" cY="2.11" pX="0" pY="0" z="2" dI="0" twE="0" dr="9"/>
+          <f x="-1.1" y="13.3" kX="0" kY="0" cX="3.18" cY="3.18" pX="0" pY="0" z="2" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="烟雾2" sc="1" dl="0">
+          <f dr="2" dI="-1"/>
+          <f x="-2.65" y="112.35" kX="0" kY="0" cX="1.47" cY="1.47" pX="0" pY="0" z="3" dI="0" twE="0" dr="7"/>
+          <f x="-1.1" y="76.4" kX="0" kY="0" cX="2.21" cY="1.72" pX="0" pY="0" z="3" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="烟雾3" sc="1" dl="0">
+          <f x="-2.65" y="127.3" kX="180" kY="0" cX="1.47" cY="1.47" pX="0" pY="0" z="4" dI="0" twE="0" dr="9"/>
+          <f x="-4.1" y="151.3" kX="180" kY="0" cX="2.21" cY="1.5" pX="0" pY="0" z="4" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_family_xianquan_shuihua">
+      <mov name="stand" dr="10" to="0" drTW="10" lp="1" twE="NaN">
+        <b name="images" sc="1" dl="0">
+          <f x="0" y="0.35" kX="0" kY="0" cX="2.22" cY="2.22" bd="8" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="0" y="0.35" kX="0" kY="0" cX="2.22" cY="2.22" bd="8" pX="0" pY="0" z="0" dI="1" dr="2"/>
+          <f x="0" y="0.35" kX="0" kY="0" cX="2.22" cY="2.22" bd="8" pX="0" pY="0" z="0" dI="2" dr="2"/>
+          <f x="0" y="0.35" kX="0" kY="0" cX="2.22" cY="2.22" bd="8" pX="0" pY="0" z="0" dI="3" dr="2"/>
+          <f x="0" y="0.35" kX="0" kY="0" cX="2.22" cY="2.22" bd="8" pX="0" pY="0" z="0" dI="4" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_family_xianquan_bg_2">
+      <mov name="stand" dr="100" to="0" drTW="100" lp="1" twE="NaN">
+        <b name="shi02" sc="1" dl="0">
+          <f x="325.45" y="218.4" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0.35" z="0" dI="0" dr="100"/>
+        </b>
+        <b name="xianquan" sc="1" dl="0">
+          <f x="-148.65" y="193.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="100"/>
+        </b>
+        <b name="xianquan0" sc="1" dl="0">
+          <f x="150.35" y="193.4" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="100"/>
+        </b>
+        <b name="水面平静" sc="1" dl="0">
+          <f x="2.35" y="292.4" kX="0" kY="0" cX="2.39" cY="2.89" pX="0" pY="0" z="3" dI="0" dr="100"/>
+        </b>
+        <b name="水面" sc="1" dl="0">
+          <f dr="10" dI="-1"/>
+          <f x="4.05" y="279" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="4.05" y="279" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="32"/>
+          <f x="4.05" y="256" kX="0" kY="0" cX="1.38" cY="1.38" pX="0" pY="0" z="4" dI="0" dr="49"/>
+        </b>
+        <b name="喷水" sc="1" dl="0">
+          <f dr="10" dI="-1"/>
+          <f x="1.5" y="25.55" kX="0" kY="0" cX="0.66" cY="0.13" pX="2" pY="-94.05" z="5" dI="0" twE="0" dr="9"/>
+          <f x="0.5" y="26.55" kX="0" kY="0" cX="1.05" cY="1.09" pX="1" pY="-93" z="5" dI="0" twE="0" dr="32"/>
+          <f x="0.5" y="26.55" kX="0" kY="0" cX="1.05" cY="1.02" pX="1" pY="-93" z="5" dI="0" dr="49"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f x="7.05" y="23.35" kX="0" kY="0" cX="0.4" cY="0.4" pX="0" pY="0" z="4" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="7.05" y="41.35" kX="0" kY="0" cX="0.77" cY="0.77" pX="0" pY="0" z="6" dI="0" dr="2"/>
+          <f x="7.05" y="89.35" kX="0" kY="0" cX="0.77" cY="0.77" pX="0" pY="0" z="6" dI="0" dr="2"/>
+          <f x="7.05" y="148.4" kX="0" kY="0" cX="0.53" cY="0.77" pX="0" pY="0" z="6" dI="0" dr="2"/>
+          <f x="7.05" y="193.4" kX="0" kY="0" cX="0.53" cY="0.77" pX="0" pY="0" z="6" dI="0" dr="2"/>
+          <f x="7.05" y="242.4" kX="0" kY="0" cX="0.53" cY="0.77" pX="0" pY="0" z="6" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="81" dI="-1"/>
+        </b>
+        <b name="xianquan2" sc="1" dl="0">
+          <f x="-141.3" y="314.45" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0.35" z="6" dI="0" dr="100"/>
+        </b>
+        <b name="xianquan20" sc="1" dl="0">
+          <f x="142.75" y="314.45" kX="0" kY="180" cX="1" cY="1" pX="0.35" pY="0.35" z="7" dI="0" dr="100"/>
+        </b>
+        <b name="shi03" sc="1" dl="0">
+          <f x="-264.05" y="356.4" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0.35" z="8" dI="0" dr="100"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f x="189.1" y="377.45" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0.35" z="9" dI="0" dr="100"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f x="-339.1" y="221.4" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0.35" z="10" dI="0" dr="100"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_family_xianquan_bg_1">
+      <mov name="stand" dr="100" to="0" drTW="100" lp="1" twE="NaN">
+        <b name="shi02" sc="1" dl="0">
+          <f x="325.45" y="218.4" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0.35" z="0" dI="0" dr="100"/>
+        </b>
+        <b name="xianquan" sc="1" dl="0">
+          <f x="-148.65" y="193.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="100"/>
+        </b>
+        <b name="xianquan0" sc="1" dl="0">
+          <f x="150.35" y="193.4" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="100"/>
+        </b>
+        <b name="水面平静" sc="1" dl="0">
+          <f x="2.35" y="292.4" kX="0" kY="0" cX="2.39" cY="2.89" pX="0" pY="0" z="3" dI="0" dr="100"/>
+        </b>
+        <b name="xianquan2" sc="1" dl="0">
+          <f x="-141.3" y="314.45" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0.35" z="4" dI="0" dr="100"/>
+        </b>
+        <b name="xianquan20" sc="1" dl="0">
+          <f x="142.75" y="314.45" kX="0" kY="180" cX="1" cY="1" pX="0.35" pY="0.35" z="5" dI="0" dr="100"/>
+        </b>
+        <b name="shi03" sc="1" dl="0">
+          <f x="-264.05" y="356.4" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0.35" z="6" dI="0" dr="100"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f x="189.1" y="377.45" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0.35" z="7" dI="0" dr="100"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f x="-339.1" y="221.4" kX="0" kY="0" cX="1" cY="1" pX="0.35" pY="0.35" z="8" dI="0" dr="100"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_family_xianquan">
+    <SubTexture name="images/skill/023/s023-yunwu" width="124" height="89" cocos2d_pX="62" cocos2d_pY="44.5"/>
+    <SubTexture name="images/skill/family/yq-shuihua5" width="118" height="67" cocos2d_pX="59" cocos2d_pY="33.5"/>
+    <SubTexture name="images/skill/family/yq-shuihua4" width="118" height="67" cocos2d_pX="59" cocos2d_pY="33.5"/>
+    <SubTexture name="images/skill/family/yq-shuihua3" width="118" height="67" cocos2d_pX="59" cocos2d_pY="33.5"/>
+    <SubTexture name="images/skill/family/yq-shuihua2" width="118" height="67" cocos2d_pX="59" cocos2d_pY="33.5"/>
+    <SubTexture name="images/skill/family/yq-shuihua1" width="118" height="67" cocos2d_pX="59" cocos2d_pY="33.5"/>
+    <SubTexture name="images/skill/family/yq-shuizhu5" width="44" height="105" cocos2d_pX="22" cocos2d_pY="52.5"/>
+    <SubTexture name="images/skill/family/yq-shuizhu4" width="44" height="105" cocos2d_pX="22" cocos2d_pY="52.5"/>
+    <SubTexture name="images/skill/family/yq-shuizhu3" width="44" height="105" cocos2d_pX="22" cocos2d_pY="52.5"/>
+    <SubTexture name="images/skill/family/yq-shuizhu2" width="44" height="105" cocos2d_pX="22" cocos2d_pY="52.5"/>
+    <SubTexture name="images/skill/family/yq-shuizhu1" width="44" height="105" cocos2d_pX="22" cocos2d_pY="52.5"/>
+    <SubTexture name="images/skill/family/yq-shuibo5" width="225" height="45" cocos2d_pX="112.5" cocos2d_pY="22.5"/>
+    <SubTexture name="images/skill/family/yq-shuibo4" width="225" height="45" cocos2d_pX="112.5" cocos2d_pY="22.5"/>
+    <SubTexture name="images/skill/family/yq-shuibo3" width="225" height="45" cocos2d_pX="112.5" cocos2d_pY="22.5"/>
+    <SubTexture name="images/skill/family/yq-shuibo2" width="225" height="45" cocos2d_pX="112.5" cocos2d_pY="22.5"/>
+    <SubTexture name="images/skill/family/yq-shuibo1" width="225" height="45" cocos2d_pX="112.5" cocos2d_pY="22.5"/>
+    <SubTexture name="images/skill/family/yq-shuimian" width="154" height="35" cocos2d_pX="77" cocos2d_pY="17.5"/>
+    <SubTexture name="images/ui_family/guang01" width="255" height="164" cocos2d_pX="127.15" cocos2d_pY="81.65"/>
+    <SubTexture name="images/ui_family/shi01" width="240" height="262" cocos2d_pX="119.65" cocos2d_pY="130.65"/>
+    <SubTexture name="images/ui_family/shi03" width="384" height="403" cocos2d_pX="191.65" cocos2d_pY="201.15"/>
+    <SubTexture name="images/ui_family/xianquan2" width="288" height="115" cocos2d_pX="143.65" cocos2d_pY="57.15"/>
+    <SubTexture name="images/ui_family/xianquan" width="304" height="781" cocos2d_pX="151.65" cocos2d_pY="390.15"/>
+    <SubTexture name="images/ui_family/shi02" width="145" height="181" cocos2d_pX="72.15" cocos2d_pY="90.15"/>
+    <SubTexture name="images/skill/family/bang-qi4" width="88" height="34" cocos2d_pX="44" cocos2d_pY="17"/>
+    <SubTexture name="images/skill/family/bang-qi3" width="88" height="34" cocos2d_pX="44" cocos2d_pY="17"/>
+    <SubTexture name="images/skill/family/bang-qi2" width="88" height="34" cocos2d_pX="44" cocos2d_pY="17"/>
+    <SubTexture name="images/skill/family/bang-qi1" width="88" height="34" cocos2d_pX="44" cocos2d_pY="17"/>
+    <SubTexture name="images/ui_family/dian01" width="16" height="16" cocos2d_pX="7.65" cocos2d_pY="7.65"/>
+  </TextureAtlas>
+</skeleton>

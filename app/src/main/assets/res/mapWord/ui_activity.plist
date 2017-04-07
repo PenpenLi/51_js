@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>剩余次数：</string>
+        <key>2</key>
+        <string>消耗体力：</string>
+        <key>3</key>
+        <string>消除CD</string>
+        <key>4</key>
+        <string>【金币试练】描述</string>
+        <key>7</key>
+        <string>@级后无需CD</string>
+        <key>8</key>
+        <string>一键试炼</string>
+    </dict>
+</plist>

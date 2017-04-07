@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>open</key>
+	<string>开</string>
+	<key>close</key>
+	<string>关</string>
+	<key>3</key>
+	<string>基础设置</string>
+	<key>4</key>
+	<string>音乐（@）</string>
+	<key>5</key>
+	<string>音效（@）</string>
+	<key>6</key>
+	<string>请输入兑换码:</string>
+	<key>7</key>
+	<string>录像（@）</string>
+	<key>8</key>
+	<string>绑定邮箱可领取奖励</string>
+	<key>9</key>
+	<string>邮箱可用于\\w{c=ffffff}找回密码\\，请谨慎填写</string>
+	<key>10</key>
+	<string>请输入您的邮箱</string>
+	<key>re_enter</key>
+	<string>重新登录游戏生效</string>
+	<key>12</key>
+	<string>游戏特效</string>
+	<key>13</key>
+	<string>语音（@）</string>
+</dict>
+</plist>

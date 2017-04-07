@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>del_mail</key>
+        <string>领取并删除</string>
+        <key>system</key>
+        <string>系统</string>
+        <key>write</key>
+        <string>写邮件</string>
+        <key>list_null</key>
+        <string>当前邮箱没有任何邮件</string>
+        <key>delete</key>
+        <string>删除</string>
+        <key>friend</key>
+        <string>好友</string>
+        <key>rec</key>
+        <string>回复</string>
+        <key>to</key>
+        <string>收件人：</string>
+        <key>input_limit</key>
+        <string>（还可输入@个字）</string>
+        <key>xiaoluan</key>
+        <string>小乱</string>
+        <key>welcome</key>
+        <string>主公，欢迎回来！</string>
+        <key>12</key>
+        <string>幸运占卜 </string>
+        <key>13</key>
+        <string>军团</string>
+    </dict>
+</plist>

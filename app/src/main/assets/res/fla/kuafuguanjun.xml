@@ -1,0 +1,48 @@
+<skeleton name="kuafuguanjun" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="kuafuguanjun">
+      <b name="frame">
+        <d name="images/ui_public1/di_9gong_dark3"/>
+      </b>
+      <b name="icon">
+        <d name="images/icon/head/10013"/>
+      </b>
+      <b name="图层 2">
+        <d name="images/ui_public1/shangjieguanjun"/>
+      </b>
+      <b name="图层 4">
+        <d name="images/ui_severwar/z-14"/>
+      </b>
+      <b name="图层 4 复制">
+        <d name="images/ui_severwar/z-14"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="kuafuguanjun">
+      <mov name="stand" dr="1" to="0">
+        <b name="frame" sc="1" dl="0">
+          <f x="0.5" y="1" kX="0" kY="0" cX="1.16" cY="1.17" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="icon" sc="1" dl="0">
+          <f x="0" y="1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0.85" y="-33.5" kX="0" kY="0" cX="0.81" cY="0.81" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="-0.15" y="3.5" kX="0" kY="0" cX="3.82" cY="1.21" bd="3" pX="0" pY="0" z="3" dI="0" dr="1"/>
+        </b>
+        <b name="图层 4 复制" sc="1" dl="0">
+          <f x="-0.15" y="3.5" kX="0" kY="0" cX="3.82" cY="1.21" bd="3" pX="0" pY="0" z="4" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="kuafuguanjun">
+    <SubTexture name="images/ui_severwar/z-14" width="24" height="72" cocos2d_pX="12" cocos2d_pY="36"/>
+    <SubTexture name="images/ui_public1/shangjieguanjun" width="134" height="38" cocos2d_pX="67" cocos2d_pY="19"/>
+    <SubTexture name="images/icon/head/10013" width="98" height="98" cocos2d_pX="49" cocos2d_pY="49"/>
+    <SubTexture name="images/ui_public1/di_9gong_dark3" width="84" height="84" cocos2d_pX="42" cocos2d_pY="42"/>
+  </TextureAtlas>
+</skeleton>

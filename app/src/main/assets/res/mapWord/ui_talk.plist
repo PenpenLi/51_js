@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>私聊</string>
+        <key>2</key>
+        <string>世界</string>
+        <key>3</key>
+        <string>军团</string>
+        <key>4</key>
+        <string>系统</string>
+        <key>5</key>
+        <string>发送</string>
+        <key>7</key>
+        <string>手指上滑，取消发送</string>
+        <key>8</key>
+        <string>按住说话</string>
+    </dict>
+</plist>

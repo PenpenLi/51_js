@@ -1,0 +1,200 @@
+<skeleton name="r10017_wait" frameRate="30" version="2.2">
+  <armatures>
+    <armature name="r10017_wait">
+      <b name="a17">
+        <d name="images/role/046/a17"/>
+      </b>
+      <b name="a2">
+        <d name="images/role/046/a2"/>
+      </b>
+      <b name="a16">
+        <d name="images/role/046/a16"/>
+      </b>
+      <b name="a15">
+        <d name="images/role/046/a15"/>
+      </b>
+      <b name="a14">
+        <d name="images/role/046/a14"/>
+      </b>
+      <b name="a13">
+        <d name="images/role/046/a13"/>
+      </b>
+      <b name="a11">
+        <d name="images/role/046/a11"/>
+      </b>
+      <b name="a12">
+        <d name="images/role/046/a12"/>
+      </b>
+      <b name="a130">
+        <d name="images/role/046/a13"/>
+      </b>
+      <b name="a10">
+        <d name="images/role/046/a10"/>
+      </b>
+      <b name="a9">
+        <d name="images/role/046/a9"/>
+      </b>
+      <b name="r10017_wait_1">
+        <d name="r10017_wait_1" isArmature="1"/>
+      </b>
+      <b name="a3">
+        <d name="images/role/046/a3"/>
+      </b>
+      <b name="a20">
+        <d name="images/role/046/a2"/>
+      </b>
+      <b name="a1">
+        <d name="images/role/046/a1"/>
+      </b>
+    </armature>
+    <armature name="r10017_wait_1">
+      <b name="图层 1">
+        <d name="images/role/046/a8"/>
+      </b>
+      <b name="图层 2">
+        <d name="images/role/046/a7"/>
+        <d name="images/role/046/a6"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="r10017_wait_1">
+      <mov name="stand" dr="30" to="0" drTW="30" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="46.5" y="53" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="30"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="53.6" y="54.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="18"/>
+          <f x="53.75" y="54.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" dr="3"/>
+          <f x="53.6" y="54.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="9"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="r10017_wait">
+      <mov name="stand" dr="61" to="0" drTW="61" lp="1" twE="NaN">
+        <b name="a17" sc="1" dl="0">
+          <f x="28.8" y="-146.3" kX="0" kY="-0.24" cX="1" cY="1" pX="-17.8" pY="-26" z="0" dI="0" twE="0" dr="14"/>
+          <f x="16" y="-166.45" kX="0" kY="-0.06" cX="1.05" cY="1.05" pX="-17.8" pY="-26" z="0" dI="0" twE="0" dr="15"/>
+          <f x="28.8" y="-146.3" kX="0" kY="-0.24" cX="1" cY="1" pX="-17.8" pY="-26" z="0" dI="0" twE="0" dr="15"/>
+          <f x="24" y="-169.65" kX="-32.03" kY="-32.09" cX="1.05" cY="1.05" pX="-17.8" pY="-25.9" z="0" dI="0" twE="0" dr="16"/>
+          <f x="28.8" y="-146.3" kX="0" kY="-0.24" cX="1" cY="1" pX="-17.8" pY="-26" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="a2" sc="1" dl="0">
+          <f x="56.8" y="-107.1" kX="-8.04" kY="-8.27" cX="0.86" cY="0.86" pX="-22.95" pY="-22.9" z="1" dI="0" twE="0" dr="14"/>
+          <f x="45.35" y="-125.4" kX="-30.64" kY="-30.88" cX="0.9" cY="0.9" pX="-23.1" pY="-23" z="1" dI="0" twE="0" dr="15"/>
+          <f x="56.8" y="-107.1" kX="-8.04" kY="-8.27" cX="0.86" cY="0.86" pX="-22.95" pY="-22.9" z="1" dI="0" twE="0" dr="15"/>
+          <f x="74.7" y="-150.35" kX="3.92" kY="3.68" cX="0.9" cY="0.9" pX="-23.05" pY="-23.05" z="1" dI="0" twE="0" dr="16"/>
+          <f x="56.8" y="-107.1" kX="-8.04" kY="-8.27" cX="0.86" cY="0.86" pX="-22.95" pY="-22.9" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="a16" sc="1" dl="0">
+          <f x="96.3" y="-76.55" kX="0" kY="-0.24" cX="1" cY="1" pX="-8.15" pY="9.35" z="2" dI="0" twE="0" dr="14"/>
+          <f x="96.95" y="-114.2" kX="5.74" kY="5.68" cX="1.05" cY="1.05" pX="-8.1" pY="9.35" z="2" dI="0" twE="0" dr="15"/>
+          <f x="96.3" y="-76.55" kX="0" kY="-0.24" cX="1" cY="1" pX="-8.15" pY="9.35" z="2" dI="0" twE="0" dr="15"/>
+          <f x="114.75" y="-107.4" kX="8.24" kY="8.18" cX="1.05" cY="1.05" pX="-8.15" pY="9.4" z="2" dI="0" twE="0" dr="16"/>
+          <f x="96.3" y="-76.55" kX="0" kY="-0.24" cX="1" cY="1" pX="-8.15" pY="9.35" z="2" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="a15" sc="1" dl="0">
+          <f x="27.9" y="-47.65" kX="-14.04" kY="-14.27" cX="1" cY="1" pX="-15.25" pY="-11.95" z="3" dI="0" twE="0" dr="14"/>
+          <f x="21.55" y="-60.7" kX="2.86" kY="2.62" cX="1" cY="1" pX="-15.25" pY="-11.9" z="3" dI="0" twE="0" dr="15"/>
+          <f x="27.9" y="-47.65" kX="-14.04" kY="-14.27" cX="1" cY="1" pX="-15.25" pY="-11.95" z="3" dI="0" twE="0" dr="15"/>
+          <f x="31.2" y="-60.7" kX="8.6" kY="8.35" cX="1" cY="1" pX="-15.25" pY="-11.95" z="3" dI="0" twE="0" dr="16"/>
+          <f x="27.9" y="-47.65" kX="-14.04" kY="-14.27" cX="1" cY="1" pX="-15.25" pY="-11.95" z="3" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="a14" sc="1" dl="0">
+          <f x="61.4" y="-4.2" kX="0" kY="-0.24" cX="1" cY="1" pX="6.7" pY="8.5" z="4" dI="0" twE="0" dr="14"/>
+          <f x="61.4" y="-4.2" kX="0" kY="-0.06" cX="1" cY="1" pX="6.7" pY="8.55" z="4" dI="0" twE="0" dr="15"/>
+          <f x="61.4" y="-4.2" kX="0" kY="-0.24" cX="1" cY="1" pX="6.7" pY="8.5" z="4" dI="0" twE="0" dr="15"/>
+          <f x="61.4" y="-4.2" kX="0" kY="-0.06" cX="1" cY="1" pX="6.7" pY="8.55" z="4" dI="0" twE="0" dr="16"/>
+          <f x="61.4" y="-4.2" kX="0" kY="-0.24" cX="1" cY="1" pX="6.7" pY="8.5" z="4" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="a13" sc="1" dl="0">
+          <f x="43" y="-13.65" kX="5.98" kY="5.74" cX="1" cY="1" pX="-7.9" pY="16.9" z="5" dI="0" twE="0" dr="14"/>
+          <f x="43" y="-13.65" kX="-17.85" kY="-18.1" cX="1" cY="1" pX="-8" pY="16.9" z="5" dI="0" twE="0" dr="15"/>
+          <f x="43" y="-13.65" kX="5.98" kY="5.74" cX="1" cY="1" pX="-7.9" pY="16.9" z="5" dI="0" twE="0" dr="15"/>
+          <f x="43.55" y="-11.5" kX="-4.38" kY="-4.63" cX="1" cY="1" pX="-7.85" pY="16.9" z="5" dI="0" twE="0" dr="16"/>
+          <f x="43" y="-13.65" kX="5.98" kY="5.74" cX="1" cY="1" pX="-7.9" pY="16.9" z="5" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="a11" sc="1" dl="0">
+          <f x="-76.3" y="1.2" kX="0" kY="-0.24" cX="1" cY="1" pX="-1.45" pY="8.2" z="6" dI="0" twE="0" dr="14"/>
+          <f x="-76.3" y="1.15" kX="0" kY="-0.06" cX="1" cY="1" pX="-1.45" pY="8.2" z="6" dI="0" twE="0" dr="15"/>
+          <f x="-76.3" y="1.2" kX="0" kY="-0.24" cX="1" cY="1" pX="-1.45" pY="8.2" z="6" dI="0" twE="0" dr="15"/>
+          <f x="-76.3" y="1.15" kX="0" kY="-0.06" cX="1" cY="1" pX="-1.45" pY="8.2" z="6" dI="0" twE="0" dr="16"/>
+          <f x="-76.3" y="1.2" kX="0" kY="-0.24" cX="1" cY="1" pX="-1.45" pY="8.2" z="6" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="a12" sc="1" dl="0">
+          <f x="-45.1" y="-53.5" kX="-5.73" kY="-5.97" cX="1" cY="1" pX="10.25" pY="-15.8" z="7" dI="0" twE="0" dr="14"/>
+          <f x="-55.7" y="-56.95" kX="-5.56" kY="-5.81" cX="1" cY="1" pX="10.15" pY="-15.9" z="7" dI="0" twE="0" dr="15"/>
+          <f x="-45.1" y="-53.5" kX="-5.73" kY="-5.97" cX="1" cY="1" pX="10.25" pY="-15.8" z="7" dI="0" twE="0" dr="15"/>
+          <f x="-46.05" y="-56.95" kX="-1.32" kY="-1.57" cX="1" cY="1" pX="10.2" pY="-15.8" z="7" dI="0" twE="0" dr="16"/>
+          <f x="-45.1" y="-53.5" kX="-5.73" kY="-5.97" cX="1" cY="1" pX="10.25" pY="-15.8" z="7" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="a130" sc="1" dl="0">
+          <f x="-74.65" y="-12.4" kX="35.16" kY="34.98" cX="1.05" cY="1.05" pX="-6.1" pY="13.15" z="8" dI="0" twE="0" dr="14"/>
+          <f x="-74.6" y="-13.45" kX="11.14" kY="10.91" cX="1.05" cY="1.05" pX="-6.05" pY="13.15" z="8" dI="0" twE="0" dr="15"/>
+          <f x="-74.65" y="-12.4" kX="35.16" kY="34.98" cX="1.05" cY="1.05" pX="-6.1" pY="13.15" z="8" dI="0" twE="0" dr="15"/>
+          <f x="-74.6" y="-13.45" kX="18.35" kY="18.12" cX="1.05" cY="1.05" pX="-6.05" pY="13.1" z="8" dI="0" twE="0" dr="16"/>
+          <f x="-74.65" y="-12.4" kX="35.16" kY="34.98" cX="1.05" cY="1.05" pX="-6.1" pY="13.15" z="8" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="a10" sc="1" dl="0">
+          <f x="0.15" y="-84.15" kX="0" kY="-0.24" cX="1" cY="1" pX="10.25" pY="46.4" z="9" dI="0" twE="0" dr="14"/>
+          <f x="-12.25" y="-92.65" kX="0" kY="-0.06" cX="1.1" cY="1.1" pX="10.25" pY="46.4" z="9" dI="0" twE="0" dr="15"/>
+          <f x="0.15" y="-84.15" kX="0" kY="-0.24" cX="1" cY="1" pX="10.25" pY="46.4" z="9" dI="0" twE="0" dr="15"/>
+          <f x="7.85" y="-94.8" kX="2.49" kY="2.43" cX="1.1" cY="1.1" pX="10.35" pY="46.5" z="9" dI="0" twE="0" dr="16"/>
+          <f x="0.15" y="-84.15" kX="0" kY="-0.24" cX="1" cY="1" pX="10.25" pY="46.4" z="9" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="a9" sc="1" dl="0">
+          <f x="1.1" y="-57" kX="-4.5" kY="-4.74" cX="1" cY="1" pX="11.1" pY="-9.3" z="10" dI="0" twE="0" dr="14"/>
+          <f x="-7.6" y="-65.95" kX="-7.25" kY="-7.5" cX="1.03" cY="1" pX="11.15" pY="-9.25" z="10" dI="0" twE="0" dr="15"/>
+          <f x="1.1" y="-57" kX="-4.5" kY="-4.74" cX="1" cY="1" pX="11.1" pY="-9.3" z="10" dI="0" twE="0" dr="15"/>
+          <f x="8.25" y="-67.1" kX="-0.83" kY="-1.08" cX="1.03" cY="1" pX="11.15" pY="-9.3" z="10" dI="0" twE="0" dr="16"/>
+          <f x="1.1" y="-57" kX="-4.5" kY="-4.74" cX="1" cY="1" pX="11.1" pY="-9.3" z="10" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="r10017_wait_1" sc="1" dl="0">
+          <f x="10.4" y="-141.1" kX="0" kY="-0.24" cX="1" cY="1" pX="33.1" pY="80.45" z="11" dI="0" twE="0" dr="14"/>
+          <f x="-3.65" y="-154" kX="0" kY="-0.06" cX="1" cY="1" pX="33.1" pY="80.45" z="11" dI="0" twE="0" dr="15"/>
+          <f x="10.4" y="-141.1" kX="0" kY="-0.24" cX="1" cY="1" pX="33.1" pY="80.45" z="11" dI="0" twE="0" dr="15"/>
+          <f x="23.25" y="-155.1" kX="0" kY="-0.06" cX="1" cY="1" pX="33.1" pY="80.4" z="11" dI="0" twE="0" dr="16"/>
+          <f x="10.4" y="-141.1" kX="0" kY="-0.24" cX="1" cY="1" pX="33.1" pY="80.45" z="11" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="a3" sc="1" dl="0">
+          <f x="-34.9" y="-154.3" kX="0" kY="-0.24" cX="1" cY="1" pX="34.75" pY="-9.3" z="12" dI="0" twE="0" dr="14"/>
+          <f x="-47" y="-168.3" kX="7.2" kY="7.14" cX="1.05" cY="1.05" pX="34.8" pY="-9.35" z="12" dI="0" twE="0" dr="15"/>
+          <f x="-34.9" y="-154.3" kX="0" kY="-0.24" cX="1" cY="1" pX="34.75" pY="-9.3" z="12" dI="0" twE="0" dr="15"/>
+          <f x="-33.2" y="-168.85" kX="22.2" kY="22.14" cX="1.06" cY="1.05" pX="34.8" pY="-9.35" z="12" dI="0" twE="0" dr="16"/>
+          <f x="-34.9" y="-154.3" kX="0" kY="-0.24" cX="1" cY="1" pX="34.75" pY="-9.3" z="12" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="a20" sc="1" dl="0">
+          <f x="-112.35" y="-106.45" kX="0" kY="-0.24" cX="1" cY="1" pX="-22.2" pY="-17.5" z="13" dI="0" twE="0" dr="14"/>
+          <f x="-134.2" y="-126.95" kX="-21.01" kY="-21.07" cX="1.05" cY="1.05" pX="-22.15" pY="-17.5" z="13" dI="0" twE="0" dr="15"/>
+          <f x="-112.35" y="-106.45" kX="0" kY="-0.24" cX="1" cY="1" pX="-22.2" pY="-17.5" z="13" dI="0" twE="0" dr="15"/>
+          <f x="-133.85" y="-148.2" kX="14.47" kY="14.41" cX="1.05" cY="1.05" pX="-22.15" pY="-17.45" z="13" dI="0" twE="0" dr="16"/>
+          <f x="-112.35" y="-106.45" kX="0" kY="-0.24" cX="1" cY="1" pX="-22.2" pY="-17.5" z="13" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="a1" sc="1" dl="0">
+          <f x="-67.55" y="-67" kX="0" kY="-0.24" cX="1" cY="1" pX="-17.5" pY="13.7" z="14" dI="0" twE="0" dr="14"/>
+          <f x="-77.5" y="-99.55" kX="-21.01" kY="-21.07" cX="1.05" cY="1.05" pX="-17.45" pY="13.65" z="14" dI="0" twE="0" dr="15"/>
+          <f x="-67.55" y="-67" kX="0" kY="-0.24" cX="1" cY="1" pX="-17.5" pY="13.7" z="14" dI="0" twE="0" dr="15"/>
+          <f x="-95.15" y="-96.75" kX="10.25" kY="10.19" cX="1.05" cY="1.05" pX="-17.45" pY="13.7" z="14" dI="0" twE="0" dr="16"/>
+          <f x="-67.55" y="-67" kX="0" kY="-0.24" cX="1" cY="1" pX="-17.5" pY="13.7" z="14" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="r10017_wait">
+    <SubTexture name="images/role/046/a6" width="34" height="29" cocos2d_pX="16.65" cocos2d_pY="14.5"/>
+    <SubTexture name="images/role/046/a7" width="34" height="29" cocos2d_pX="16.65" cocos2d_pY="14.5"/>
+    <SubTexture name="images/role/046/a8" width="93" height="106" cocos2d_pX="46.15" cocos2d_pY="53"/>
+    <SubTexture name="images/role/046/a1" width="86" height="62" cocos2d_pX="42.65" cocos2d_pY="31"/>
+    <SubTexture name="images/role/046/a3" width="105" height="102" cocos2d_pX="52.15" cocos2d_pY="51"/>
+    <SubTexture name="images/role/046/a9" width="134" height="69" cocos2d_pX="66.65" cocos2d_pY="34.5"/>
+    <SubTexture name="images/role/046/a10" width="133" height="155" cocos2d_pX="66.15" cocos2d_pY="77.5"/>
+    <SubTexture name="images/role/046/a12" width="36" height="45" cocos2d_pX="17.65" cocos2d_pY="22.5"/>
+    <SubTexture name="images/role/046/a11" width="28" height="20" cocos2d_pX="13.65" cocos2d_pY="10"/>
+    <SubTexture name="images/role/046/a13" width="33" height="31" cocos2d_pX="16.15" cocos2d_pY="15.5"/>
+    <SubTexture name="images/role/046/a14" width="38" height="18" cocos2d_pX="18.65" cocos2d_pY="9"/>
+    <SubTexture name="images/role/046/a15" width="43" height="36" cocos2d_pX="21.15" cocos2d_pY="18"/>
+    <SubTexture name="images/role/046/a16" width="86" height="63" cocos2d_pX="42.65" cocos2d_pY="31.5"/>
+    <SubTexture name="images/role/046/a2" width="79" height="74" cocos2d_pX="39.15" cocos2d_pY="37"/>
+    <SubTexture name="images/role/046/a17" width="68" height="72" cocos2d_pX="33.65" cocos2d_pY="36"/>
+  </TextureAtlas>
+</skeleton>

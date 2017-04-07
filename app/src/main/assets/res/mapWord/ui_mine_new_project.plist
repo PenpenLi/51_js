@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>当前挖掘深度:</string>
+        <key>2</key>
+        <string>新工程属性</string>
+        <key>3</key>
+        <string>可获得的资源</string>
+        <key>4</key>
+        <string>添加挂机工程</string>
+        <key>5</key>
+        <string>vip6工程时间缩短20%</string>
+    </dict>
+</plist>

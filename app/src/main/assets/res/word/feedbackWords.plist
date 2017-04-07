@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>历史反馈信息</string>
+        <key>2</key>
+        <string>输入反馈内容</string>
+        <key>3</key>
+        <string>（还可输入\\w{c=ff0000}@\\个字）</string>
+        <key>4</key>
+        <string>GM回复：</string>
+    </dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>卧龙窟通过</string>
+        <key>2</key>
+        <string>层</string>
+        <key>3</key>
+        <string>竞技场排名:</string>
+        <key>4</key>
+        <string>当前等级：</string>
+        <key>5</key>
+        <string>你好你好你好你</string>
+        <key>6</key>
+        <string>通过\\w{c=ffffff}@\\</string>
+        <key>7</key>
+        <string>分享微信</string>
+        <key>8</key>
+        <string>分享至微信,立即领取奖励！</string>
+    </dict>
+</plist>

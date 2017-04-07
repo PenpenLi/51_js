@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>选择要替换的天赋</string>
+        <key>2</key>
+        <string>选择要获得的天赋</string>
+        <key>3</key>
+        <string>混血</string>
+        <key>4</key>
+        <string>混血</string>
+        <key>6</key>
+        <string>替换</string>
+        <key>7</key>
+        <string>当前拥有：</string>
+        <key>9</key>
+        <string>天赋替换</string>
+    </dict>
+</plist>

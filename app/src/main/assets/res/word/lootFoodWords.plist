@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cur_rank</key>
+	<string>\\w{c=ffd954}当前排名:\\w{c=ffffff}@\\</string>
+	<key>my_food</key>
+	<string>我的粮草:@</string>
+	<key>loss_food</key>
+	<string>\\i{p=images/ui_team/warr.png;s=1.0}\\w{c=5aff00;o=000000ff,0.1}被占据后会损失粮草\\i{p=images/icon/sep_item/95005.png;s=0.35}\\w{c=5aff00;o=000000ff,0.1}@\\</string>
+	<key>lab_lv_ladder</key>
+	<string>Lv.@ - @的粮仓</string>
+	<key>lab_lv_pre</key>
+	<string>上次排名:@</string>
+	<key>next_begin_time</key>
+	<string>下次活动开启时间</string>
+	<key>loot_food_num</key>
+	<string>可占据次数：</string>
+	<key>activity_doing</key>
+	<string>活动进行中</string>
+	<key>win_get_info</key>
+	<string>战胜可得</string>
+	<key>userinfo_rank</key>
+	<string>当前排名：</string>
+	<key>userinfo_win_get</key>
+	<string>战胜可得@粮草</string>
+	<key>achi_title</key>
+	<string>成就奖励</string>
+	<key>achi_content</key>
+	<string>总粮草达到一定的值即可领取奖励</string>
+	<key>need_food_num</key>
+	<string>粮草达到@可领取</string>
+	<key>rank_name</key>
+	<string>第@名</string>
+	<key>loot_had_win</key>
+	<string>已战胜过,不可重复占据</string>
+	<key>txt_had_revenge</key>
+	<string>已复仇</string>
+	<key>tip_txt_food_info</key>
+	<string>流动粮草:@
+固定粮草:@</string>
+</dict>
+</plist>

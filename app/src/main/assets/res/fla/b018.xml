@@ -1,0 +1,34 @@
+<skeleton name="b018" frameRate="35" version="2.2">
+  <armatures>
+    <armature name="b018">
+      <b name="bg18_bg_02">
+        <d name="images/bg/018/bg18_bg_02"/>
+      </b>
+      <b name="bg18_bg_01">
+        <d name="images/bg/018/bg18_bg_01"/>
+      </b>
+      <b name="bg18_bg_010">
+        <d name="images/bg/018/bg18_bg_01"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="b018">
+      <mov name="stand" dr="1" to="0">
+        <b name="bg18_bg_02" sc="1" dl="0">
+          <f x="-0.65" y="-224.65" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="bg18_bg_01" sc="1" dl="0">
+          <f x="300.85" y="169.65" kX="0" kY="0" cX="1.05" cY="1.05" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="bg18_bg_010" sc="1" dl="0">
+          <f x="-295.35" y="169.65" kX="0" kY="180" cX="1.05" cY="1.05" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="b018">
+    <SubTexture name="images/bg/018/bg18_bg_01" width="568" height="452" cocos2d_pX="284" cocos2d_pY="226"/>
+    <SubTexture name="images/bg/018/bg18_bg_02" width="568" height="161" cocos2d_pX="284" cocos2d_pY="80.5"/>
+  </TextureAtlas>
+</skeleton>

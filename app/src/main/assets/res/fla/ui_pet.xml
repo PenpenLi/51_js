@@ -1,0 +1,266 @@
+<skeleton name="ui_pet" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="ui-lingshou-xuanzhong-2">
+      <b name="图层 1">
+        <d name="ui-lingshou-xuanzhong-2-1" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui-lingshou-xuanzhong">
+      <b name="图层 1">
+        <d name="ui-lingshou-xuanzhong-1" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui-lingshou-xuanzhong-1">
+      <b name="原">
+        <d name="ui-lingshou-xuanzhong0" isArmature="1"/>
+      </b>
+      <b name="尖">
+        <d name="ui-lingshou-xuanzhong-1-2" isArmature="1"/>
+      </b>
+      <b name="圈">
+        <d name="ui-lingshou-xuanzhong-2-1" isArmature="1"/>
+      </b>
+      <b name="尖2">
+        <d name="ui-lingshou-xuanzhong-1-2" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="ui-lingshou-xuanzhong0">
+      <b name="1">
+        <d name="images/ui_lingshou/peiyang1_1"/>
+      </b>
+      <b name="2">
+        <d name="images/ui_lingshou/peiyang1_1"/>
+      </b>
+    </armature>
+    <armature name="ui-lingshou-xuanzhong-1-2">
+      <b name="1">
+        <d name="images/ui_lingshou/peiyang1_3"/>
+      </b>
+      <b name="2">
+        <d name="images/ui_lingshou/peiyang1_3"/>
+      </b>
+      <b name="3">
+        <d name="images/ui_lingshou/peiyang1_3"/>
+      </b>
+      <b name="4">
+        <d name="images/ui_lingshou/peiyang1_3"/>
+      </b>
+    </armature>
+    <armature name="ui-lingshou-xuanzhong-2-1">
+      <b name="1">
+        <d name="images/ui_lingshou/peiyang1_2"/>
+      </b>
+      <b name="2">
+        <d name="images/ui_lingshou/peiyang1_2"/>
+      </b>
+    </armature>
+    <armature name="ui_pet_btn2">
+      <b name="Layer 4">
+        <d name="images/ui_lingshou/yun2"/>
+      </b>
+      <b name="Layer 3">
+        <d name="images/ui_word/ling_ji"/>
+      </b>
+      <b name="Layer 2">
+        <d name="images/ui_word/ling_pei"/>
+      </b>
+      <b name="Layer 1">
+        <d name="images/ui_word/ling_ji"/>
+      </b>
+    </armature>
+    <armature name="ui_pet_btn1">
+      <b name="Layer 1">
+        <d name="images/ui_lingshou/yun2"/>
+      </b>
+      <b name="Layer 2">
+        <d name="images/ui_word/ling_pei"/>
+      </b>
+      <b name="Layer 3">
+        <d name="images/ui_word/ling_ji"/>
+      </b>
+      <b name="Layer 4">
+        <d name="images/ui_word/ling_pei"/>
+      </b>
+    </armature>
+    <armature name="ui-lingshou-no-xuanzhong">
+      <b name="Layer 1">
+        <d name="images/ui_lingshou/peiyang1"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui-lingshou-xuanzhong-2">
+      <mov name="stand" dr="1" to="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui-lingshou-xuanzhong0">
+      <mov name="stand" dr="25" to="0" drTW="25" lp="1" twE="NaN">
+        <b name="1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="25"/>
+        </b>
+        <b name="2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="12">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="12">
+            <colorTransform a="0" r="0" g="0" b="0" aM="20" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui-lingshou-xuanzhong-1-2">
+      <mov name="stand" dr="25" to="0" drTW="25" lp="1" twE="NaN">
+        <b name="1" sc="1" dl="0">
+          <f x="0.9" y="19.35" kX="0" kY="0" cX="1.44" cY="1.44" pX="0.45" pY="19" z="0" dI="0" twE="0" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1" y="19.35" kX="0" kY="0" cX="1.55" cY="1.55" pX="0.5" pY="19" z="0" dI="0" twE="0" dr="18">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1" y="19.35" kX="0" kY="0" cX="1.55" cY="1.55" pX="0.5" pY="19" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="2" sc="1" dl="0">
+          <f x="0.95" y="19.35" kX="0" kY="0" cX="1.16" cY="1.16" pX="0.4" pY="19" z="1" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="45" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1" y="19.35" kX="0" kY="0" cX="1.37" cY="1.37" pX="0.55" pY="19" z="1" dI="0" twE="0" dr="10"/>
+          <f x="1" y="19.35" kX="0" kY="0" cX="1.55" cY="1.55" pX="0.5" pY="19" z="1" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1" y="19.35" kX="0" kY="0" cX="1.55" cY="1.55" pX="0.5" pY="19" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="3" sc="1" dl="0">
+          <f dr="5" dI="-1"/>
+          <f x="1" y="19.35" kX="0" kY="0" cX="1" cY="1" pX="0.5" pY="19" z="2" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1" y="19.35" kX="0" kY="0" cX="1.37" cY="1.37" pX="0.55" pY="19" z="2" dI="0" twE="0" dr="10"/>
+          <f x="1" y="19.35" kX="0" kY="0" cX="1.55" cY="1.55" pX="0.5" pY="19" z="2" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="4" sc="1" dl="0">
+          <f dr="14" dI="-1"/>
+          <f x="1" y="19.35" kX="0" kY="0" cX="1" cY="1" pX="0.5" pY="19" z="3" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1" y="19.35" kX="0" kY="0" cX="1.37" cY="1.37" pX="0.55" pY="19" z="3" dI="0" twE="0" dr="1"/>
+          <f x="0.95" y="19.35" kX="0" kY="0" cX="1.39" cY="1.39" pX="0.5" pY="19" z="3" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui-lingshou-xuanzhong-2-1">
+      <mov name="stand" dr="30" to="0" drTW="30" lp="1" twE="NaN">
+        <b name="1" sc="1" dl="0">
+          <f x="-0.65" y="27.5" kX="0" kY="0" cX="0.76" cY="0.76" pX="0" pY="0" z="0" dI="0" twE="0" dr="9"/>
+          <f x="-0.65" y="27.5" kX="0" kY="0" cX="1.31" cY="1.31" pX="0" pY="0" z="0" dI="0" twE="0" dr="15"/>
+          <f x="-0.65" y="27.5" kX="0" kY="0" cX="1.47" cY="1.47" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="5" dI="-1"/>
+        </b>
+        <b name="2" sc="1" dl="0">
+          <f dr="5" dI="-1"/>
+          <f x="-0.65" y="22" kX="0" kY="0" cX="0.58" cY="0.58" bd="8" pX="0" pY="0" z="1" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.65" y="22" kX="0" kY="0" cX="0.99" cY="0.99" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="15"/>
+          <f x="-0.65" y="22" kX="0" kY="0" cX="1.27" cY="1.27" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui-lingshou-xuanzhong-1">
+      <mov name="stand" dr="25" to="0" drTW="25" lp="1" twE="NaN">
+        <b name="原" sc="1" dl="0">
+          <f x="0.35" y="10.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="25"/>
+        </b>
+        <b name="尖" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="25"/>
+        </b>
+        <b name="圈" sc="1" dl="0">
+          <f x="0" y="-6.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="25"/>
+        </b>
+        <b name="尖2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.63" bd="8" pX="0" pY="0" z="3" dI="0" dr="25"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui-lingshou-xuanzhong">
+      <mov name="stand" dr="70" to="0" drTW="70" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="-21" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="70"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_pet_btn2">
+      <mov name="stand" dr="11" to="0" drTW="11" lp="1" twE="NaN">
+        <b name="Layer 4" sc="1" dl="0">
+          <f x="41" y="-3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="11"/>
+        </b>
+        <b name="Layer 3" sc="1" dl="0">
+          <f x="-70" y="0" kX="0" kY="0" cX="0.7" cY="0.7" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f dr="10" dI="-1"/>
+        </b>
+        <b name="Layer 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="1" dr="10"/>
+          <f x="-70" y="0" kX="0" kY="0" cX="0.7" cY="0.7" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="Layer 1" sc="1" dl="0">
+          <f dr="1" dI="-1"/>
+          <f x="-70" y="0" kX="0" kY="0" cX="0.7" cY="0.7" pX="0" pY="0" z="2" dI="0" twE="1" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui_pet_btn1">
+      <mov name="stand" dr="11" to="0" drTW="11" lp="1" twE="NaN">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="41" y="-3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="11"/>
+        </b>
+        <b name="Layer 2" sc="1" dl="0">
+          <f x="-70" y="0" kX="0" kY="0" cX="0.7" cY="0.7" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f dr="10" dI="-1"/>
+        </b>
+        <b name="Layer 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="1" dr="10"/>
+          <f x="-70" y="0" kX="0" kY="0" cX="0.7" cY="0.7" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="Layer 4" sc="1" dl="0">
+          <f dr="1" dI="-1"/>
+          <f x="-70" y="0" kX="0" kY="0" cX="0.7" cY="0.7" pX="0" pY="0" z="2" dI="0" twE="1" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ui-lingshou-no-xuanzhong">
+      <mov name="stand" dr="1" to="0">
+        <b name="Layer 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_pet">
+    <SubTexture name="images/ui_lingshou/peiyang1" width="86" height="86" cocos2d_pX="43" cocos2d_pY="43"/>
+    <SubTexture name="images/ui_word/ling_pei" width="145" height="142" cocos2d_pX="72.5" cocos2d_pY="71"/>
+    <SubTexture name="images/ui_word/ling_ji" width="145" height="142" cocos2d_pX="72.5" cocos2d_pY="71"/>
+    <SubTexture name="images/ui_lingshou/yun2" width="144" height="118" cocos2d_pX="72" cocos2d_pY="59"/>
+    <SubTexture name="images/ui_lingshou/peiyang1_2" width="91" height="21" cocos2d_pX="45.5" cocos2d_pY="10.5"/>
+    <SubTexture name="images/ui_lingshou/peiyang1_3" width="51" height="49" cocos2d_pX="25.5" cocos2d_pY="24.5"/>
+    <SubTexture name="images/ui_lingshou/peiyang1_1" width="100" height="121" cocos2d_pX="50" cocos2d_pY="60.5"/>
+  </TextureAtlas>
+</skeleton>

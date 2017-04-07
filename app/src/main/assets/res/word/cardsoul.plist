@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist>
+    <dict>
+        <key>1</key>
+        <string>4星</string>
+        <key>2</key>
+        <string>1星</string>
+        <key>3</key>
+        <string>2星</string>
+        <key>4</key>
+        <string>3星</string>
+        <key>5</key>
+        <string>英雄</string>
+        <key>6</key>
+        <string>回购</string>
+        <key>7</key>
+        <string>化魂池</string>
+        <key>8</key>
+        <string>化魂</string>
+        <key>9</key>
+        <string>回炉到初始星数</string>
+        <key>no_soulmoney</key>
+        <string>将魂不足，无法回购！</string>
+        <key>11</key>
+        <string>将英雄碎片化魂可获得将魂。每个碎片收费2元宝。整卡严禁化魂！化魂后的碎片可在回购赎回。</string>
+    </dict>
+</plist>
